@@ -1,4 +1,4 @@
 ## About
-Github page diehlpk.githug.io
+Github page diehlpk.github.io
 ## License
 The MIT License (MIT)
