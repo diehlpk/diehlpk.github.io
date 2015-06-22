@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Bulding Peridigm 1.4.1 on Ubuntu 12.04
+title: Building Peridigm 1.4.1 on Ubuntu 12.04
+tags:
+  - Building
 ---
 
 <h4>Prerequierements</h4>
