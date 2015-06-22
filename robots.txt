@@ -1,2 +1,6 @@
 User-agent: *
-Disallow: /
+Disallow: /_sass
+Disallow: /_layouts
+Disallow: /_includes
+Disallow: /css
+Disallow: /img 
