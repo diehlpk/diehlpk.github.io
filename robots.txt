@@ -1,6 +1,15 @@
 User-agent: *
-Disallow: /_sass
-Disallow: /_layouts
-Disallow: /_includes
-Disallow: /css
 Disallow: /img 
+Disallow: /css
+Disallow: /about
+Disallow: /impressum.html
+
+#Exclude following crawler
+User-agent: WebReaper
+User-agent: WebCopier
+User-agent: Offline Explorer
+User-agent: HTTrack
+User-agent: Microsoft.URL.Control
+User-agent: EmailCollector
+User-agent: penthesilea
+Disallow: /
