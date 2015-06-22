@@ -17,7 +17,7 @@ theme:
         <p>&#xA9; Patrick Diehl 2015 </p>
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "me@diehlpk.de"
   behance:
   bitbucket:
   dribbble:
