@@ -4,8 +4,7 @@ title: Building boost with OpenMPI support
 ---
 Compliling [Boost](http://www.boost.org/) with OpenMPI support needs a lot of prerequirements in the build process. Here is a shell script for installing boost with openmpi support into any local path.
 {% highlight js %}
-#!/bin/bash
-
+#!/bin/bash \
 if [ $# != 2 ]; then \
 	echo "./boostPUM VERSION INSTALL_DIR" \
 	echo "./boostPUM 1_53_0 /home/diehlpk > installs boost 1_53_0 with mpi support in /home/diehlpk" \
