@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+url: "http://diehlpk.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
@@ -16,7 +16,7 @@ theme:
   footer_text: >
         <p>&#xA9; Patrick Diehl 2015 (<a href="./impressum/index.html">Impressum</a>)</p>
   # Icons
-  rss: false
+  rss: true
   email_address: "me@diehlpk.de"
   behance:
   bitbucket:
