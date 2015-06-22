@@ -2,7 +2,7 @@ User-agent: *
 Disallow: /img 
 Disallow: /css
 Disallow: /about
-Disallow: /impressum.html
+Disallow: /impressum
 
 #Exclude following crawler
 User-agent: WebReaper
