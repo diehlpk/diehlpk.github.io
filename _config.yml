@@ -14,7 +14,7 @@ theme:
   header_text: >
   header_text_feature_image:
   footer_text: >
-        <p>&#xA9; Patrick Diehl 2015 </p>
+        <p>&#xA9; Patrick Diehl 2015 (<a href="./impressum/index.html">Impressum</a>)</p>
   # Icons
   rss: false
   email_address: "me@diehlpk.de"
