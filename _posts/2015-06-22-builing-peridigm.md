@@ -26,21 +26,21 @@ make test
 <h4>Building <a href="https://www.unidata.ucar.edu/downloads/netcdf/index.jsp">NetCDF</a> (netcdf-4.3.3.1) </h4>
 {% highlight bash %}
 # Set environment variables for MPI compilers \
-export CC=mpicc 
-export CXX=mpicxx 
-export FC=mpif90 
-export F77=mpif77 
+export CC=mpicc \
+export CXX=mpicxx \
+export FC=mpif90 \
+export F77=mpif77 \
 # Modify the following #define statements in the netcdf.h file.  Change the values to match what is given below. \
 #define NC_MAX_DIMS 65536                                                                                                     
 #define NC_MAX_ATTRS 8192                                                                                      
 #define NC_MAX_VARS 524288                                                                                                    
 #define NC_MAX_NAME 256                                                                                                       
 #define NC_MAX_VAR_DIMS 8   
-H5DIR=/home/diehl/local/hdf5-1.8.15/ 
-export CPPFLAGS="-I${H5DIR}/include" 
-export LDFLAGS=-L${H5DIR}/lib 
-# Configure NetCDF 
-CPPFLAGS="-I${H5DIR}/include" LDFLAGS=-L${H5DIR}/lib  ../configure --prefix=/home/diehl/local/netcdf-4.3.3.1/  --disable-netcdf-4 --disable-dap --enable-parallel 
+H5DIR=/home/diehl/local/hdf5-1.8.15/ \
+export CPPFLAGS="-I${H5DIR}/include" \
+export LDFLAGS=-L${H5DIR}/lib \
+# Configure NetCDF \
+CPPFLAGS="-I${H5DIR}/include" LDFLAGS=-L${H5DIR}/lib  ../configure --prefix=/home/diehl/local/netcdf-4.3.3.1/  --disable-netcdf-4 --disable-dap --enable-parallel \
 make -j 
 {% endhighlight %}
 
@@ -99,7 +99,16 @@ cmake -D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.1 \
 ..
 {% endhighlight %}
 
-<h4>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> () </h4>
+<h4>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h4>
 {% highlight bash %}
+cmake \
+-D CMAKE_BUILD_TYPE:STRING=Release \
+-D Boost_NO_SYSTEM_PATHS=ON \
+-D Trilinos_DIR:PATH=/home/diehl/local/trilinos-12.0.1/lib/cmake/Trilinos/ \
+-D CMAKE_C_COMPILER:STRING=/opt/packages/openmpi-1.7.5-gcc-4.9/bin/mpicc \
+-D CMAKE_CXX_COMPILER:STRING=/opt/packages/openmpi-1.7.5-gcc-4.9/bin/mpicxx \
+-D BOOST_ROOT=/opt/packages/boost-1.55.0-gcc-4.9-openmpi-1.7.5-gcc-4.9/ \
+-D CMAKE_CXX_FLAGS:STRING="-O2 -Wall -ansi -pedantic -Wno-long-long -ftrapv -Wno-deprecated" \
+..
 {% endhighlight %}
 
