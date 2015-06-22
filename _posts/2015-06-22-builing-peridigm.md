@@ -45,7 +45,7 @@ make -j
 {% endhighlight %}
 
 <h4>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h4>
-{% highlight cmake %}
+{% highlight bash %}
 cmake \ 
 -D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.1 \
 -D CMAKE_CXX_FLAGS:STRING="-O2 -ansi -pedantic -ftrapv -Wall -Wno-long-long" \
