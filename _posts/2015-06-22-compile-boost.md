@@ -7,7 +7,6 @@ Compiling [Boost](http://www.boost.org/) with OpenMPI support needs a lot of pre
 #!/bin/bash \
 if [ $# != 2 ]; then \
 	echo "./boostPUM VERSION INSTALL_DIR" \
-	echo "./boostPUM 1_53_0 /home/diehlpk > installs boost 1_53_0 with mpi support in /home/diehlpk" \
 else \
 	Version="$1" \
 	echo Unpacking boost \

@@ -7,7 +7,7 @@ title: Bulding Peridigm 1.4.1 on Ubuntu 12.04
 <ul>
 <li> <a href="http://www.boost.org/">Boost</a> with OpenMPI support >= 1.55.0 </li>
 <li> zlib >= 1.2.3 (Ubuntu package)</li>
-<li> curl >= 7.18.0 (Ubuntu package)</li> 
+<li> curl >= 7.18.0 (Ubuntu package)</li>
 </ul>
 
 <h4>Building <a href="https://www.hdfgroup.org/downloads/index.html">HDF5</a> (hdf5-1.8.15-patch1)</h4>
@@ -25,28 +25,28 @@ make test
 
 <h4>Building <a href="https://www.unidata.ucar.edu/downloads/netcdf/index.jsp">NetCDF</a> (netcdf-4.3.3.1) </h4>
 {% highlight bash %}
-# Set environment variables for MPI compilers \
+# Set environment variables for MPI compilers
 export CC=mpicc \
 export CXX=mpicxx \
 export FC=mpif90 \
 export F77=mpif77 \
-# Modify the following #define statements in the netcdf.h file.  Change the values to match what is given below. \
-#define NC_MAX_DIMS 65536                                                                                                     
-#define NC_MAX_ATTRS 8192                                                                                      
-#define NC_MAX_VARS 524288                                                                                                    
-#define NC_MAX_NAME 256                                                                                                       
-#define NC_MAX_VAR_DIMS 8   
+# Modify the following #define statements in the netcdf.h.
+#define NC_MAX_DIMS 65536
+#define NC_MAX_ATTRS 8192
+#define NC_MAX_VARS 524288
+#define NC_MAX_NAME 256
+#define NC_MAX_VAR_DIMS 8
 H5DIR=/home/diehl/local/hdf5-1.8.15/ \
 export CPPFLAGS="-I${H5DIR}/include" \
 export LDFLAGS=-L${H5DIR}/lib \
 # Configure NetCDF \
 CPPFLAGS="-I${H5DIR}/include" LDFLAGS=-L${H5DIR}/lib  ../configure --prefix=/home/diehl/local/netcdf-4.3.3.1/  --disable-netcdf-4 --disable-dap --enable-parallel \
-make -j 
+make -j
 {% endhighlight %}
 
 <h4>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h4>
-{% highlight bash %}
-cmake \ 
+{% highlight bash  %}
+cmake \
 -D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.1 \
 -D CMAKE_CXX_FLAGS:STRING="-O2 -ansi -pedantic -ftrapv -Wall -Wno-long-long" \
 -D CMAKE_BUILD_TYPE:STRING=RELEASE \
