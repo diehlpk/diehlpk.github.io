@@ -10,6 +10,7 @@ tags:
 <li> <a href="http://www.boost.org/">Boost</a> with OpenMPI support >= 1.55.0 </li>
 <li> zlib >= 1.2.3 (Ubuntu package)</li>
 <li> curl >= 7.18.0 (Ubuntu package)</li>
+<li> g++  >= 4.9 </li>
 </ul>
 
 <h4>Building <a href="https://www.hdfgroup.org/downloads/index.html">HDF5</a> (hdf5-1.8.15-patch1)</h4>
