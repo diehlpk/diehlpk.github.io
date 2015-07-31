@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Setup Windows for CUDA
-tags: Miscellaneous
-  -  
+tags:
+  -  Micellaneous
 ---
 Recently one researcher used my CUDA-based neighbor search lib the first
 time on a Windows machine (Windows Server 2012). He wrote me that all of
