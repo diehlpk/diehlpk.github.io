@@ -3,7 +3,6 @@ layout: post
 title: Installing HPX on Fedora 22
 tags:
 - Building
-- Fedora
 ---
 Prerequisites
 =====
@@ -32,5 +31,10 @@ For building with examples run
 cmake -DHPX_BUILD_EXAMPLES=On ..
 make -j 3 examples
 make install
+{% endhighlight %}
+Add the library path of HPX to ldconfig
+{% highlight bash  %}
+sudo echo /opt/hpx/lib > /etc/ld.so.conf.d/hpx.conf  
+sudo ldconfig
 {% endhighlight %}
 
