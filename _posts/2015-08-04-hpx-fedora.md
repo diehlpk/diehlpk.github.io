@@ -19,6 +19,7 @@ git clone https://github.com/STEllAR-GROUP/hpx.git
 {% endhighlight %}
 Configure it with CMake
 {% highlight bash  %}
+module load mpi/mpich-x86_64
 cd hpx
 mkdir build
 cd build
