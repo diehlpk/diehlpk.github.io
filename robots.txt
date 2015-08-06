@@ -12,4 +12,3 @@ User-agent: HTTrack
 User-agent: Microsoft.URL.Control
 User-agent: EmailCollector
 User-agent: penthesilea
-Disallow: /
