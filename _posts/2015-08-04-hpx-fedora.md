@@ -6,14 +6,14 @@ tags:
 ---
 Prerequisites
 =====
-Install all package for minimal installation
+Install all packages for minimal installation
 {% highlight bash %}
 sudo dnf install cmake boost-build boost boost-devel hwloc-devel hwloc gcc-gfortran papi-devel gperftools-devel docbook-dtds docbook-style-xsl libsodium-devel doxygen boost-doc hdf5-devel fop boost-devel boost-openmpi-devel boost-mpich-devel 
 {% endhighlight %}
 
 Building HPX
 =====
-Get the development branch
+Get the development branch of <a href="http://stellar.cct.lsu.edu/tag/hpx/">HPX</a>
 {% highlight bash  %}
 git clone https://github.com/STEllAR-GROUP/hpx.git
 {% endhighlight %}
