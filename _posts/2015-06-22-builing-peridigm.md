@@ -112,7 +112,7 @@ cmake \
 -D CMAKE_C_COMPILER:STRING=/opt/packages/openmpi-1.7.5-gcc-4.9/bin/mpicc \
 -D CMAKE_CXX_COMPILER:STRING=/opt/packages/openmpi-1.7.5-gcc-4.9/bin/mpicxx \
 -D BOOST_ROOT=/opt/packages/boost-1.55.0-gcc-4.9-openmpi-1.7.5-gcc-4.9/ \
--D CMAKE_CXX_FLAGS:STRING="-O2 -Wall -ansi -pedantic -Wno-long-long -ftrapv -Wno-deprecated" \
+-D CMAKE_CXX_FLAGS:STRING="-O2 -Wall -ansi -pedantic -Wno-long-long -ftrapv -Wno-deprecated -std=gnu++11" \
 ..
 {% endhighlight %}
 
