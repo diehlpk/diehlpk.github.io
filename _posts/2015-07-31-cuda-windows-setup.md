@@ -9,7 +9,7 @@ the provided examples fail with this error message
 " the launch timed out and was terminated. ".
 {% endhighlight %}
 
-Using CUDA on a Windows machine with on GPU for displaying and computing,
+Using CUDA on a Windows machine with one GPU for displaying and computing,
 restricts the run time of a cuda kernel to a short period. I think they do 
 not want that the window manager freezes. To overcome this issue for running
 long kernels edit the Windows registry
