@@ -8,13 +8,13 @@ theme:
   title: diehlpk's blog
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "Blob about GPU Programming, HPC and Fracture Mechanics" # used by search engines
+  description: "Blog about GPU HPC CUDA Fedora # used by search engines
 
   # Header and footer text
   header_text: >
   header_text_feature_image:
   footer_text: >
-        <p>&#xA9; Patrick Diehl 2015 </p>
+        <p>&#xA9; Patrick Diehl {{ site.time | date: '%Y' }} </p>
   # Icons
   rss: true
   email_address: "me@diehlpk.de"
