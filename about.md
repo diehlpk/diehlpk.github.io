@@ -10,7 +10,7 @@ I sometimes blog here about:
 <li>High Performance Computing</li>
 </ul>
 <h4>Work and Research</h4>
-Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the university of Bonn. More dtails about my <a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">reasearch</a>...
+Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the University of Bonn. More details about my <a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">reasearch</a>...
 <p>
 <p>
 <center>
