@@ -41,5 +41,5 @@ sudo ldconfig
 <p>
 Links
 <ul>
-<li><a href="https://github.com/STEllAR-GROUP/docker_build_env/blob/master/fedora_gcc/Dockerfile" > Dockerfile </a></li>
+	<li>[Dockerfile]({{ site.url }}/assets/2015-08-hpx-dockerfile)</li>
 </ul>
