@@ -1,8 +1,13 @@
 user-agent: Googlebot
 Disallow: 
+Disallow: /impressum
+Disallow: /css
+Disallow: /about
+Disallow: /documents
 User-agent: *
 Disallow: /
 Crawl-delay: 120
+Disallow: /
 Disallow: /cgi-bin/
 Disallow: /impressum/
 Disallow: /css/
