@@ -1,15 +1,11 @@
-user-agent: Googlebot
-Disallow: 
-Disallow: /impressum
-Disallow: /css
+User-Agent: Googlebot
 Disallow: /about
 Disallow: /documents
-User-agent: *
+Disallow: /impressum
+Allow: /201*
+Allow: feed.xml
+
+User-Agent: *
 Disallow: /
-Crawl-delay: 120
-Disallow: /
-Disallow: /cgi-bin/
-Disallow: /impressum/
-Disallow: /css/
-Disallow: /about/
-Disallow: /img/
+
+
