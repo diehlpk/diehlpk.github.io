@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Parallel foreach in Cuda 7.0
+title: Parallel for loop in Cuda 7.0
 tags:
   - Coding
 ---
