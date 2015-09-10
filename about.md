@@ -3,14 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-<h4>Content</h4>
-I sometimes blog here about:
-<ul>
-<li>Programming (GPU,Python)</li>
-<li>High Performance Computing</li>
-</ul>
 <h4>Work and Research</h4>
-Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the University of Bonn. More details about my <a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">reasearch</a>...
+Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the University of Bonn.<p>
+More details:
+<ul>
+	<li>
+		<a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">Work</a>
+	</li>
+</ul>
+If you like to send me a encryted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.
 <p>
 <p>
 <center>
