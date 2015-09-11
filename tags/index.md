@@ -26,7 +26,7 @@ td{
 {% assign sortedtags = tags | split:' ' | sort %}
 
 <center>
-<table style="width:75%;border:none;">
+<table style="width:50%;border:none;">
 <tr>
 {% for tag in sortedtags %}
   <td><a href="#{{ tag }}">{{ tag }}</a> </td>
