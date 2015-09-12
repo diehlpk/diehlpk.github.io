@@ -10,6 +10,9 @@ More details:
 	<li>
 		<a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">Work</a>
 	</li>
+	<li>
+	        [Publications]({{ site.url }}/assets/list.pdf)
+	</li>	
 </ul>
 If you like to send me a encryted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.
 <p>
