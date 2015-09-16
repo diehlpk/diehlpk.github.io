@@ -23,13 +23,13 @@ cd hpx
 mkdir build
 cd build
 cmake -DCMAKE_INSTALL_PREFIX=/opt/hpx ..
-make -j 3
+make -j 
 make install
 {% endhighlight %}
-For building with examples run 
+For not building the examples run 
 {% highlight bash  %}
-cmake -DHPX_BUILD_EXAMPLES=On ..
-make -j 3 examples
+cmake -DCMAKE_INSTALL_PREFIX=/opt/hpx -DHPX_BUILD_EXAMPLES=Off ..
+make -j 
 make install
 {% endhighlight %}
 Add the library path of HPX to ldconfig
