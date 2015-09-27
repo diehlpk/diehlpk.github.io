@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Impressum
+hide: true
 permalink: /impressum/
 ---
 <h3>Angaben gemäß § 5 TMG:</h3>
