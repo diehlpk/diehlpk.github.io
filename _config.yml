@@ -68,4 +68,4 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
-exclude: [Gemfile , README.md , LICENSE data]
+exclude: [Gemfile , README.md , LICENSE , data]
