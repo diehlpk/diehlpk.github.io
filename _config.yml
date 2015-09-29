@@ -16,6 +16,7 @@ theme:
   footer_text: >
         &#xA9; Patrick Diehl
   # Icons
+  tags: true
   rss: true
   email_address: "me@diehlpk.de"
   behance:
