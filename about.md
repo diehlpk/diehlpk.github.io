@@ -11,6 +11,9 @@ More details:
 		<a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">Work</a>
 	</li>
 	<li>
+	        [CV]({{ site.url }}/vita)
+	</li>	
+	<li>
 	        [Publications]({{ site.url }}/assets/list.pdf)
 	</li>	
 </ul>
