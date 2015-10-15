@@ -11,5 +11,5 @@ permalink: /vita/
 #### Experience
 * Research Assistant at the Institute for Simulation of large Systems (University of Stuttgart)
 * Research Assistant at the Institute for Numerical Simulation (University of Bonn)
-* Research Assistant at the Digitial Media Center (Lousianna State University)
+* Guest research Assistant at the Digitial Media Center (Louisiana State University)
 
