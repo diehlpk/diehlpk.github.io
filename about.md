@@ -8,7 +8,7 @@ Currently I am a PhD candidate and research assistant at the Institute for Numer
 More details:
 
 * <a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">Work</a>	
-* [CV]({{ site.url }}/vita)	
+* [Vita]({{ site.url }}/vita)	
 * [Publications]({{ site.url }}/assets/list.pdf)
 * [Projects]({{ site.url }}/projects)	
 	
