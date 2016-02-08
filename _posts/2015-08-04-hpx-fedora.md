@@ -40,5 +40,5 @@ sudo ldconfig
 <p>
 Links
 <ul>
-	<li>[Dockerfile]({{ site.url }}/assets/2015-08-hpx-dockerfile)</li>
+	<li> <a href="{{ site.url }}/assets/2015-08-hpx-dockerfile">Dockerfile</a> </li>
 </ul>
