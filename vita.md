@@ -17,7 +17,7 @@ permalink: /vita/
 		<li>Coupling of CPUs and GPUs for large simulations on hybrid cluster architectures</li>
 		<li>Optimized parallel numerical libraries</li>
 	</ul>
-<ul>
+</ul>
 
 #### Education
 
