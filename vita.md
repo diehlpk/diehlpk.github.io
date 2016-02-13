@@ -21,7 +21,7 @@ permalink: /vita/
 
 #### Education
 
-* Diploma in Computer Science, University of Stuttgart, 2013
+* Diploma in Computer Science, University of Stuttgart, 2012
 
 #### Professional Experience
 * 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart
