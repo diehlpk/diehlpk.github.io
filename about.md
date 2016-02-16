@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<h4>Work and Research</h4>
 Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the University of Bonn.
 
 * <a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">Work</a>	
