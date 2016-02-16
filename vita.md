@@ -4,7 +4,7 @@ title: Curriculum vitae
 hide: true
 permalink: /vita/
 ---
-#### Research interests
+## Research interests
 
 <ul>
 <li>Peridynamics</li>
@@ -19,14 +19,14 @@ permalink: /vita/
 	</ul>
 </ul>
 
-#### Education
+## Education
 
 * Diploma in Computer Science, University of Stuttgart, 2012
 
-#### Professional Experience
+## Professional Experience
 * 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart
 * 2013-now  Research Assistant, Institute for Numerical Simulation, University of Bonn
 
-#### Visiting positions
+## Visiting positions
 * Guest research Assistant, Center for Computation and Technology, Louisiana State University, 2015
 
