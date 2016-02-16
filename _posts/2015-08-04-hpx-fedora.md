@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing HPX on Fedora 22
+title: Installing HPX on Fedora 22/23
 tags:
 - Building
 ---
@@ -8,7 +8,7 @@ Prerequisites
 =====
 Install all packages for minimal installation
 {% highlight bash %}
-sudo dnf gcc-c++ install cmake boost-build boost boost-devel hwloc-devel hwloc gcc-gfortran papi-devel gperftools-devel docbook-dtds docbook-style-xsl libsodium-devel doxygen boost-doc fop boost-devel 
+sudo dnf install gcc-c++ cmake boost-build boost boost-devel hwloc-devel hwloc gcc-gfortran papi-devel gperftools-devel docbook-dtds docbook-style-xsl libsodium-devel doxygen boost-doc fop boost-devel 
 {% endhighlight %}
 
 Building HPX
@@ -40,5 +40,5 @@ sudo ldconfig
 <p>
 Links
 <ul>
-	<li>[Dockerfile]({{ site.url }}/assets/2015-08-hpx-dockerfile)</li>
+	<li> <a href="{{ site.url }}/assets/2015-08-hpx-dockerfile">Dockerfile</a> </li>
 </ul>

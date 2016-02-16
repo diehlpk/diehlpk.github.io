@@ -36,11 +36,11 @@ For the run time of both for loops, wee see that there is nearly no difference f
 Thus, the generation and usage of the iterator does not affect the overall computational cost.
 <p>
 <div align="center">
-<img src="{{ site.url }}/assets/2015-09-1-runtime-cuda.png"style="width:604px;height:456px;">
+<img src="{{ site.url }}/assets/2015-09-1-runtime-cuda.png" style="width:604px;height:456px;">
 </div>
 
 Links:
 <ol>
 	<li><a href="https://github.com/harrism/cpp11-range">Range-based for loops</a></li>
-	<li>[Files]({{ site.url }}/assets/2015-08-foreach.tar.gz)</li>
+	<li><a href="{{ site.url }}/assets/2015-08-foreach.tar.gz" >Files</a></li>
 </ol>

@@ -4,11 +4,10 @@ title: About
 permalink: /about/
 ---
 <h4>Work and Research</h4>
-Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the University of Bonn.<p>
-More details:
+Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the University of Bonn.
 
 * <a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">Work</a>	
-* [CV]({{ site.url }}/vita)	
+* [Vita]({{ site.url }}/vita)	
 * [Publications]({{ site.url }}/assets/list.pdf)
 * [Projects]({{ site.url }}/projects)	
 	
