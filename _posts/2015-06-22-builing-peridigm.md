@@ -5,7 +5,7 @@ tags:
   - Building
 ---
 
-<h4>Prerequierements</h4>
+<h2>Prerequierements</h2>
 <ul>
 <li> <a href="http://www.boost.org/">Boost</a> with OpenMPI support >= 1.55.0 </li>
 <li> zlib >= 1.2.3 (Ubuntu package)</li>
@@ -13,7 +13,7 @@ tags:
 <li> g++  >= 4.9 </li>
 </ul>
 
-<h4>Building <a href="https://www.hdfgroup.org/downloads/index.html">HDF5</a> (hdf5-1.8.15-patch1)</h4>
+<h2>Building <a href="https://www.hdfgroup.org/downloads/index.html">HDF5</a> (hdf5-1.8.15-patch1)</h2>
 {% highlight bash %}
 #set environment variables for MPI compilers
 export CC=mpicc \
@@ -26,7 +26,7 @@ make -j \
 make test
 {% endhighlight %}
 
-<h4>Building <a href="https://www.unidata.ucar.edu/downloads/netcdf/index.jsp">NetCDF</a> (netcdf-4.3.3.1) </h4>
+<h2>Building <a href="https://www.unidata.ucar.edu/downloads/netcdf/index.jsp">NetCDF</a> (netcdf-4.3.3.1) </h2>
 {% highlight bash %}
 # Set environment variables for MPI compilers
 export CC=mpicc \
@@ -47,7 +47,7 @@ CPPFLAGS="-I${H5DIR}/include" LDFLAGS=-L${H5DIR}/lib  ../configure --prefix=/hom
 make -j
 {% endhighlight %}
 
-<h4>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h4>
+<h2>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h2>
 {% highlight bash  %}
 cmake \
 -D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.1 \
@@ -103,7 +103,7 @@ cmake \
 ..
 {% endhighlight %}
 
-<h4>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h4>
+<h2>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h2>
 {% highlight bash %}
 cmake \
 -D CMAKE_BUILD_TYPE:STRING=Release \
