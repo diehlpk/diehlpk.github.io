@@ -5,17 +5,17 @@ tags:
   - Building
 ---
 
-<h2>Installing packages</h2>
+<h1>Installing packages</h1>
 {% highlight bash %}
 mpich-devel mpich netcdf-mpich-devel netcdf-mpich hdf5-mpich-devel hdf5-mpich netcdf-fortran-mpich-devel boost-mpich-devel boost-mpich blas-devel blas lapack-devel lapack
 {% endhighlight %}
 
-<h2>Load the mpich module</h2>
+<h1>Load the mpich module</h1>
 {% highlight bash %}
 module load mpi/mpich-x86_64
 {% endhighlight %}
 
-<h2>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h2>
+<h1>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h1>
 {% highlight bash  %}
 cmake \
 -D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.1 \
@@ -64,7 +64,7 @@ cmake \
 ..
 {% endhighlight %}
 
-<h2>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h2>
+<h1>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h1>
 {% highlight bash %}
 cmake \
 -D CMAKE_BUILD_TYPE:STRING=Release \
