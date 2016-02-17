@@ -38,7 +38,7 @@ td{
 <hr>
 
 {% for tag in sortedtags %}
-  <h4 id="{{ tag }}">{{ tag }}</h4>
+  <h2 id="{{ tag }}">{{ tag }}</h2>
   <ul>
   {% for post in site.tags[tag] %}
    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
