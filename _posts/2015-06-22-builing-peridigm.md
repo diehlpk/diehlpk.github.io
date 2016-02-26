@@ -16,34 +16,34 @@ tags:
 <h1>Building <a href="https://www.hdfgroup.org/downloads/index.html">HDF5</a> (hdf5-1.8.15-patch1)</h1>
 {% highlight bash %}
 #set environment variables for MPI compilers
-export CC=mpicc \
-export CXX=mpicxx \
-export FC=mpif90 \
-export F77=mpif77 \
-# Configure HDF5 \
-../configure --prefix=/home/diehl/local/hdf5-1.8.15/ --enable-parallel \
-make -j \
+export CC=mpicc 
+export CXX=mpicxx 
+export FC=mpif90 
+export F77=mpif77 
+# Configure HDF5 
+../configure --prefix=/home/diehl/local/hdf5-1.8.15/ --enable-parallel 
+make -j 
 make test
 {% endhighlight %}
 
 <h1>Building <a href="https://www.unidata.ucar.edu/downloads/netcdf/index.jsp">NetCDF</a> (netcdf-4.3.3.1) </h1>
 {% highlight bash %}
 # Set environment variables for MPI compilers
-export CC=mpicc \
-export CXX=mpicxx \
-export FC=mpif90 \
-export F77=mpif77 \
+export CC=mpicc 
+export CXX=mpicxx 
+export FC=mpif90 
+export F77=mpif77 
 # Modify the following #define statements in the netcdf.h.
 #define NC_MAX_DIMS 65536
 #define NC_MAX_ATTRS 8192
 #define NC_MAX_VARS 524288
 #define NC_MAX_NAME 256
 #define NC_MAX_VAR_DIMS 8
-H5DIR=/home/diehl/local/hdf5-1.8.15/ \
-export CPPFLAGS="-I${H5DIR}/include" \
-export LDFLAGS=-L${H5DIR}/lib \
-# Configure NetCDF \
-CPPFLAGS="-I${H5DIR}/include" LDFLAGS=-L${H5DIR}/lib  ../configure --prefix=/home/diehl/local/netcdf-4.3.3.1/  --disable-netcdf-4 --disable-dap --enable-parallel \
+H5DIR=/home/diehl/local/hdf5-1.8.15/ 
+export CPPFLAGS="-I${H5DIR}/include" 
+export LDFLAGS=-L${H5DIR}/lib 
+# Configure NetCDF 
+CPPFLAGS="-I${H5DIR}/include" LDFLAGS=-L${H5DIR}/lib  ../configure --prefix=/home/diehl/local/netcdf-4.3.3.1/  --disable-netcdf-4 --disable-dap --enable-parallel 
 make -j
 {% endhighlight %}
 

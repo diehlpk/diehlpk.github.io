@@ -14,14 +14,14 @@ With the release of <a href="http://devblogs.nvidia.com/parallelforall/cuda-7-re
 Without these features a for loop inside a kernel looked very confusing, because the user had to deal
 with the grid size and the block size to access an element of the data array on the device.
 {% highlight cpp %}
-__global__ void sum(int* array , int n, int* count){ \
- for (int i = blockDim.x * blockIdx.x + threadIdx.x;\
-         i < n;\
-         i += gridDim.x * blockDim.x)\
-    {\
-        atomicAdd(&(count[0]), array[i]);\
-    }\
-}\
+__global__ void sum(int* array , int n, int* count){ 
+ for (int i = blockDim.x * blockIdx.x + threadIdx.x;
+         i < n;
+         i += gridDim.x * blockDim.x)
+    {
+        atomicAdd(&(count[0]), array[i]);
+    }
+}
 {% endhighlight %} 
 With the auto specifier and the range-based for loops the kernel can be rewritten more redable and shorter.
 Here we need some additional functionality [1] to iterate over the data array, because it is not possible to use the
