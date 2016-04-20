@@ -7,7 +7,7 @@ tags:
 
 <h1>Installing packages</h1>
 {% highlight bash %}
-mpich-devel mpich netcdf-mpich-devel netcdf-mpich hdf5-mpich-devel hdf5-mpich netcdf-fortran-mpich-devel boost-mpich-devel boost-mpich blas-devel blas lapack-devel lapack
+mpich-devel mpich netcdf-mpich-devel netcdf-mpich hdf5-mpich-devel hdf5-mpich netcdf-fortran-mpich-devel boost-mpich-devel boost-mpich blas-devel blas lapack-devel lapack gcc-c++
 {% endhighlight %}
 
 <h1>Load the mpich module</h1>
