@@ -63,6 +63,12 @@ cmake \
 -D Trilinos_VERBOSE_CONFIGURE:BOOL=OFF \
 ..
 {% endhighlight %}
+After the configuration with CMake run
+{% highlight bash  %}
+make -j
+make install
+{% endhighlight %}
+to build and install Trilinos.
 
 <h1>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h1>
 {% highlight bash %}
