@@ -97,5 +97,10 @@ cmake \
 -D CMAKE_CXX_FLAGS:STRING="-O2 -Wall -ansi -pedantic -Wno-long-long -ftrapv -Wno-deprecated -std=gnu++11" \
 ..
 {% endhighlight %}
-
+Now run 
+{% highlight bash %}
+make  -j
+./src/Peridigm
+{% endhighlight %}
+to build and run Peridigm.
 
