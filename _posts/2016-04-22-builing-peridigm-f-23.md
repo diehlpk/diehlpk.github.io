@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building Peridigm 1.4.1 on Fedora 21
+title: Building Peridigm 1.4.1 on Fedora 23
 tags:
   - Building
 ---
@@ -9,17 +9,21 @@ tags:
 {% highlight bash %}
 sudo dnf mpich-devel mpich netcdf-mpich-devel netcdf-mpich hdf5-mpich-devel hdf5-mpich netcdf-fortran-mpich-devel boost-mpich-devel boost-mpich blas-devel blas lapack-devel lapack gcc-c++
 {% endhighlight %}
+{% highlight bash %}
+sudo dnf  groupinstall "X Software Development"
+{% endhighlight %}
+
 
 <h1>Load the mpich module</h1>
 {% highlight bash %}
 module load mpi/mpich-x86_64
 {% endhighlight %}
 
-<h1>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h1>
+<h1>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.6)</h1>
 {% highlight bash  %}
 mkdir build && cd build
 cmake \
--D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.1 \
+-D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.6 \
 -D CMAKE_CXX_FLAGS:STRING="-O2 -ansi -pedantic -ftrapv -Wall -Wno-long-long" \
 -D CMAKE_BUILD_TYPE:STRING=RELEASE \
 -D Trilinos_WARNINGS_AS_ERRORS_FLAGS:STRING="" \
@@ -62,6 +66,8 @@ cmake \
 -D TPL_ENABLE_Boost:BOOL=ON \
 -D CMAKE_VERBOSE_MAKEFILE:BOOL=OFF \
 -D Trilinos_VERBOSE_CONFIGURE:BOOL=OFF \
+-D Netcdf_INCLUDE_DIRS=/usr/include/mpich-x86_64/ \
+-D HDF5_INCLUDE_DIRS=/usr/include/mpich-x86_64/ \
 ..
 {% endhighlight %}
 After the configuration with CMake run
@@ -72,19 +78,24 @@ make install
 to build and install Trilinos.
 
 <h1>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h1>
+Get [Peridigm](https://github.com/peridigm/peridigm) from github
 {% highlight bash %}
-mkdir build && cd build
+git clone https://github.com/peridigm/peridigm.git
+git fetch
+git checkout release-1.4.1
+cd peridigm 
+mkdir build
+cd build
+{% endhighlight %}
+Now execute CMake in the generated build folder
+{% highlight bash %}
 cmake \
 -D CMAKE_BUILD_TYPE:STRING=Release \
--D Trilinos_DIR:PATH=/home/diehl/local/trilinos-12.0.1/lib/cmake/Trilinos/ \
+-D Trilinos_DIR:PATH=/home/diehl/local/trilinos-12.0.6/lib/cmake/Trilinos/ \
 -D CMAKE_C_COMPILER:STRING=/usr/lib64/mpich/bin/mpicc \
 -D CMAKE_CXX_COMPILER:STRING=/usr/lib64/mpich/bin/mpicxx \
 -D CMAKE_CXX_FLAGS:STRING="-O2 -Wall -ansi -pedantic -Wno-long-long -ftrapv -Wno-deprecated -std=gnu++11" \
 ..
 {% endhighlight %}
-After the configuration with CMake run
-{% highlight bash  %}
-make -j
-{% endhighlight %}
-to build Peridigm.
+
 
