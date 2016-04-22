@@ -17,6 +17,7 @@ module load mpi/mpich-x86_64
 
 <h1>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h1>
 {% highlight bash  %}
+mkdir build && cd build
 cmake \
 -D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.1 \
 -D CMAKE_CXX_FLAGS:STRING="-O2 -ansi -pedantic -ftrapv -Wall -Wno-long-long" \
@@ -72,6 +73,7 @@ to build and install Trilinos.
 
 <h1>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h1>
 {% highlight bash %}
+mkdir build && cd build
 cmake \
 -D CMAKE_BUILD_TYPE:STRING=Release \
 -D Trilinos_DIR:PATH=/home/diehl/local/trilinos-12.0.1/lib/cmake/Trilinos/ \
@@ -80,5 +82,9 @@ cmake \
 -D CMAKE_CXX_FLAGS:STRING="-O2 -Wall -ansi -pedantic -Wno-long-long -ftrapv -Wno-deprecated -std=gnu++11" \
 ..
 {% endhighlight %}
-
+After the configuration with CMake run
+{% highlight bash  %}
+make -j
+{% endhighlight %}
+to build Peridigm.
 
