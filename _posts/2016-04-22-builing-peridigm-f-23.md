@@ -104,3 +104,5 @@ make  -j
 {% endhighlight %}
 to build and run Peridigm.
 
+For a more detailed [description](http://iltabiai.github.io/peridynamics/fedora/tips/2016/04/20/Peridigm141-Fedora23.html) read [Ilyass Tabiai](https://twitter.com/joydisee)'s blog.
+
