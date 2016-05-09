@@ -3,7 +3,7 @@
 \usepackage[english]{babel}
 
 \usepackage{multibib}
-\newcites{book,talk}{{Series- and conference contributions},{Invited talks and Presentations}}
+\newcites{book,talk,poster,thesis}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses}}
 
 \usepackage{fancyhdr}
 \usepackage{color}
@@ -26,11 +26,29 @@
 
 
 \begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Proceedings
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \nocitebook{Diehl.Schweitzer:2014,Franzelin.Diehl.Pfluger:2014,Diehl.Schweitzer:2015}
 \bibliographystylebook{plain}
-\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
-\nocitetalk{Diehl:2014,Diehl:2014*3,Diehl:2013,Diehl:2014*1,Diehl:2014*2,Diehl:2013*2,Diehl:2013*1,Diehl:2015*1,Diehl:2015*2}
+\bibliographybook{publications}  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
+%Talk
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\nocitetalk{Diehl:2014,Diehl:2014*3,Diehl:2013,Diehl:2014*1,Diehl:2014*2,Diehl:2013*2,Diehl:2013*1,Diehl:2015*2}
 \bibliographystyletalk{plain}
 \bibliographytalk{publications}  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Poster
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\nociteposter{Diehl:2015*1,Diehl:2013*6}
+\bibliographystyleposter{plain}
+\bibliographyposter{publications} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Theses
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\nocitethesis{Diehl:2012}
+\bibliographystylethesis{plain}
+\bibliographythesis{publications} 
 \label{LastPage}             
 \end{document}
