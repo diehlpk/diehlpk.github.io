@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+hide: true
 ---
 Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the University of Bonn.
 
