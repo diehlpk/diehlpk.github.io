@@ -28,5 +28,5 @@ permalink: /vita/
 * 2013-now  Research Assistant, Institute for Numerical Simulation, University of Bonn
 
 ## Visiting positions
-* Guest research Assistant, Center for Computation and Technology, Louisiana State University, 2015
+* Guest Researcher, Center for Computation and Technology, Louisiana State University, 2015
 
