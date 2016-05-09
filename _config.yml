@@ -16,6 +16,7 @@ theme:
   footer_text: >
         &#xA9;
   # Icons
+  about: "About me"
   tags: true
   rss: true
   email_address: "me@diehlpk.de"
