@@ -1,5 +1,14 @@
 {% if site.theme.tags %}
 <li>
+	<a href="{{ "/about" | prepend: site.baseurl | prepend: site.url }}" title="{{ site.theme.str_about_follow }}">
+		<img src="{{ site.url }}/assets/about.png">
+	</a>
+</li>
+{% endif %}
+
+
+{% if site.theme.tags %}
+<li>
 	<a href="{{ "/tags/" | prepend: site.baseurl | prepend: site.url }}" title="{{ site.theme.str_tags_follow }}">
 		<img src="{{ site.url }}/assets/tags.png">
 	</a>
