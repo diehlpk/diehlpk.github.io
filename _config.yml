@@ -52,6 +52,7 @@ theme:
   str_prev: "Prev"
   str_continue_reading: "Continue reading"
   str_tags_follow: "Tags"
+  str_about_follow: "About me"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
