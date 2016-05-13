@@ -19,7 +19,7 @@ theme:
   about: "About me"
   tags: true
   rss: true
-  email_address: "me@diehlpk.de"
+  email_address: "me@diehlpk.de?subject=[Blog]"
   behance:
   bitbucket:
   dribbble:
