@@ -6,18 +6,14 @@ permalink: /vita/
 ---
 ## Research interests
 
-<ul>
-<li>Peridynamics</li>
-	<ul>
-		<li>Mathematical Material Science</li>
-		<li>Quantitative analysis with expermential data or classical theory</li>
-	</ul>
-<li>High Performance Computing</li>
-	<ul>
-		<li>Coupling of CPUs and GPUs for large simulations on hybrid cluster architectures</li>
-		<li>Optimized parallel numerical libraries</li>
-	</ul>
-</ul>
+	
+* Mathematical Material Science
+  - Peridynamics 
+  - Quantitative analysis with expermential data or classical theory 
+* High Performance Computing
+  - Coupling of CPUs and GPUs for large simulations on hybrid cluster architectures
+  - Optimized parallel numerical libraries
+	
 
 ## Education
 
