@@ -27,10 +27,10 @@ td{
 {% assign sortedtags = tags | split:' ' | sort %}
 
 <center>
-<table style="width:50%;border:none;">
+<table style="width: auto;border:none;">
 <tr>
 {% for tag in sortedtags %}
-  <td><a href="#{{ tag }}">{{ tag }}</a> </td>
+  <td><a href="#{{ tag }}">#{{ tag }}</a> </td>
 {% endfor %}
 </tr>
 </table>
@@ -38,7 +38,7 @@ td{
 <hr>
 
 {% for tag in sortedtags %}
-  <h2 id="{{ tag }}">{{ tag }}</h2>
+  <h2 id="{{ tag }}">#{{ tag }}</h2>
   <ul>
   {% for post in site.tags[tag] %}
    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
