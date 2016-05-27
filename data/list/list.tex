@@ -3,7 +3,7 @@
 \usepackage[english]{babel}
 
 \usepackage{multibib}
-\newcites{book,talk,poster,thesis}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses}}
+\newcites{book,talk,poster,thesis,journal}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers}}
 
 \usepackage{fancyhdr}
 \usepackage{color}
@@ -27,28 +27,35 @@
 
 \begin{document}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Journal Papers
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\nocitejournal{Diehl2016FRAC}
+\bibliographystylejournal{siam}
+\bibliographyjournal{publications}  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Proceedings
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \nocitebook{Diehl.Schweitzer:2014,Franzelin.Diehl.Pfluger:2014,Diehl.Schweitzer:2015}
-\bibliographystylebook{plain}
+\bibliographystylebook{siam}
 \bibliographybook{publications}  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
 %Talk
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \nocitetalk{Diehl:2014,Diehl:2014*3,Diehl:2013,Diehl:2014*1,Diehl:2014*2,Diehl:2013*2,Diehl:2013*1,Diehl:2015*2,Diehl:2016SIAM}
-\bibliographystyletalk{plain}
+\bibliographystyletalk{siam}
 \bibliographytalk{publications}  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Poster
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \nociteposter{Diehl:2015*1,Diehl:2013*6}
-\bibliographystyleposter{plain}
+\bibliographystyleposter{siam}
 \bibliographyposter{publications} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Theses
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \nocitethesis{Diehl:2012}
-\bibliographystylethesis{plain}
+\bibliographystylethesis{siam}
 \bibliographythesis{publications} 
 \label{LastPage}             
 \end{document}
