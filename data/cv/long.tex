@@ -1,0 +1,129 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Patrick}{Diehl}
+\title{R\'esum\'e}                               % optional, remove / comment the line if not wanted
+\address{Institute for Numerical Simulation -- Wegelerstr. 6}{53115 Bonn}{Germany}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+\phone[mobile]{+49~(176)~32311017}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
+\phone[fixed]{+49~(228)~73~3846}
+\phone[fax]{+49~(228)~73~3979}
+\email{diehl@ins.uni-bonn.de}    
+ % optional, remove / comment the line if not wanted
+\homepage{http://schweitzer.ins.uni-bonn.de/people/diehl.html}                         % optional, remove / comment the line if not wanted
+%\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
+%\social[twitter]{diehlpk}                             % optional, remove / comment the line if not wanted
+%\social[github]{diehlpk}                              % optional, remove / comment the line if not wanted
+%\social[skype]{diehlpk}
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+\usepackage{multibib}
+\newcites{book,talk}{{Proceedings},{Journal articles}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+\section{Research Interests}
+
+\cvitem{Peridynamics}{\begin{itemize}
+\item Mathematical Materials Science for Peridynamics.
+\item Quantitative analysis of Peridynamics with experimental data or elasticity theory.
+\end{itemize}}
+\cvitem{High Performance Computing}{\begin{itemize}
+\item Coupling CPUs and GPUs to run large simulations on hybrid cluster architectures.
+\item Optimized parallel numerical libraries.
+\end{itemize}}
+
+\section{Education}
+\cventry{2007--2012}{Diploma in Computer Science}{University of Stuttgart}{Germany}{\textit{2.0}}{}  % arguments 3 to 6 can be left empty
+
+\section{Master thesis}
+\cvitem{title}{\emph{Implementing Peridynamics on GPUs}}
+\cvitem{supervisors}{Prof.~Dr.~Marc~Alexander~Schweitzer}
+\cvitem{description}{In this thesis the Peridynamics, a non-local theory in continuum mechanics, with a focus on discontinuous functions as they arise in fracture mechanics, is implemented on graphics processing unit using the Compute Unified Device Architecture programming technique from Nvidia. Due to weak convergence properties of the EMU-PD discretization, massively parallel algorithm are presented to investigate large amount of particles.}
+
+\section{Professional Experience}
+\cventry{2012--2013}{Research Assistant}{Institute for Simulation of large Systems, IPVS}{University of Stuttgart}{}{}
+\cventry{2013--now}{Research Assistant}{Institute for Numerical Simulation}{University of Bonn}{}{}
+
+\section{Visiting positions}
+\cventry{2015}{Guest research Assistant}{Center for Computation and Technology}{Louisiana State University}{}{}
+
+\section{Certificates}
+\cvitem{Baden--W\"urttemberg Certificate}{Certificate for successful completion of the program in higher education pedagogy by the center for educational development of the state of Baden--W\"urttemberg.}
+\section{Most relevant publications}
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+\nocitebook{Diehl.Schweitzer:2015,Franzelin.Diehl.Pfluger:2014}
+\bibliographystylebook{plain}
+\bibliographybook{../list/publications}                   % 'publications' is the name of a BibTeX file
+\nocitetalk{Diehl2016FRAC}
+\bibliographystyletalk{plain}
+\bibliographytalk{../list/publications}                   % 'publications' is the name of a BibTeX file
+\section{Teaching experience}
+\cvitem{2013}{Laboratory: computational fluid dynamics}
+\cvitem{2013}{Assistant for the master course: scientific computing}
+\cvitem{2014}{Assistant for the bachelor course: algorithmic mathematics}
+\cvitem{2015}{Assistant for the bachelor course: linear optimization}
+
+
+\section{Programming languages}
+\begin{cvcolumns}
+ \cvcolumn{}{C/C\texttt{++}}
+ \cvcolumn{}{Cuda}
+ \cvcolumn{}{Python}
+ \cvcolumn{}{MPI}
+\end{cvcolumns}
+
+\section{Languages}
+\begin{cvcolumns}
+ \cvcolumn{German}{Native}
+ \cvcolumn{English}{Fluent}
+ \cvcolumn{Spanish}{Basics}
+\end{cvcolumns}
+
+\section{References}
+\begin{cvcolumns}
+ \cvcolumn{}{Prof.~Dr.~Marc~Alexander~Schweitzer\newline Institute for Numerical Simulation\newline University of Bonn, Germany\newline E-Mail: schweitzer@ins.uni-bonn.de}
+ \cvcolumn{}{Prof. Lipton\newline Mathematics of Materials Science \newline Louisiana State University, USA\newline E-Mail: lipton@math.lsu.edu}
+\end{cvcolumns}
+
+\end{document}
+
+
+%% end of file `template.tex'.
