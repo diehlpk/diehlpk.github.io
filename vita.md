@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum vitae
+title: Vita
 hide: true
 permalink: /vita/
 ---
