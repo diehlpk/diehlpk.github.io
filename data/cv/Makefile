@@ -6,3 +6,9 @@ short:
 
 clean:
 	latexmk -C
+
+showLong:
+	evince long.pdf &
+
+showShort:
+	evince short.pdf &
