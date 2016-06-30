@@ -63,7 +63,7 @@ theme:
   post_navigation: false
 
 # PAGINATION
-gems: [jekyll-paginate]
+gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
 paginate: 5
 paginate_path: "blog/page:num"
 
