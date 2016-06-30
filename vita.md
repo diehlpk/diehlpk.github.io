@@ -20,7 +20,7 @@ permalink: /vita/
 * Diploma in Computer Science, University of Stuttgart, 2012
 
 ## Professional Experience
-* 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart
+* 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
 * 2013-now  Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
 
 ## Visiting positions
