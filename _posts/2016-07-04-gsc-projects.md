@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Google summer of codes projects
+title: Google Summer of Codes projects
 tags:
 - Coding
 ---
-Here is a list of all the google summer of code projects I was a mentor for.
+Here is a list of all the Google Summer of Code projects I was a mentor for.
 
 * Implement a Map/Reduce Framework (2016)
 
