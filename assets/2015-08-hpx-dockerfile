@@ -3,7 +3,7 @@
 # Distributed under the Boost Software License, Version 1.0. (See accompanying
 # file LICENSE_1_0.txt or copy at http://www.boost.org/LICENSE_1_0.txt)
 
-FROM fedora:22
+FROM fedora:24
 MAINTAINER Patrick Diehl <diehl@ins.uni-bonn.de>
 # install dependencies
 RUN dnf update -y
@@ -26,7 +26,9 @@ hdf5-devel \
 fop \
 boost-devel \ 
 boost-openmpi-devel \ 
-boost-mpich-devel 
+boost-mpich-devel \
+git	\
+gcc-c++ 
 
 ENV CC gcc
 ENV CXX g++
@@ -36,3 +38,5 @@ RUN git clone https://github.com/STEllAR-GROUP/hpx.git --depth=1
 RUN mkdir build && cd build
 
 RUN cmake .. -DHPX_WITH_MALLOC=system
+
+RUN make -j 
