@@ -20,4 +20,4 @@ Blog Posts:
 
 [Using Multiconsumer-Multiproducer Model for windowing](http://aalekhnigam.tumblr.com/post/149355148447/using-multiconsumer-multiproducer-model-for)
 
-[Summing up my GSOC with Ste||ar Group](http://aalekhnigam.tumblr.com/post/149361127187/summing-up-my-gsoc-with-ste-ar-group)
+[Summing up my GSOC with Stellar Group](http://aalekhnigam.tumblr.com/post/149361127187/summing-up-my-gsoc-with-ste-ar-group)
