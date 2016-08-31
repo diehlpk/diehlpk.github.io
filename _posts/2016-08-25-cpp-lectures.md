@@ -15,10 +15,8 @@ This summer the [Stellar Group](http://stellar.cct.lsu.edu) helds a C++ Summer L
 * [C++ Lecture 7 - Fuction Objects and Bind](https://www.youtube.com/watch?v=kGPb0rfozak&index=7&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 8 - Calling Conventions and Move Semantics](https://www.youtube.com/watch?v=eWnl-eAX-mQ&index=8&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 
-Literature
-#
+# Literature
 
-C++ Lecture 1
-## 
+## C++ Lecture 1
 * Niklaus Wirth, Algorithms + Data Strucutres = Programs, Prentice-Hall, 1985 [link](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf)
 
