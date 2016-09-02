@@ -23,7 +23,7 @@ __global__ void sum(int* array , int n, int* count){
     }
 }
 {% endhighlight %} 
-With the auto specifier and the range-based for loops the kernel can be rewritten more redable and shorter.
+With the auto specifier and the range-based for loops the kernel can be rewritten more readable and shorter.
 Here we need some additional functionality [1] to iterate over the data array, because it is not possible to use the
 thrust_device_vector inside the kernel and use its iterator. The get_stride_range(0,n) function returns a iterator from
 0 to N to iterate over the data array without dealing with the grid size and block size. 

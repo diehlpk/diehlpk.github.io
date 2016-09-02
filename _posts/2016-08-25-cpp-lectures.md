@@ -4,7 +4,7 @@ title: C++ Lecture Series
 tags:
 - Coding
 ---
-This summer the [Stellar Group](http://stellar.cct.lsu.edu) helds a C++ Summer Lecture Series. The aim of these lectures is to provide more understanding of modern C++. Most new users of [HPX](http://stellar.cct.lsu.edu/tag/hpx/) get confused or frustated because of a lack in understanding the new C++ features. These talk give a introduction to the new C++ features and help to understand the concept of HPX:
+This summer the [Stellar Group](http://stellar.cct.lsu.edu) helds a C++ Summer Lecture Series. The aim of these lectures is to provide more understanding of modern C++. Most new users of [HPX](http://stellar.cct.lsu.edu/tag/hpx/) get confused or frustrated because of a lack in understanding the new C++ features. These talk give a introduction to the new C++ features and help to understand the concept of HPX:
 
 * [C++ Lecture 1 - The Standard Template Library](https://www.youtube.com/watch?v=asGZTCR53KY&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 2 - Template Programing](https://www.youtube.com/watch?v=iU3wsiJ5mts&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z&index=2)
@@ -18,5 +18,5 @@ This summer the [Stellar Group](http://stellar.cct.lsu.edu) helds a C++ Summer L
 # Literature
 
 ## C++ Lecture 1
-* Niklaus Wirth, Algorithms + Data Strucutres = Programs, Prentice-Hall, 1985 [link](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf)
+* Niklaus Wirth, Algorithms + Data Structures = Programs, Prentice-Hall, 1985 [link](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf)
 

@@ -10,5 +10,5 @@ su
 # akmods --force
 # modprobe wl
 {% endhighlight %}
-This commands checks if kmods exists for your used kernel and builds and installs wl-kmod.Thus, I was able to use the wifi with the kernel version 4.0.8 at Fedora 22.
+This commands checks if kmods exists for your used kernel and builds and installs wl-kmod.Thus, I was able to use the WiFi with the kernel version 4.0.8 at Fedora 22.
 
