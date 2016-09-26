@@ -85,3 +85,28 @@ header {
   }
 }
 
+ul {
+	list-style-position: inside;
+	margin:0px 0;
+	padding:0;
+}
+
+ul li {
+	margin: 0px;
+	padding: 0px;
+	text-indent: -2.2em;
+	margin-left: 3.4em;
+}
+
+ol {
+	list-style-position: inside;
+	margin:0px 0;
+	padding:0;
+}
+
+ol li {
+	margin: 0px;
+	padding: 0px;
+	text-indent: -2.2em;
+	margin-left: 3.4em;
+}
