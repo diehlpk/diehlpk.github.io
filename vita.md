@@ -21,7 +21,7 @@ permalink: /vita/
 
 ## Professional Experience
 * 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
-* 2013-now  Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
+* 2013-present  Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
 
 ## Visiting positions
 * Guest Researcher, Center for Computation and Technology, Louisiana State University, 2015
