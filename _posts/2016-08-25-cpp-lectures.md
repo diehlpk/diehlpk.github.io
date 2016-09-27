@@ -19,7 +19,9 @@ This summer the [Stellar Group](http://stellar.cct.lsu.edu) helds a C++ Summer L
 * [C++ Lecture 9 - Forwarding References](https://www.youtube.com/watch?v=8p0CC02pYrk&index=9&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 
 # Literature
+All source example files and the slides are available [here](https://github.com/STEllAR-GROUP/cpp_lectures_2016/tree/fdb9233301a8fa3be7fa8ce5fd1147b5cd0b1d03).
 
 ## C++ Lecture 1
 * Niklaus Wirth, Algorithms + Data Structures = Programs, Prentice-Hall, 1985 [link](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf)
+
 
