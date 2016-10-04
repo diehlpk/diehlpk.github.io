@@ -17,7 +17,7 @@ This summer the [Stellar Group](http://stellar.cct.lsu.edu) helds a C++ Summer L
 * [C++ Lecture 7 - Fuction Objects and Bind](https://www.youtube.com/watch?v=kGPb0rfozak&index=7&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 8 - Calling Conventions and Move Semantics](https://www.youtube.com/watch?v=eWnl-eAX-mQ&index=8&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 9 - Forwarding References](https://www.youtube.com/watch?v=8p0CC02pYrk&index=9&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
-
+* [C++ Lecture 10 - HPX and HPX Threading](https://www.youtube.com/watch?v=klr7-jBLMMI&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z&index=10)
 # Literature
 All source example files and the slides are available [here](https://github.com/STEllAR-GROUP/cpp_lectures_2016/tree/fdb9233301a8fa3be7fa8ce5fd1147b5cd0b1d03).
 
