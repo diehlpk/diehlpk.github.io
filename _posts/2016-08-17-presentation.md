@@ -28,7 +28,7 @@ Collection of literature, links and cheat sheets for academic presentations.
 1. As you just saw
 1. As you may recall
 1. As I mentioned earlier
-* 
+* Reference to previous topics 
 1. Coming back to the subject of
 1. Returning to
 1. I would like to pick/take up where I left off
