@@ -9,7 +9,7 @@ permalink: /vita/
 	
 * Mathematical Material Science
   - Peridynamics 
-  - Quantitative analysis with expermential data or classical theory 
+  - Quantitative analysis with experimental data or classical theory 
 * High Performance Computing
   - Coupling of CPUs and GPUs for large simulations on hybrid cluster architectures
   - Optimized parallel numerical libraries
