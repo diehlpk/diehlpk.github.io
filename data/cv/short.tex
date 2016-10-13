@@ -48,8 +48,8 @@
 % bibliography with mutiple entries
 %\usepackage{multibib}
 %\newcites{book,misc}{{Books},{Others}}
-\usepackage[style=alphabetic,backref=true,backend=biber]{biblatex}
-\bibliography{../list/publications} 
+%\usepackage[style=alphabetic,backref=true,backend=biber]{biblatex}
+%\bibliography{../list/publications} 
 %----------------------------------------------------------------------------------
 %            content
 %----------------------------------------------------------------------------------
@@ -60,18 +60,14 @@
 \makecvtitle
 
 \section{Research interests}
-\begin{cvcolumns}
- \cvcolumn{Mathematical Material Science}{\begin{itemize}
- \item Peridynamics
- \item Quantitative analysis with experimental data
- \end{itemize}}
- \cvcolumn{High Performance Computing }{
-\begin{itemize}
-\item Heterogeneous Computing 
-\item Optimized numerical libraries
-\end{itemize} 
- }
-\end{cvcolumns}
+\cvitem{Peridynamics}{\begin{itemize}
+\item Mathematical Materials Science for Peridynamics.
+\item Quantitative analysis of Peridynamics with experimental data or elasticity theory.
+\end{itemize}}
+\cvitem{High Performance Computing}{\begin{itemize}
+\item Coupling CPUs and GPUs to run large simulations on hybrid cluster architectures.
+\item Optimized parallel numerical libraries.
+\end{itemize}}
 
 \section{Education}
 \cventry{2007--2012}{Diploma (Computer Science)}{University of Stuttgart}{}{}{}  % arguments 3 to 6 can be left empty
