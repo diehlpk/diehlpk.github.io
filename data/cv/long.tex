@@ -1,23 +1,8 @@
-%% start of file `template.tex'.
-%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
-%
-% This work may be distributed and/or modified under the
-% conditions of the LaTeX Project Public License version 1.3c,
-% available at http://www.latex-project.org/lppl/.
-
-
-\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\documentclass[11pt,a4paper,sans]{moderncv}
 
 % moderncv themes
-\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
-\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
-%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
-%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
-
-% character encoding
-%\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
-%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
-
+\moderncvstyle{casual}   
+\moderncvcolor{blue}                
 % adjust the page margins
 \usepackage[scale=0.75]{geometry}
 %\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
@@ -41,25 +26,19 @@
 \photo[90pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
 %\quote{Some quote}                                 % optional, remove / comment the line if not wanted
 
-% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
-%\makeatletter
-%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
-%\makeatother
-%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
 
 % bibliography with mutiple entries
 \usepackage{multibib}
-\newcites{book,talk}{{Proceedings},{Journal articles}}
+\newcites{book,journal,talk,thesis}{{Proceedings},{Journal articles},{},{}}
 %----------------------------------------------------------------------------------
 %            content
 %----------------------------------------------------------------------------------
 \begin{document}
-%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
-%-----       resume       ---------------------------------------------------------
+
 \makecvtitle
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Research Interests}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \cvitem{Peridynamics}{\begin{itemize}
 \item Mathematical Materials Science for Peridynamics.
 \item Quantitative analysis of Peridynamics with experimental data or elasticity theory.
@@ -68,54 +47,42 @@
 \item Coupling CPUs and GPUs to run large simulations on hybrid cluster architectures.
 \item Optimized parallel numerical libraries.
 \end{itemize}}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Education}
-\cventry{2007--2012}{Diploma in Computer Science}{University of Stuttgart}{Germany}{\textit{2.0}}{}  % arguments 3 to 6 can be left empty
-
-\section{Master thesis}
-\cvitem{title}{\emph{Implementing Peridynamics on GPUs}}
-\cvitem{supervisors}{Prof.~Dr.~Marc~Alexander~Schweitzer}
-\cvitem{description}{In this thesis the Peridynamics, a non-local theory in continuum mechanics, with a focus on discontinuous functions as they arise in fracture mechanics, is implemented on graphics processing unit using the Compute Unified Device Architecture programming technique from Nvidia. Due to weak convergence properties of the EMU-PD discretization, massively parallel algorithm are presented to investigate large amount of particles.}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cventry{2012}{Diploma in Computer Science}{University of Stuttgart}{Germany}{}{}  % arguments 3 to 6 can be left empty
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Professional Experience}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \cventry{2012--2013}{Research Assistant}{Institute for Simulation of large Systems, IPVS}{University of Stuttgart}{}{}
-\cventry{2013--now}{Research Assistant}{Institute for Numerical Simulation}{University of Bonn}{}{}
-
+\cventry{2013--present}{Research Assistant}{Institute for Numerical Simulation}{University of Bonn}{}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Visiting positions}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \cventry{2015}{Guest research Assistant}{Center for Computation and Technology}{Louisiana State University}{}{}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Certificates}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \cvitem{Baden--W\"urttemberg Certificate}{Certificate for successful completion of the program in higher education pedagogy by the center for educational development of the state of Baden--W\"urttemberg.}
-\section{Most relevant publications}
-% Publications from a BibTeX file using the multibib package
-%\section{Publications}
-\nocitebook{Diehl.Schweitzer:2015,Franzelin.Diehl.Pfluger:2014}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Publications}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{../list/journal}
+\bibliographystylejournal{plain}
+\bibliographyjournal{../list/publications}  
+\nocitebook{Diehl.Schweitzer:2014,Franzelin.Diehl.Pfluger:2014,Diehl.Schweitzer:2015,heller2016}
 \bibliographystylebook{plain}
-\bibliographybook{../list/publications}                   % 'publications' is the name of a BibTeX file
-\nocitetalk{Diehl2016FRAC}
+\bibliographybook{../list/publications}                   
+                 
+\section{Invited talks and Presentations}
+\input{../list/talks}
 \bibliographystyletalk{plain}
-\bibliographytalk{../list/publications}                   % 'publications' is the name of a BibTeX file
-\section{Teaching experience}
-\cvitem{2013}{Laboratory: computational fluid dynamics}
-\cvitem{2013}{Assistant for the master course: scientific computing}
-\cvitem{2014}{Assistant for the bachelor course: algorithmic mathematics}
-\cvitem{2015}{Assistant for the bachelor course: linear optimization}
+\bibliographytalk{../list/publications}
 
-
-\section{Programming languages}
-\begin{cvcolumns}
- \cvcolumn{}{C/C\texttt{++}}
- \cvcolumn{}{Cuda}
- \cvcolumn{}{Python}
- \cvcolumn{}{MPI}
-\end{cvcolumns}
-
-\section{Languages}
-\begin{cvcolumns}
- \cvcolumn{German}{Native}
- \cvcolumn{English}{Fluent}
- \cvcolumn{Spanish}{Basics}
-\end{cvcolumns}
+\section{Thesis}
+\nocitethesis{Diehl:2012}
+\bibliographystylethesis{plain}
+\bibliographythesis{../list/publications} 
 
 \section{References}
 \begin{cvcolumns}
