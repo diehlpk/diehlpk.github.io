@@ -28,3 +28,6 @@ permalink: /vita/
 
 ## Professional Organizations
 * [Gesellschaft für Informatik](https://www.gi.de/)
+
+<br>
+For more details see [CV]({{ site.url }}/assets/cv.pdf)
