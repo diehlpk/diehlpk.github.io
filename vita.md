@@ -26,8 +26,5 @@ permalink: /vita/
 ## Visiting positions
 * Guest Researcher, Center for Computation and Technology, Louisiana State University, 2015
 
-## Professional Organizations
-* [Gesellschaft für Informatik](https://www.gi.de/)
-
 <br>
 For more details see [CV]({{ site.url }}/assets/cv.pdf)
