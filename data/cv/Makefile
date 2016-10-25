@@ -1,5 +1,5 @@
 long:
-	latexmk -pdf long.tex
+	latexmk -pdf long.tex &&  cp long.pdf ../../assets/cv.pdf
 
 short:
 	latexmk -pdf short.tex
