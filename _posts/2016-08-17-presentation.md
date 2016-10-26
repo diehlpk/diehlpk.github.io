@@ -37,3 +37,15 @@ Collection of literature, links and cheat sheets for academic presentations.
 1. I will finishing/end/conclude
 1. That brings me to my final point
 1. That brings me to the end of my presentation
+* Figures 
+1. If I can draw your attention to
+1. If I can refer to
+1. If you take a look at
+1. This (line/bar/segment) (shows/demonstrates/illustrates/indicates)
+1. As you can see from the figures
+1. If you look at the chart, you will notice that
+* Indications
+1. The reason for this trend is that
+1. As a consequence of
+1. As a result of
+1. This increase is (due to/because of)
