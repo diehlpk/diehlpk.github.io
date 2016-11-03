@@ -26,5 +26,10 @@ permalink: /vita/
 ## Visiting positions
 * Guest Researcher, Center for Computation and Technology, Louisiana State University, 2015
 
+## Academic-related Professional and Public Service
+
+### Mini-symposia Organized
+1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics  
+
 <br>
 For more details see [CV]({{ site.url }}/assets/cv.pdf)
