@@ -28,7 +28,8 @@ permalink: /vita/
 
 ## Academic-related Professional and Public Service
 
-### Mini-symposia Organized
+Mini-symposia Organized
+
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics  
 
 <br>
