@@ -13,3 +13,15 @@ _book
 # eBook build output
 *.epub
 *.mobi
+
+#latex
+*.bbl
+*.blg
+*.aux
+*.log
+*.out
+*latexmk
+*.run.xml
+
+#edito
+*.bak

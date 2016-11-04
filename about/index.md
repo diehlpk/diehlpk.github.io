@@ -15,4 +15,3 @@ If you like to send me a encryted message, you can use this key <a href="https:/
 <p>
 <p>
 <center>
-<font size="2">Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a></font></center>
