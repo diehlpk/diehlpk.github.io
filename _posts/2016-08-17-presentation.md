@@ -52,3 +52,4 @@ Collection of literature, links and cheat sheets for academic presentations.
 
 # Links
 * [What You Need to Know Before Giving a Presentation in Another Country](http://fortune.com/2016/06/28/international-presentation-tips/)
+* [Top Ten Delivery Tips for Presentations](http://www.garrreynolds.com/preso-tips/deliver/)
