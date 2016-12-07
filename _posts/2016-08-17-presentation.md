@@ -49,3 +49,6 @@ Collection of literature, links and cheat sheets for academic presentations.
 1. As a consequence of
 1. As a result of
 1. This increase is (due to/because of)
+
+# Links
+* [What You Need to Know Before Giving a Presentation in Another Country](http://fortune.com/2016/06/28/international-presentation-tips/)
