@@ -60,7 +60,9 @@ Collection of literature, links and cheat sheets for academic presentations.
 1. I'll rephrase your question
 1. If you will bear with me, I will deal with that question later on
 1. Unfortunately, I do not have enough time
-1. I would be pleased to discuss the matter with you personally afterwards.
+1. I would be pleased to discuss the matter with you personally afterwards
+
 # Links
+
 * [What You Need to Know Before Giving a Presentation in Another Country](http://fortune.com/2016/06/28/international-presentation-tips/)
 * [Top Ten Delivery Tips for Presentations](http://www.garrreynolds.com/preso-tips/deliver/)
