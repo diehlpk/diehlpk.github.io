@@ -49,7 +49,18 @@ Collection of literature, links and cheat sheets for academic presentations.
 1. As a consequence of
 1. As a result of
 1. This increase is (due to/because of)
-
+* Questions
+1. I'd be glad to answer any questions
+1. Thany you for asking that question. That's an interesting (question/point)
+1. I'm sorry, I'm not sure I understand your question
+1. If I understand you correctly, you are saying
+1. In answer to your question
+1. Does that answer your question?
+1. Would anybody else like to comment on that?
+1. I'll rephrase your question
+1. If you will bear with me, I will deal with that question later on
+1. Unfortunately, I do not have enough time
+1. I would be pleased to discuss the matter with you personally afterwards.
 # Links
 * [What You Need to Know Before Giving a Presentation in Another Country](http://fortune.com/2016/06/28/international-presentation-tips/)
 * [Top Ten Delivery Tips for Presentations](http://www.garrreynolds.com/preso-tips/deliver/)
