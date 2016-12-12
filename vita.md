@@ -26,9 +26,12 @@ permalink: /vita/
 ## Visiting positions
 * Guest Researcher, Center for Computation and Technology, Louisiana State University, 2015
 
+## Professional Organizations
+* [Society for Industrial and Apllied Mathematics](https://www.siam.org/)
+
 ## Academic-related Professional and Public Service
 
-Mini-symposia Organized
+Mini-symposia
 
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics  
 
