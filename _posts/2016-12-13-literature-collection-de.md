@@ -33,6 +33,9 @@ Eine Sammlung von ausgewählten Büchern, die ich während meines Studiums verwe
 * Uwe Schöning. Logik für Informatiker. 5. Aufl. Spektrum, 2000. ISBN 3827410053
 * Uwe Schöning. Theoretische Informatik - kurz gefasst. 5. Aufl. Spektrum. 2008. ISBN 9783827418241 
 
+## Werkstoffkunde
+* E. Hornbogen, G. Eggeler, und E. Werner. Werkstoffe - Aufbau und Eigenschaften von Keramik-, Metall-, Polymer- und Verbundwerkstoffen. Springer. 2008. ISBN 978-3-540-71857-4 [Link](http://link.springer.com/book/10.1007/978-3-540-71858-1)
+
 ## Sonstiges
 * Günter M. Ziegler. Darf ich Zahlen? Geschichten aus der Mathematik. 2. Aufl. 2014. Piper. ISBN: 9783492264822 [Link](https://www.piper.de/buecher/darf-ich-zahlen-isbn-978-3-492-26482-2)
 * H.H. Dubben und H.P. Beck-Bornholdt. Der Hund, Der Eier legt - Erkennen von Fehlinformation durch Querdenken. 5. Aufl. 2010. Rowohlt. ISBN 9783499621963 [Link](http://www.rowohlt.de/buch/Hans_Peter_Beck_Bornholdt_Der_Hund_der_Eier_legt.15062008.614884.html)
