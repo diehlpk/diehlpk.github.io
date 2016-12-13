@@ -35,6 +35,6 @@ Eine Sammlung von ausgewählten Büchern, die ich während meines Studiums verwe
 
 ## Sonstiges
 * Günter M. Ziegler. Darf ich Zahlen? Geschichten aus der Mathematik. 2. Aufl. 2014. Piper. ISBN: 9783492264822 [Link](https://www.piper.de/buecher/darf-ich-zahlen-isbn-978-3-492-26482-2)
-* Hans-Hermann Dubben und Hans-Peter Beck-Bornholdt. Der Hund, Der Eier legt - Erkennen von Fehlinformation durch Querdenken. 5. Aufl. 2010. Rowohlt. ISBN 9783499621963 [Link](http://www.rowohlt.de/buch/Hans_Peter_Beck_Bornholdt_Der_Hund_der_Eier_legt.15062008.614884.html)
+* H.H. Dubben und H.P. Beck-Bornholdt. Der Hund, Der Eier legt - Erkennen von Fehlinformation durch Querdenken. 5. Aufl. 2010. Rowohlt. ISBN 9783499621963 [Link](http://www.rowohlt.de/buch/Hans_Peter_Beck_Bornholdt_Der_Hund_der_Eier_legt.15062008.614884.html)
 * H.H. Dubben und H.P. Beck-Bornholdt. Mit an Wahrscheinlichkeit grenzender Sicherheit - Logisches Denken und Zufall. 6. Aufl. Rowohlt, 2013. ISBN 9783499619021 [Link](http://www.rowohlt.de/taschenbuch/hans-hermann-dubben-mit-an-wahrscheinlichkeit-grenzender-sicherheit.html)
 * C.N. Parkinson. Parkinsons Gesetz und andere Studien über die Verwaltung. ECON Verlag. 1992. ISBN 3430174147
