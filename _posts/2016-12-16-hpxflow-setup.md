@@ -53,7 +53,7 @@ sudo dnf install mysql-connector-c++
 git clone https://github.com/STEllAR-GROUP/hpxflow.git
 cd hpxflow
 mkdir build && cd build
-cmake -DHPX_DIR=path_to_hpx/build/lib/cmake/HPX ..
+cmake -DHPX_DIR=pathToHpx/build/lib/cmake/HPX ..
 {% highlight bash  %}
 
 # Run the map and reduce example
