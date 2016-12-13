@@ -2,7 +2,7 @@
 layout: post
 title: Submitting to Editorial Manager
 tags:
-  - Building
+  - Research
 ---
 After successfully compiled a manuscript to the Editorial Manager including PDF images,
 I like to provide some helpful comments to get your submission compiled.

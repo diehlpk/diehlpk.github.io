@@ -17,7 +17,7 @@ Eine Sammlung von ausgewählten Büchern, die ich während meines Studiums verwe
 * H.G. Hahn. Bruchmechanik: Einführung in die theoretischen Grundlagen. Teubner. 1976. ISBN: 3519023296 [Link](http://www.springer.com/de/book/9783827429483) 
 
 ## Künstliche Intelligenz
-* S. Ruseel und P. Norvig. Künstliche Intelligenz - Ein moderner Ansatz, 2. Aufl. Pearson. 204. ISBN 3827370892 [Link](https://www.pearson-studium.de/kunstliche-intelligenz.html)
+* S. Russel und P. Norvig. Künstliche Intelligenz - Ein moderner Ansatz, 2. Aufl. Pearson. 204. ISBN 3827370892 [Link](https://www.pearson-studium.de/kunstliche-intelligenz.html)
 
 ## Nichtlineare Optimierung
 * R, Reinhardt, A. Hoffmann, und T. Gerlach. Nichtlineare Optimierung - Theroie, Numerik und Experimente. Springer Spektrum, 2013, ISBN 9783827429483
