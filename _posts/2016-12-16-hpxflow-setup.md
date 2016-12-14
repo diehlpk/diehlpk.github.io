@@ -45,7 +45,7 @@ sudo dnf install mysql-connector-c++
 
 ## Prerequisites
 
-* [HPX](https://github.com/STEllAR-GROUP/hpx) For installation intrusctions for Fedora 25 see [here](http://diehlpk.github.io/2015/08/04/hpx-fedora.html) 
+* [HPX](https://github.com/STEllAR-GROUP/hpx) -- For installation intrusctions for Fedora 25 see [here](http://diehlpk.github.io/2015/08/04/hpx-fedora.html) 
 
 ## Compile hpxflow
 
