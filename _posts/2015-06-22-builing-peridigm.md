@@ -24,6 +24,7 @@ export F77=mpif77
 ../configure --prefix=/home/diehl/local/hdf5-1.8.15/ --enable-parallel 
 make -j 
 make test
+make install
 {% endhighlight %}
 
 <h1>Building <a href="https://www.unidata.ucar.edu/downloads/netcdf/index.jsp">NetCDF</a> (netcdf-4.3.3.1) </h1>
@@ -45,6 +46,7 @@ export LDFLAGS=-L${H5DIR}/lib
 # Configure NetCDF 
 CPPFLAGS="-I${H5DIR}/include" LDFLAGS=-L${H5DIR}/lib  ../configure --prefix=/home/diehl/local/netcdf-4.3.3.1/  --disable-netcdf-4 --disable-dap --enable-parallel 
 make -j
+make install
 {% endhighlight %}
 
 <h1>Building <a href="https://trilinos.org/download/">Trilinos</a> (trilinos-12.0.1)</h1>
@@ -101,6 +103,8 @@ cmake \
 -D CMAKE_VERBOSE_MAKEFILE:BOOL=OFF \
 -D Trilinos_VERBOSE_CONFIGURE:BOOL=OFF \
 ..
+make -j
+make install
 {% endhighlight %}
 
 <h1>Building <a href="https://peridigm.sandia.gov/">Peridigm</a> (1.4.1) </h1>
