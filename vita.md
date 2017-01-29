@@ -21,19 +21,19 @@ permalink: /vita/
 
 ## Professional Experience
 * 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
-* 2013-present  Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
+* 2013-2017  Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
 
 ## Visiting positions
 * Guest Researcher, Center for Computation and Technology, Louisiana State University, 2015
 
 ## Professional Organizations
-* [Society for Industrial and Apllied Mathematics](https://www.siam.org/)
+* [Society for Industrial and Applied Mathematics](https://www.siam.org/)
 
 ## Academic-related Professional and Public Service
 
 Mini-symposia
 
-1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics  
+1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
 
 <br>
 For more details see [CV]({{ site.url }}/assets/cv.pdf)
