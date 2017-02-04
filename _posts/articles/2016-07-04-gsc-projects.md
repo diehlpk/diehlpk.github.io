@@ -3,6 +3,7 @@ layout: post
 title: Google Summer of Codes projects
 categories: articles
 tags: [Coding]
+author: diehlpk
 ---
 Here is a list of all the Google Summer of Code projects I was a mentor for.
 

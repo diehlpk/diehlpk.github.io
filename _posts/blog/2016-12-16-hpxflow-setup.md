@@ -3,6 +3,7 @@ layout: post
 title: Installing HPXFLOW on Fedora 25
 categories: blog
 tags: [Building]
+author: diehlpk
 ---
 HpxFlow is a unified Batch and Stream Processing framework, over [HPX](https://github.com/STEllAR-GROUP/hpx), partially based on [Google's DataFlow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf).
 

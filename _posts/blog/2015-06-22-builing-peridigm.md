@@ -3,6 +3,7 @@ layout: post
 title: Building Peridigm 1.4.1 on Ubuntu 12.04
 categories: blog
 tags: [Building]
+author: diehlpk
 ---
 
 <h1>Prerequierements</h1>

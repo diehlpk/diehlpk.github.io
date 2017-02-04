@@ -3,6 +3,7 @@ layout: post
 title: References for Academic Presentations
 categories: articles
 tags: [Research]
+author: diehlpk
 ---
 Collection of literature, links and cheat sheets for academic presentations.
 

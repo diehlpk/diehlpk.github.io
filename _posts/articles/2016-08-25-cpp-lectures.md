@@ -3,6 +3,7 @@ layout: post
 title: C++ Lecture Series 
 categories: articles
 tags: [Coding]
+author: diehlpk
 ---
 This summer the [Stellar Group](http://stellar.cct.lsu.edu) helds a C++ Summer Lecture Series. The aim of these lectures is to provide more understanding of modern C++. Most new users of [HPX](http://stellar.cct.lsu.edu/tag/hpx/) get confused or frustrated because of a lack in understanding the new C++ features. These talk give a introduction to the new C++ features and help to understand the concept of HPX:
 

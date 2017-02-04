@@ -3,6 +3,7 @@ layout: post
 title: Building Peridigm on Ubuntu 16.04
 categories: blog
 tags: [Building]
+author: diehlpk
 ---
 
 ## Prerequierements

@@ -3,6 +3,7 @@ layout: post
 title: Collection of (text)books
 categories: articles
 tags: [Research]
+author: diehlpk
 ---
 A collection of books, which I used during my studies:
 

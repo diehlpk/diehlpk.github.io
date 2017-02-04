@@ -3,6 +3,7 @@ layout: post
 title: Building Peridigm 1.4.1 on Fedora 23
 categories: blog
 tags: [Building]
+author: diehlpk
 ---
 
 <h1>Installing packages</h1>
