@@ -7,7 +7,7 @@ excerpt:
 image:
   feature:
 search_omit: true
-sitemap: false
+sitemap: true
 ---
   
 <!-- Search form -->
