@@ -4,8 +4,8 @@ title: Sammlung von (Lehr)buecher
 categories: articles
 tags: [Research]
 author: diehlpk
---
-Eine Sammlung von ausgewaehlten Buechern, die ich waehrend meines Studiums verwendet habe:
+---
+Eine Sammlung von ausgewählten Buechern, die ich waehrend meines Studiums verwendet habe:
 
 ## Chaostheorie
 * J. Argyris, G. Faust, N. Haase, und R. Friedrich. Die Erforschung des Chaos. 2. Aufl. Springer. 2010. ISBN 978540710714 [Link](http://www.springer.com/de/book/9783540710714)
