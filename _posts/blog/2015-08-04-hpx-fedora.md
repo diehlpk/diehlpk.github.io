@@ -9,7 +9,7 @@ Prerequisites
 =====
 Install all packages for minimal installation
 {% highlight bash %}
-sudo dnf install gcc-c++ cmake boost-build boost boost-devel hwloc-devel hwloc gcc-gfortran papi-devel gperftools-devel docbook-dtds docbook-style-xsl libsodium-devel doxygen boost-doc fop boost-devel git
+sudo dnf install gcc-c++ cmake boost-build boost boost-devel hwloc-devel hwloc gcc-gfortran papi-devel gperftools-devel docbook-dtds docbook-style-xsl libsodium-devel doxygen boost-doc fop git
 {% endhighlight %}
 
 Building HPX
