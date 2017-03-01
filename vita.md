@@ -22,7 +22,7 @@ permalink: /vita/
 ## Professional Experience
 * 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
 * 2013-2017  Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
-* 2017-present Research fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal
+* 2017-present Research fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/en/))
 
 ## Visiting positions
 * Guest Researcher, Center for Computation and Technology, Louisiana State University, 2015

@@ -3,9 +3,9 @@ layout: page
 title: About
 hide: true
 ---
-Currently I am a PhD candidate and research assistant at the Institute for Numerical Simulation at the University of Bonn.
+Currently I am a research fellow at the laboratory for multiscale mechanics at Polytechnique Montreal.
 
-* <a href="http://schweitzer.ins.uni-bonn.de/people/diehl.html">Work</a>	
+* <a href="http://www.polymtl.ca/lm2/en/">Work</a>	
 * [Vita]({{ site.url }}/vita)	
 * [Publications]({{ site.url }}/assets/list.pdf) / [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en)
 * [Projects]({{ site.url }}/projects)	
