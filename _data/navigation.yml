@@ -3,11 +3,9 @@
 - title: About
   url: /about/
 
-- title: Articles
-  url: /articles/
+  #- title: Articles
+  #  url: /articles/
 
 - title: Blog
   url: /blog/
 
-- title: Search
-  url: /search/
