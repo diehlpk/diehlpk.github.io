@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Parallel for loop in Cuda 7.0
-categories: articles
+categories: blog
 tags: [Coding]
 author: diehlpk
 ---

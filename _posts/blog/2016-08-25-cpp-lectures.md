@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C++ Lecture Series 
-categories: articles
+categories: blog
 tags: [Coding]
 author: diehlpk
 ---

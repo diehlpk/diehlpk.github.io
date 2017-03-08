@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Google Summer of Codes projects
-categories: articles
+categories: blog
 tags: [Coding]
 author: diehlpk
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Collection of (text)books
-categories: articles
+categories: blog
 tags: [Research]
 author: diehlpk
 ---

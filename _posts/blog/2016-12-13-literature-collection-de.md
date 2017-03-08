@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sammlung von (Lehr)bücher
-categories: articles
+categories: blog
 tags: [Research]
 author: diehlpk
 ---

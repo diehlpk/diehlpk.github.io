@@ -1,7 +1,7 @@
 ---
 layout: post
 title: References for Academic Presentations
-categories: articles
+categories: blog
 tags: [Research]
 author: diehlpk
 ---
