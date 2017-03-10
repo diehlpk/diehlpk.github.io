@@ -81,8 +81,6 @@ Korea.
 Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en)
 
 ##### Software
-* [blender-vtk-plugin](https://github.com/diehlpk/blender-vtk-plugin) - Plugin for blender to load  a vtk unstructured grid as colorized spheres
-* [gmsh-exodus-converter](https://github.com/diehlpk/gmsh-exodus-converter) - Python script for converting the gmsh format to  the exodus II format
 * [hpxcl](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCl and Cuda within [HPX](https://github.com/STEllAR-GROUP/hpx)
 * [thesis-template](https://github.com/diehlpk/thesis-template) - LaTeX template for bachelor thesis and master thesis
 * [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code for comparision with DIC
