@@ -5,12 +5,11 @@ hide: true
 ---
 
 #### Research interests
-* Mathematical Material Science
+* Computational enginnering
   - Peridynamics 
-  - Quantitative analysis with experimental data or classical theory 
+  - Comparision of simulations with experimental data
 * High Performance Computing
-  - Coupling of CPUs and GPUs for large simulations on hybrid cluster architectures
-  - Optimized parallel numerical libraries
+  - Large simulations on hybrid cluster architectures
 
 ##### Education
 * Diploma in Computer Science, University of Stuttgart, 2012

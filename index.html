@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Latest Posts
+title: Welcome!
 excerpt: "Blog about research, linux, and higher education"
 search_omit: true
 ---
-
-<ul class="post-list">
-{% for post in site.posts limit:10 %}
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
-{% endfor %}
-</ul>
+My name is Patrick Diehl and currently I am a research fellow at the Laboratory for Multiscale Mechanics at the Polytechnique Montreal. I studied computer science at the unviserty of Stuttgart and received my diploma there. My research inerests are computational enginnering, here with the focus on the comparision of simulations with experiments, and peridynamics. Additionally I am interest in HPC for running large simulations on hybrid cluster architectures. For more details pleae refer to my [CV](http://diehlpk.github.io/cv/).   
