@@ -9,7 +9,7 @@ author: diehlpk
 
 ## Profiler
 
-A profiler is helpful to analyse your code, when your code is slow in gernal or got slower after some chnages. To profile your code and get the information how long it took to excute one line and how often this line was executed you can use a tool called [line_profiler](https://pypi.python.org/pypi/line_profiler/). For installing the tool use 
+A profiler is helpful to analyze your code, when your code is slow in general or got slower after some changes. To profile your code and get the information how long it took to execute one line and how often this line was executed you can use a tool called [line_profiler](https://pypi.python.org/pypi/line_profiler/). For installing the tool use 
 
 ```bash
 $ pip install --user line_profiler
@@ -64,4 +64,4 @@ Line #      Hits         Time  Per Hit   % Time  Line Contents
      8        41           23      0.6     11.8      if m > 0 and n > 0:
      9        41           66      1.6     33.8          return ackermann(m-1,ackermann(m,n-1))
 ```
-Here, we see e.g. that line 4 was called 90 times and all calls cost 42 time units which is 0.5 time untis for one call and this is 21.5% of the overall computation time of the code. With this information we can investigate where our code is slow and identif the bottleneck and may imrove it there, if possible.
+Here, we see e.g. that line 4 was called 90 times and all calls cost 42 time units which is 0.5 time units for one call and this is 21.5% of the overall computation time of the code. With this information we can investigate where our code is slow and identify the bottleneck and may improve it there, if possible.

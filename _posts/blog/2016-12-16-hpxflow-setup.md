@@ -8,7 +8,7 @@ author: diehlpk
 HpxFlow is a unified Batch and Stream Processing framework, over [HPX](https://github.com/STEllAR-GROUP/hpx), partially based on [Google's DataFlow Model](http://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf).
 
 
-# Installation and configureation of mariadb
+# Installation and configuration of mariadb
 
 ## Installation (Server)
 Install the mariadb server
@@ -49,7 +49,7 @@ sudo dnf install mysql-connector-c++
 
 ## Prerequisites
 
-* [HPX](https://github.com/STEllAR-GROUP/hpx) -- For installation intrusctions for Fedora 25 see [here](http://diehlpk.github.io/2015/08/04/hpx-fedora.html) 
+* [HPX](https://github.com/STEllAR-GROUP/hpx) -- For installation instructions for Fedora 25 see [here](http://diehlpk.github.io/2015/08/04/hpx-fedora.html) 
 
 ## Compile hpxflow
 

@@ -6,7 +6,7 @@ tags: [Building]
 author: diehlpk
 ---
 
-<h1>Prerequierements</h1>
+<h1>Requirements</h1>
 <ul>
 <li> <a href="http://www.boost.org/">Boost</a> with OpenMPI support >= 1.55.0 </li>
 <li> zlib >= 1.2.3 (Ubuntu package)</li>

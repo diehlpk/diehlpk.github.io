@@ -7,7 +7,7 @@ author: diehlpk
 ---
 A collection of books, which I used during my studies:
 
-## Continnum mechanics
+## Continuum mechanics
 * Continuum mechanics and theory of materials. P. Haupt. Springer. 2001. ISBN 14392674 [link](http://www.springer.com/de/book/9783540431114)
 
 ## Finite Elements

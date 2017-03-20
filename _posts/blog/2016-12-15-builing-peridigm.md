@@ -6,7 +6,7 @@ tags: [Building]
 author: diehlpk
 ---
 
-## Prerequierements
+## Requirements
 
 * zlib  (Ubuntu package)
 * curl (Ubuntu package)

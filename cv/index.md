@@ -5,9 +5,9 @@ hide: true
 ---
 
 #### Research interests
-* Computational enginnering
+* Computational engineering
   - Peridynamics 
-  - Comparision of simulations with experimental data
+  - Comparison of simulations with experimental data
 * High Performance Computing
   - Large simulations on hybrid cluster architectures
 
@@ -55,7 +55,7 @@ Applications. Particles 2013, 18.09-20.09 2013, Stuttgart, Germany.
 4. -- , Simulation of wave propagation and impact damage in brittle materials using the
 peridynamics technique. 11th. World Congress on Computational Mechanics (WCCM XI),
 20.07-25.07 2014, Barcelona, Spain.
-5. -- , Sensivity study for wave propagation and impact damage in brittle materials using
+5. -- , Sensitivity study for wave propagation and impact damage in brittle materials using
 peridynamics. ASME International mechanical Engineering Congress and Exposition,
 14.11-20.11 2014, Montreal, Canada.
 6. -- , Efficient particle-based simulation of dynamic cracks and fractures in ceramic material. GPU Technology Conference 2014, 24.03-27.03 2014, San Francisco, US.
@@ -81,9 +81,9 @@ Korea.
 Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en)
 
 ##### Software
-* [hpxcl](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCl and Cuda within [HPX](https://github.com/STEllAR-GROUP/hpx)
+* [hpxcl](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCL and CUDA within [HPX](https://github.com/STEllAR-GROUP/hpx)
 * [thesis-template](https://github.com/diehlpk/thesis-template) - LaTeX template for bachelor thesis and master thesis
-* [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code for comparision with DIC
+* [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code for comparison with DIC
 
 ##### Academic-related Professional and Public Service
 
@@ -98,7 +98,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](
 My [CV]({{ site.url }}/assets/cv.pdf) is also available as a PDF file.
 	
 
-If you like to <a href="mailto:me@diehlpk.de?subject=[Blog]">send</a> me a encryted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.
+If you like to <a href="mailto:me@diehlpk.de?subject=[Blog]">send</a> me a encrypted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.
 <p>
 <p>
 <center>
