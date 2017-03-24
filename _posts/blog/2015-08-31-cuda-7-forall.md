@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Parallel for loop in Cuda 7.0
+title: Parallel for loop in CUDA 7.0
 categories: blog
 tags: [Coding]
 author: diehlpk
 ---
-With the release of <a href="http://devblogs.nvidia.com/parallelforall/cuda-7-release-candidate-feature-overview/"> CUDA 7.0</a> a subset of CP++11 features are available inside of Cuda kernels. These features are
+With the release of <a href="http://devblogs.nvidia.com/parallelforall/cuda-7-release-candidate-feature-overview/"> CUDA 7.0</a> a subset of CP++11 features are available inside of CUDA kernels. These features are
 <p><p>
 <ul>
 	<li><a href="http://en.cppreference.com/w/cpp/language/auto">Auto specifier</a></li>

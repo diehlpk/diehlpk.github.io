@@ -15,7 +15,7 @@ This summer the [Stellar Group](http://stellar.cct.lsu.edu) holds a C++ Summer L
 * [C++ Lecture 4 - Template Meta Programming](https://www.youtube.com/watch?v=6PWUByLZO0g&index=4&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 5 - SFINAE ](https://www.youtube.com/watch?v=r8rH8k67AzQ&index=5&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 6 - Function Objects](https://www.youtube.com/watch?v=yZFBA7aqOec&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z&index=6)
-* [C++ Lecture 7 - Fuction Objects and Bind](https://www.youtube.com/watch?v=kGPb0rfozak&index=7&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
+* [C++ Lecture 7 - Function Objects and Bind](https://www.youtube.com/watch?v=kGPb0rfozak&index=7&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 8 - Calling Conventions and Move Semantics](https://www.youtube.com/watch?v=eWnl-eAX-mQ&index=8&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 9 - Forwarding References](https://www.youtube.com/watch?v=8p0CC02pYrk&index=9&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z)
 * [C++ Lecture 10 - HPX and HPX Threading](https://www.youtube.com/watch?v=klr7-jBLMMI&list=PL7vEgTL3FalY2eBxud1wsfz8OKvE9sd_z&index=10)
