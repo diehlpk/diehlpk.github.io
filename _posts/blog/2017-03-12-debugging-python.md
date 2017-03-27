@@ -65,3 +65,46 @@ Line #      Hits         Time  Per Hit   % Time  Line Contents
      9        41           66      1.6     33.8          return ackermann(m-1,ackermann(m,n-1))
 ```
 Here, we see e.g. that line 4 was called 90 times and all calls cost 42 time units which is 0.5 time units for one call and this is 21.5% of the overall computation time of the code. With this information we can investigate where our code is slow and identify the bottleneck and may improve it there, if possible.
+
+## Memory
+With this [memory_profiler](https://pypi.python.org/pypi/memory_profiler) the meomry consumption of each object can be analyzed. For installing the tool use 
+
+
+```bash
+pip install --user memory_profiler
+```
+
+For analyzing the memory consumption of the function `allocate` in the file `memory.py` 
+
+```python
+import numpy as np
+
+@profile
+def allocate():
+        n = 100
+        a = np.zeros((1000))
+        b = np.zeros((1000,1000))
+        np.dot(a,b)
+        
+allocate()
+```
+
+run following command
+
+```bash
+python -m memory_profiler memory.py
+```
+
+which yields
+
+```bash
+Line #    Mem usage    Increment   Line Contents
+================================================
+     3   26.020 MiB    0.000 MiB   @profile
+     4                             def allocate():
+     5   26.020 MiB    0.000 MiB   	n = 100
+     6   26.020 MiB    0.000 MiB   	a = np.zeros((1000))
+     7   26.020 MiB    0.000 MiB   	b = np.zeros((1000,1000))
+     8   26.324 MiB    0.305 MiB   	np.dot(a,b)
+```
+
