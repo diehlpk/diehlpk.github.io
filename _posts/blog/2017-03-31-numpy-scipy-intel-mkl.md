@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Install scipy and numpy with intel_mkl on Fedora 25
+title: Install scipy and numpy with intel_mkl
 categories: blog
 tags: [Coding]
 author: diehlpk
