@@ -4,6 +4,8 @@ title: CV
 hide: true
 ---
 
+{% bibliography -q @article %}
+
 #### Research interests
 * Computational engineering
   - Peridynamics 
