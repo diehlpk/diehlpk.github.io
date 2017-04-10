@@ -43,6 +43,9 @@ pp. 115–143.
 Performance Gap with Modern C++, in High Performance Computing: ISC High Performance 2016 International Workshops, ExaComm, E-MuCoCoS, HPC-IODC, IXPUG,
 IWOPH, P3 MA, VHPC, WOPSSS, Frankfurt, Germany, June 19–23, 2016, Revised Selected Papers, M. Taufer, B. Mohr, and J. M. Kunkel, eds., vol. 9945 of Lecture Notes in
 Computer Science, Springer International Publishing, 2016, pp. 18–31.
+5. P. Diehl, M. Bußler, D. Pflüger, S. Frey, T. Ertl, F. Sadlo, and M. A.
+Schweitzer, Extraction of Fragments and Waves After Impact Damage in Particle-Based
+Simulations, Springer International Publishing, Cham, 2017, pp. 17–34.
 
 #### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
