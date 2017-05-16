@@ -31,8 +31,7 @@ export PATH=/home/diehl/local/openmpi-2.0.1/bin/:$PATH
 
 ## Bullding [Boost](http://www.boost.org/users/download/) 1.62.0
 {% highlight bash %}
-mkdir build && cd build
-echo "using mpi ;" >> project-config.jam
+echo "using mpi ;" >> user-config.jam
 ./bootstrap.sh --prefix=/home/diehl/local/boost-1.62
 ./b2 --layout=tagged -j 
 ./b2 install
