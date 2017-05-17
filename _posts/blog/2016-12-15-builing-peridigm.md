@@ -10,6 +10,8 @@ author: diehlpk
 
 * zlib  (Ubuntu package)
 * curl (Ubuntu package)
+* libblas-dev (Ubuntu package)
+* liblapack-dev (Ubuntu package)
 
 ## Bulding [OpenMPI](http://www.open-mpi.de/software/ompi/v2.0/) 2.0.1
 {% highlight bash %}
@@ -115,6 +117,7 @@ cmake \
 -D Boost_LIBRARY_DIRS:PATH="/home/diehl/local/boost-1-62/lib" \
 -D CMAKE_VERBOSE_MAKEFILE:BOOL=OFF \
 -D Trilinos_VERBOSE_CONFIGURE:BOOL=OFF \
+-D Trilinos_ENABLE_TESTS=OFF \
 ..
 make -j
 make install
