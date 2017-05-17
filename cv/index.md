@@ -10,6 +10,7 @@ hide: true
   - Comparison of simulations with experimental data
 * High Performance Computing
   - Large simulations on hybrid cluster architectures
+  - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
 
 ##### Education
 * Diploma in Computer Science, University of Stuttgart, 2012
