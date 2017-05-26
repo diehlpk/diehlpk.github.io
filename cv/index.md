@@ -91,9 +91,13 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](
 
 ##### Academic-related Professional and Public Service
 
-###### Mini-symposia
+###### Mini-symposia organized
 
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
+
+##### Reviewer for
+
+* International Journal of Mechanical Sciences
 
 ##### Professional Organizations
 * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
