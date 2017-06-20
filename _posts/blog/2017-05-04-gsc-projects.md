@@ -5,7 +5,7 @@ categories: blog
 tags: [Coding]
 author: diehlpk
 ---
-Here is a list of all the Google Summer of Code projects I was a mentor for.
+Here is a list of all the Google Summer of Code projects I mentored.
 
 ## [HPXCL](https://github.com/STEllAR-GROUP/hpxcl) – Asynchronous Integration of CUDA and OpenCL to [HPX](https://github.com/STEllAR-GROUP/hpx) (2017)
 
@@ -22,6 +22,7 @@ Appropriate tests are also to be written to ensure necessary functionality perfo
 Standard benchmarking algorithms (Floyd Warshall, FFT etc.) will also be implemented in HPXCL, OpenCL and CUDA to validate, 
 measure and improve the performance of the existing system, while also keeping in mind the new functionality added.
 
+[Collection of blog posts](https://madhavan001.github.io/)
 
 ## Implement a Map/Reduce Framework (2016)
 
