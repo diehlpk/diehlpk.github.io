@@ -25,10 +25,11 @@ hide: true
 ##### Publications
 
 ###### Journal articles 
-1.  P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture,
+1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A.
+Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graph-
+ics, 67 (2017), pp. 45–57.
+1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture,
 2 (2016), pp. 157–170.
-2. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A.
-Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, (2017).
 
 ###### Series- and conference contributions
 1. P. Diehl and M. A. Schweitzer, Efficient neighbor search for particle methods on
