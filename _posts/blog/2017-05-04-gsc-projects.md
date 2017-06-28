@@ -22,7 +22,9 @@ Appropriate tests are also to be written to ensure necessary functionality perfo
 Standard benchmarking algorithms (Floyd Warshall, FFT etc.) will also be implemented in HPXCL, OpenCL and CUDA to validate, 
 measure and improve the performance of the existing system, while also keeping in mind the new functionality added.
 
-[Collection of blog posts](https://madhavan001.github.io/)
+Blog posts:
+
+* [Benchmarks Accelerator Devices](https://madhavan001.github.io/Benchmarks-accelerator-devices/)
 
 ## Implement a Map/Reduce Framework (2016)
 
