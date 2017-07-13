@@ -14,6 +14,7 @@ hide: true
 
 ##### Education
 * Diploma in Computer Science, University of Stuttgart, 2012
+* PhD in Mathematics, University of Bonn, 2017
 
 ##### Current Appointment
 * 2017-present Research fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/en/))
