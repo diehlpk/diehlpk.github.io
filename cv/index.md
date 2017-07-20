@@ -17,7 +17,7 @@ hide: true
 * PhD in Mathematics, University of Bonn, 2017
 
 ##### Current Appointment
-* 2017-present Research fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/en/))
+* 2017-present Research fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/membres))
 
 ##### Professional Experience
 * 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
