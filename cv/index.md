@@ -14,9 +14,10 @@ hide: true
 
 ##### Education
 * Diploma in Computer Science, University of Stuttgart, 2012
+* PhD in Mathematics, University of Bonn, 2017
 
 ##### Current Appointment
-* 2017-present Research fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/en/))
+* 2017-present Postdoctoral fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/membres))
 
 ##### Professional Experience
 * 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
@@ -83,7 +84,10 @@ Aspects of Material Science 2016, 07.05-12.05 2016, Philadelphia, US.
 13. -- , Modeling ductile materials with bond-based softening peridynamic model. 12th.
 World Congress on Computational Mechanics (WCCM XII), 24.07-29.07 2016, Seoul,
 Korea.
-14 -- , Modeling and simulation of crack and fractures with peridynamics in brittle materials. HIM Junior Seminar, 08.02. 2017, Bonn, Germany.
+14. -- , Modeling and simulation of crack and fractures with peridynamics in brittle materials. HIM Junior Seminar, 08.02. 2017, Bonn, Germany.
+15. -- , Experimental Validation of Elastic State Based Peridynamic for PMMA
+and epoxy materials, 14th U.S. National Congress on Computational Mechanics
+(USNCCM14), 17.07-20.07 2017, Montreal, Canada
 
 Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en)
 
