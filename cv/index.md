@@ -100,7 +100,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](
 
 ##### Reviewer for
 
-* International Journal of Mechanical Sciences
+* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures
 
 ##### Professional Organizations
 * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
