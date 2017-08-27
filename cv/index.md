@@ -102,6 +102,10 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](
 
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
 
+###### Google summer of code
+* Mentor: 2016,2017
+* Organizer: 2017
+
 ##### Reviewer for
 
 * International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures
