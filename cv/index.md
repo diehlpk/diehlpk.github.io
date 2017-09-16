@@ -6,22 +6,26 @@ hide: true
 
 #### Research interests
 * Computational engineering
-  - Peridynamics 
-  - Comparison of simulations with experimental data
+  - Peridynamics theory for composite materials
+  - Benchmark of simulations against experimental data.
+  - Assembly of experimental data for comparison with simulations
 * High Performance Computing
   - Large simulations on hybrid cluster architectures
   - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
 
 ##### Education
-* Diploma in Computer Science, University of Stuttgart, 2012
 * PhD in Mathematics, University of Bonn, 2017
+* Diploma in Computer Science, University of Stuttgart, 2012
+
 
 ##### Current Appointment
 * 2017-present Postdoctoral fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/membres))
 
 ##### Professional Experience
-* 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
+
 * 2013-2017  Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
+* 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
+
 
 ##### Publications
 
@@ -103,8 +107,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
 
 ###### Google summer of code
-* Mentor: 2016,2017
-* Organizer: 2017
+* [Ste||ar group](http://stellar-group.org/): 2016, 2017
 
 ##### Reviewer for
 

@@ -13,7 +13,7 @@
 
 % personal data
 \name{Patrick}{Diehl}
-\title{R\'esum\'e}                               % optional, remove / comment the line if not wanted
+\title{Curriculum vitae}                               % optional, remove / comment the line if not wanted
 \address{D\'epartment de g\'enie m\'ecanique -- C.P. 6079, succ. Centre-Ville}{Montr\'eal (Qu\'ebec) Canada}{H3C 3A7}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
 %\phone[mobile]{+49~(176)~32311017}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
 %\phone[fixed]{+49~(228)~73~3846}
@@ -39,30 +39,26 @@
 \begin{document}
 
 \makecvtitle
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Research Interests}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\cvitem{Computational engineering}{\begin{itemize}
-\item Peridynamics.
-\item Comparison of simulations with experimental data.
-\end{itemize}}
-\cvitem{High Performance Computing}{\begin{itemize}
-\item Large simulations on hybrid cluster architectures.
-\item The C\texttt{++} Standard Library for Parallelism and Concurrency (HPX)
-\end{itemize}}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Education}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\cventry{2012}{Diploma in Computer Science}{University of Stuttgart}{Germany}{}{}  % arguments 3 to 6 can be left empty
-\cventry{2017}{PhD in Mathematics}{University of Bonn}{Germany}{}{}
+\cventry{2017}{PhD}{Applied mathematics}{University of Bonn}{Germany}{}
+\cventry{2012}{Diploma}{Computer Science}{University of Stuttgart}{Germany}{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Current Appointment}
+\section{Research experience}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \cventry{2017--now}{Postdoctoral fellow}{Laboratory of Multiscale Mechanics}{Polytechnique Montr\'eal}{}{}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Professional Experience}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\cventry{2012--2013}{Research Assistant}{Institute for Simulation of large Systems, IPVS}{University of Stuttgart}{}{}
-\cventry{2013--2017}{Research Assistant}{Institute for Numerical Simulation}{University of Bonn}{}{}
+\cvitem{}{\begin{itemize}
+\item Benchmark peridynamics simulation against experimental data for composite materials
+\item Application of peridynamic virtual field methods to extract material properties from experimental data (with Rolland Delorme)
+\item Assembly of experimental data for comparison with simulations (with Ilyass Tabiai)
+\end{itemize}}
+\cventry{2013--2017}{Research Assistant}{Institute for Numerical Simulation}{University Bonn}{}{}
+\cvitem{}{\begin{itemize}
+\item Modeling and simulation of crack and fractures in solids using peridynamic
+\end{itemize}}
+\cventry{2012--2013}{Research Assistant}{Institute for Simulation of large Systems}{University Stuttgart}{}{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Visiting positions}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -72,7 +68,18 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \cvitem{Baden--W\"urttemberg Certificate}{Certificate for successful completion of the program in higher education pedagogy by the center for educational development of the state of Baden--W\"urttemberg.}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newpage
+\section{Research Interests}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvitem{Computational engineering}{\begin{itemize}
+\item Peridynamics theory for composite materials
+\item Benchmark of simulations against experimental data.
+\item Assembly of experimental data for comparison with simulations
+\end{itemize}}
+\cvitem{High Performance Computing}{\begin{itemize}
+\item Large simulations on hybrid cluster architectures.
+\item The C\texttt{++} Standard Library for Parallelism and Concurrency (HPX)
+\end{itemize}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Publications}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{../list/journal}
@@ -81,17 +88,19 @@
 \nocitebook{Diehl.Schweitzer:2014,Franzelin.Diehl.Pfluger:2014,Diehl.Schweitzer:2015,heller2016}
 \bibliographystylebook{plain}
 \bibliographybook{../list/publications}                   
-\newpage       
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Invited talks and Presentations}
 \input{../list/talks}
 \bibliographystyletalk{plain}
 \bibliographytalk{../list/publications}
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Thesis}
-\nocitethesis{Diehl:2012,Diehl2017}
+\nocitethesis{Diehl2017,Diehl:2012}
 \bibliographystylethesis{plain}
 \bibliographythesis{../list/publications} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{References}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{cvcolumns}
  \cvcolumn{}{Prof.~Dr.~Marc~Alexander~Schweitzer\newline Institute for Numerical Simulation\newline University of Bonn, Germany\newline E-Mail: schweitzer@ins.uni-bonn.de}
  \cvcolumn{}{Prof.~Robert~Lipton\newline Mathematics of Materials Science \newline Louisiana State University, USA\newline E-Mail: lipton@math.lsu.edu}
