@@ -107,7 +107,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf) and on [Google Scholar](
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
 
 ###### Google summer of code
-* [Ste||ar group](http://stellar-group.org/): 2016, 2017
+* <a href="http://stellar-group.org/">Ste||ar Group</a>: 2016, 2017
 
 ##### Reviewer for
 
