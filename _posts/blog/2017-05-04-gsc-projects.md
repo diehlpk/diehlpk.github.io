@@ -25,6 +25,7 @@ measure and improve the performance of the existing system, while also keeping i
 Blog posts:
 
 * [Benchmarks Accelerator Devices](https://madhavan001.github.io/Benchmarks-accelerator-devices/)
+* [GSoC Final Evaluation](https://madhavan001.github.io/GSoC-Final-Evaluation/)
 
 ## Implement a Map/Reduce Framework (2016)
 
