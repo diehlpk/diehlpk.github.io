@@ -32,7 +32,7 @@
 
 % bibliography with mutiple entries
 \usepackage{multibib}
-\newcites{book,journal,talk,thesis}{{Proceedings},{Journal articles},{},{}}
+\newcites{book,journal,talk,thesis,reports}{{Proceedings},{Journal articles},{},{},{Technical reports}}
 %----------------------------------------------------------------------------------
 %            content
 %----------------------------------------------------------------------------------
@@ -87,7 +87,10 @@
 \bibliographyjournal{../list/publications}  
 \nocitebook{Diehl.Schweitzer:2014,Franzelin.Diehl.Pfluger:2014,Diehl.Schweitzer:2015,heller2016}
 \bibliographystylebook{plain}
-\bibliographybook{../list/publications}                   
+\bibliographybook{../list/publications}     
+\nocitereports{Diehl.Lipton.Schweitzer:2016}
+\bibliographystylereports{plain}
+\bibliographyreports{../list/publications}                  
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Invited talks and Presentations}
 \input{../list/talks}

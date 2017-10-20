@@ -3,7 +3,7 @@
 \usepackage[english]{babel}
 
 \usepackage[resetlabels]{multibib}
-\newcites{book,talk,poster,thesis,journal,appear}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{To appear}}
+\newcites{book,talk,poster,thesis,journal,reports,appear}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Technical reports},{To appear}}
 
 \usepackage{fancyhdr}
 \usepackage{color}
@@ -39,6 +39,13 @@
 \input{proceedings} 
 \bibliographystylebook{siam}
 \bibliographybook{publications} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Reports
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{reports} 
+\bibliographystylereports{siam}
+\bibliographyreports{publications} 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
 %Talk
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -60,9 +67,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Appear
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\nociteappear{busler2017}
-%\bibliographystyleappear{siam}
-%\bibliographyappear{publications} 
+\nociteappear{Heller2017}
+\bibliographystyleappear{siam}
+\bibliographyappear{publications} 
 
 
 \label{LastPage}             
