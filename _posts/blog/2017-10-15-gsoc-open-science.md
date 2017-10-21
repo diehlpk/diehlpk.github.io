@@ -36,6 +36,6 @@ One topic of the discussion's agenda was the why do people, in our case especial
 * [Colper science](https://colperscience.com/) -- Podcast which aims at promoting open science and efficient scholarly communications through its social media and podcasting. 
 * [Code for Science and Society](https://codeforscience.org/) -- Supporting public data and technology through software development, education and outreach. 
 * [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/) -- Mentorship and Training on Working Open
-* [](https://science.mozilla.org/) -- Mozilla Science Lab is a community of researchers, developers, and librarians making research open and accessible.
+* [Mozilla Science Lab](https://science.mozilla.org/) -- Mozilla Science Lab is a community of researchers, developers, and librarians making research open and accessible.
 
 
