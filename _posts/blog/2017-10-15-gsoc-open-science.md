@@ -31,7 +31,7 @@ The second topic on our agenda was open data and open access. The credibility fo
 
 Here, you find the key problems out of this discussion
 
-* Most tools for references/citation, e.g. Google Scholar and Web of Science, are proprietary and can’t be accessed by open source citation tools like Zenodo to add value to these kind of citations.
+* Most tools for references/citation, e.g. Google Scholar and Web of Science, are proprietary and can’t be accessed by open source citation tools like Zenodo to add value to these kinds of citations.
 * It would be great to have citation dependency graphs,like Web of Science provides for publications, for software and data would improve open source discoverability, Here, it would be great if the could integrate the data from initiatives, like Zenodo.
 * Provide facilitating citations, like Altmetrics -- automated tools for determining how software or data is cited. Zenodo is involved in work on an open alternative for software citations.
 
@@ -48,7 +48,7 @@ Here, you find the key problems out of this discussion
 
 ## Collection of links
 
-* [Bullied Into Bad Science](http://bulliedintobadscience.org/) -- Initiative to promote and support open publication practices by PhD students and Postdocs
+* [Bullied Into Bad Science](http://bulliedintobadscience.org/) -- Initiative to promote and support open publication practices by PhD students and Postdoc
 * [Colper science](https://colperscience.com/) -- Podcast which aims at promoting open science and efficient scholarly communications through its social media and podcasting. 
 * [Code for Science and Society](https://codeforscience.org/) -- Supporting public data and technology through software development, education and outreach. 
 * [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/) -- Mentorship and Training on Working Open
