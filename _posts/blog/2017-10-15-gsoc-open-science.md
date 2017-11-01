@@ -3,8 +3,10 @@ layout: post
 title: Open science session @ GSoC 2017
 categories: blog
 tags: [science]
-author: diehlpk
+author: diehlpk,ashiklom
 ---
+
+_This post was co-authored by Alexey Shiklomanov ([web](https://ashiklom.github.io)), who was the lead organizer of the session. The session was co-organized by Betsy Cowdery (Boston University; PEcAn Project) and Krzysztof Nowak (Zenodo)._
 
 At this year's Google Summer of Code mentor summit, there was a productive discussion of opportunities and challenges for open science. Here is a summary of the results of this discussion, including many valuable ideas and resources contributed by the large and diverse audience.
 
