@@ -96,7 +96,7 @@ Korea.
 and epoxy materials, 14th U.S. National Congress on Computational Mechanics
 (USNCCM14), 17.07-20.07 2017, Montreal, Canada
 
-Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and <a href="https://orcid.org/0000-0003-3922-8419" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-3922-8419</a>
+Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
 ##### Software
 * [hpxcl](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCL and CUDA within [HPX](https://github.com/STEllAR-GROUP/hpx)
