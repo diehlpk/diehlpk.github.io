@@ -19,7 +19,7 @@ hide: true
 
 
 ##### Current Appointment
-* 2017-present Postdoctoral fellow, Laboratory for Multiscale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/membres))
+* 2017-present Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/membres))
 
 ##### Professional Experience
 
