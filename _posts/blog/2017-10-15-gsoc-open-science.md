@@ -42,7 +42,7 @@ However, PhD students currently have little incentive or support from their supe
 Google's Open Source initiative, and Google Summer of Code in particular, is an excellent vehicle for providing this support.
 For one, some PhD research tasks, such as data curation and algorithm optimization, could themselves be Google Summer of Code projects. 
 This could significantly benefit both students and mentors; students would get exposure to the world of graduate-level academic research and perhaps even contribute to peer-reviewed publications, while the mentors (PhD students) would get valuable mentoring experience and benefit from the programming expertise of their students.
-More generally, Google could provide incentives (e.g. grants, educational resources, cyberinfrastructure) and organizational support (e.g. social networking, platforms for code-sharing, mentorship and code review) to PhD students developing or contributing to open source software.
+More generally, Google could provide incentives (e.g. grants, educational resources, cyberinfrastructure) and organizational support (e.g. social networking, platforms for code-sharing, mentor ship and code review) to PhD students developing or contributing to open source software.
 
 ## Open data and open access
 
