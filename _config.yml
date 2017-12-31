@@ -51,6 +51,8 @@ owner:
   tumblr: #username
   pinterest: #username
   weibo: #userid
+  orcid: https://orcid.org/0000-0003-3922-8419
+  gscholar: https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en
   google:
     plus: #username
     analytics: UA-67519003-1
