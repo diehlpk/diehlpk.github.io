@@ -55,6 +55,7 @@ Computer Science, Springer International Publishing, 2016, pp. 18–31.
 5. P. Diehl, M. Bußler, D. Pflüger, S. Frey, T. Ertl, F. Sadlo, and M. A.
 Schweitzer, Extraction of Fragments and Waves After Impact Damage in Particle-Based
 Simulations, Springer International Publishing, Cham, 2017, pp. 17–34.
+6. T. Heller, P. Diehl, Z. Byerly, J. Biddiscombe, and H. Kaiser, HPX - An open source C++ Standard Library for Parallelism and Concurrency, in Proceedings of OpenSuCo 2017, Denver, Colorado USA, November 2017 (OpenSuCo 17), 2017, p. 5.
 
 #### Technical reports
 1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016.
