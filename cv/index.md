@@ -112,7 +112,6 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 ###### Mini-symposia organized
 
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
-1. Modeling and Simulation for Complex Material Behavior, 13th World Congress on Computational Mechanics ([link](http://www.wccm2018.org/MS_607)) 
 
 ###### Mentor or organizer for [Google summer of code](https://summerofcode.withgoogle.com/)
 * <a href="http://stellar-group.org/">Ste||ar Group</a>: 2016, 2017
