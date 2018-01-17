@@ -96,6 +96,8 @@ Korea.
 15. -- , Experimental Validation of Elastic State Based Peridynamic for PMMA
 and epoxy materials, 14th U.S. National Congress on Computational Mechanics
 (USNCCM14), 17.07-20.07 2017, Montreal, Canada
+16. --, A Review for Benchmark Experiments against Peridynamic Models.
+Nonlocal Methods in Fracture, 15.01-16.01 2018, Austin, USA
 
 Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
