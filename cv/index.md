@@ -9,6 +9,7 @@ hide: true
   - Peridynamics theory for composite materials
   - Benchmark of simulations against experimental data.
   - Assembly of experimental data for comparison with simulations
+  - Application of machine learning to experiments and simulations
 * High Performance Computing
   - Large simulations on hybrid cluster architectures
   - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
@@ -28,6 +29,13 @@ hide: true
 
 
 ##### Publications
+
+###### In preparation
+1. Long term availability of raw experimental data in experimental fracture mechanics
+1. A review for benchmark experiments for validation of peridynamic models
+1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework
+1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
+1. Implementation of Peridynamics utilizing HPX - the C++ standard library for parallelism and concurrency
 
 ###### Journal articles 
 1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A.
