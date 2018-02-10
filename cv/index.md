@@ -114,8 +114,9 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 * [thesis-template](https://github.com/diehlpk/thesis-template) - LaTeX template for bachelor thesis and master thesis
 * [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code for comparison with DIC
 
-##### Projects
+##### Work-related projects
 * [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/)
+* [FLOSS for Science](https://flossforscience.github.io/)
 
 ##### Academic-related Professional and Public Service
 
