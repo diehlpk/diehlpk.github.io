@@ -111,7 +111,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 
 ##### Software
 * [hpxcl](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCL and CUDA within [HPX](https://github.com/STEllAR-GROUP/hpx)
-* [thesis-template](https://github.com/diehlpk/thesis-template) - LaTeX template for bachelor thesis and master thesis
+* [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses
 * [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code for comparison with DIC
 
 ##### Work-related projects
