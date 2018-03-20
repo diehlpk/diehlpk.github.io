@@ -36,6 +36,7 @@ hide: true
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework
 1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
 1. Implementation of Peridynamics utilizing HPX - the C++ standard library for parallelism and concurrency
+1. Robust finite element implementation for nonlocal fracture models
 
 ###### Journal articles 
 1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A.
