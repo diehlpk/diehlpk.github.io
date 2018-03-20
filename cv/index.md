@@ -40,34 +40,32 @@ hide: true
 
 ###### Journal articles 
 1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A.
-Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graph-
-ics, 67 (2017), pp. 45–57.
-1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture,
-2 (2016), pp. 157–170.
+Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57 [link](https://doi.org/10.1016/j.cag.2017.05.003).
+1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170 [link](http://dx.doi.org/10.1007/s10704-016-0119-5).
 
 ###### Series- and conference contributions
 1. P. Diehl and M. A. Schweitzer, Efficient neighbor search for particle methods on
 GPUs, in Meshfree Methods for Partial Differential Equations VII, M. Griebel and M. A.
 Schweitzer, eds., vol. 100 of Lecture Notes in Computational Science and Engineering,
-Springer, 2014, pp. 81–95.
+Springer, 2014, pp. 81–95 [link](https://link.springer.com/chapter/10.1007/978-3-319-06898-5_5).
 2. -- , Simulation of wave propagation and impact damage in brittle materials using peridynamics, in Recent Trends in Computational Engineering – CE2014, M. Mehl, M. Bischoff,
 and M. Schäfer, eds., vol. 105 of Lecture Notes in Computational Science and Engineering,
-Springer, 2015, pp. 251–265.
+Springer, 2015, pp. 251–265 [link](https://link.springer.com/chapter/10.1007%2F978-3-319-22997-3_15).
 3. F. Franzelin, P. Diehl, and D. Pflüger, Non-intrusive uncertainty quantification
 with sparse grids for multivariate peridynamic simulations, in Meshfree Methods for Partial Differential Equations VII, M. Griebel and M. A. Schweitzer, eds., vol. 100 of Lecture
 Notes in Computational Science and Engineering, Springer International Publishing, 2014,
-pp. 115–143.
+pp. 115–143 [link](https://link.springer.com/chapter/10.1007%2F978-3-319-06898-5_7).
 4. T. Heller, H. Kaiser, P. Diehl, D. Fey, and M. A. Schweitzer, Closing the
 Performance Gap with Modern C++, in High Performance Computing: ISC High Performance 2016 International Workshops, ExaComm, E-MuCoCoS, HPC-IODC, IXPUG,
 IWOPH, P3 MA, VHPC, WOPSSS, Frankfurt, Germany, June 19–23, 2016, Revised Selected Papers, M. Taufer, B. Mohr, and J. M. Kunkel, eds., vol. 9945 of Lecture Notes in
-Computer Science, Springer International Publishing, 2016, pp. 18–31.
+Computer Science, Springer International Publishing, 2016, pp. 18–31 [link](https://link.springer.com/chapter/10.1007/978-3-319-46079-6_2).
 5. P. Diehl, M. Bußler, D. Pflüger, S. Frey, T. Ertl, F. Sadlo, and M. A.
 Schweitzer, Extraction of Fragments and Waves After Impact Damage in Particle-Based
-Simulations, Springer International Publishing, Cham, 2017, pp. 17–34.
+Simulations, Springer International Publishing, Cham, 2017, pp. 17–34 [link](https://link.springer.com/chapter/10.1007/978-3-319-51954-8_2).
 6. T. Heller, P. Diehl, Z. Byerly, J. Biddiscombe, and H. Kaiser, HPX - An open source C++ Standard Library for Parallelism and Concurrency, in Proceedings of OpenSuCo 2017, Denver, Colorado USA, November 2017 (OpenSuCo 17), 2017, p. 5.
 
 #### Technical reports
-1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016.
+1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
 
 #### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
