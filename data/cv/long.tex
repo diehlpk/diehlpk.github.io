@@ -32,7 +32,7 @@
 
 % bibliography with mutiple entries
 \usepackage{multibib}
-\newcites{book,journal,talk,thesis,reports}{{Proceedings},{Journal articles},{},{},{Technical reports}}
+\newcites{book,journal,talk,thesis,reports,exp}{{Proceedings},{Journal articles},{},{},{Technical reports},{}}
 %----------------------------------------------------------------------------------
 %            content
 %----------------------------------------------------------------------------------
@@ -101,6 +101,10 @@
 \nocitethesis{Diehl2017,Diehl:2012}
 \bibliographystylethesis{plain}
 \bibliographythesis{../list/publications} 
+\section{Raw experimental data}
+\nociteexp{ilyass_tabiai_2018_1172068}
+\bibliographystyleexp{plain}
+\bibliographyexp{../list/publications} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{References}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

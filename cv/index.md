@@ -113,6 +113,9 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 * [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses
 * [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code for comparison with DIC
 
+##### Raw experimental data
+* Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
+
 ##### Work-related projects
 * [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/)
 * [FLOSS for Science](https://flossforscience.github.io/)
