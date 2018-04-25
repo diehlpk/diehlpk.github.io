@@ -7,6 +7,26 @@ author: diehlpk
 ---
 Here is a list of all the Google Summer of Code projects I mentored.
 
+## HPX Backend for [OpenCV](https://opencv.org/) (2018)
+
+This project is co-mentored by Mikael Simberg and John Biddiscombe and is done by [Jakub Golinowski](https://www.linkedin.com/in/jakub-golinowski).
+
+### Project description
+
+The Image processing toolbox OpenCV supports multithreading in multiple ways, i.a. via TBB or OpenMP, but not with the use of HPX. Therefore, OpenCV should be equipped with reliable HPX support for parallelism. In this way both the performance of the OpenCV and the reach of HPX will be increased.
+
+--- 
+
+## Alternative smart executors
+
+This project is co-mentored by Marcin Copik and Zahra Khatami and is done by Gabriel Laberge.
+
+### Project description
+
+HPX allows users to parallel their for-loops. The user can change values of chunk size and prefetching distance with existing execution policies. Some of these policies use machine learning the optimal chunk size and prefetching distance for a given for-loop. However, these machine learning algorithms are classification algorithms so the number of possible outcome is limited. The idea is to use regression algorithms to allow for as many outcomes as needed.
+
+--- 
+
 ## [HPXCL](https://github.com/STEllAR-GROUP/hpxcl) – Asynchronous Integration of CUDA and OpenCL to [HPX](https://github.com/STEllAR-GROUP/hpx) (2017)
 
 The project [HPXCL](https://github.com/STEllAR-GROUP/hpxcl) is done by [Madhavan Seshadri](http://madhavanseshadri.com/)
@@ -27,6 +47,8 @@ Blog posts:
 * [Benchmarks Accelerator Devices](https://madhavan001.github.io/Benchmarks-accelerator-devices/)
 * [GSoC Final Evaluation](https://madhavan001.github.io/GSoC-Final-Evaluation/)
 
+--- 
+
 ## Implement a Map/Reduce Framework (2016)
 
 [Map/Reduce](http://en.wikipedia.org/wiki/MapReduce) frameworks are getting more and more popular for big data processing (for example [Hadoop](http://hadoop.apache.org/)). By utilizing the unified and standards conforming API of the HPX run time system, we believe to be able to perfectly represent the Map/Reduce programming model. Many applications would benefit from direct support in HPX. This might include adding [Hypertable](http://hypertable.com) or similar libraries to the mix to handle the large data sets Map/Reduce is usually used with.
@@ -39,3 +61,5 @@ Blog Posts:
 * [Using Fluent Interface for hpxflow API design](http://aalekhnigam.tumblr.com/post/149356061927/using-fluent-interface-for-hpxflow-api-design)
 * [Using Multiconsumer-Multiproducer Model for windowing](http://aalekhnigam.tumblr.com/post/149355148447/using-multiconsumer-multiproducer-model-for)
 * [Summing up my GSoC with Stellar Group](http://aalekhnigam.tumblr.com/post/149361127187/summing-up-my-gsoc-with-ste-ar-group)
+
+---
