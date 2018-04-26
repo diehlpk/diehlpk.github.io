@@ -14,6 +14,8 @@ hide: true
   - Large simulations on hybrid cluster architectures
   - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
 
+--- 
+
 ##### Education
 * PhD in Mathematics, University of Bonn, 2017
 * Diploma in Computer Science, University of Stuttgart, 2012
@@ -27,6 +29,7 @@ hide: true
 * 2013-2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
 * 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
 
+--- 
 
 ##### Publications
 
@@ -109,6 +112,8 @@ Nonlocal Methods in Fracture, 15.01-16.01 2018, Austin, USA
 
 Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
+--- 
+
 ##### Software
 * [hpxcl](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCL and CUDA within [HPX](https://github.com/STEllAR-GROUP/hpx)
 * [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses
@@ -121,6 +126,8 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 * [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/)
 * [FLOSS for Science](https://flossforscience.github.io/)
 
+--- 
+
 ##### Academic-related Professional and Public Service
 
 ###### Mini-symposia organized
@@ -128,7 +135,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
 
 ###### Mentor or organizer for [Google summer of code](https://summerofcode.withgoogle.com/)
-* <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/#hpx-backend-for-opencv-2018)
+* <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018)
 
 ##### Reviewer for
 
@@ -137,6 +144,8 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 ##### Professional Organizations
 * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
 
+
+---
 
 My [CV]({{ site.url }}/assets/cv.pdf) is also available as a PDF file.
 	
