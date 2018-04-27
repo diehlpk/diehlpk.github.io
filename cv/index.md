@@ -22,12 +22,12 @@ hide: true
 
 
 ##### Current Appointment
-* 2017-present Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/membres))
+* Feb 2017-present Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/membres))
 
 ##### Professional Experience
 
-* 2013-2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
-* 2012-2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
+* Apr 2013- Jan 2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
+* Jul 2012- March 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
 
 --- 
 
@@ -123,8 +123,8 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 * Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
 
 ##### Work-related projects
-* [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/)
-* [FLOSS for Science](https://flossforscience.github.io/)
+* [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/) -- Project to promote sharing of raw experimental data within the experimental mechanics community.
+* [FLOSS for Science](https://flossforscience.github.io/) -- Podcast aimed at promoting the usage of Free and Libre Open Source Software in research and academia.
 
 --- 
 

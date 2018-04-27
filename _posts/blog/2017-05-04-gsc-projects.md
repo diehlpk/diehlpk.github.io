@@ -17,7 +17,7 @@ The Image processing toolbox OpenCV supports multithreading in multiple ways, i.
 
 --- 
 
-## Alternative smart executors
+## Alternative smart executors (2018)
 
 This project is co-mentored by Marcin Copik and Zahra Khatami and is done by Gabriel Laberge.
 

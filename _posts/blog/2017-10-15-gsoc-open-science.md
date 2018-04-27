@@ -69,5 +69,5 @@ Despite the grim picture painted above, we were able to identify some key opport
 * [Code for Science and Society](https://codeforscience.org/) -- Supporting public data and technology through software development, education and outreach. 
 * [Mozilla Open Leaders](https://mozilla.github.io/leadership-training/) -- Mentorship and Training on Working Open
 * [Mozilla Science Lab](https://science.mozilla.org/) -- Mozilla Science Lab is a community of researchers, developers, and librarians making research open and accessible.
-* [FLOSSforScience](https://flossforscience.github.io/) -- Podcast aimed at promoting the usage of Free and Libre Open Source Software in research and academia
+* [FLOSSforScience](https://flossforscience.github.io/) -- Podcast aimed at promoting the usage of Free and Libre Open Source Software in research and academia.
 
