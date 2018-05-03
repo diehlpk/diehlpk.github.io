@@ -34,7 +34,6 @@ hide: true
 ##### Publications
 
 ###### In preparation
-1. Long term availability of raw experimental data in experimental fracture mechanics (Accepted in Engineering Fracture Mechanics)
 1. A review for benchmark experiments for validation of peridynamic models
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework
 1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
@@ -42,9 +41,9 @@ hide: true
 1. Robust finite element implementation for nonlocal fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
 
-###### Journal articles 
-1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A.
-Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57 [link](https://doi.org/10.1016/j.cag.2017.05.003).
+###### Journal articles
+1. Patrick Diehl, Ilyass Tabiai, Felix W. Baumann, Daniel Therriault, and Martin Levesque. Long term availability of raw experimental data in experimental fracture mechanics. Engineering Fracture Mechanics, 197:21–26, 2018 [link](https://doi.org/10.1016/j.engfracmech.2018.04.030) 
+1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A. Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57 [link](https://doi.org/10.1016/j.cag.2017.05.003).
 1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170 [link](http://dx.doi.org/10.1007/s10704-016-0119-5).
 
 ###### Series- and conference contributions
