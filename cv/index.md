@@ -42,7 +42,9 @@ hide: true
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
 
 ###### Journal articles
-1. Patrick Diehl, Ilyass Tabiai, Felix W. Baumann, Daniel Therriault, and Martin Levesque. Long term availability of raw experimental data in experimental fracture mechanics. Engineering Fracture Mechanics, 197:21–26, 2018 [link](https://doi.org/10.1016/j.engfracmech.2018.04.030) 
+1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
+term availability of raw experimental data in experimental fracture mechanics, Engineering
+Fracture Mechanics, 197 (2018), pp. 21–26 [link](https://doi.org/10.1016/j.engfracmech.2018.04.030) 
 1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A. Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57 [link](https://doi.org/10.1016/j.cag.2017.05.003).
 1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170 [link](http://dx.doi.org/10.1007/s10704-016-0119-5).
 
@@ -108,6 +110,9 @@ and epoxy materials, 14th U.S. National Congress on Computational Mechanics
 (USNCCM14), 17.07-20.07 2017, Montreal, Canada
 16. --, A Review for Benchmark Experiments against Peridynamic Models.
 Nonlocal Methods in Fracture, 15.01-16.01 2018, Austin, USA
+17. --, Extracting constitutive mechanical parameters in linear elasticity using the virtual
+fields method within the ordinary state-based peridynamics framework. Optimization days
+2018, 07.05-09.05 2018, Montreal, Canada.
 
 Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
