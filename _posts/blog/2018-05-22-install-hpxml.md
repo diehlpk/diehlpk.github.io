@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compile HPX with machine learning [HPXML](https://github.com/STEllAR-GROUP/hpxML) for run time optimization
+title: Compile HPX with machine learning HPXML for run time optimization
 categories: blog
 tags: [Building]
 author: diehlpk
