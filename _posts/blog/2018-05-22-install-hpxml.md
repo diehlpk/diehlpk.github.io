@@ -33,9 +33,10 @@ wget http://releases.llvm.org/6.0.0/cfe-6.0.0.src.tar.xz
 tar -xvf cfe-6.0.0.src.tar.xz
 cd cfe-6.0.0.src/ 
 cd tools
+mkdir extra && cd extra
 wget wget http://releases.llvm.org/6.0.0/clang-tools-extra-6.0.0.src.tar.xz
 tar -xvf clang-tools-extra-6.0.0.src.tar.xz
-cd ..
+cd ../..
 mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make -j 
