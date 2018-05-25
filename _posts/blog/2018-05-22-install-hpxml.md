@@ -36,6 +36,7 @@ cd tools
 mkdir extra && cd extra
 wget http://releases.llvm.org/6.0.0/clang-tools-extra-6.0.0.src.tar.xz
 tar -xvf clang-tools-extra-6.0.0.src.tar.xz
+cp -r clang-tools-extra-6.0.0.src/* .
 cd ../..
 mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
@@ -49,6 +50,7 @@ mkdir ../tools/extra/loop-convert
 cp ../../hpxML/ClangTool/LoopConvert.cpp ../tools/extra/loop-convert
 cp ../../hpxML/ClangTool/CMakeLists.txt ../tools/extra/loop-convert
 echo 'add_subdirectory(loop-convert)' >> ../tools/extra/CMakeLists.txt
+cmake ..
 make loop-convert
 ```
 
