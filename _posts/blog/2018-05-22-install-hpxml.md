@@ -10,8 +10,7 @@ author: diehlpk
 
 1. [LLVM](http://releases.llvm.org/download.html) 
 2. [CLANG](http://releases.llvm.org/download.html)
-3. [HPX](https://github.com/STEllAR-GROUP/hpx) (Installation on [Ubuntu](https://diehlpk.github.io/blog/hpx-ubuntu-12.04/) and [Fedora](https://diehlpk.github.io/blog/hpx-fedora/))
-4. Install [libeigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
+3. Install [libeigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 Note that LLVM and CLANG need to be compiled to intstall the clang tool for HPXML
 
 ### Install llvm
@@ -72,8 +71,22 @@ make -j
 export CXX=/home/pdiehl/Compile/cfe-6.0.0.src/build/bin/clang++
 export CC=/home/pdiehl/Compile/cfe-6.0.0.src/build/bin/clang
 export CPLUS_INCLUDE_PATH=/opt/mn/clang/6.0.0/include/c++/v1/:$CPLUS_INCLUDE_PATH
+export LIBRARY_PATH=/home/pdiehl/Compile/llvm-6.0.0.src/build/lib/:$LIBRARY_PATH
 cd logisticRegressionModel/algorithms/ && mkdir build
 cmake -DEigen3_DIR=/home/pdiehl/opt/eigen/share/eigen3/cmake/ ..
 make 
+cd ../..
 ```
 
+### HPXML
+
+For installing the dependencies of [HPX](https://github.com/STEllAR-GROUP/hpx) on [Ubuntu](https://diehlpk.github.io/blog/hpx-ubuntu-12.04/) or [Fedora](https://diehlpk.github.io/blog/hpx-fedora/)) look here.
+
+```bash
+module load boost/1.67.0-clang6.0.0-release
+cd hpxml
+cmake ..
+make core 
+```
+
+Note, that you have to use the your own builded clang compiler with the clang tool.

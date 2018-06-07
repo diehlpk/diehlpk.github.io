@@ -113,6 +113,9 @@ Nonlocal Methods in Fracture, 15.01-16.01 2018, Austin, USA
 17. --, Extracting constitutive mechanical parameters in linear elasticity using the virtual
 fields method within the ordinary state-based peridynamics framework. Optimization days
 2018, 07.05-09.05 2018, Montreal, Canada.
+18. --, Extracting constitutive mechanical parameters in linear elasticity using the virtual
+fields method within the ordinary state-based peridynamics framework. 18th U.S. National
+Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US. 
 
 Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
