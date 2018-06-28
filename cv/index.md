@@ -6,14 +6,15 @@ hide: true
 
 #### Research interests
 * Computational engineering
-  - Peridynamics theory for composite materials
-  - Benchmark of simulations against experimental data.
-  - Assembly of experimental data for comparison with simulations
-  - Application of machine learning to experiments and simulations
+  - Peridynamics theory for composite materials,
+  - Benchmark of simulations against experimental data,
+  - Assembly of experimental data for comparison with simulations,
+  - Application of machine learning to experiments and simulations.
 * High Performance Computing
-  - Large simulations on hybrid cluster architectures
   - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
-
+* Open Science
+  - Open Source Software for scientific applicaitons
+  - Open data for sharing raw experimental results
 --- 
 
 ##### Education
@@ -36,7 +37,7 @@ hide: true
 ###### In preparation
 1. A review for benchmark experiments for validation of peridynamic models
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework
-1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
+1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results (submitted)
 1. Implementation of Peridynamics utilizing HPX - the C++ standard library for parallelism and concurrency (submitted)
 1. Robust finite element implementation for nonlocal fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
