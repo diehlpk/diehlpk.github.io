@@ -13,8 +13,9 @@ hide: true
 * High Performance Computing
   - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
 * Open Science
-  - Open Source Software for scientific applicaitons
+  - Open Source Software for scientific applications
   - Open data for sharing raw experimental results
+
 --- 
 
 ##### Education
