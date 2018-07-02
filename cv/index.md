@@ -7,7 +7,7 @@ hide: true
 #### Research interests
 * Computational engineering
   - Peridynamics theory for composite materials,
-  - Benchmark of simulations against experimental data,
+  - Validation and verification of simulations against experimental data,
   - Assembly of experimental data for comparison with simulations,
   - Application of machine learning to experiments and simulations.
 * High Performance Computing
@@ -152,6 +152,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 
 ##### Professional Organizations
 * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
+* [Informatik-Forum Stuttgart e. V.](http://www.infos.informatik.uni-stuttgart.de/)
 
 
 ---
