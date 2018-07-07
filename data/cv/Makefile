@@ -1,5 +1,5 @@
 long:
-	latexmk -pdf long.tex &&  cp long.pdf ../../assets/cv.pdf
+	latexmk -pdflatex=lualatex -pdf long.tex &&  cp long.pdf ../../assets/cv.pdf
 
 clean:
 	latexmk -C
