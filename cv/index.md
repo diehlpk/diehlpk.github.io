@@ -119,6 +119,9 @@ fields method within the ordinary state-based peridynamics framework. Optimizati
 fields method within the ordinary state-based peridynamics framework. 18th U.S. National
 Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US. 
 
+#### Raw experimental data
+* Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
+
 Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
 --- 
@@ -128,29 +131,30 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 * [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses
 * [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code for comparison with DIC
 
-##### Raw experimental data
-* Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
-
 ##### Work-related projects
 * [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/) -- Project to promote sharing of raw experimental data within the experimental mechanics community.
 * [FLOSS for Science](https://flossforscience.github.io/) -- Podcast aimed at promoting the usage of Free and Libre Open Source Software in research and academia.
 
 --- 
 
-##### Academic-related Professional and Public Service
+#### Academic-related Professional and Public Service
 
-###### Mini-symposia organized
+##### Mini-symposia organized
 
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
 
-###### Mentor or organizer for [Google summer of code](https://summerofcode.withgoogle.com/)
+##### Mentor or organizer for [Google summer of code](https://summerofcode.withgoogle.com/)
 * <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018)
 
-##### Reviewer for
+#### Reviewer for
 
 * International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures
 
-##### Professional Organizations
+#### Presence in media
+
+* Björn Bohn. “Die jungen Wilden: Googles Summer of Code.” Heise Developer. March 2, 2018. [Post](https://www.heise.de/developer/artikel/Die-jungen-Wilden-Googles-Summer-of-Code-3979634.html)
+
+#### Professional Organizations
 * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
 * [Informatik-Forum Stuttgart e. V.](http://www.infos.informatik.uni-stuttgart.de/)
 
