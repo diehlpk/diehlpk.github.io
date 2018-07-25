@@ -13,12 +13,16 @@ author: diehlpk
 * libblas-dev (Ubuntu package)
 * liblapack-dev (Ubuntu package)
 
-## Bulding [OpenMPI](http://www.open-mpi.de/software/ompi/v2.0/) 2.0.1
+## Bulding [OpenMPI](https://www.open-mpi.org/software/ompi/v2.1/) 2.0.1
 {% highlight bash %}
+wget https://download.open-mpi.org/release/open-mpi/v2.1/openmpi-2.1.0.tar.gz
+tar -xf openmpi-2.1.0.tar.gz
+cd cd openmpi-2.0.1
 mkdir build && cd build
 ../configure --prefix=/home/diehl/local/openmpi-2.0.1
 make -j
 make install
+cd ../..
 {% endhighlight %}
 Export path for the usage of the new compiler
 {% highlight bash %}
@@ -33,23 +37,34 @@ export PATH=/home/diehl/local/openmpi-2.0.1/bin/:$PATH
 
 ## Bullding [Boost](http://www.boost.org/users/download/) 1.62.0
 {% highlight bash %}
+wget https://dl.bintray.com/boostorg/release/1.67.0/source/boost_1_67_0.tar.gz
+tar -xf boost_1_67_0.tar.gz
+cd boost_1_67_0
 echo "using mpi ;" >> user-config.jam
 ./bootstrap.sh --prefix=/home/diehl/local/boost-1.62
 ./b2 --layout=tagged -j 
 ./b2 install
+cd ..
 {% endhighlight %}
 
 ## Building [HDF5](https://www.hdfgroup.org/downloads/index.html) (hdf5-1.8.15-patch1)
 {% highlight bash %}
+wget https://support.hdfgroup.org/ftp//HDF5/prev-releases/hdf5-1.8/hdf5-1.8.15-patch1/src/hdf5-1.8.15-patch1.tar
+tar -xf hdf5-1.8.15-patch1.tar
+cd hdf5-1.8.15-patch1
 mkdir build && cd build
 ../configure --prefix=/home/diehl/local/hdf5-1.8.15/ --enable-parallel 
 make -j 
 make test
 make install
+cd ../..
 {% endhighlight %}
 
 ## Building [NETCDF](https://www.unidata.ucar.edu/downloads/netcdf/index.jsp) (netcdf-4.3.3.1) 
 {% highlight bash %}
+wget https://www.unidata.ucar.edu/downloads/netcdf/ftp/netcdf-cxx4-4.3.0.tar.gz
+tar -xf netcdf-cxx4-4.3.0.tar.gz
+cd netcdf-cxx4-4.3.0
 H5DIR=/home/diehl/local/hdf5-1.8.15/ 
 export CPPFLAGS="-I${H5DIR}/include" 
 export LDFLAGS=-L${H5DIR}/lib 
@@ -58,10 +73,14 @@ mkdir build && cd build
 ../configure --prefix=/home/diehl/local/netcdf-4.3.3.1/  --disable-netcdf-4 --disable-dap --enable-parallel 
 make -j
 make install
+cd ../..
 {% endhighlight %}
 
 ## Building [Trilions](https://trilinos.org/download/) (trilinos-12.0.1)
 {% highlight bash  %}
+wget https://github.com/trilinos/Trilinos/archive/trilinos-release-12-0-1.tar.gz
+tar -xf trilinos-release-12-0-1.tar.gz
+cd trilinos-release-12-0-1
 mkdir build && cd build
 cmake \
 -D CMAKE_INSTALL_PREFIX:PATH=/home/diehl/local/trilinos-12.0.1 \
@@ -121,6 +140,7 @@ cmake \
 ..
 make -j
 make install
+cd ../..
 {% endhighlight %}
 
 ## Building [Peridigm](https://peridigm.sandia.gov/) (1.4.1) 
@@ -132,9 +152,9 @@ cmake \
 -D CMAKE_BUILD_TYPE:STRING=Release \
 -D Boost_NO_SYSTEM_PATHS=ON \
 -D Trilinos_DIR:PATH=/data/diehl/local/trilinos-12.0.1/lib/cmake/Trilinos/ \
--D CMAKE_CXX_COMPILER=/data/diehl/local/openmpi-2.0.1/bin/mpicxx \
--D CMAKE_C_COMPILER=/data/diehl/local/openmpi-2.0.1/bin/mpicc \
--D BOOST_ROOT=/data/diehl/local/boost-1-62/ \
+-D CMAKE_CXX_COMPILER=/home/diehl/local/openmpi-2.0.1/bin/mpicxx \
+-D CMAKE_C_COMPILER=/home/diehl/local/openmpi-2.0.1/bin/mpicc \
+-D BOOST_ROOT=/home/diehl/local/boost-1.62 \
 -D CMAKE_CXX_FLAGS:STRING="-O2 -Wall -ansi -pedantic -Wno-long-long -ftrapv -Wno-deprecated -std=gnu++11 " \
 ..
 make -j

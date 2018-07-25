@@ -78,6 +78,7 @@ After the configuration with CMake run
 {% highlight bash  %}
 make -j
 make install
+cd ../..
 {% endhighlight %}
 to build and install Trilinos.
 
