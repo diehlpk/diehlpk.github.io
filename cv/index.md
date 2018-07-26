@@ -117,7 +117,8 @@ fields method within the ordinary state-based peridynamics framework. Optimizati
 2018, 07.05-09.05 2018, Montreal, Canada.
 18. --, Extracting constitutive mechanical parameters in linear elasticity using the virtual
 fields method within the ordinary state-based peridynamics framework. 18th U.S. National
-Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US. 
+Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
+19. --, A Review for Benchmark Experiments against Peridynamic Models. 13th. World Congress on Computational Mechanics (WCCM XIII), 23.07-27.07 2018, New York City, US. 
 
 #### Raw experimental data
 * Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
