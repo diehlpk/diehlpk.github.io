@@ -1,7 +1,7 @@
 file=list
 
 all:	
-	latexmk -pdf ${file}.tex && cp list.pdf ../../assets
+	latexmk -pdflatex=lualatex -pdf ${file}.tex && cp list.pdf ../../assets
 edit:
 	texmaker ${file}.tex &
 

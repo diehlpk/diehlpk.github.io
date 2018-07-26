@@ -1,6 +1,11 @@
 \documentclass[11pt,a4paper]{article}
- \usepackage[utf8]{inputenc}
+%\pdfminorversion=5
+%\pdfobjcompresslevel=3 
+%\pdfcompresslevel=9
+\usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
+\usepackage{fontspec}
+\setmainfont{Calibri}
 
 \usepackage[resetlabels]{multibib}
 \newcites{book,talk,poster,thesis,journal,reports,appear,exp}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Technical reports},{To appear},{Raw experimental data}}
@@ -12,7 +17,7 @@
 
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[R]{Patrick Diehl}
+\fancyhead[R]{Dr. Patrick Diehl}
 \fancyhead[L]{Publication list}
 \fancyfoot[C]{(\thepage /\pageref{LastPage})}
 \fancyfoot[R]{\today}
