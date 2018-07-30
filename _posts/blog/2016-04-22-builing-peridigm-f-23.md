@@ -71,7 +71,9 @@ cmake \
 -D CMAKE_VERBOSE_MAKEFILE:BOOL=OFF \
 -D Trilinos_VERBOSE_CONFIGURE:BOOL=OFF \
 -D Netcdf_INCLUDE_DIRS=/usr/include/mpich-x86_64/ \
+-D Netcdf_LIBRARY_DIRS=/usr/lib64/mpich/lib/ \
 -D HDF5_INCLUDE_DIRS=/usr/include/mpich-x86_64/ \
+-D HDF5_LIBRARY_DIRS=/usr/lib64/mpich/lib/ \ 
 ..
 {% endhighlight %}
 After the configuration with CMake run
