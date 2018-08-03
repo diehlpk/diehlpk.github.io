@@ -42,6 +42,7 @@ hide: true
 1. Implementation of Peridynamics utilizing HPX - the C++ standard library for parallelism and concurrency (submitted)
 1. Robust finite element implementation for nonlocal fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
+1. Integration of CUDA Processing within the C++ library for parellism and concurrency (HPX)
 
 ###### Journal articles
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
