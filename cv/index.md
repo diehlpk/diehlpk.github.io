@@ -39,7 +39,7 @@ hide: true
 1. A review for benchmark experiments for validation of peridynamic models
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework
 1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results (submitted)
-1. Implementation of Peridynamics utilizing HPX - the C++ standard library for parallelism and concurrency (submitted)
+1. Implementation of Peridynamics utilizing HPX - the C++ standard library for parallelism and concurrency (submitted), [Preprint](https://arxiv.org/abs/1806.06917)
 1. Robust finite element implementation for nonlocal fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
 1. Integration of CUDA Processing within the C++ library for parellism and concurrency (HPX)
@@ -47,7 +47,7 @@ hide: true
 ###### Journal articles
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
-Fracture Mechanics, 197 (2018), pp. 21–26 [link](https://doi.org/10.1016/j.engfracmech.2018.04.030) 
+Fracture Mechanics, 197 (2018), pp. 21–26 [link](https://doi.org/10.1016/j.engfracmech.2018.04.030),[Preprint](https://arxiv.org/abs/1803.07622) 
 1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A. Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57 [link](https://doi.org/10.1016/j.cag.2017.05.003).
 1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170 [link](http://dx.doi.org/10.1007/s10704-016-0119-5).
 
