@@ -24,12 +24,12 @@ hide: true
 
 
 ##### Current Appointment
-* Feb 2017-present Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2/membres))
+* Feb 2017- Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
 
 ##### Professional Experience
 
 * Apr 2013- Jan 2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
-* Jul 2012- March 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/abteilung/mitarbeiter/index.html?status=ehemalig))
+* Jul 2012- March 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/))
 
 --- 
 
@@ -38,7 +38,7 @@ hide: true
 ###### In preparation
 1. A review for benchmark experiments for validation of peridynamic models
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework
-1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results (submitted)
+1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
 1. Implementation of Peridynamics utilizing HPX - the C++ standard library for parallelism and concurrency (submitted), [preprint](https://arxiv.org/abs/1806.06917)
 1. Robust finite element implementation for nonlocal fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
