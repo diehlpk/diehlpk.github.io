@@ -24,12 +24,12 @@ hide: true
 
 
 ##### Current Appointment
-* Feb 2017- Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
+* October 2018 - present Researcher, Center of Computation and Technology, Lousiana State University ([link](https://www.cct.lsu.edu/))
 
 ##### Professional Experience
-
-* Apr 2013- Jan 2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
-* Jul 2012- March 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/))
+* Feb 2017 - Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
+* Apr 2013 - Jan 2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
+* Jul 2012 - March 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/))
 
 --- 
 
