@@ -24,7 +24,7 @@ hide: true
 
 
 ##### Current Appointment
-* October 2018 - present Researcher, Center of Computation and Technology, Lousiana State University ([link](https://www.cct.lsu.edu/))
+* October 2018 - present Researcher, Center for Computation &  Technology, Lousiana State University ([link](https://www.cct.lsu.edu/))
 
 ##### Professional Experience
 * Feb 2017 - Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
