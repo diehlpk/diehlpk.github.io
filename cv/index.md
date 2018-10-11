@@ -44,6 +44,7 @@ hide: true
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
 1. Integration of CUDA Processing within the C++ library for parellism and concurrency (HPX) (accepted)
 1. Asynchronous Execution of Python Code on Task Based Runtime Systems (accepted)
+
 ###### Journal articles
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
