@@ -39,11 +39,8 @@ hide: true
 1. A review for benchmark experiments for validation of peridynamic models
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework
 1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
-1. Implementation of Peridynamics utilizing HPX - the C++ standard library for parallelism and concurrency (submitted), [preprint](https://arxiv.org/abs/1806.06917)
 1. Robust finite element implementation for nonlocal fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
-1. Integration of CUDA Processing within the C++ library for parellism and concurrency (HPX) (accepted)
-1. Asynchronous Execution of Python Code on Task Based Runtime Systems (accepted), [preprint](https://arxiv.org/abs/1810.07591)
 
 ###### Journal articles
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
