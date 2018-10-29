@@ -130,6 +130,9 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 * [HPX Compute Language](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCL and CUDA within [HPX](https://github.com/STEllAR-GROUP/hpx) [![DOI](https://zenodo.org/badge/13384046.svg)](https://zenodo.org/badge/latestdoi/13384046)
 * [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses
 * [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code utilizing full field measurements obtained by digital image correlation [![DOI](https://zenodo.org/badge/46075533.svg)](https://zenodo.org/badge/latestdoi/46075533)
+* [PeriPyVFM](https://github.com/lm2-poly/PeriPyVFM) - The virtual fields method within the ordinary state-based peridynamic framework [![DOI](https://zenodo.org/badge/93547069.svg)](https://zenodo.org/badge/latestdoi/93547069)
+* [Phylanx](https://github.com/STEllAR-GROUP/phylanx) - Asynchronous Execution of Python Code on Task Based Runtime Systems
+
 
 
 
