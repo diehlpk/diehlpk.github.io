@@ -36,8 +36,8 @@ hide: true
 ##### Publications
 
 ###### In preparation
-1. A review for benchmark experiments for validation of peridynamic models
-1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework
+1. A review for benchmark experiments for validation of peridynamic models, (submitted)
+1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (submitted)
 1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
 1. Robust finite element implementation for nonlocal fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory

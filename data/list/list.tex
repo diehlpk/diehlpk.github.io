@@ -8,7 +8,7 @@
 \setmainfont{Calibri}
 
 \usepackage[resetlabels]{multibib}
-\newcites{book,talk,poster,thesis,journal,reports,appear,exp}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Technical reports},{Preprints},{Raw experimental data}}
+\newcites{book,talk,poster,thesis,journal,reports,pre,exp}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Technical reports},{Preprints},{Raw experimental data}}
 
 \usepackage{fancyhdr}
 \usepackage{color}
@@ -72,9 +72,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Experimental data
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\nociteappear{tohid2018asynchronous,diehl2018implementation}
-\bibliographystyleappear{siam}
-\bibliographyappear{publications} 
+\input{preprint}
+\bibliographystylepre{siam}
+\bibliographypre{publications} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Experimental data
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
