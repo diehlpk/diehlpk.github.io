@@ -6,7 +6,7 @@ hide: true
 
 #### Research interests
 * Computational engineering
-  - Peridynamics theory for composite materials,
+  - Peridynamic theory for composite materials,
   - Validation and verification of simulations against experimental data,
   - Assembly of experimental data for comparison with simulations,
   - Application of machine learning to experiments and simulations.
@@ -24,7 +24,7 @@ hide: true
 
 
 ##### Current Appointment
-* October 2018 - present Researcher, Center for Computation &  Technology, Lousiana State University ([link](https://www.cct.lsu.edu/))
+* October 2018 - present Researcher, Center for Computation &  Technology, Louisiana State University ([link](https://www.cct.lsu.edu/))
 
 ##### Professional Experience
 * Feb 2017 - Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
@@ -39,7 +39,7 @@ hide: true
 1. A review for benchmark experiments for validation of peridynamic models, (submitted)
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (submitted)
 1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
-1. Robust finite element implementation for nonlocal fracture models
+1. Robust finite element implementation for non-local fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
 
 ###### Journal articles
