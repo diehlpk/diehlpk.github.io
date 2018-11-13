@@ -118,6 +118,7 @@ fields method within the ordinary state-based peridynamics framework. Optimizati
 fields method within the ordinary state-based peridynamics framework. 18th U.S. National
 Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 19. --, A Review for Benchmark Experiments against Peridynamic Models. 13th. World Congress on Computational Mechanics (WCCM XIII), 23.07-27.07 2018, New York City, US. 
+20. --, Integration of CUDA Processing within the C++ library for parallelism and concurrency (HPX). IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2’18), 12.11-16.11 2018, Dallas, USA.
 
 #### Raw experimental data
 * Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
