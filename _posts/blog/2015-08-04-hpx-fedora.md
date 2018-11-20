@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing HPX on Fedora 22/23/24/25
+title: Installing HPX on Fedora 22--29
 categories: blog
 tags: [Building]
 author: diehlpk
