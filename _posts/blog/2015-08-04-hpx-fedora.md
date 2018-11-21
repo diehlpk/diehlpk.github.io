@@ -5,6 +5,32 @@ categories: blog
 tags: [Building]
 author: diehlpk
 ---
+
+## Installation with dnf
+Since Fedora 28, there is an offical package for hpx compiled with gcc, openmpi, and mpich availablei in the updates-testing repo.
+
+{% highlight bash %}
+dnf search hpx --enablerepo=updates-testing
+Last metadata expiration check: 1:11:50 ago on Wed 21 Nov 2018 03:02:33 PM EST.
+========================== Name Exactly Matched: hpx ===========================
+hpx.i686 : General Purpose C++ Runtime System
+hpx.x86_64 : General Purpose C++ Runtime System
+========================= Name & Summary Matched: hpx ==========================
+hpx-examples.x86_64 : HPX examples
+hpx-mpich.x86_64 : HPX MPICH libraries
+hpx-openmpi.x86_64 : HPX Open MPI libraries
+hpx-mpich-examples.x86_64 : HPX MPICH examples
+hpx-openmpi-examples.x86_64 : HPX Open MPI examples
+hpx-devel.i686 : Development headers and libraries for hpx
+hpx-devel.x86_64 : Development headers and libraries for hpx
+hpx-mpich-devel.i686 : Development headers and libraries for hpx
+hpx-mpich-devel.x86_64 : Development headers and libraries for hpx
+hpx-openmpi-devel.i686 : Development headers and libraries for hpx
+hpx-openmpi-devel.x86_64 : Development headers and libraries for hpx
+{% endhighlight %}
+
+## Compilation
+
 Prerequisites
 =====
 Install all packages for minimal installation
