@@ -7,7 +7,7 @@ author: diehlpk
 ---
 
 ## Installation with dnf
-Since Fedora 28, there is an offical package for hpx compiled with gcc, openmpi, and mpich availablei in the updates-testing repo.
+Since Fedora 28, there is an offical package for hpx compiled with gcc, openmpi, and mpich available in the updates-testing repo.
 
 {% highlight bash %}
 dnf search hpx --enablerepo=updates-testing
