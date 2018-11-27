@@ -2,7 +2,7 @@
 layout: post
 title: Collection of books related to Open Source 
 categories: blog
-tags: [Research]
+tags: [OpenScience]
 author: diehlpk
 ---
 Collection of books related to open source software which I found helpful to get deeper into this topic.

@@ -38,7 +38,7 @@ hide: true
 ###### In preparation
 1. A review for benchmark experiments for validation of peridynamic models, (submitted)
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (submitted)
-1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results
+1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results, (submitted)
 1. Robust finite element implementation for non-local fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
 
@@ -126,16 +126,6 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
 --- 
-
-##### Software
-* [HPX Compute Language](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCL and CUDA within [HPX](https://github.com/STEllAR-GROUP/hpx) [![DOI](https://zenodo.org/badge/13384046.svg)](https://zenodo.org/badge/latestdoi/13384046)
-* [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses
-* [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code utilizing full field measurements obtained by digital image correlation [![DOI](https://zenodo.org/badge/46075533.svg)](https://zenodo.org/badge/latestdoi/46075533)
-* [PeriPyVFM](https://github.com/lm2-poly/PeriPyVFM) - The virtual fields method within the ordinary state-based peridynamic framework [![DOI](https://zenodo.org/badge/93547069.svg)](https://zenodo.org/badge/latestdoi/93547069)
-* [Phylanx](https://github.com/STEllAR-GROUP/phylanx) - Asynchronous Execution of Python Code on Task Based Runtime Systems
-
-
-
 
 ##### Work-related projects
 * [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/) -- Project to promote sharing of raw experimental data within the experimental mechanics community.
