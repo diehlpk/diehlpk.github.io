@@ -20,8 +20,8 @@ hide: true
 
 ##### Ferdora packages
 
-* [hpx](https://src.fedoraproject.org/rpms/hpx) - HPX is a general purpose C++ runtime system for parallel and distributed applications of any scale. 
-
+* [hpx](https://src.fedoraproject.org/rpms/hpx) - [HPX](https://github.com/STEllAR-GROUP/hpx) is a general purpose C++ runtime system for parallel and distributed applications of any scale. 
+* [blaze](https://src.fedoraproject.org/rpms/blaze) - [Blaze](https://bitbucket.org/blaze-lib/blaze/src/master/) is an open-source, high-performance C++ math library for dense and sparse arithmetic
 
 ##### Various
 
