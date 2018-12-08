@@ -6,12 +6,13 @@ hide: true
 
 #### Research interests
 * Computational engineering
-  - Peridynamic theory for composite materials,
+  - Peridynamic theory for the application in solids, like glassy or composite materials
   - Validation and verification of simulations against experimental data,
   - Assembly of experimental data for comparison with simulations,
   - Application of machine learning to experiments and simulations.
 * High Performance Computing
   - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
+  - Asynchronous many task systems and there application in computational engineering
 * Open Science
   - Open Source Software for scientific applications
   - Open data for sharing raw experimental results
