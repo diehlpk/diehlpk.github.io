@@ -10,7 +10,7 @@ author: diehlpk
 Since Fedora 28, there is an offical package for hpx compiled with gcc, openmpi, and mpich available in the updates-testing repo.
 
 {% highlight bash %}
-dnf search hpx --enablerepo=updates-testing
+dnf search hpx 
 Last metadata expiration check: 1:11:50 ago on Wed 21 Nov 2018 03:02:33 PM EST.
 ========================== Name Exactly Matched: hpx ===========================
 hpx.i686 : General Purpose C++ Runtime System
