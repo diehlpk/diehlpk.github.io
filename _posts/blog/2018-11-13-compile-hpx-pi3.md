@@ -21,19 +21,19 @@ dnf install boost-devel hwloc-devel cmake git gperftools-devel gcc-c++ automake 
 ### Compile HPX
 
 ```bash
-cmake -HPX_WITH_GENERIC_CONTEXT_COROUTINES=ON ..
+cmake -DHPX_WITH_GENERIC_CONTEXT_COROUTINES=ON ..
 make -j 1
 ```
 
 ### Generate rpm package for distribution on other Pis
 
 ```bash
-dnf install 
+dnf install rpm-build 
 ```
 
 
 ```bash
-cmake -DHPX_WITH_RPM=ON ..
+cmake  -DHPX_WITH_GENERIC_CONTEXT_COROUTINES=ON  -DHPX_WITH_RPM=ON ..
 make package
 ```
 
