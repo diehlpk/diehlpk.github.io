@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Compile HPX directly on the Raspberry Pi 3
+title: Building HPX on the Raspberry running Fedora arm
 categories: blog
 tags: [Building]
 author: diehlpk
