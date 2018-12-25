@@ -37,11 +37,13 @@ hide: true
 ##### Publications
 
 ###### In preparation
-1. A review for benchmark experiments for validation of peridynamic models, (submitted)
+1. A review for benchmark experiments for validation of peridynamic models, (accpeted)
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (submitted)
 1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results, (submitted)
 1. Robust finite element implementation for non-local fracture models
 1. Numerical verification of a state-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory
+1. Deploying Task-based Runtime Systems on Single Board Computer Clusters
+1. An overview for coupling finite elements with peridynamics
 
 ###### Journal articles
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
@@ -126,13 +128,21 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 
 Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
+---
+
+#### Co-supervised theses
+
+* Pfander, David: Eine künstliche Intelligenz für das Kartenspiel Tichu, Studienarbeit Nr. 2398, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/STUD-2398/STUD-2398.pdf)
+* Kanis, Sebastian: GPU-based Numerical Integration in the Partition of Unity Method, Diplomarbeit Nr. 3405, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/DIP-3405/DIP-3405.pdf) 
+
+
 --- 
 
 ##### Work-related projects
 * [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/) -- Project to promote sharing of raw experimental data within the experimental mechanics community.
 * [FLOSS for Science](https://flossforscience.github.io/) -- Podcast aimed at promoting the usage of Free and Libre Open Source Software in research and academia.
 
---- 
+---
 
 #### Academic-related Professional and Public Service
 
@@ -143,18 +153,26 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 ##### Mentor or organizer for [Google summer of code](https://summerofcode.withgoogle.com/)
 * <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018)
 
+---
+
 #### Reviewer for
 
 * International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures
+
+---
+
+#### Professional Organizations
+* [Society for Industrial and Applied Mathematics](https://www.siam.org/)
+* [Informatik-Forum Stuttgart e. V.](http://www.infos.informatik.uni-stuttgart.de/)
+
+---
 
 #### Presence in media
 
 * Björn Bohn. “Die jungen Wilden: Googles Summer of Code.” Heise Developer. March 2, 2018. [Post](https://www.heise.de/developer/artikel/Die-jungen-Wilden-Googles-Summer-of-Code-3979634.html)
 * European Structural Integrity Society (ESIS), "Discussion of fracture paper #21 - Only 6% of experimentalists want to disclose raw-data" August 22, 2018 [Post](http://imechanica.org/node/22590)
 
-#### Professional Organizations
-* [Society for Industrial and Applied Mathematics](https://www.siam.org/)
-* [Informatik-Forum Stuttgart e. V.](http://www.infos.informatik.uni-stuttgart.de/)
+
 
 
 ---
