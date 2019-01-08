@@ -157,7 +157,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 
 #### Reviewer for
 
-* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures
+* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications
 
 ---
 
