@@ -59,7 +59,7 @@ cmake -DCMAKE_INSTALL_PREFIX=/opt/hpx -DHPX_BUILD_EXAMPLES=Off ..
 make -j 
 make install
 {% endhighlight %}
-Add the library path of HPX to ldconfig
+Add the library path of HPX to ldconfig. Note you have to change the path depending on 32bit or 64bit
 {% highlight bash  %}
 sudo echo /opt/hpx/lib > /etc/ld.so.conf.d/hpx.conf  
 sudo ldconfig
