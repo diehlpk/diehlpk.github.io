@@ -47,7 +47,7 @@ author: diehlpk
 |Electronic packages|Graphene|83|84|
 |Dynamic crack propagation|FGM (Epoxy/Soda-lime glass)|85,86,87|88|
 
-
+Fore more details we refer to [89].
 
 ### References
 
@@ -299,7 +299,8 @@ tionally graded glass-filled epoxy. Experimental Mechanics 46(2), 269–281
 88. Cheng, Z., Zhang, G., Wang, Y., Bobaru, F.: A peridynamic model for dy-
 namic fracture in functionally graded materials. Composite Structures 133,
 529–546 (2015)
-
+89. Diehl, P., Prudhomme, S. & Lévesque, M. J Peridyn Nonlocal Model (2019). 
+[https://doi.org/10.1007/s42102-018-0004-x](https://doi.org/10.1007/s42102-018-0004-x)
 
 
 
