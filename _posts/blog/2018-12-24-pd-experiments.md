@@ -45,9 +45,9 @@ author: diehlpk
 |Ruptures in Bio membranes|Bio membranes|79|80|
 |Arctic engineering|Ice|81|82|
 |Electronic packages|Graphene|83|84|
-|Dynamic crack propagation|FGM (Epoxy/Soda-lime glass)|85,86,87|88|
+|Dynamic crack propagation|FGM (Epoxy/Soda-lime glass)|85,86|87|
 
-Fore more details we refer to [89].
+Fore more details we refer to [88].
 
 ### References
 
