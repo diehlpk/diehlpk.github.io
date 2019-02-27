@@ -44,11 +44,13 @@ hide: true
 1. An overview for coupling finite elements with peridynamics
 
 ###### Journal articles
+1. Diehl, P., Prudhomme, S. & Lévesque, M. J Peridyn Nonlocal Model (2019). [https://doi.org/10.1007/s42102-018-0004-x](https://doi.org/10.1007/s42102-018-0004-x)
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
 Fracture Mechanics, 197 (2018), pp. 21–26 [link](https://doi.org/10.1016/j.engfracmech.2018.04.030), [preprint](https://arxiv.org/abs/1803.07622) 
 1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A. Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57 [link](https://doi.org/10.1016/j.cag.2017.05.003).
 1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170 [link](http://dx.doi.org/10.1007/s10704-016-0119-5).
+
 
 ###### Series- and conference contributions
 1. P. Diehl and M. A. Schweitzer, Efficient neighbor search for particle methods on
