@@ -72,7 +72,11 @@ Computer Science, Springer International Publishing, 2016, pp. 18–31 [link](ht
 Schweitzer, Extraction of Fragments and Waves After Impact Damage in Particle-Based
 Simulations, Springer International Publishing, Cham, 2017, pp. 17–34 [link](https://link.springer.com/chapter/10.1007/978-3-319-51954-8_2).
 6. T. Heller, P. Diehl, Z. Byerly, J. Biddiscombe, and H. Kaiser, HPX - An open source C++ Standard Library for Parallelism and Concurrency, in Proceedings of OpenSuCo 2017, Denver, Colorado USA, November 2017 (OpenSuCo 17), 2017, p. 5.
-
+7. P. Diehl, M. Seshadri, T. Heller, and H. Kaiser, Integration of cuda processing within the c++ library for parallelism and concurrency (hpx), in 2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2),
+Nov 2018, pp. 19–28. [Link](https://doi.org/10.1109/ESPM2.2018.00006), [Preprint](https://arxiv.org/abs/1810.11482)
+8. R. Tohid, B. Wagle, S. Shirzad, P. Diehl, A. Serio, A. Kheirkhahan, P. Amini, K. Williams, K. Isaacs, K. Huck, S. Brandt, and H. Kaiser. Asynchronous execution of python code on task-based runtime systems. In 2018 IEEE/ACM 4th International
+Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 37–45, Nov 2018. [Link](https://doi.org/10.1109/ESPM2.2018.00009), [Preprint](https://arxiv.org/abs/1810.07591)
+  
 #### Technical reports
 1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
 
