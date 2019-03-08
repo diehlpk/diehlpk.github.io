@@ -42,6 +42,7 @@ hide: true
 1. Robust finite element implementation for non-local fracture models
 1. Deploying Task-based Runtime Systems on Single Board Computer Clusters
 1. An overview for coupling finite elements with peridynamics
+1. An Introduction to hpxMP -- A Modern OpenMP Implementation Leveraging Asynchronous Many-Tasking System, (accepted) [Preprint](https://arxiv.org/abs/1903.03023)
 
 ###### Journal articles
 1. Diehl, P., Prudhomme, S. & Lévesque, M. J Peridyn Nonlocal Model (2019). [Link](https://doi.org/10.1007/s42102-018-0004-x)
