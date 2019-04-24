@@ -42,6 +42,7 @@ hide: true
 1. Robust finite element implementation for non-local fracture models
 1. Deploying Task-based Runtime Systems on Single Board Computer Clusters
 1. An overview for coupling finite elements with peridynamics
+1. Moving into the future - ensuring deep compatibility betwwen OpenMP and AMTs
 1. An Introduction to hpxMP -- A Modern OpenMP Implementation Leveraging Asynchronous Many-Tasking System, (accepted) [Preprint](https://arxiv.org/abs/1903.03023)
 
 ###### Journal articles
@@ -162,7 +163,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 
 #### Reviewer for
 
-* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications
+* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications,International Journal of Fracture
 
 ---
 
