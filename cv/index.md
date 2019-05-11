@@ -157,8 +157,10 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
 
 ##### Mentor or organizer for [Google summer of code](https://summerofcode.withgoogle.com/) and [Google season of Docs](https://developers.google.com/season-of-docs/)
+
 * GSoC <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018)
 * GSoD <a href="http://stellar-group.org/">Ste||ar Group</a>: [2019](https://developers.google.com/season-of-docs/docs/participants/)
+
 ---
 
 #### Reviewer for
