@@ -159,7 +159,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 ##### Workshops organized
 
 1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
-prediction and experimental design
+prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ##### Mentor or organizer for [Google summer of code](https://summerofcode.withgoogle.com/) and [Google season of Docs](https://developers.google.com/season-of-docs/)
 
