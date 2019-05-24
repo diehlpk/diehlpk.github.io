@@ -169,7 +169,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 #### Reviewer for
 
-* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications,International Journal of Fracture
+* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing
 
 ---
 
