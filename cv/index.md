@@ -38,14 +38,15 @@ hide: true
 
 ###### In preparation
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (submitted)
-1. Hybrid image processing approach for crack area detection and tracking using Digital Image Correlation results, (accepted)
 1. Deploying Task-based Runtime Systems on Single Board Computer Clusters
 1. An overview for coupling finite elements with peridynamics
 1. Moving into the future - ensuring deep compatibility betwwen OpenMP and AMTs, (submitted)
 1. An Introduction to hpxMP -- A Modern OpenMP Implementation Leveraging Asynchronous Many-Tasking System, (accepted) [Preprint](https://arxiv.org/abs/1903.03023)
 
 ###### Journal articles
-1. Diehl, P., Prudhomme, S. & Lévesque, M., A Review of Benchmark Experiments for the Validation of Peridynamics Models, J Peridyn Nonlocal Model (2019). [Link](https://doi.org/10.1007/s42102-018-0004-x)
+1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
+local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019).
+1. Diehl, P., Prudhomme, S. and  Lévesque, M., A Review of Benchmark Experiments for the Validation of Peridynamics Models, J Peridyn Nonlocal Model (2019). [Link](https://doi.org/10.1007/s42102-018-0004-x)
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
 Fracture Mechanics, 197 (2018), pp. 21–26 [link](https://doi.org/10.1016/j.engfracmech.2018.04.030), [preprint](https://arxiv.org/abs/1803.07622) 
