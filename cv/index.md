@@ -45,7 +45,7 @@ hide: true
 
 ###### Journal articles
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
-local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019).
+local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019). [Link](https://doi.org/10.1016/j.engfracmech.2019.106485)
 1. Diehl, P., Prudhomme, S. and  Lévesque, M., A Review of Benchmark Experiments for the Validation of Peridynamics Models, J Peridyn Nonlocal Model (2019). [Link](https://doi.org/10.1007/s42102-018-0004-x)
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
