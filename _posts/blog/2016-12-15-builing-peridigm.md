@@ -160,10 +160,20 @@ cmake \
 make -j
 {% endhighlight %}
 
-## Running Peridigm
+## Running Peridigm 
 {% highlight bash %}
 export LD_LIBRARY_PATH=/data/diehl/local/openmpi-2.0.1/lib/:/home/diehl/local/openmpi-2.0.1/lib/:$LD_LIBRARY_PATH
 export LIBRARY_PATH=/data/diehl/local/openmpi-2.0.1/lib/:/home/diehl/local/openmpi-2.0.1/lib/:$LIBRARY_PATH
  mpiexec -np 1 ./src/Peridigm ../examples/twist_and_pull/twist_and_pull.peridigm
 {% endhighlight %}
 
+## Preparing parallel runs
+
+Note that for parallel runs, you need to splice your geometry file
+
+{% highlight bash %}
+cd examples/disk_impact/
+decomp -p 4 disk_impact.g
+{% endhighlight %}
+
+using the decomp tool provided by Trilinos. 
