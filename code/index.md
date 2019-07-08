@@ -12,8 +12,7 @@ hide: true
 ##### Python
 
 * [Phylanx](https://github.com/STEllAR-GROUP/phylanx) - Asynchronous Execution of Python Code on Task Based Runtime Systems
-* [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code utilizing full field measurements obtained by digital image correlation 
-[![DOI](https://zenodo.org/badge/46075533.svg)](https://zenodo.org/badge/latestdoi/46075533)
+* [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code utilizing full field measurements obtained by digital image correlation [![DOI](https://zenodo.org/badge/46075533.svg)](https://zenodo.org/badge/latestdoi/46075533)
 * [PeriPyVFM](https://github.com/lm2-poly/PeriPyVFM) - The virtual fields method within the ordinary state-based peridynamic framework 
 [![DOI](https://zenodo.org/badge/93547069.svg)](https://zenodo.org/badge/latestdoi/93547069)
 
