@@ -132,7 +132,8 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 20. --, Integration of CUDA Processing within the C++ library for parallelism and concurrency (HPX). IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2’18), 12.11-16.11 2018, Dallas, USA.
 21. --, Implementation of Peridynamics utilizing HPX–the C++ standard library for parallelism and concurrency. Engineering Mechanics Institute Conference, 18.06-21.06 2019, Pasadena, USA.
 22. --, An overview for coupling finite elements with peridynamics, International Congress on Industrial and Applied Mathematics, 15.07-19.07.2019, Valencia, Spain
-
+23. --, Computational Analysis of Coupling Methods for Classical Continuum Mechanics and Peridynamics Models, 15th U.S. National Congress on Computational Mechanics
+(USNCCM15), 28.07-01.08 2019, Austin, USA.
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
 
@@ -165,7 +166,7 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
 prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
-##### Mentor or organizer for [Google summer of code](https://summerofcode.withgoogle.com/) and [Google season of Docs](https://developers.google.com/season-of-docs/)
+##### Mentor or organizer for [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
 
 * GSoC <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018)
 * GSoD <a href="http://stellar-group.org/">Ste||ar Group</a>: [2019](https://developers.google.com/season-of-docs/docs/participants/)
