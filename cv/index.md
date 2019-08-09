@@ -38,6 +38,7 @@ hide: true
 
 ###### In preparation
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accpeted)
+1. From Piz Daint to the Stars: Simulation of Stellar Mergers using High-Level Abstractions, (accepted) [Preprint](https://arxiv.org/abs/1908.03121)
 1. Deploying Task-based Runtime Systems on Single Board Computer Clusters
 1. An overview for coupling finite elements with peridynamics
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
