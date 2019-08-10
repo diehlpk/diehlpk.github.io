@@ -38,6 +38,7 @@ hide: true
 
 ###### In preparation
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accpeted)
+1. From Piz Daint to the Stars: Simulation of Stellar Mergers using High-Level Abstractions, (accepted) [Preprint](https://arxiv.org/abs/1908.03121)
 1. Deploying Task-based Runtime Systems on Single Board Computer Clusters
 1. An overview for coupling finite elements with peridynamics
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
@@ -134,6 +135,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 22. --, An overview for coupling finite elements with peridynamics, International Congress on Industrial and Applied Mathematics, 15.07-19.07.2019, Valencia, Spain
 23. --, Computational Analysis of Coupling Methods for Classical Continuum Mechanics and Peridynamics Models, 15th U.S. National Congress on Computational Mechanics
 (USNCCM15), 28.07-01.08 2019, Austin, USA.
+
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
 
