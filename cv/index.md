@@ -12,7 +12,7 @@ hide: true
   - Application of machine learning to experiments and simulations.
 * High Performance Computing
   - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
-  - Asynchronous many task systems and there application in computational engineering
+  - Asynchronous many task systems and their application in computational engineering
 * Open Science
   - Open Source Software for scientific applications
   - Open data for sharing raw experimental results
