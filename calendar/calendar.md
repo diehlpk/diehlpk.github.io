@@ -34,7 +34,7 @@ permalink: /calendar/
       // THIS KEY WON'T WORK IN PRODUCTION!!!
       // To make your own Google API key, follow the directions here:
       // http://fullcalendar.io/docs/google_calendar/
-      googleCalendarApiKey: 'AIzaSyDcnW6WejpTOCffshGDDb4neIrXVUA1EAE',
+      googleCalendarApiKey: 'AIzaSyCcN07bgoXITC7FBY7mq5mnYVR05fIUh9k',
 
       // US Holidays
       events: 'cf96q2jcqhgh2jh5rt0rc49jns@group.calendar.google.com',
