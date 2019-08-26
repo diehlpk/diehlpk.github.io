@@ -16,6 +16,27 @@ permalink: /calendar/
 <script src='https://unpkg.com/@fullcalendar/list@4.3.0/main.min.js'></script>
 <script src='https://unpkg.com/@fullcalendar/google-calendar@4.3.0/main.min.js'></script>
 
+<style>
+
+#calendarContainer {
+  width: 500px;
+  height: 500px;
+}
+
+.fc-scroller {
+  height: auto !important;
+}
+
+.fc-head .fc-widget-header {
+  margin-right: 0 !important;
+}
+
+.fc-scroller {
+  overflow: visible !important;
+}
+
+</style>
+
   <script>
 
   document.addEventListener('DOMContentLoaded', function() {
@@ -26,7 +47,8 @@ permalink: /calendar/
       header: {
         left: 'prev,next today',
         center: 'title',
-        right: 'dayGridMonth,listYear'
+        right: 'dayGridMonth,listYear',
+       
       },
 
       displayEventTime: false, // don't show the time column in list view
@@ -58,4 +80,6 @@ permalink: /calendar/
 </script>
 
 
-<div id='calendar'></div>
+<div id="calendarContainer">
+  <div id="calendar"></div>
+</div>
