@@ -53,9 +53,9 @@ permalink: /calendar/
       header: {
         left: 'prev',
         center: 'title',
-        right: 'next today'
-       
+        right: 'next today' 
       },
+      firstDay: 1,
 
       displayEventTime: false, // don't show the time column in list view
 
