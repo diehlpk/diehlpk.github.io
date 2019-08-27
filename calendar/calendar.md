@@ -35,6 +35,12 @@ permalink: /calendar/
   overflow: visible !important;
 }
 
+.fc-today {
+    background: #FFF !important;
+    border: none !important;
+    border-top: 1px solid #ddd !important;
+    font-weight: bold;
+} 
 </style>
 
   <script>
