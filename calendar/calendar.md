@@ -49,11 +49,11 @@ permalink: /calendar/
     var calendarEl = document.getElementById('calendar');
 
     var calendar = new FullCalendar.Calendar(calendarEl, {
-      plugins: [ 'dayGrid', 'list', 'googleCalendar' ],
+      plugins: [ 'dayGrid', 'googleCalendar' ],
       header: {
-        left: 'prev,next today',
+        left: 'prev',
         center: 'title',
-        right: 'dayGridMonth,listYear',
+        right: 'next today'
        
       },
 
