@@ -38,13 +38,13 @@ hide: true
 
 ###### In preparation
 
-####### Computaitonal Mathematics
+* Computaitonal Mathematics
 
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accpeted to Journal of Peridynamics and Nonlocal Modeling)
 1. An overview for coupling finite elements with peridynamics
 1. On the treatment of boundary conditions for bond-based peridynamic models
 
-####### Computer Science 
+* Computer Science 
 
 1. From Piz Daint to the Stars: Simulation of Stellar Mergers using High-Level Abstractions, (accepted to SC19) [Preprint](https://arxiv.org/abs/1908.03121)
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
