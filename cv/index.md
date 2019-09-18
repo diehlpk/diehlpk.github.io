@@ -37,13 +37,18 @@ hide: true
 ##### Publications
 
 ###### In preparation
-1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accpeted)
-1. From Piz Daint to the Stars: Simulation of Stellar Mergers using High-Level Abstractions, (accepted) [Preprint](https://arxiv.org/abs/1908.03121)
-1. Deploying Task-based Runtime Systems on Single Board Computer Clusters
+
+####### Computaitonal Mathematics
+
+1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accpeted to Journal of Peridynamics and Nonlocal Modeling)
 1. An overview for coupling finite elements with peridynamics
+1. On the treatment of boundary conditions for bond-based peridynamic models
+
+####### Computer Science 
+
+1. From Piz Daint to the Stars: Simulation of Stellar Mergers using High-Level Abstractions, (accepted to SC19) [Preprint](https://arxiv.org/abs/1908.03121)
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
-1. Energy consumption of AMT-based Machine Learning on conventional systems and Raspberry PI
-1. Scheduling optimization of parallel linear algebra algorithms using Supervised Learning
+1. Scheduling optimization of parallel linear algebra algorithms using Supervised Learning. [Preprint](https://arxiv.org/abs/1909.03947)
 
 ###### Journal articles
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
@@ -51,9 +56,9 @@ local digital image correlation results applied to single-fiber interfacial debo
 1. Diehl, P., Prudhomme, S. and  Lévesque, M., A Review of Benchmark Experiments for the Validation of Peridynamics Models, J Peridyn Nonlocal Model (2019). [Link](https://doi.org/10.1007/s42102-018-0004-x)
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
-Fracture Mechanics, 197 (2018), pp. 21–26 [link](https://doi.org/10.1016/j.engfracmech.2018.04.030), [preprint](https://arxiv.org/abs/1803.07622) 
-1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A. Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57 [link](https://doi.org/10.1016/j.cag.2017.05.003), [Results](https://youtu.be/KfOKVWmDqRw), [Demo](https://youtu.be/0x2TDbetZB4).
-1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170 [link](http://dx.doi.org/10.1007/s10704-016-0119-5).
+Fracture Mechanics, 197 (2018), pp. 21–26. [Link](https://doi.org/10.1016/j.engfracmech.2018.04.030), [Preprint](https://arxiv.org/abs/1803.07622) 
+1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A. Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57. [Link](https://doi.org/10.1016/j.cag.2017.05.003), [Results](https://youtu.be/KfOKVWmDqRw), [Demo](https://youtu.be/0x2TDbetZB4).
+1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170. [Link](http://dx.doi.org/10.1007/s10704-016-0119-5).
 
 
 ###### Series- and conference contributions
