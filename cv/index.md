@@ -166,7 +166,8 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 
 ##### Mini-symposia organized
 
-1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402)) 
+1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402))
+2. Peridynamic theory and multiscale methods for complex material behavior, 14th World Congress on Computational Mechanics (WCCM XIV) 
 
 ##### Workshops organized
 
