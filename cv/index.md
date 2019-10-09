@@ -48,7 +48,8 @@ hide: true
 
 1. From Piz Daint to the Stars: Simulation of Stellar Mergers using High-Level Abstractions, (accepted to SC19) [Preprint](https://arxiv.org/abs/1908.03121)
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
-1. Scheduling optimization of parallel linear algebra algorithms using Supervised Learning. [Preprint](https://arxiv.org/abs/1909.03947)
+1. Scheduling optimization of parallel linear algebra algorithms using Supervised Learning, (accepted at HPCML19) [Preprint](https://arxiv.org/abs/1909.03947)
+1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
 
 ###### Journal articles
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
