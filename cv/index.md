@@ -43,6 +43,7 @@ hide: true
 1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accpeted to Journal of Peridynamics and Nonlocal Modeling)
 1. An overview for coupling finite elements with peridynamics
 1. On the treatment of boundary conditions for bond-based peridynamic models, (submitted)
+1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
 
 * Computer Science 
 
