@@ -34,13 +34,19 @@ hide: true
 
 --- 
 
+##### Awards
+
+1. IEEE SCIVIS Contest 2019, First Prize, Visual Analysis of Structure Formation in Cosmic Evolution. [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg).
+
+
+
 ##### Publications
 
 ###### In preparation
 
-* Computaitonal Mathematics
+* Computational Mathematics
 
-1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accpeted to Journal of Peridynamics and Nonlocal Modeling)
+1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accepted to Journal of Peridynamics and Nonlocal Modeling), [Preprint]()
 1. An overview for coupling finite elements with peridynamics
 1. On the treatment of boundary conditions for bond-based peridynamic models, (submitted)
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
@@ -51,6 +57,7 @@ hide: true
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
 1. Scheduling optimization of parallel linear algebra algorithms using Supervised Learning, (accepted at HPCML19) [Preprint](https://arxiv.org/abs/1909.03947)
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
+1. Visual Analysis of Structure Formation in Cosmic Evolution, (accepted), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw) 
 
 ###### Journal articles
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
