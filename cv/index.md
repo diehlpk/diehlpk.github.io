@@ -38,7 +38,7 @@ hide: true
 
 1. IEEE SCIVIS Contest 2019, First Prize, Visual Analysis of Structure Formation in Cosmic Evolution. [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg).
 
-
+---
 
 ##### Publications
 
