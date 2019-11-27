@@ -53,13 +53,13 @@ hide: true
 
 * Computer Science 
 
-1. From Piz Daint to the Stars: Simulation of Stellar Mergers using High-Level Abstractions, (accepted to SC19) [Preprint](https://arxiv.org/abs/1908.03121)
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
 1. Scheduling optimization of parallel linear algebra algorithms using Supervised Learning, (accepted at HPCML19) [Preprint](https://arxiv.org/abs/1909.03947)
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
 1. Visual Analysis of Structure Formation in Cosmic Evolution, (accepted), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw) 
 
 ###### Journal articles
+1. Daiß G, Amini P, Biddiscombe J, Diehl P, Frank J, Huck K, Kaiser H, Marcello D, Pfander D, Pfüger D. From piz daint to the stars: simulation of stellar mergers using high-level abstractions. InProceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2019 Nov 17 (p. 62). ACM. [Link](https://doi.org/10.1145/3295500.3356221), [Preprint](https://arxiv.org/abs/1908.03121)
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
 local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019). [Link](https://doi.org/10.1016/j.engfracmech.2019.106485)
 1. Diehl, P., Prudhomme, S. and  Lévesque, M., A Review of Benchmark Experiments for the Validation of Peridynamics Models, J Peridyn Nonlocal Model (2019). [Link](https://doi.org/10.1007/s42102-018-0004-x)
