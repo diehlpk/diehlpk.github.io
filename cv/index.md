@@ -198,6 +198,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 #### Professional Organizations
 * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
+* [Association for Computing Machinery](https://www.acm.org/)
 * [Informatik-Forum Stuttgart e. V.](http://www.infos.informatik.uni-stuttgart.de/)
 
 ---
