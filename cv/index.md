@@ -157,6 +157,12 @@ Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](htt
 
 ---
 
+#### Courses
+
+* Math 4997-3 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
+
+---
+
 #### Co-supervised theses
 
 * Pfander, David: Eine künstliche Intelligenz für das Kartenspiel Tichu, Studienarbeit Nr. 2398, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/STUD-2398/STUD-2398.pdf)
