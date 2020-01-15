@@ -161,7 +161,7 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 
 * Math 4997-3 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
 
-Also available as as [PDF document]({{ site.url }}/assets/cv.pdf) with more details.
+Also available as as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
 
 ---
 
