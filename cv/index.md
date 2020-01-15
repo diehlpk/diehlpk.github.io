@@ -153,13 +153,15 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
 
-Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
+Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
 
 ---
 
 #### Courses
 
 * Math 4997-3 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
+
+Also available as as [PDF document]({{ site.url }}/assets/cv.pdf) with more details.
 
 ---
 
@@ -219,7 +221,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ---
 
-My [CV]({{ site.url }}/assets/cv.pdf) is also available as a PDF file.
+My [CV]({{ site.url }}/assets/cv.pdf) is also available as a PDF document file.
 	
 
 If you like to <a href="mailto:me@diehlpk.de?subject=[Blog]">send</a> me a encrypted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.
