@@ -46,7 +46,6 @@ hide: true
 
 * Computational Mathematics
 
-1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accepted to Journal of Peridynamics and Nonlocal Modeling), [Preprint](https://engrxiv.org/uv8m7/)
 1. An overview for coupling finite elements with peridynamics
 1. On the treatment of boundary conditions for bond-based peridynamic models, (submitted)
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
@@ -59,10 +58,13 @@ hide: true
 1. Visual Analysis of Structure Formation in Cosmic Evolution, (accepted), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw), and [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
 
 ###### Journal articles
-1. Daiß G, Amini P, Biddiscombe J, Diehl P, Frank J, Huck K, Kaiser H, Marcello D, Pfander D, Pfüger D. From piz daint to the stars: simulation of stellar mergers using high-level abstractions. InProceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2019 Nov 17 (p. 62). ACM. [Link](https://doi.org/10.1145/3295500.3356221), [Preprint](https://arxiv.org/abs/1908.03121)
+1. Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, and Martin
+Lévesque. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework. Journal of Peridynamics and Nonlocal Modeling, Jan 2020. [Link](https://link.springer.com/article/10.1007%2Fs42102-019-00025-7), [Preprint](https://engrxiv.org/uv8m7/)
+1. Daiß G, Amini P, Biddiscombe J, Diehl P, Frank J, Huck K, Kaiser H, Marcello D, Pfander D, Pfüger D. From piz daint to the stars: simulation of stellar mergers using high-level abstractions. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2019 Nov 17 (p. 62). ACM. [Link](https://doi.org/10.1145/3295500.3356221), [Preprint](https://arxiv.org/abs/1908.03121)
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
 local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019). [Link](https://doi.org/10.1016/j.engfracmech.2019.106485)
-1. Diehl, P., Prudhomme, S. and  Lévesque, M., A Review of Benchmark Experiments for the Validation of Peridynamics Models, J Peridyn Nonlocal Model (2019). [Link](https://doi.org/10.1007/s42102-018-0004-x)
+1. Patrick Diehl, Serge Prudhomme, and Martin Lévesque. A review of benchmark experiments for the validation of peridynamics models. Journal of Peridynamics and
+Nonlocal Modeling, 1(1):14–35, 2019 [Link](https://doi.org/10.1007/s42102-018-0004-x)
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
 Fracture Mechanics, 197 (2018), pp. 21–26. [Link](https://doi.org/10.1016/j.engfracmech.2018.04.030), [Preprint](https://arxiv.org/abs/1803.07622) 
