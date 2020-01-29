@@ -53,7 +53,6 @@ hide: true
 * Computer Science 
 
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
-1. Scheduling optimization of parallel linear algebra algorithms using Supervised Learning, (accepted at HPCML19) [Preprint](https://arxiv.org/abs/1909.03947)
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
 1. Visual Analysis of Structure Formation in Cosmic Evolution, (accepted), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw), and [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
 
