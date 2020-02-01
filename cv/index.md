@@ -54,7 +54,6 @@ hide: true
 
 1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
-1. Visual Analysis of Structure Formation in Cosmic Evolution, (accepted), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw), and [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
 
 ###### Journal articles
 1. Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, and Martin
@@ -96,7 +95,9 @@ Nov 2018, pp. 19–28. [Link](https://doi.org/10.1109/ESPM2.2018.00006), [Prepri
 8. R. Tohid, B. Wagle, S. Shirzad, P. Diehl, A. Serio, A. Kheirkhahan, P. Amini, K. Williams, K. Isaacs, K. Huck, S. Brandt, and H. Kaiser. Asynchronous execution of python code on task-based runtime systems. In 2018 IEEE/ACM 4th International
 Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 37–45, Nov 2018. [Link](https://doi.org/10.1109/ESPM2.2018.00009), [Preprint](https://arxiv.org/abs/1810.07591)
 9. Tianyi Zhang, Shahrzad Shirzad, Patrick Diehl, R. Tohid, Weile Wei, and Hartmut Kaiser. An introduction to hpxmp: A modern openmp implementation leveraging hpx, an asynchronous many-task system. In Proceedings of the International Workshop on OpenCL, IWOCL’19, pages 13:1–13:10, 2018. [Link](https://dl.acm.org/citation.cfm?doid=3318170.3318191), [Preprint](https://arxiv.org/abs/1903.03023)
- 
+10. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
+,[Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), and [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw).
+
 #### Technical reports
 1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
 
