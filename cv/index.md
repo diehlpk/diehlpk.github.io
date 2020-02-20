@@ -100,6 +100,9 @@ Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 37–
 
 #### Technical reports
 1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
+2. T. ZHANG, S. SHIRZAD, B. WAGLE, A. S. LEMOINE, P. DIEHL, AND H. KAISER, Supporting
+openmp 5.0 tasks in hpxmp – a study of an openmp implementation within task based
+runtime systems, tech. rep., arXiv, 2020. [link](https://arxiv.org/abs/2002.07970)
 
 #### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
