@@ -52,7 +52,6 @@ hide: true
 
 * Computer Science 
 
-1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
 
 ###### Journal articles
