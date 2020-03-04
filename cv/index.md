@@ -203,6 +203,12 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ---
 
+##### Conferences/Workshop grants
+
+1. **AmeriMech**: Experimental and Computational Fracture Mechanics: Validating peridynamics and phase field models for fracture prediction and experimental design ($4000)
+
+---
+
 #### Reviewer for
 
 * International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing,International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering.
