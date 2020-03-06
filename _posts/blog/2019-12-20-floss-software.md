@@ -24,6 +24,10 @@ author: diehlpk
 * [Audacity](https://www.audacityteam.org/) - Editing audio files
 * [KWave](https://kde.org/applications/multimedia/org.kde.kwave) - Recording audio
 
+## Teaching 
+
+* [asciinema](https://asciinema.org/) - Recording bash sessions
+
 ## Miscellaneous
 
 * [Gmsh](http://gmsh.info/) - Mesh generation
