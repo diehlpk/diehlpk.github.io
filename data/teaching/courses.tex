@@ -1,0 +1,48 @@
+\documentclass[11pt,a4paper]{article}
+%\pdfminorversion=5
+%\pdfobjcompresslevel=3 
+%\pdfcompresslevel=9
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{fontspec}
+\setmainfont{Raleway}
+
+\usepackage[resetlabels]{multibib}
+\newcites{book,talk,poster,thesis,journal,reports,pre,exp}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Technical reports},{Preprints},{Raw experimental data}}
+
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{etoolbox}
+\usepackage{a4wide}
+\usepackage[hidelinks]{hyperref}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{Dr. Patrick Diehl}
+\fancyhead[L]{Courses}
+\fancyfoot[C]{(\thepage /\pageref{LastPage})}
+\fancyfoot[R]{\today}
+
+\definecolor{color1}{rgb}{0.,0.,0.}% light blue
+\definecolor{color2}{rgb}{0.45,0.45,0.45}% dark grey}
+
+\renewcommand{\headrulewidth}{2pt}
+\patchcmd{\headrule}{\hrule}{\color{color1}\hrule}{}{}
+\renewcommand{\footrulewidth}{1pt}
+\patchcmd{\footrule}{\hrule}{\color{color2}\hrule}{}{}
+
+
+\begin{document}
+
+\section*{Mathematics}
+
+\subsection*{Parallel Computations Mathematics}
+
+This course will focus on the parallel implementation of computational mathematics problems using modern accelerated C++. The aim of this course is to learn how to quickly write useful efficient C++ programs. The students will not learn low-level C/C++ instead they will learn howto use high-level data structures, iterators, generic strings, and streams (including interactive and file I/O) of the C++ ISO Standard library. In addition, highly-optimized linear algebra libraries are introduced since the course teaches to solve problems, instead of explaining low-level C++ and computer science algorithms, like sorting algorithms, which are provided in the C++ standard library.
+\begin{itemize}
+\item Taught @LSU: Fall 2019
+\item \href{https://github.com/diehlpkteaching/ParallelComputationMath}{Slides} and \href{https://github.com/diehlpkteaching/ParallelComputationMathExercise}{Exercises}
+\end{itemize}
+
+\label{LastPage}             
+\end{document}

@@ -46,23 +46,22 @@ hide: true
 
 * Computational Mathematics
 
-1. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework, (accepted to Journal of Peridynamics and Nonlocal Modeling), [Preprint](https://engrxiv.org/uv8m7/)
 1. An overview for coupling finite elements with peridynamics
 1. On the treatment of boundary conditions for bond-based peridynamic models, (submitted)
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
 
 * Computer Science 
 
-1. Moving into the future - ensuring deep compatibility between OpenMP and AMTs
-1. Scheduling optimization of parallel linear algebra algorithms using Supervised Learning, (accepted at HPCML19) [Preprint](https://arxiv.org/abs/1909.03947)
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
-1. Visual Analysis of Structure Formation in Cosmic Evolution, (accepted), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw) 
 
 ###### Journal articles
-1. Daiß G, Amini P, Biddiscombe J, Diehl P, Frank J, Huck K, Kaiser H, Marcello D, Pfander D, Pfüger D. From piz daint to the stars: simulation of stellar mergers using high-level abstractions. InProceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2019 Nov 17 (p. 62). ACM. [Link](https://doi.org/10.1145/3295500.3356221), [Preprint](https://arxiv.org/abs/1908.03121)
+1. Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, and Martin
+Lévesque. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework. Journal of Peridynamics and Nonlocal Modeling, Jan 2020. [Link](https://link.springer.com/article/10.1007%2Fs42102-019-00025-7), [Preprint](https://engrxiv.org/uv8m7/)
+1. Daiß G, Amini P, Biddiscombe J, Diehl P, Frank J, Huck K, Kaiser H, Marcello D, Pfander D, Pfüger D. From piz daint to the stars: simulation of stellar mergers using high-level abstractions. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2019 Nov 17 (p. 62). ACM. [Link](https://doi.org/10.1145/3295500.3356221), [Preprint](https://arxiv.org/abs/1908.03121)
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
 local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019). [Link](https://doi.org/10.1016/j.engfracmech.2019.106485)
-1. Diehl, P., Prudhomme, S. and  Lévesque, M., A Review of Benchmark Experiments for the Validation of Peridynamics Models, J Peridyn Nonlocal Model (2019). [Link](https://doi.org/10.1007/s42102-018-0004-x)
+1. Patrick Diehl, Serge Prudhomme, and Martin Lévesque. A review of benchmark experiments for the validation of peridynamics models. Journal of Peridynamics and
+Nonlocal Modeling, 1(1):14–35, 2019 [Link](https://doi.org/10.1007/s42102-018-0004-x)
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
 Fracture Mechanics, 197 (2018), pp. 21–26. [Link](https://doi.org/10.1016/j.engfracmech.2018.04.030), [Preprint](https://arxiv.org/abs/1803.07622) 
@@ -95,9 +94,14 @@ Nov 2018, pp. 19–28. [Link](https://doi.org/10.1109/ESPM2.2018.00006), [Prepri
 8. R. Tohid, B. Wagle, S. Shirzad, P. Diehl, A. Serio, A. Kheirkhahan, P. Amini, K. Williams, K. Isaacs, K. Huck, S. Brandt, and H. Kaiser. Asynchronous execution of python code on task-based runtime systems. In 2018 IEEE/ACM 4th International
 Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 37–45, Nov 2018. [Link](https://doi.org/10.1109/ESPM2.2018.00009), [Preprint](https://arxiv.org/abs/1810.07591)
 9. Tianyi Zhang, Shahrzad Shirzad, Patrick Diehl, R. Tohid, Weile Wei, and Hartmut Kaiser. An introduction to hpxmp: A modern openmp implementation leveraging hpx, an asynchronous many-task system. In Proceedings of the International Workshop on OpenCL, IWOCL’19, pages 13:1–13:10, 2018. [Link](https://dl.acm.org/citation.cfm?doid=3318170.3318191), [Preprint](https://arxiv.org/abs/1903.03023)
- 
+10. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
+,[Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), and [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw).
+
 #### Technical reports
 1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
+2. T. ZHANG, S. SHIRZAD, B. WAGLE, A. S. LEMOINE, P. DIEHL, AND H. KAISER, Supporting
+openmp 5.0 tasks in hpxmp – a study of an openmp implementation within task based
+runtime systems, tech. rep., arXiv, 2020. [link](https://arxiv.org/abs/2002.07970)
 
 #### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
@@ -146,14 +150,23 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 19. --, A Review for Benchmark Experiments against Peridynamic Models. 13th. World Congress on Computational Mechanics (WCCM XIII), 23.07-27.07 2018, New York City, US. 
 20. --, Integration of CUDA Processing within the C++ library for parallelism and concurrency (HPX). IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2’18), 12.11-16.11 2018, Dallas, USA.
 21. --, Implementation of Peridynamics utilizing HPX–the C++ standard library for parallelism and concurrency. Engineering Mechanics Institute Conference, 18.06-21.06 2019, Pasadena, USA.
-22. --, An overview for coupling finite elements with peridynamics, International Congress on Industrial and Applied Mathematics, 15.07-19.07.2019, Valencia, Spain
+22. --, An overview for coupling finite elements with peridynamics, International Congress on Industrial and Applied Mathematics, 15.07-19.07 2019, Valencia, Spain
 23. --, Computational Analysis of Coupling Methods for Classical Continuum Mechanics and Peridynamics Models, 15th U.S. National Congress on Computational Mechanics
 (USNCCM15), 28.07-01.08 2019, Austin, USA.
+24. --, Long term availability of raw experimental data in experimental fracture mechanics, Scientific Computing Around Louisiana (SCALA), 07.02-08.02 2020, Baton Rouge, USA.
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
 
-Also available as [PDF]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
+Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
+
+---
+
+#### Courses
+
+* Math 4997-3 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
+
+Also available as as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
 
 ---
 
@@ -190,6 +203,12 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ---
 
+##### Conferences/Workshop grants
+
+1. **AmeriMech**: Experimental and Computational Fracture Mechanics: Validating peridynamics and phase field models for fracture prediction and experimental design ($4000)
+
+---
+
 #### Reviewer for
 
 * International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing,International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering.
@@ -213,7 +232,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ---
 
-My [CV]({{ site.url }}/assets/cv.pdf) is also available as a PDF file.
+My [CV]({{ site.url }}/assets/cv.pdf) is also available as a PDF document file.
 	
 
 If you like to <a href="mailto:me@diehlpk.de?subject=[Blog]">send</a> me a encrypted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.

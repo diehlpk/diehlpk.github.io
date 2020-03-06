@@ -416,20 +416,18 @@ Scale Programming Models and Middleware (ESPM2'18)}},
   Year                     = {2018, Dallas, USA}
 }
 
-@Article{Diehl2019survey,
-author="Diehl, Patrick
-and Prudhomme, Serge
-and L{\'e}vesque, Martin",
-title="A Review of Benchmark Experiments for the Validation of Peridynamics Models",
-journal="Journal of Peridynamics and Nonlocal Modeling",
-year="2019",
-month="Feb",
-day="12",
-abstract="Peridynamics (PD), a non-local generalization of classical continuum mechanics (CCM) allowing for discontinuous displacement fields, provides an attractive framework for the modeling and simulation of fracture mechanics applications. However, PD introduces new model parameters, such as the so-called horizon parameter. The length scale of the horizon is a priori unknown and need to be identified. Moreover, the treatment of the boundary conditions is also problematic due to the non-local nature of PD models. It has thus become crucial to calibrate the new PD parameters and assess the model adequacy based on experimental observations. The objective of the present paper is to review and catalog available experimental setups that have been used to date for the calibration and validation of peridynamics. We have identified and analyzed a total of 39 publications that compare PD-based simulation results with experimental data. In particular, we have systematically reported, whenever possible, either the relative error or the R-squared coefficient. The best correlations were obtained in the case of experiments involving aluminum and steel materials. Experiments based on imaging techniques were also considered. However, images provide large amounts of information and their comparison with simulations is in that case far from trivial. A total of six publications have been identified and summarized that introduce numerical techniques for extracting additional attributes from peridynamics simulations in order to facilitate the comparison against image-based data.",
-issn="2522-8978",
-doi="10.1007/s42102-018-0004-x",
-url="https://doi.org/10.1007/s42102-018-0004-x"
+
+@article{Diehl2019survey,
+  title={A review of benchmark experiments for the validation of peridynamics models},
+  author={Diehl, Patrick and Prudhomme, Serge and L{\'e}vesque, Martin},
+  journal={Journal of Peridynamics and Nonlocal Modeling},
+  volume={1},
+  number={1},
+  pages={14--35},
+  year={2019},
+  publisher={Springer}
 }
+
 
 @article{TABIAI2019106485,
 title = "Hybrid image processing approach for autonomous crack area detection and tracking using local digital image correlation results applied to single-fiber interfacial debonding",
@@ -511,12 +509,18 @@ abstract = "Local digital image correlation is a popular method for accurate ful
 } 
 
 
-@article{laberge2019scheduling,
-  title={Scheduling optimization of parallel linear algebra algorithms using Supervised Learning},
-  author={Laberge, Gabriel and Shirzad, Shahrzad and Diehl, Patrick and Kaiser, Hartmut and Prudhomme, Serge and Lemoine, A},
-  journal={arXiv preprint arXiv:1909.03947},
-  year={2019}
-}
+@INPROCEEDINGS{laberge2019scheduling,
+author={G. {Laberge} and S. {Shirzad} and P. {Diehl} and H. {Kaiser} and S. {Prudhomme} and A. S. {Lemoine}},
+booktitle={2019 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)},
+title={Scheduling Optimization of Parallel Linear Algebra Algorithms Using Supervised Learning},
+year={2019},
+volume={},
+number={},
+pages={31-43},
+keywords={},
+doi={10.1109/MLHPC49564.2019.00009},
+ISSN={null},
+month={Nov}}
 
 @article{delorme_diehl_tabiai_lebel_levesque_2019,
  title={Extracting elastic constitutive parameters using the VFM within peridynamics},
@@ -526,4 +530,53 @@ abstract = "Local digital image correlation is a popular method for accurate ful
  author={Delorme, Rolland and Diehl, Patrick and Tabiai, Ilyass and Lebel, Louis L and Levesque, Martin},
  year={2019},
  month={Nov}
+}
+
+@Article{Delorme2020,
+author="Delorme, Rolland
+and Diehl, Patrick
+and Tabiai, Ilyass
+and Lebel, Louis Laberge
+and L{\'e}vesque, Martin",
+title="Extracting Constitutive Mechanical Parameters in Linear Elasticity Using the Virtual Fields Method Within the Ordinary State-Based Peridynamic Framework",
+journal="Journal of Peridynamics and Nonlocal Modeling",
+year="2020",
+month="Jan",
+day="23",
+abstract="This paper implements the virtual fields method within the ordinary state-based peridynamic framework to identify material properties. The key equations derived in this approach are based on the principle of virtual works written under the ordinary state-based peridynamic formalism for two-dimensional isotropic linear elasticity. In-house codes including a minimization process have also been developed to implement the method. A three-point bending test and two independent virtual fields arbitrarily chosen are used as a case study throughout the paper. The numerical validation of the virtual fields method has been performed on the case study by simulating the displacement field by finite element analysis. This field has been used to extract the elastic material properties and compared them with those used as input in the finite element model, showing the robustness of the approach. Noise analysis and the effect of the missing displacement fields on the specimen's edges to simulate digital image correlation limitations have also been studied in the numerical part. This work focuses on pre-damage properties to demonstrate the feasibility of the method and provides a new tool for using full-field measurements within peridynamics with a reduced calculation time as there is no need to compute the displacement field. Future works will deal with damage properties which is the main strength of peridynamics.",
+issn="2522-8978",
+doi="10.1007/s42102-019-00025-7",
+url="https://doi.org/10.1007/s42102-019-00025-7"
+}
+
+@Misc{Diehl:2020-scala,
+  Title                    = {Long term availability of raw experimental data in experimental fracture mechanics},
+  Author                   = {Patrick Diehl},
+  HowPublished             = {Scientific Computing Around Louisiana (SCALA)},
+  Month                    = {07.02-08.02.},
+  Year                     = {2020, Baton Rouge, USA}
+}
+
+@Misc{Diehl:2020-wfm2020,
+  Title                    = {A review of benchmark experiments for the validation of peridynamics models},
+  Author                   = {Patrick Diehl},
+  HowPublished             = {Workshop on Experimental and Computational Fracture Mechanics},
+  Month                    = {26.02-28.02.},
+  Year                     = {2020, Baton Rouge, USA}
+}
+
+@inproceedings{schatz2019visual,
+  title={Visual Analysis of Structure Formation in Cosmic Evolution},
+  author={Schatz, Karsten and M{\"u}ller, Christoph and Gralka, Patrick and Heinemann, Moritz and Straub, Alexander and Schulz, Christoph and Braun, Matthias and Rau, Tobias and Becher, Michael and Diehl, Patrick and others},
+  booktitle={2019 IEEE Scientific Visualization Conference (SciVis)},
+  pages={33--41},
+  year={2019},
+  organization={IEEE}
+}
+
+@techreport{zhang2020supporting,
+  author = {Tianyi Zhang and Shahrzad Shirzad and Bibek Wagle and Adrian S. Lemoine and Patrick Diehl and Hartmut Kaiser},
+  title = {Supporting OpenMP 5.0 Tasks in hpxMP -- A study of an OpenMP implementation within Task Based Runtime Systems},
+  institution = {arXiv},
+  year = {2020}
 }
