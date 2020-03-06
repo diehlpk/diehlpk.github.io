@@ -56,6 +56,8 @@ git push
 
 Note that you can commit and push your work as often as you want. I recommend commit and push often to save your work and have a history.
 
+### Video tutorial 
 
+[![asciicast](https://asciinema.org/a/308129.svg)](https://asciinema.org/a/308129)
 
 
