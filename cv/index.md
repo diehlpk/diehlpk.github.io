@@ -154,6 +154,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 23. --, Computational Analysis of Coupling Methods for Classical Continuum Mechanics and Peridynamics Models, 15th U.S. National Congress on Computational Mechanics
 (USNCCM15), 28.07-01.08 2019, Austin, USA.
 24. --, Long term availability of raw experimental data in experimental fracture mechanics, Scientific Computing Around Louisiana (SCALA), 07.02-08.02 2020, Baton Rouge, USA.
+25. --, A review of benchmark experiments for the validation of peridynamics models, Workshop on Experimental and Computational Fracture Mechanics, 26.02-28.02 2020, Baton Rouge, USA.
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
