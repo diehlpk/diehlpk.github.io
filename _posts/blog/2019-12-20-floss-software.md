@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collection of FLOSS 
+title: Collection of Open Source software for science 
 categories: blog
 tags: [Teaching]
 author: diehlpk
@@ -21,19 +21,36 @@ author: diehlpk
 
 ## Podcasting
 
-* [Audacity](https://www.audacityteam.org/) - Editing audio files
+* [Audacity](https://www.audacityteam.org/) - Recording/Editing audio files
 * [KWave](https://kde.org/applications/multimedia/org.kde.kwave) - Recording audio
 
 ## Teaching 
 
 * [asciinema](https://asciinema.org/) - Recording bash sessions
 
-## Miscellaneous
+## Mathematics
 
-* [Gmsh](http://gmsh.info/) - Mesh generation
-* [Jitsi](https://jitsi.org/) - Video conference tool
 * [GNU Octave](https://www.gnu.org/software/octave/) - Alternative to Matlab
 * [Maxima](http://maxima.sourceforge.net/) - Alternative to Maple
-* [VLC](https://www.videolan.org/vlc/index.html) - Media player
-* [TexMaker](https://www.xm1math.net/texmaker/) - LaTeX editor
+* [NOMAD](https://www.gerad.ca/nomad/) - A blackbox optimization software
 
+## Computaitonal engineering
+
+* [Gmsh](http://gmsh.info/) - Mesh generation
+
+## Communicaiton
+
+* [Jitsi](https://jitsi.org/) - Video conference tool
+* [matrix](https://matrix.org/) - An open network for secure, decentralized communication
+
+## Writing
+
+* [TexMaker](https://www.xm1math.net/texmaker/) - LaTeX editor
+* [JabrRef](https://www.jabref.org/) - Bibliography reference manager
+* [LibreOffice](https://www.libreoffice.org/) - Alternative to MS office
+
+
+## Various
+
+* [VLC](https://www.videolan.org/vlc/index.html) - Media player
+* [pass](https://www.passwordstore.org/) - Unix password manager
