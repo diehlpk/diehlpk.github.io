@@ -25,6 +25,10 @@ This project is co-mentored by Marcin Copik and Zahra Khatami and is done by Gab
 
 HPX allows users to parallel their for-loops. The user can change values of chunk size and prefetching distance with existing execution policies. Some of these policies use machine learning the optimal chunk size and prefetching distance for a given for-loop. However, these machine learning algorithms are classification algorithms so the number of possible outcome is limited. The idea is to use regression algorithms to allow for as many outcomes as needed.
 
+Reference:
+
+* G. Laberge, S. Shirzad, P. Diehl, H. Kaiser, S. Prudhomme and A. S. Lemoine, "Scheduling Optimization of Parallel Linear Algebra Algorithms Using Supervised Learning," 2019 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC), Denver, CO, USA, 2019, pp. 31-43.
+
 --- 
 
 ## [HPXCL](https://github.com/STEllAR-GROUP/hpxcl) – Asynchronous Integration of CUDA and OpenCL to [HPX](https://github.com/STEllAR-GROUP/hpx) (2017)
@@ -46,6 +50,10 @@ Blog posts:
 
 * [Benchmarks Accelerator Devices](https://madhavan001.github.io/Benchmarks-accelerator-devices/)
 * [GSoC Final Evaluation](https://madhavan001.github.io/GSoC-Final-Evaluation/)
+
+Reference:
+
+* P. Diehl, M. Seshadri, T. Heller and H. Kaiser, "Integration of CUDA Processing within the C++ Library for Parallelism and Concurrency (HPX)," 2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2), Dallas, TX, USA, 2018, pp. 19-28.
 
 --- 
 
