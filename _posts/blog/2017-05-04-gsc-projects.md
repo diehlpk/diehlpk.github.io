@@ -25,6 +25,10 @@ This project is co-mentored by Marcin Copik and Zahra Khatami and is done by Gab
 
 HPX allows users to parallel their for-loops. The user can change values of chunk size and prefetching distance with existing execution policies. Some of these policies use machine learning the optimal chunk size and prefetching distance for a given for-loop. However, these machine learning algorithms are classification algorithms so the number of possible outcome is limited. The idea is to use regression algorithms to allow for as many outcomes as needed.
 
+Blog post:
+
+* [Final post](https://gist.github.com/gablabc/a7ad9445bd84b4ad793b2ee9942513c7)
+
 Reference:
 
 * G. Laberge, S. Shirzad, P. Diehl, H. Kaiser, S. Prudhomme and A. S. Lemoine, "Scheduling Optimization of Parallel Linear Algebra Algorithms Using Supervised Learning," 2019 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC), Denver, CO, USA, 2019, pp. 31-43.
