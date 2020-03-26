@@ -1,0 +1,239 @@
+% Upper-case    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+% Lower-case    a b c d e f g h i j k l m n o p q r s t u v w x y z
+% Digits        0 1 2 3 4 5 6 7 8 9
+% Exclamation   !           Double quote "          Hash (number) #
+% Dollar        $           Percent      %          Ampersand     &
+% Acute accent  '           Left paren   (          Right paren   )
+% Asterisk      *           Plus         +          Comma         ,
+% Minus         -           Point        .          Solidus       /
+% Colon         :           Semicolon    ;          Less than     <
+% Equals        =           Greater than >          Question mark ?
+% At            @           Left bracket [          Backslash     \
+% Right bracket ]           Circumflex   ^          Underscore    _
+% Grave accent  `           Left brace   {          Vertical bar  |
+% Right brace   }           Tilde        ~
+
+%
+% NSF Biographical Sketch: Dr. Theodore P. Pavlic
+%
+% Copyright (c) 2013 by Theodore P. Pavlic
+% All rights reserved.
+%
+
+\documentclass[svgnames,11pt]{article}
+%\pdfminorversion=5
+%\pdfobjcompresslevel=3 
+%\pdfcompresslevel=9
+
+\usepackage{fontspec}
+\setmainfont{Raleway}
+
+\usepackage[margin=1in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{times}
+\renewcommand\thesection{(\alph{section})}
+\renewcommand\thesubsection{(\alph{subsection})}
+
+\usepackage{calc}
+
+\usepackage{lastpage}
+%\newcommand{\pageoflastpage}{Page {\thepage} of \pageref*{LastPage}}
+%\newcommand{\pageoflastpage}{{\thepage} of \pageref*{LastPage}}
+\newcommand{\pageoflastpage}{}
+
+% Redefine the plain pagestyle for the title page
+\makeatletter
+\let\oldps@plain\ps@plain
+\renewcommand{\ps@plain}{\oldps@plain%
+\renewcommand{\@evenfoot}{\hfil\pageoflastpage\hfil}%
+\renewcommand{\@oddfoot}{\@evenfoot}}
+\makeatother
+
+% Use fancy for non-title pages
+\usepackage{fancyhdr}
+\fancyhead{}
+\fancyfoot{}
+\cfoot{\pageoflastpage}
+\pagestyle{fancy}
+
+\usepackage{xspace}
+
+\usepackage[shortlabels]{enumitem}
+\usepackage{graphicx}
+\usepackage{varioref}
+\usepackage[%
+        colorlinks=true,urlcolor=,
+        pdfpagelabels=true,hypertexnames=true,
+        plainpages=false,naturalnames=true,
+        ]{hyperref}
+%
+\usepackage{url}
+\newcommand\doilink[1]{\href{http://dx.doi.org/#1}{#1}}
+\newcommand\doi[1]{doi:\doilink{#1}}
+
+\makeatletter
+\newlength{\bibhang}
+\setlength{\bibhang}{1em}
+\newlength{\bibsep}
+ {\@listi \global\bibsep\itemsep \global\advance\bibsep by\parsep}
+\newlist{bibsection}{itemize}{3}
+\setlist[bibsection]{label=,leftmargin={\bibhang+\widthof{[9]}},%
+        itemindent=-\bibhang,
+        itemsep=\bibsep,parsep=\z@,partopsep=0pt,
+        topsep=0pt}
+\newlist{bibenum}{enumerate}{3}
+\setlist[bibenum]{label=\textbf{\arabic*.},leftmargin={\bibhang+\widthof{[999]}},%
+        itemindent=-\bibhang,
+        itemsep=\bibsep,parsep=\z@,partopsep=0pt,
+        topsep=0pt}
+\let\oldendbibenum\endbibenum
+\def\endbibenum{\oldendbibenum\vspace{-.6\baselineskip}}
+\let\oldendbibsection\endbibsection
+\def\endbibsection{\oldendbibsection\vspace{-.6\baselineskip}}
+\makeatother
+
+\title{%
+        \vspace{-2\baselineskip}
+            \normalsize
+            Biographical Sketch\\
+            {\large\textbf{Dr.~Patrick~Diehl (Research Staff)}}\\
+            \vspace{0.5\baselineskip}
+            \hrule
+            \vspace{0.5\baselineskip}
+            Center for Computation \& Technology
+Louisiana State University
+Digital Media Center, Room 1045, Baton Rouge, LA  70803
+            e-mail: \href{mailto:patrickdiehl@lsu.edu}{patrickdiehl@lsu.edu},
+            tel: +1-225-284-1710
+        \vspace{-1.5ex}
+        }
+\date{}
+\author{}
+
+\hypersetup{%
+        pdfsubject={NSF Biographical Sketch of Dr.~Patrick~Diehl},
+        pdfauthor={Dr.~Patrick~Diehl},
+        pdftitle={NSF Biographical Sketch of Dr.~Patrick~Diehl},
+        pdfkeywords={}
+        }
+
+\newcommand{\ie}{i.e.\xspace}
+\newcommand{\eg}{e.g.\xspace}
+
+\begin{document}
+
+\maketitle
+\vspace{-4\baselineskip}
+
+\subsection{Professional Preparation}
+
+    University of Stuttgart,  Computer Science, MS. 2012
+        \\
+    University of Bonn, Applied Mathematics,  PhD. 2017
+
+\subsection{Appointments}
+
+\begin{itemize}[label={\quad 9999--9999:},leftmargin=*,itemsep=0pt]
+
+    \item[Current]
+        \textbf{Research Staff},
+        Center of Computation \& Technology, Louisiana State University,
+        Baton Rouge, LA
+    \item[02/17--09/18:]
+        \textbf{Postdoctoral Associate},
+        Ecole de Polytechnique Montreal,
+        Montreal, Quebec, Canada
+    \item[04/13--01/17:]
+        \textbf{Research Assistant/Phd candidate},
+        Institute for Numerical Simulation, University of Bonn, Bonn, Germany
+    \item[07/12--03/13:]
+        \textbf{Research Assistant/Phd candidate},
+        Institute for Simulation of large Systems, University of Stuttgart, Stuttgart, Germany
+\end{itemize}
+
+\subsection{Products}
+
+\subsubsection{Project related publications}
+
+\begin{enumerate}
+    \item Diehl P, Prudhomme S, Levesque M. A review of benchmark experiments for the validation of peridynamics models. Journal of Peridynamics and Nonlocal Modeling. 2019 Apr 15;1(1):14-35.   review  of  benchmark  experiments  for  the  validation  ofperidynamics models
+    \item Delorme, R., Diehl, P., Tabiai, I. et al. Extracting Constitutive Mechanical Parameters in Linear Elasticity Using the Virtual Fields Method Within the Ordinary State-Based Peridynamic Framework. J Peridyn Nonlocal Model (2020). https://doi.org/10.1007/s42102-019-00025-7
+    \item Diehl, P., Franzelin, F., Pfl\"uger, D. et al. Bond-based peridynamics: a quantitative study of Mode I crack opening. Int J Fract 201, 157--170 (2016). https://doi.org/10.1007/s10704-016-0119-5
+    \item Tabiai I, Tkachev G, Diehl P, Frey S, Ertl T, Therriault D, Levesque M. Hybrid image processing approach for autonomous crack area detection and tracking using local digital image correlation results applied to single-fiber interfacial debonding. Engineering Fracture Mechanics. 2019 Jul 1;216:106485. https://doi.org/10.1016/j.engfracmech.2019.106485
+    \item Diehl P, Schweitzer MA. Simulation of wave propagation and impact damage in brittle materials using peridynamics. InRecent trends in computational engineering-CE2014 2015 (pp. 251-265). Springer, Cham.
+\end{enumerate}
+
+\subsubsection{Project related publications}
+
+\begin{enumerate}
+    \item Shirzad S, Diehl P, Kaiser H, Prudhomme S, Lemoine AS. Scheduling Optimization of Parallel Linear Algebra Algorithms Using Supervised Learning. In2019 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC) 2019 Nov 18 (pp. 31-43). IEEE. https://doi.org/10.1109/MLHPC49564.2019.00009
+    \item Bussler M, Diehl P, Pfl\"uger D, Frey S, Sadlo F, Ertl T, Schweitzer MA. Visualization of fracture progression in peridynamics. Computers \& Graphics. 2017 Oct 1;67:45-57.\\ https://doi.org/10.1016/j.cag.2017.05.003 
+    \item Diehl P, Tabiai I, Baumann FW, Therriault D, Levesque M. Long term availability of raw experimental data in experimental fracture mechanics. Engineering Fracture Mechanics. 2018 Jun 15;197:21-6. https://doi.org/10.1016/j.engfracmech.2018.04.030
+    \item Diehl P, Bussler M, Pfl\"uger D, Frey S, Ertl T, Sadlo F, Schweitzer MA. Extraction of fragments and waves after impact damage in particle-based simulations. In Meshfree Methods for Partial Differential Equations VIII 2017 (pp. 17-34). Springer, Cham.
+    \item Franzelin F, Diehl P, Pflüger D. Non-intrusive uncertainty quantification with sparse grids for multivariate peridynamic simulations. InMeshfree Methods for Partial Differential Equations VII 2015 (pp. 115-143). Springer, Cham.
+\end{enumerate}
+
+\subsection{Synergistic Activities}
+
+\begin{bibenum}[itemsep=4pt]
+
+    \item \textbf{Conference service:}
+        (i) Mini-symposium organizer: ``Modeling and Simulation for Complex Material Behavior'', 14th U.S. National Congress on Computational Mechanics; (ii)  Mini-symposium organizer: ``Peridynamic theory and multiscale methods for complex material behavior'', 14th World Congress in Computational Mechanics and ECCOMAS Congress; (II) Workshop organizer: ``USACM thematic Workshop on Experimental and Computational Fracture Mechanics'', February 26-28, 2020.
+
+ 
+
+    \item \textbf{Community service:}
+        (i) Co-host of the FLOSS for Science podcast where we showcase how Free/Libre Open Source Software is used to enhance the openness of science
+        (ii) Co-founder of the the Open Data in Experimental Mechanics project where we investigate how sharing experimental data can enhance the openness of science
+
+
+    \item \textbf{Mentoring:}
+        (i) Main-organizer and mentor of Google Summer of Code and Google Season of Docs at Stellar group at LSU
+    \item \textbf{Teaching:}
+    (i) Developed a new course Parallel Computational Math for undergraduate students to teach them Modern C++ and distributed parallel computing using mathematical models as examples. (ii) Published all course materials (lecture slides, exercise, and code samples) as Creative-Commons-licensed and provide all LaTex source files on Github.   
+\end{bibenum}
+
+\subsection{Collaborators \& Other Affiliations}
+
+\begin{bibsection}
+
+    \item \textbf{Collaborators and Co-Editors:}
+        \emph{Louisiana State University}:
+            Juhan Frank;
+            Domimnic Marcello;
+            Robert Lipton;
+            Juhan Frank;
+            Hartmut Kaiser;
+            Steve Brandt;
+            Bibek Wagle;
+            Rod Thoid;
+        \emph{Ecole de Polytechnique Montreal}:
+            Serge Prudhome;
+            Ilyass Tabiai;
+        \emph{University of Stuttgart (Germany)}:
+            Thomas Ertel;
+            Steffen Frey;
+            Gleb Tkachev;
+            Dirk Pfl\"uger;
+            Gregor Dai\ss;
+        \emph{University of Texas Austin}:
+            Prashant Kumar;
+        \emph{University of Bonn (Germany)}:
+            Marc Alexander Schweitzer
+
+  %  \item \textbf{Graduate Advisers and Postdoctoral Sponsors:}
+  %      \emph{The Ohio State University}:
+  %          Kevin M.~Passino;
+  %          Paolo A.~G.~Sivilotti;
+  %      \emph{Arizona State University}:
+  %          Stephen C.~Pratt (Arizona State University)
+
+  %  \item \textbf{Thesis Adviser and Postgraduate-Scholar Sponsor:}
+  %      \emph{Undergraduate honors thesis students:}
+  %          Christal Johnson (Arizona State University).
+  %      Total graduate students: 0; Total postgraduate scholars: 0.
+
+
+\end{bibsection}
+
+\end{document}

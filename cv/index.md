@@ -165,7 +165,7 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 
 #### Courses
 
-* Math 4997-3 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
+* Math 4997 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
 
 Also available as as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
 
@@ -233,7 +233,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ---
 
-My [CV]({{ site.url }}/assets/cv.pdf) is also available as a PDF document file.
+My is available as PDF documents: [Long]({{ site.url }}/assets/cv.pdf) and [NSF]({{ site.url }}/assets/nsf.pdf). 
 	
 
 If you like to <a href="mailto:me@diehlpk.de?subject=[Blog]">send</a> me a encrypted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.
