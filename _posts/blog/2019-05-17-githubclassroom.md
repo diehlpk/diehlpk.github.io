@@ -60,4 +60,6 @@ Note that you can commit and push your work as often as you want. I recommend co
 
 [![asciicast](https://asciinema.org/a/308129.svg)](https://asciinema.org/a/308129)
 
+Also available on [YouTube](https://www.youtube.com/watch?v=150vFJrSU44).
+
 
