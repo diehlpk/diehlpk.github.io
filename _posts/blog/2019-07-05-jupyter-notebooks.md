@@ -73,7 +73,9 @@ number the exercise.
 
 Note that you will get diffferent url for your assignments. Please find more details [here](https://www.diehlpk.de/blog/githubclassroom/).
 
+### Video tutorial 
 
+[![Alt text](https://img.youtube.com/vi/frFVguK-dWE/0.jpg)](https://www.youtube.com/watch?v=frFVguK-dWE)
 
 
 
