@@ -6,7 +6,7 @@ hide: true
  
 ##### C++
 
-* [HPX](https://github.com/STEllAR-GROUP/hpx) - C++ standard library for parallism and concurrency [![GitHub contributors](https://img.shields.io/github/contributors/STEllAR-GROUP/hpx.svg)](https://GitHub.com/STEllAR-GROUP/hpx/graphs/contributors/)
+* [HPX](https://github.com/STEllAR-GROUP/hpx) - C++ standard library for parallism and concurrency [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3675272.svg)](https://doi.org/10.5281/zenodo.3675272)[![GitHub contributors](https://img.shields.io/github/contributors/STEllAR-GROUP/hpx.svg)](https://GitHub.com/STEllAR-GROUP/hpx/graphs/contributors/)
 * [HPX Compute Language](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCL and CUDA within [HPX](https://github.com/STEllAR-GROUP/hpx) [![DOI](https://zenodo.org/badge/13384046.svg)](https://zenodo.org/badge/latestdoi/13384046) [![GitHub contributors](https://img.shields.io/github/contributors/STEllAR-GROUP/hpxcl.svg)](https://GitHub.com/STEllAR-GROUP/hpx/graphs/contributors/)
 * [PeriVis](https://github.com/PeriVIS) - Advance visualization of peridynamic simulations
 * [Octo-Tiger](https://github.com/STEllAR-GROUP/octotiger) - GPU-accelerated astrophysics code to simulate the merging of stars [![GitHub contributors](https://img.shields.io/github/contributors/STEllAR-GROUP/octotiger.svg)](https://GitHub.com/STEllAR-GROUP/octotiger/graphs/contributors/)
