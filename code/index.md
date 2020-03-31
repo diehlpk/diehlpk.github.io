@@ -24,4 +24,4 @@ hide: true
 
 ##### Various
 
-* [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses
+* [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses [![GitHub contributors](https://img.shields.io/github/contributors/latextemplates/scientific-thesis-template.svg)](https://GitHub.com/latextemplates/scientific-thesis-template/graphs/contributors/)
