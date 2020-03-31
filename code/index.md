@@ -15,7 +15,8 @@ hide: true
 
 * [PeriPyDIC](https://github.com/lm2-poly/PeriPyDIC) - Python state-based peridynamic code utilizing full field measurements obtained by digital image correlation [![DOI](https://zenodo.org/badge/46075533.svg)](https://zenodo.org/badge/latestdoi/46075533) [![GitHub contributors](https://img.shields.io/github/contributors/lm2-poly/PeriPyDIC.svg)](https://GitHub.com/lm2-poly/PeriPyDIC/graphs/contributors/)
 * [PeriPyVFM](https://github.com/lm2-poly/PeriPyVFM) - The virtual fields method within the ordinary state-based peridynamic framework 
-[![DOI](https://zenodo.org/badge/93547069.svg)](https://zenodo.org/badge/latestdoi/93547069) [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/lm2-poly/PeriPyVFM.svg)](https://GitHub.com/lm2-poly/PeriPyVFM/graphs/contributors/)
+[![DOI](https://zenodo.org/badge/93547069.svg)](https://zenodo.org/badge/latestdoi/93547069) [![GitHub contributors](https://img.shields.io/github/contributors/lm2-poly/PeriPyVFM.svg)](https://GitHub.com/lm2-poly/PeriPyVFM/graphs/contributors/)
+
 
 
 ##### Ferdora packages
