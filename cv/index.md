@@ -171,11 +171,17 @@ Also available as as [PDF document]({{ site.url }}/assets/courses.pdf) with more
 
 ---
 
-#### Co-supervised theses
+#### Advising and related student services
+
+
+##### Co-supervised theses
 
 * Pfander, David: Eine künstliche Intelligenz für das Kartenspiel Tichu, Studienarbeit Nr. 2398, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/STUD-2398/STUD-2398.pdf)
 * Kanis, Sebastian: GPU-based Numerical Integration in the Partition of Unity Method, Diplomarbeit Nr. 3405, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/DIP-3405/DIP-3405.pdf) 
 
+##### Graduate Commitee Member
+
+* 2020: Maxwell Reeser, MS
 
 --- 
 
