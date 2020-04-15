@@ -37,6 +37,7 @@ author: diehlpk
 ## Computaitonal engineering
 
 * [Gmsh](http://gmsh.info/) - Mesh generation
+* [muDIC](https://github.com/PolymerGuy/muDIC) - Global digital image correlation in Python
 
 ## Communicaiton
 
