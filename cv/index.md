@@ -30,7 +30,7 @@ hide: true
 ##### Professional Experience
 * Feb 2017 - Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
 * Apr 2013 - Jan 2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
-* Jul 2012 - Mar 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/abteilungen/sgs/))
+* Jul 2012 - Mar 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart)
 
 --- 
 
