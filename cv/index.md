@@ -4,21 +4,6 @@ title: CV
 hide: true
 ---
 
-#### Research interests
-* Computational engineering
-  - Peridynamic theory for the application in solids, like glassy or composite materials
-  - Validation and verification of simulations against experimental data,
-  - Assembly of experimental data for comparison with simulations,
-  - Application of machine learning to experiments and simulations.
-* High Performance Computing
-  - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
-  - Asynchronous many task systems and their application in computational engineering
-* Open Science
-  - Open Source Software for scientific applications
-  - Open data for sharing raw experimental results
-
---- 
-
 ##### Education
 * PhD in Mathematics, University of Bonn, 2017
 * Diploma in Computer Science, University of Stuttgart, 2012
@@ -46,6 +31,21 @@ hide: true
 
 ---
 
+#### Research interests
+* Computational engineering
+  - Peridynamic theory for the application in solids, like glassy or composite materials
+  - Validation and verification of simulations against experimental data,
+  - Assembly of experimental data for comparison with simulations,
+  - Application of machine learning to experiments and simulations.
+* High Performance Computing
+  - The C++ Standard Library for Parallelism and Concurrency ([HPX](http://stellar-group.org/libraries/hpx/))
+  - Asynchronous many task systems and their application in computational engineering
+* Open Science
+  - Open Source Software for scientific applications
+  - Open data for sharing raw experimental results
+
+---
+
 ##### Publications
 
 ###### In preparation
@@ -59,6 +59,7 @@ hide: true
 * Computer Science 
 
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
+1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application
 
 ###### Journal articles
 1. Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, and Martin
@@ -171,7 +172,16 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 
 #### Courses
 
+##### Instructor
+
 * Math 4997 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
+
+##### Teaching assistant
+
+* Einführung in die Numerische Mathematik (Introduction to numerical mathematics), University of Bonn, 2015
+* Algorithmische Mathematik (Mathematical algorithms), University of Bonn,2013/2014
+* Wissenschaftliches Rechnen 2 (Scientific Computing 2), University of Bonn, 2013
+* Computational Fluid Mechanics, University of Stuttgart, 2012
 
 Also available as as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
 
@@ -202,12 +212,18 @@ Also available as as [PDF document]({{ site.url }}/assets/courses.pdf) with more
 ##### Mini-symposia organized
 
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402))
-2. Peridynamic theory and multiscale methods for complex material behavior, 14th World Congress on Computational Mechanics (WCCM XIV) 
+2. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 14th World Congress on Computational Mechanics
+3. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 16thNational Congress on Computational Mechanics
+
 
 ##### Workshops organized
 
 1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
 prediction and experimental design ([link](http://wfm2020.usacm.org/))
+
+##### Panels 
+
+1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Webpage](http://stellar-group.org/tbaa2020-scpanel/)
 
 ##### Mentor and Organizer of [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
 
@@ -239,9 +255,6 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 * Björn Bohn. “Die jungen Wilden: Googles Summer of Code.” Heise Developer. March 2, 2018. [Post](https://www.heise.de/developer/artikel/Die-jungen-Wilden-Googles-Summer-of-Code-3979634.html)
 * European Structural Integrity Society (ESIS), "Discussion of fracture paper #21 - Only 6% of experimentalists want to disclose raw-data" August 22, 2018 [Post](http://imechanica.org/node/22590)
-
-
-
 
 ---
 
