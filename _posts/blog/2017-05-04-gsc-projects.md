@@ -7,6 +7,16 @@ author: diehlpk
 ---
 Here is a list of all the Google Summer of Code projects I mentored.
 
+## Domain decomposition, load balancing, and massively parallel solvers for the class of nonlocal models (2020)
+
+This project is co-mentored by [Prashant K. Jha](https://prashjha.github.io/) and is done by [Pranav Gadikar](https://www.linkedin.com/in/pranav-gadikar-2a0a21143/). The code is available on [GitHub](https://github.com/nonlocalmodels/nonlocalheatequation) and the problem description is available [here](https://github.com/nonlocalmodels/nonlocalheatequation/blob/master/description/problem_description.pdf).
+
+### Project description
+
+Peridynamics is used to model cracks and fractures in materials. In recent years there have been several numerical approximations proposed for peridynamics. Peridynamics is a nonlocal model, i.e. to compute force/strain/energy at a point, one has to look at the neighbors of a point within a finite radius. A code utilizing the parallel algorithms and futurization within HPX for a single shared memory node is available. This code should be extended with a domain decomposition for computations on several nodes. Here, the challenge would be to perform an efficient load balancing of the domain partitions. In case of damage, the computational costs in the domain where the damage occurs in the material decreases. In this project, an efficient algorithm which detects where the computational costs are decreasing and how to redistribute the domains such that load is balanced should be developed.
+
+--- 
+
 ## HPX Backend for [OpenCV](https://opencv.org/) (2018)
 
 This project is co-mentored by Mikael Simberg and John Biddiscombe and is done by [Jakub Golinowski](https://www.linkedin.com/in/jakub-golinowski).
