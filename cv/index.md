@@ -55,11 +55,15 @@ hide: true
 1. An overview for coupling finite elements with peridynamics
 1. On the treatment of boundary conditions for bond-based peridynamic models, (submitted)
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
+1. Analytic assembly of the tangent stiffness matrix for quasi-static bond-based and state-based peridynamic softening model simulations
 
 * Computer Science 
 
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted) [Preprint](https://arxiv.org/abs/1806.06917)
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application
+1. Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, Gateways 2020, (accepted)
+1. HPX - The C++ Standard Library for Parallelism andConcurrency, Journal of Open Source Software (submitted)
+
 
 ###### Journal articles
 1. Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, and Martin
