@@ -9,7 +9,7 @@ author: diehlpk
 
 ### Requirements 
 
-* Get a [github](https://github.com/) account. I recommend to use a username reflecting your name. 
+* Get a [GitHub](https://github.com/) account. I recommend to use a username reflecting your name. 
 * Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your development machine. 
 
 ### Setup github
@@ -21,7 +21,7 @@ git config --global user.email you@provider.com
 
 ### Generate a ssh key
 
-This step is only necessary, if you do not want to enter your password each time you work on github.
+This step is only necessary, if you do not want to enter your password each time you work on GitHub.
 
 ```bash
 ssh-keygen -t rsa -C "you@provider.com"
@@ -30,7 +30,7 @@ Enter file in which to save the key (/home/diehlpk/.ssh/id_rsa): ~/.ssh/id_rsa_g
 ssh-add ~/.ssh/id_rsa_github
 ```
 
-Copy the content of the ~/.ssh/id_rsa_github and add it to your github profile going to your profile -> SSH keys and GPG keys -> New SSH key.
+Copy the content of the ~/.ssh/id_rsa_github.pub and add it to your GitHub profile going to your Profile -> SSH keys and GPG keys -> New SSH key.
 
 ### Working on your assignment
 
