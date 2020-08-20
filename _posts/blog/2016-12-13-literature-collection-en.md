@@ -24,3 +24,4 @@ A collection of books, which I used during my studies:
 ## Miscellaneous
 * Gödel, Escher, Bach: An Eternal Golden Braid. D.R. Hofstadter. Basic Books. 1979. ISBN 978-0-465-02656-2
 * The Signal and the Noise: Why So Many Predictions Fail-but Some Don't. N. Silver, Penguin Press. 2012. ISBN 978-1594204111
+* Holt J. When Einstein walked with Gödel: excursions to the edge of thought. Farrar, Straus and Giroux; 2018 May 15.
