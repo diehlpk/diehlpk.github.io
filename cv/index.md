@@ -62,10 +62,10 @@ hide: true
 1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted), [Preprint](https://arxiv.org/abs/1806.06917)
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application
 1. Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, Gateways 2020, (accepted)
-1. HPX - The C++ Standard Library for Parallelism andConcurrency, Journal of Open Source Software (submitted)
 
 
 ###### Journal articles
+1. Kaiser et al., (2020). HPX - The C++ Standard Library for Parallelism and Concurrency. Journal of Open Source Software, 5(53), 2352, [https://doi.org/10.21105/joss.02352](https://doi.org/10.21105/joss.02352)
 1. Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, and Martin
 Lévesque. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework. Journal of Peridynamics and Nonlocal Modeling, Jan 2020. [Link](https://link.springer.com/article/10.1007%2Fs42102-019-00025-7), [Preprint](https://engrxiv.org/uv8m7/)
 1. Daiß G, Amini P, Biddiscombe J, Diehl P, Frank J, Huck K, Kaiser H, Marcello D, Pfander D, Pfüger D. From piz daint to the stars: simulation of stellar mergers using high-level abstractions. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2019 Nov 17 (p. 62). ACM. [Link](https://doi.org/10.1145/3295500.3356221), [Preprint](https://arxiv.org/abs/1908.03121)
