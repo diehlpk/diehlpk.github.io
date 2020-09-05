@@ -25,6 +25,19 @@ hide: true
 
 ---
 
+##### Grant history
+
+###### Current Research (chronologicl order; most recent one first)
+
+1. High Performance Data Analytics (HDPA) Scalable Second Order Optimization (SSO)
+ * Grant #524125 (Hartmut Kaiser)
+ * Name of Funding Organization: Pacific Northwest National Laboratory
+ * Amount Awarded: $50,000
+ * Period of Grant Award: June 25 -- Oct 31 2020
+ * Role on project: Co-Pi
+
+---
+
 ##### Journal editor
 
 1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), The Journal of Open Source Software
