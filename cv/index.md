@@ -37,7 +37,7 @@ hide: true
  * Role on project: Co-Pi
 
 
-Also available as as [PDF document]({{ site.url }}/assets/grants.pdf).
+Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 ---
 
