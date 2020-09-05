@@ -36,6 +36,9 @@ hide: true
  * Period of Grant Award: June 25 -- Oct 31 2020
  * Role on project: Co-Pi
 
+
+Also available as as [PDF document]({{ site.url }}/assets/grants.pdf).
+
 ---
 
 ##### Journal editor
