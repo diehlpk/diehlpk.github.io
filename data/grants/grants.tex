@@ -1,0 +1,54 @@
+\documentclass[11pt,a4paper]{article}
+%\pdfminorversion=5
+%\pdfobjcompresslevel=3 
+%\pdfcompresslevel=9
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{fontspec}
+\setmainfont{Raleway}
+
+\usepackage[resetlabels]{multibib}
+\newcites{book,talk,poster,thesis,journal,reports,pre,exp}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Technical reports},{Preprints},{Raw experimental data}}
+
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{etoolbox}
+\usepackage{a4wide}
+\usepackage[hidelinks]{hyperref}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{Dr. Patrick Diehl}
+\fancyhead[L]{Grant history}
+\fancyfoot[C]{(\thepage /\pageref{LastPage})}
+\fancyfoot[R]{\today}
+
+\definecolor{color1}{rgb}{0.,0.,0.}% light blue
+\definecolor{color2}{rgb}{0.45,0.45,0.45}% dark grey}
+
+\renewcommand{\headrulewidth}{2pt}
+\patchcmd{\headrule}{\hrule}{\color{color1}\hrule}{}{}
+\renewcommand{\footrulewidth}{1pt}
+\patchcmd{\footrule}{\hrule}{\color{color2}\hrule}{}{}
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Current Research (chronological order; most recent one first)}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{enumerate}
+\item
+\begin{description}
+\item Grant \#524125 (Hartmut Kaiser)
+\item Name of Funding Organization: Pacific Northwest National Laboratory
+\item Amount Awarded: \$50,000
+\item Period of Grant Award: June 25 - Oct 31 2020
+\item Title of Project: High Performance Data Analytics (HPDA) Scalable Second-Order Optimization (SSO)
+\item Role on Project: Co-PI
+\end{description}
+\end{enumerate}
+
+
+\label{LastPage}             
+\end{document}
