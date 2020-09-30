@@ -69,7 +69,6 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 * Computational Mathematics
 
 1. An overview for coupling finite elements with peridynamics
-1. On the treatment of boundary conditions for bond-based peridynamic models, (accepted), [Preprint](https://arxiv.org/abs/2008.09725)
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
 1. Analytic assembly of the tangent stiffness matrix for quasi-static bond-based and state-based peridynamic softening model simulations
 
