@@ -79,6 +79,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 
 ###### Journal articles
+1. S. Prudhomme and P. Diehl. On the treatment of boundary conditions for bond-based peridynamic models. Computer Methods in Applied Mechanics and Engineering, 372:113391, 2020. [Link](https://doi.org/10.1016/j.cma.2020.113391), [Preprint](https://arxiv.org/abs/2008.09725)
 1. Kaiser et al., (2020). HPX - The C++ Standard Library for Parallelism and Concurrency. Journal of Open Source Software, 5(53), 2352, [https://doi.org/10.21105/joss.02352](https://doi.org/10.21105/joss.02352)
 1. Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, and Martin
 Lévesque. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework. Journal of Peridynamics and Nonlocal Modeling, Jan 2020. [Link](https://link.springer.com/article/10.1007%2Fs42102-019-00025-7), [Preprint](https://engrxiv.org/uv8m7/)
