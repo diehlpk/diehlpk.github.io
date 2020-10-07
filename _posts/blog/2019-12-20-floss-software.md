@@ -24,6 +24,11 @@ author: diehlpk
 * [Audacity](https://www.audacityteam.org/) - Recording/Editing audio files
 * [KWave](https://kde.org/applications/multimedia/org.kde.kwave) - Recording audio
 
+## Video
+
+* [OpenShot](https://www.openshot.org/en/)
+* [handbrake](https://handbrake.fr/)
+
 ## Teaching 
 
 * [asciinema](https://asciinema.org/) - Recording bash sessions
