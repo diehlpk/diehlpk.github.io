@@ -129,10 +129,10 @@ Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 37–
 2. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, In Proceedings of Gateways 2020, Science Gateways Community Institute (SGCI), [Link](https://osf.io/qbtj3/)
 
 #### Technical reports
-1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
+1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [Link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
 2. T. ZHANG, S. SHIRZAD, B. WAGLE, A. S. LEMOINE, P. DIEHL, AND H. KAISER, Supporting
 openmp 5.0 tasks in hpxmp – a study of an openmp implementation within task based
-runtime systems, tech. rep., arXiv, 2020. [link](https://arxiv.org/abs/2002.07970)
+runtime systems, tech. rep., arXiv, 2020. [Link](https://arxiv.org/abs/2002.07970)
 
 #### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
@@ -185,7 +185,8 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 23. --, Computational Analysis of Coupling Methods for Classical Continuum Mechanics and Peridynamics Models, 15th U.S. National Congress on Computational Mechanics
 (USNCCM15), 28.07-01.08 2019, Austin, USA.
 24. --, Long term availability of raw experimental data in experimental fracture mechanics, Scientific Computing Around Louisiana (SCALA), 07.02-08.02 2020, Baton Rouge, USA.
-25. --, A review of benchmark experiments for the validation of peridynamics models, Workshop on Experimental and Computational Fracture Mechanics, 26.02-28.02 2020, Baton Rouge, USA.
+25. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, Gateways 2020, 12.10-23.10 2020.
+26. P. Diehl, On the treatment of boundary conditions for bond-based peridynamic models, 3rd Annual Meetingof the SIAM Texas-Louisiana Section, 16.10-18.10 2020.
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
@@ -238,12 +239,17 @@ Also available as as [PDF document]({{ site.url }}/assets/courses.pdf) with more
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402))
 2. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 14th World Congress on Computational Mechanics
 3. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 16thNational Congress on Computational Mechanics
+4. Nonlocal Models in Mathematics and Computation, 3rd Annual Meetingof the SIAM Texas-Louisiana Section
 
 
 ##### Workshops organized
 
 1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
 prediction and experimental design ([link](http://wfm2020.usacm.org/))
+
+##### Meetings
+
+1. 3rd Annual Meeting of the SIAM Texas-Louisiana Section, October 16 -18, 2020
 
 ##### Panels 
 
