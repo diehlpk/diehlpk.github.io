@@ -8,7 +8,7 @@
 \setmainfont{Raleway}
 
 \usepackage[resetlabels]{multibib}
-\newcites{book,talk,poster,thesis,journal,reports,pre,exp}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Technical reports},{Preprints},{Raw experimental data}}
+\newcites{book,talk,poster,thesis,journal,spapers,reports,pre,exp}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Short papers},{Technical reports},{Preprints},{Raw experimental data}}
 
 \usepackage{fancyhdr}
 \usepackage{color}
@@ -45,12 +45,17 @@
 \bibliographystylebook{habbrvyr}
 \bibliographybook{publications} 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Short papers
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{shortpapers} 
+\bibliographystylespapers{habbrvyr}
+\bibliographyspapers{publications} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Reports
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{reports} 
 \bibliographystylereports{habbrvyr}
 \bibliographyreports{publications} 
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%      
 %Talk
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

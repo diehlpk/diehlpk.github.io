@@ -37,7 +37,7 @@
 
 % bibliography with mutiple entries
 \usepackage{multibib}
-\newcites{book,journal,talk,thesis,reports,exp,pre}{{\underline{Proceedings}},{\underline{Journal articles}},{},{},{\underline{Technical reports}},{},{\underline{Preprints}}}
+\newcites{book,journal,talk,thesis,reports,exp,pre,spapers}{{\underline{Proceedings}},{\underline{Journal articles}},{},{},{\underline{Technical reports}},{},{\underline{Preprints}},{\underline{Short papers}}}
 
 \usepackage{enumitem}
 
@@ -225,8 +225,12 @@ prediction and experimental design, \href{http://wfm2020.usacm.org/}{Link}. Spon
 \bibliographystylejournal{../list/habbrvyr}
 \bibliographyjournal{../list/publications}  
 \input{../list/proceedings}
-\bibliographystylebook{plain}
-\bibliographybook{../list/publications}     
+\bibliographystylebook{../list/habbrvyr}
+\bibliographybook{../list/publications} 
+\input{../list/shortpapers} 
+\bibliographystylespapers{../list/habbrvyr}
+\bibliographyspapers{../list/publications} 
+    
 \nocitereports{Diehl.Lipton.Schweitzer:2016,zhang2020supporting}
 \bibliographystylereports{../list/habbrvyr}
 \bibliographyreports{../list/publications}          
