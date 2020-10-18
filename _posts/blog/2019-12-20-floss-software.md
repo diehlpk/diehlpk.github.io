@@ -26,8 +26,8 @@ author: diehlpk
 
 ## Video
 
-* [OpenShot](https://www.openshot.org/en/)
-* [handbrake](https://handbrake.fr/)
+* [OpenShot](https://www.openshot.org/en/) - Video editing
+* [handbrake](https://handbrake.fr/) - Video compression
 
 ## Teaching 
 
