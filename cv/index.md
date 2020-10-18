@@ -208,7 +208,7 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 * Wissenschaftliches Rechnen 2 (Scientific Computing 2), University of Bonn, 2013
 * Computational Fluid Mechanics, University of Stuttgart, 2012
 
-Also available as as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
+Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
 
 ---
 
