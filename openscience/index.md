@@ -5,6 +5,7 @@ title: Open Science
 
 Collection of artifacts, like source code, experimental data, and input files, from my published articles:
 
+* Prudhomme, Serge, and Patrick Diehl. "On the treatment of boundary conditions for bond-based peridynamic models." Computer Methods in Applied Mechanics and Engineering 372 (2020) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3942681.svg)](https://doi.org/10.5281/zenodo.3942681)
 * Tabiai, Ilyass, et al. "Hybrid image processing approach for autonomous crack area detection and tracking using local digital image correlation results applied to single-fiber interfacial debonding." Engineering Fracture Mechanics 216 (2019): 106485. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1188272.svg)](https://doi.org/10.5281/zenodo.1188272) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2566394.svg)](https://doi.org/10.5281/zenodo.2566394)
 * Laberge, Gabriel, et al. "Scheduling optimization of parallel linear algebra algorithms using Supervised Learning."[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3370028.svg)](https://doi.org/10.5281/zenodo.3370028)
 * Daiß, Gregor, et al. "From piz daint to the stars: simulation of stellar mergers using high-level abstractions." Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis. ACM, 2019.
