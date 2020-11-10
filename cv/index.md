@@ -74,7 +74,8 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (submitted), [Preprint](https://arxiv.org/abs/1806.06917)
+1. Performance Measurements within Asynchronous Task-based Runtime Systems: A Double White Dwarf Merger as an Application
+1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (accepted), [Preprint](https://arxiv.org/abs/1806.06917)
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted)
 1. Towards a Scalable and Distributed Infrastructure for Deep Learning Applications, (accepted) [Preprint](https://arxiv.org/abs/2010.03012)
 1. Deploying a Task-based Runtime System on Raspberry Pi Clusters, (accepted) [Preprint](https://arxiv.org/abs/2010.04106)
