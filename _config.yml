@@ -3,7 +3,7 @@
 title: Patrick Diehl
 locale: en_US
 description: Personal website 
-logo: site-logo.png
+  #logo: site-logo.png
 search: true
 url: https://www.diehlpk.de
 
