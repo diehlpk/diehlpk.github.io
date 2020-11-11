@@ -55,8 +55,8 @@ permalink: /calendar/
         center: 'title',
         right: 'next today' 
       },
-      firstDay: 1
-      }
+      firstDay: 1,
+      
 
       displayEventTime: false, // don't show the time column in list view
       googleCalendarApiKey: 'AIzaSyCcN07bgoXITC7FBY7mq5mnYVR05fIUh9k',
