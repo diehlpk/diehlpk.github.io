@@ -7,6 +7,8 @@
 \usepackage{fontspec}
 \setmainfont{Raleway}
 
+
+
 \usepackage[resetlabels]{multibib}
 \newcites{book,talk,poster,thesis,journal,spapers,reports,pre,exp}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Short papers},{Technical reports},{Preprints},{Raw experimental data}}
 
@@ -14,6 +16,7 @@
 \usepackage{color}
 \usepackage{etoolbox}
 \usepackage{a4wide}
+\usepackage{graphicx}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -21,6 +24,11 @@
 \fancyhead[L]{Publication list}
 \fancyfoot[C]{(\thepage /\pageref{LastPage})}
 \fancyfoot[R]{\today}
+\fancyfoot[L]{\includegraphics[scale=1]{by-nc-sa}}
+
+
+
+
 
 \definecolor{color1}{rgb}{0.,0.,0.}% light blue
 \definecolor{color2}{rgb}{0.45,0.45,0.45}% dark grey}
