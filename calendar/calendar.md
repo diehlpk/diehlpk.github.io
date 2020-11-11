@@ -56,6 +56,14 @@ permalink: /calendar/
         right: 'next today' 
       },
       firstDay: 1,
+      views: { settimana:{
+        type: 'agendaWeek'
+        duration: {
+            days: 7 
+            },
+        hiddenDays: [0,6]
+      }  
+      }
 
       displayEventTime: false, // don't show the time column in list view
       googleCalendarApiKey: 'AIzaSyCcN07bgoXITC7FBY7mq5mnYVR05fIUh9k',
