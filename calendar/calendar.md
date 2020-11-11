@@ -19,7 +19,7 @@ permalink: /calendar/
 <style>
 
 #calendarContainer {
-  width: 500px;
+  width: 800px;
   height: 500px;
 }
 
