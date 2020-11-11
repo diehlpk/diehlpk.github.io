@@ -56,6 +56,7 @@ permalink: /calendar/
         right: 'next today' 
       },
       firstDay: 1,
+      hiddenDays: [0,6],
       
 
       displayEventTime: false, // don't show the time column in list view
