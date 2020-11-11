@@ -20,7 +20,7 @@ permalink: /calendar/
 
 #calendarContainer {
   width: 800px;
-  height: 500px;
+  height: 450px;
 }
 
 .fc-scroller {
