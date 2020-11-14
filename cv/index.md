@@ -133,6 +133,7 @@ Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 37–
 2. T. ZHANG, S. SHIRZAD, B. WAGLE, A. S. LEMOINE, P. DIEHL, AND H. KAISER, Supporting
 openmp 5.0 tasks in hpxmp – a study of an openmp implementation within task based
 runtime systems, tech. rep., arXiv, 2020. [Link](https://arxiv.org/abs/2002.07970)
+3. S. Silling, T. Wick, K. Ravi-Chandar, J. Guilleminot, J. Dolbow, J. Finberg, P. Diehl, S. Prudhomme, R. Lipton, and P. Seleson. Workshop on experimental and computational fracture mechanics 2020. Technical Report ORNL/TM-2020/1714, Oak Ridge National Laboratory
 
 #### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
