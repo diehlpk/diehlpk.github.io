@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building HPX on rosam
+title: Building HPX on rostam
 categories: blog
 tags: [Building]
 author: diehlpk
@@ -8,8 +8,8 @@ author: diehlpk
 
 ## Login to rostam 
 
-I assume that you followd followed the instructions and you can login to rostam.cct.lsu.edu the head ndoe of the cluster. From this node, you will compile HPX, generate the slurm 
-input files, and will submit jobs.  After unsing ssh to connect rostam, you should see following output in the temrinal 
+I assume that you followed followed the instructions and you can login to rostam.cct.lsu.edu the head node of the cluster. From this node, you will compile HPX, generate the slurm 
+input files, and will submit jobs.  After using ssh to connect rostam, you should see following output in the terminal 
 
 
 {% highlight bash %}
@@ -52,7 +52,7 @@ https://github.com/STEllAR-GROUP/hpx.git
 
 ### Check for the default modules
 
-On most clusters the [module](https://linux.die.net/man/1/module) command is used to manage different compilers and libaries. On rostam default modules are
+On most clusters the [module](https://linux.die.net/man/1/module) command is used to manage different compilers and libraries. On rostam default modules are
 loaded which are the versions of compilers and libraries, we know HPX compiles with. We run the command 
 
 {% highlight bash %}
@@ -66,6 +66,17 @@ Currently Loaded Modules:
   1) gcc/10.2.0             3) papi/6.0.0   5) python/3.8.2   7) ucx/1.8.1    9) hwloc/2.2.0
   2) boost/1.73.0-release   4) git/2.25.1   6) cmake/3.16.4   8) pmix/3.1.5  10) Rostam2
 {% endhighlight %}
+
+Note that we have a bug with the gcc/10.2.0 compiler and therefore we change the compiler
+
+{% highlight bash %}
+module unload gcc/10.2.0
+module load gcc/8.3.1s
+module unload boost/1.73.0-release
+module load boost/1.69.0-release
+{% endhighlight %}
+
+Note that we have to load a different boost version which was compiled with the same compiler.
 
 ### Load openmpi for the distributed runs
 
@@ -111,6 +122,76 @@ This will take a while and you can go and crap some coffee. Hopefully, HPX will 
 
 ## Preparing the slurm files
 
+### Shared memory
+
+For the shared memory run, we create a file hpx-shared.sbatch with the content below
+
+{% highlight bash %}
+#!/usr/bin/env bash
+
+#SBATCH -o hostname_%j.out
+#SBATCH -t 00:10:00
+#SBATCH -p marvin
+#SBATCH -N 1
+#SBATCH -D /home/diehlpk/Compile/hpx-stable/build/bin
+module load gcc/8.3.1s
+module load boost/1.69.0-release
+srun 1d_stencil_4 --np=12 --nd=5 --nx=100 
+{% endhighlight %}
+
+Note that --np specifies the number of partitions, --nd specifies the depth of the semaphore, and --nx specifies the amount of nodes per partition. 
+
+To submit the file, we use following command
+
+{% highlight bash %}
+[diehlpk@rostam0 ~]$ sbatch benchmarkHPX.sbatch 
+Submitted batch job 24924
+{% endhighlight %}
+
+With the following command, we can list our current jobs
+
+{% highlight bash %}
+[diehlpk@rostam0 ~]$ squeue -u diehlpk
+             JOBID PARTITION     NAME     USER ST       TIME  NODES NODELIST(REASON) 
+             24740    medusa simulate  diehlpk  R 2-04:29:55      1 medusa01 
+             24741    medusa simulate  diehlpk  R 2-04:29:55      1 medusa02 
+             24742    medusa simulate  diehlpk  R 2-04:29:55      1 medusa03 
+{% endhighlight %}
+
+Once the simulation finished, we can list the content of the output file using the [cat](https://linux.die.net/man/1/cat) command
+
+{% highlight bash %}
+[diehlpk@rostam0 ~]$ cat Compile/hpx-stable/build/bin/hostname_24924.out 
+
+  Local host: marvin01
+--------------------------------------------------------------------------
+OS_Threads,Execution_Time_sec,Points_per_Partition,Partitions,Time_Steps
+16,                   0.004866721, 100,                  12,                   45     
+{% endhighlight %}
+
+to obtain the results of our run. 
+
+Please play around with the three options and look into the performance of the application. 
+
+### Distributed memory 
+
+We copy the file hpx-shared.sbatch to hpx-distributed.sh and change it to 
+
+
+{% highlight bash %}
+#!/usr/bin/env bash
+
+#SBATCH -o hostname_%j.out
+#SBATCH -t 00:10:00
+#SBATCH -p marvin
+#SBATCH -N 1
+#SBATCH -D /home/diehlpk/Compile/hpx-stable/build/bin
+module load gcc/8.3.1s
+module load boost/1.69.0-release
+srun 1d_stencil_8 --np=12 --nd=5 --nx=100 
+{% endhighlight %}
+
+Note that you now can change the parameter #SBATCH -N to specify the amount of nodes. 
 
 
 
