@@ -74,27 +74,27 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Implementation of Peridynamics utilizing HPX -- the C++ standard library for parallelism and concurrency, (accepted), [Preprint](https://arxiv.org/abs/1806.06917)
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted)
 1. Towards a Scalable and Distributed Infrastructure for Deep Learning Applications, (accepted) [Preprint](https://arxiv.org/abs/2010.03012)
 1. Deploying a Task-based Runtime System on Raspberry Pi Clusters, (accepted) [Preprint](https://arxiv.org/abs/2010.04106)
 
 
 ###### Journal articles
-1. S. Prudhomme and P. Diehl. On the treatment of boundary conditions for bond-based peridynamic models. Computer Methods in Applied Mechanics and Engineering, 372:113391, 2020. [Link](https://doi.org/10.1016/j.cma.2020.113391), [Preprint](https://arxiv.org/abs/2008.09725)
-1. Kaiser et al., (2020). HPX - The C++ Standard Library for Parallelism and Concurrency. Journal of Open Source Software, 5(53), 2352, [https://doi.org/10.21105/joss.02352](https://doi.org/10.21105/joss.02352)
+1. P. Diehl, P. K. Jha, H. Kaiser, R. Lipton, and M. Lévesque. An asynchronous and task-based implementation of peridynamics utilizing hpx—the C++ standard library for parallelism and concurrency. SN Applied Sciences, 2(12):2144, 2020, [10.1007/s42452-020-03784-x]({https://doi.org/10.1007/s42452-020-03784-x), [Preprint](https://arxiv.org/abs/1806.06917).
+1. S. Prudhomme and P. Diehl. On the treatment of boundary conditions for bond-based peridynamic models. Computer Methods in Applied Mechanics and Engineering, 372:113391, 2020. [10.1016/j.cma.2020.113391](https://doi.org/10.1016/j.cma.2020.113391), [Preprint](https://arxiv.org/abs/2008.09725)
+1. Kaiser et al., (2020). HPX - The C++ Standard Library for Parallelism and Concurrency. Journal of Open Source Software, 5(53), 2352, [10.21105/joss.02352](https://doi.org/10.21105/joss.02352)
 1. Rolland Delorme, Patrick Diehl, Ilyass Tabiai, Louis Laberge Lebel, and Martin
 Lévesque. Extracting constitutive mechanical parameters in linear elasticity using the virtual fields method within the ordinary state-based peridynamic framework. Journal of Peridynamics and Nonlocal Modeling, Jan 2020. [Link](https://link.springer.com/article/10.1007%2Fs42102-019-00025-7), [Preprint](https://engrxiv.org/uv8m7/)
-1. Daiß G, Amini P, Biddiscombe J, Diehl P, Frank J, Huck K, Kaiser H, Marcello D, Pfander D, Pfüger D. From piz daint to the stars: simulation of stellar mergers using high-level abstractions. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2019 Nov 17 (p. 62). ACM. [Link](https://doi.org/10.1145/3295500.3356221), [Preprint](https://arxiv.org/abs/1908.03121)
+1. Daiß G, Amini P, Biddiscombe J, Diehl P, Frank J, Huck K, Kaiser H, Marcello D, Pfander D, Pfüger D. From piz daint to the stars: simulation of stellar mergers using high-level abstractions. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis 2019 Nov 17 (p. 62). ACM. [10.1145/3295500.3356221](https://doi.org/10.1145/3295500.3356221), [Preprint](https://arxiv.org/abs/1908.03121)
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
-local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019). [Link](https://doi.org/10.1016/j.engfracmech.2019.106485)
+local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019). [10.1016/j.engfracmech.2019.106485](https://doi.org/10.1016/j.engfracmech.2019.106485)
 1. Patrick Diehl, Serge Prudhomme, and Martin Lévesque. A review of benchmark experiments for the validation of peridynamics models. Journal of Peridynamics and
-Nonlocal Modeling, 1(1):14–35, 2019 [Link](https://doi.org/10.1007/s42102-018-0004-x)
+Nonlocal Modeling, 1(1):14–35, 2019 [10.1007/s42102-018-0004-x](https://doi.org/10.1007/s42102-018-0004-x)
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
-Fracture Mechanics, 197 (2018), pp. 21–26. [Link](https://doi.org/10.1016/j.engfracmech.2018.04.030), [Preprint](https://arxiv.org/abs/1803.07622) 
+Fracture Mechanics, 197 (2018), pp. 21–26. [0.1016/j.engfracmech.2018.04.030](https://doi.org/10.1016/j.engfracmech.2018.04.030), [Preprint](https://arxiv.org/abs/1803.07622) 
 1. M. Bußler, P. Diehl, D. Pflüger, S. Frey, F. Sadlo, T. Ertl, and M. A. Schweitzer, Visualization of Fracture Progression in Peridynamics, Computer & Graphics, 67 (2017), pp. 45–57. [Link](https://doi.org/10.1016/j.cag.2017.05.003), [Results](https://youtu.be/KfOKVWmDqRw), [Demo](https://youtu.be/0x2TDbetZB4).
-1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170. [Link](http://dx.doi.org/10.1007/s10704-016-0119-5).
+1. P. Diehl, F. Franzelin, D. Pflüger, and G. C. Ganzenmüller, Bond-based peridynamics: a quantitative study of Mode I crack opening, International Journal of Fracture, 2 (2016), pp. 157–170. [10.1007/s10704-016-0119-5](http://dx.doi.org/10.1007/s10704-016-0119-5).
 
 
 ###### Series- and conference contributions
