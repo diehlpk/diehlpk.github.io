@@ -383,14 +383,6 @@ doi={10.1109/ESPM2.2018.00009},
 ISSN={},
 month={Nov},}
 
-@article{diehl2018implementation,
-  title={{Implementation of Peridynamics utilizing HPX--the C++ standard library for parallelism and concurrency}},
-  author={Diehl, Patrick and Jha, Prashant K and Kaiser, Hartmut and Lipton, Robert and Levesque, Martin},
-  journal={arXiv preprint arXiv:1806.06917},
-  year={2018}
-}
-
-
 @INPROCEEDINGS{diehl2018integration,
 author={P. {Diehl} and M. {Seshadri} and T. {Heller} and H. {Kaiser}},
 booktitle={2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)},
@@ -671,4 +663,22 @@ Scale Programming Models and Middleware (ESPM2'20)}},
 	title = {Workshop on Experimental and Computational Fracture Mechanics 2020},
 	year = {2020},
 	number={ORNL/TM-2020/1714}
+}
+
+@Article{diehl2018implementation,
+author={Diehl, Patrick
+and Jha, Prashant K.
+and Kaiser, Hartmut
+and Lipton, Robert
+and L{\'e}vesque, Martin},
+title={An asynchronous and task-based implementation of peridynamics utilizing HPX---the C++ standard library for parallelism and concurrency},
+journal={SN Applied Sciences},
+year={2020},
+volume={2},
+number={12},
+pages={2144},
+abstract={On modern supercomputers, asynchronous many task systems are emerging to address the new architecture of computational nodes. Through this shift of increasing cores per node, a new programming model with focus on handling of the fine-grain parallelism with increasing amount of cores per computational node is needed. Asynchronous Many Task (AMT) run time systems represent a paradigm for addressing the fine-grain parallelism. They handle the increasing amount of threads per node and concurrency. HPX, a open source C++ standard library for parallelism and concurrency, is one AMT which is conforming to the C++ standard. Motivated by the impressive performance of asynchronous task-based parallelism through HPX to N-body problem and astrophysics simulation, in this work, we consider its application to the Peridynamics theory. Peridynamics is a non-local generalization of continuum mechanics tailored to address discontinuous displacement fields arising in fracture mechanics. Peridynamics requires considerable computing resources, owing to its non-local nature of formulation, offering a scope for improved computing performance via asynchronous task-based parallelism. Our results show that HPX-based peridynamic computation is scalable, and the scalability is in agreement with the theory. In addition to the scalability, we also show the validation results and the mesh convergence results. For the validation, we consider implicit time integration and compare the result with the classical continuum mechanics (CCM) (peridynamics under small deformation should give similar results as CCM). For the mesh convergence, we consider explicit time integration and show that the results are in agreement with theoretical claims in previous works.},
+issn={2523-3971},
+doi={10.1007/s42452-020-03784-x},
+url={https://doi.org/10.1007/s42452-020-03784-x}
 }
