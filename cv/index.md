@@ -70,10 +70,12 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 1. An overview for coupling finite elements with peridynamics
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
-1. Analytic assembly of the tangent stiffness matrix for quasi-static bond-based and state-based peridynamic softening model simulations
+1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
+1. NLMech: Implementation of finite difference/meshfreediscretization of nonlocal fracture models, (submitted)
 
 * Computer Science 
 
+1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted)
 1. Towards a Scalable and Distributed Infrastructure for Deep Learning Applications, (accepted) [Preprint](https://arxiv.org/abs/2010.03012)
 1. Deploying a Task-based Runtime System on Raspberry Pi Clusters, (accepted) [Preprint](https://arxiv.org/abs/2010.04106)
