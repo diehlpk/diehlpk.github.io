@@ -21,7 +21,13 @@ A collection of books, which I used during my studies:
 * Peridynamic Theory and Its Applications. E. Madenci and E. Oterkus. Springer. 2014. ISBN 978-1-4614-8464-6 [link](http://www.springer.com/gp/book/9781461484646)
 * Handbook of Peridynamic Modeling. F. Bobaru, J.T. Foster, P.H. Geubelle, and, S.A. Silling. CRC Press. 2016. ISBN 9781482230437 [link](https://www.crcpress.com/Handbook-of-Peridynamic-Modeling/Bobaru-Foster-Geubelle-Silling/p/book/9781482230437)
 
+## Science communication 
+
+* Championing Science -- Communicating Your Ideas to Decision Makers, Aines R. and Aines A., University of California Press, 2019. ISBN 9780520298095
+
+
 ## Miscellaneous
 * Gödel, Escher, Bach: An Eternal Golden Braid. D.R. Hofstadter. Basic Books. 1979. ISBN 978-0-465-02656-2
 * The Signal and the Noise: Why So Many Predictions Fail-but Some Don't. N. Silver, Penguin Press. 2012. ISBN 978-1594204111
-* Holt J. When Einstein walked with Gödel: excursions to the edge of thought. Farrar, Straus and Giroux; 2018 May 15.
+* Holt J. When Einstein walked with Gödel: excursions to the edge of thought, Holt J., Farrar, Straus and Giroux; 2018 May 15. ISBN 0374146705
+* Fracture and Life, Brian Cotterell, ICP, 2018. ISBN 978-1848162822 
