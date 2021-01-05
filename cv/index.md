@@ -75,9 +75,9 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization
+1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization, (submitted)
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted)
-1. Deploying a Task-based Runtime System on Raspberry Pi Clusters, (accepted) [Preprint](https://arxiv.org/abs/2010.04106)
+
 
 ###### Journal articles
 1. P. Diehl, P. K. Jha, H. Kaiser, R. Lipton, and M. Lévesque. An asynchronous and task-based implementation of peridynamics utilizing hpx—the C++ standard library for parallelism and concurrency. SN Applied Sciences, 2(12):2144, 2020, [10.1007/s42452-020-03784-x]({https://doi.org/10.1007/s42452-020-03784-x), [Preprint](https://arxiv.org/abs/1806.06917).
@@ -123,9 +123,9 @@ Nov 2018, pp. 19–28. [Link](https://doi.org/10.1109/ESPM2.2018.00006), [Prepri
 Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 37–45, Nov 2018. [Link](https://doi.org/10.1109/ESPM2.2018.00009), [Preprint](https://arxiv.org/abs/1810.07591)
 9. Tianyi Zhang, Shahrzad Shirzad, Patrick Diehl, R. Tohid, Weile Wei, and Hartmut Kaiser. An introduction to hpxmp: A modern openmp implementation leveraging hpx, an asynchronous many-task system. In Proceedings of the International Workshop on OpenCL, IWOCL’19, pages 13:1–13:10, 2018. [Link](https://dl.acm.org/citation.cfm?doid=3318170.3318191), [Preprint](https://arxiv.org/abs/1903.03023)
 10. B. Hasheminezhad, S. Shirzad, N. Wu, P. Diehl, H. Schulz, and H. Kaiser.
-Towards a scalable and distributed infrastructure for deep learning ap-
-plications. In 2020 IEEE/ACM Fourth Workshop on Deep Learning on
+Towards a scalable and distributed infrastructure for deep learning applications. In 2020 IEEE/ACM Fourth Workshop on Deep Learning on
 Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9297125), [Preprint](https://arxiv.org/abs/2010.03012) 
+11. N. Gupta et al., "Deploying a Task-based Runtime System on Raspberry Pi Clusters," 2020 IEEE/ACM 5th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2), GA, USA, 2020, pp. 11-20, doi: [10.1109/ESPM251964.2020.00007](https://ieeexplore.ieee.org/abstract/document/9307132), [Preprint](https://arxiv.org/abs/2010.04106)
 
 
 #### Short papers
