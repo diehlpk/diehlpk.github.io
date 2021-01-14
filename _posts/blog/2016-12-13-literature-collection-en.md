@@ -23,8 +23,8 @@ A collection of books, which I used during my studies:
 
 ## Science communication 
 
-* Championing Science -- Communicating Your Ideas to Decision Makers, Aines R. and Aines A., University of California Press, 2019. ISBN 9780520298095
-
+* Championing Science -- Communicating Your Ideas to Decision Makers, Aines R. and Aines A., University of California Press, 2019, ISBN 9780520298095
+* Presentation Zen: Simple Ideas on Presentation Design and Delivery (Voices That Matter), Reynolds G, New Riders, ISBN 0321811984
 
 ## Miscellaneous
 * Gödel, Escher, Bach: An Eternal Golden Braid. D.R. Hofstadter. Basic Books. 1979. ISBN 978-0-465-02656-2
