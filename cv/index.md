@@ -191,8 +191,9 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 23. --, Computational Analysis of Coupling Methods for Classical Continuum Mechanics and Peridynamics Models, 15th U.S. National Congress on Computational Mechanics
 (USNCCM15), 28.07-01.08 2019, Austin, USA.
 24. --, Long term availability of raw experimental data in experimental fracture mechanics, Scientific Computing Around Louisiana (SCALA), 07.02-08.02 2020, Baton Rouge, USA.
-25. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, Gateways 2020, 12.10-23.10 2020.
-26. P. Diehl, On the treatment of boundary conditions for bond-based peridynamic models, 3rd Annual Meetingof the SIAM Texas-Louisiana Section, 16.10-18.10 2020.
+25. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, Gateways 2020, 12.10-23.10 2020, Virtual event
+26. P. Diehl, On the treatment of boundary conditions for bond-based peridynamic models, 3rd Annual Meeting of the SIAM Texas-Louisiana Section, 16.10-18.10 2020., Virtual event
+27. --, A comparative review of peridynamics and phase-field models for engineering fracture mechanics, 14th. World Congress on ComputationalMechanics (WCCM XIII), 1.01-15.01 2021, Virtual event.
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
@@ -244,7 +245,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402))
 2. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 14th World Congress on Computational Mechanics
-3. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 16thNational Congress on Computational Mechanics
+3. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 16th National Congress on Computational Mechanics
 4. Nonlocal Models in Mathematics and Computation, 3rd Annual Meetingof the SIAM Texas-Louisiana Section
 
 
@@ -294,7 +295,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ---
 
-Please find attached my CV as a PDF document]({{ site.url }}/assets/cv.pdf).
+Please find attached my CV as a [PDF document]({{ site.url }}/assets/cv.pdf).
 	
 
 If you like to <a href="mailto:me@diehlpk.de?subject=[Blog]">send</a> me a encrypted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.
