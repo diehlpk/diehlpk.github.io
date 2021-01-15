@@ -27,7 +27,7 @@ hide: true
 
 ##### Grant history
 
-###### Completed Research (chronologicl order; most recent one first)
+###### Completed Research (chronological order; most recent one first)
 
 1. High Performance Data Analytics (HDPA) Scalable Second Order Optimization (SSO)
  * Grant #524125 (Hartmut Kaiser)
@@ -71,7 +71,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. An overview for coupling finite elements with peridynamics
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
 1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-1. NLMech: Implementation of finite difference/meshfreediscretization of nonlocal fracture models, (submitted)
+1. NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models, (submitted)
 
 * Computer Science 
 
@@ -276,7 +276,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 #### Reviewer for
 
-* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing,International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Thoeretical and Applied Fracture Mechanics, Mathematics and Mechanics of Solids.
+* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing,International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Theoretical and Applied Fracture Mechanics, Mathematics and Mechanics of Solids.
 
 ---
 
@@ -294,7 +294,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ---
 
-My is available as PDF documents: [Long]({{ site.url }}/assets/cv.pdf) and [NSF]({{ site.url }}/assets/nsf.pdf). 
+Please find attached my CV as a PDF document]({{ site.url }}/assets/cv.pdf).
 	
 
 If you like to <a href="mailto:me@diehlpk.de?subject=[Blog]">send</a> me a encrypted message, you can use this key <a href="https://pgp.mit.edu/pks/lookup?op=get&search=0x9DBF3B88E09D76B6">E09D76B6</a>.
