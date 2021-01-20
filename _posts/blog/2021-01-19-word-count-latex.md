@@ -13,7 +13,7 @@ pdftotext template.pdf - | wc -w
 6910
 {% endhighlight %}
 
-However, only the total word count is printed to the terminal. Sometimes, more details are needed, e.g. the word count in the text, the wourd count of the captions, or the amount of floating environments. Here, [texcount](https://app.uio.no/ifi/texcount/) provides much more details
+However, only the total word count is printed to the terminal. Sometimes, more details are needed, e.g. the word count in the text, the word count of the captions, or the amount of floating environments. Here, [texcount](https://app.uio.no/ifi/texcount/) provides much more details
 
 {% highlight bash %}
 texcount -inc -total template.tex
@@ -28,4 +28,4 @@ Number of math displayed: 1
 Files: 12
 {% endhighlight %}
 
-the option -inc includes all tex files recursivly and -total combis the statistics. To see the statics for each tex file leave out the -total option. 
+the option -inc includes all TeX files recursively and -total combines the statistics. To see the statics for each TeX file leave out the -total option. 
