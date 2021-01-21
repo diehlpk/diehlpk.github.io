@@ -75,7 +75,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization, (submitted)
+1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization, (submitted), [Preprint](https://arxiv.org/abs/2101.08226)
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted)
 
 
