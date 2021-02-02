@@ -71,12 +71,12 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. An overview for coupling finite elements with peridynamics
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
 1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-1. NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models, (submitted)
+1. NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models, (submitted), [Review](https://github.com/openjournals/joss-reviews/issues/2898)
 
 * Computer Science 
 
 1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization, (submitted), [Preprint](https://arxiv.org/abs/2101.08226)
-1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted)
+1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted), [Preprint](https://arxiv.org/abs/2102.00223)
 
 
 ###### Journal articles
