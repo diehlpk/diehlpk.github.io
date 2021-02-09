@@ -77,7 +77,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization, (submitted), [Preprint](https://arxiv.org/abs/2101.08226)
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted), [Preprint](https://arxiv.org/abs/2102.00223)
-1. Load balancing for distributed nonlocal models within asynchronous many-task systems
+1. Load balancing for distributed nonlocal models within asynchronous many-task systems, submitted, [Preprint](https://arxiv.org/abs/2102.03819)
 
 ###### Journal articles
 1. P. Diehl, P. K. Jha, H. Kaiser, R. Lipton, and M. Lévesque. An asynchronous and task-based implementation of peridynamics utilizing hpx—the C++ standard library for parallelism and concurrency. SN Applied Sciences, 2(12):2144, 2020, [10.1007/s42452-020-03784-x]({https://doi.org/10.1007/s42452-020-03784-x), [Preprint](https://arxiv.org/abs/1806.06917).
