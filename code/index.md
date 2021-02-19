@@ -23,7 +23,6 @@ hide: true
 * [thesis-template](https://github.com/latextemplates/scientific-thesis-template) - LaTeX template for Master, Bachelor, Diploma, and Student Theses 
  [![GitHub contributors](https://img.shields.io/github/contributors/latextemplates/scientific-thesis-template.svg)](https://GitHub.com/latextemplates/scientific-thesis-template/graphs/contributors/) [![GitHub stars](https://img.shields.io/github/stars/latextemplates/scientific-thesis-template.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/latextemplates/scientific-thesis-template/stargazers/)
 
-
 ##### Ferdora packages
 
 * [hpx](https://src.fedoraproject.org/rpms/hpx) - [HPX](https://github.com/STEllAR-GROUP/hpx) is a general purpose C++ runtime system for parallel and distributed applications of any scale. 
