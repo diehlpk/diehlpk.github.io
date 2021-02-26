@@ -254,6 +254,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
 prediction and experimental design ([link](http://wfm2020.usacm.org/))
+2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
 
 ##### Meetings
 
