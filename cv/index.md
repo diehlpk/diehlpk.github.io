@@ -218,6 +218,10 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 
 Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
 
+##### Certificates
+
+* Baden--Württemberg Certificate: Certificate for successful completion of the program in higher educationpedagogy by the center for educational development of the state of Baden–Württemberg.
+
 ---
 
 #### Advising and related student services
@@ -253,7 +257,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 ##### Workshops organized
 
 1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
-prediction and experimental design ([link](http://wfm2020.usacm.org/))
+prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
 
 ##### Meetings
@@ -262,7 +266,7 @@ prediction and experimental design ([link](http://wfm2020.usacm.org/))
 
 ##### Panels 
 
-1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Webpage](http://stellar-group.org/tbaa2020-scpanel/)
+1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Link](http://stellar-group.org/tbaa2020-scpanel/)
 
 ##### Mentor and Organizer of [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
 
