@@ -207,7 +207,7 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 
 ##### Instructor
 
-* Math 4997 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise)
+* Math 4997 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise), and [Notes](https://github.com/diehlpkteaching/ParallelComputationMathScript)
 
 ##### Teaching assistant
 
@@ -234,7 +234,8 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Graduate Commitee Member
 
-* 2020: Maxwell Reeser, MS
+* Master thesis: M. Reeser
+* Honors project: J. Trepper
 
 --- 
 
