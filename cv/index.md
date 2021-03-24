@@ -10,12 +10,12 @@ hide: true
 
 
 ##### Current Appointment
-* Oct 2018 - present Research scientist, Center for Computation &  Technology, Louisiana State University ([link](https://www.cct.lsu.edu/))
+* Oct 2018 - present Research scientist, Center for Computation & Technology, Louisiana State University ([link](https://www.cct.lsu.edu/))
 
 ##### Professional Experience
 * Feb 2017 - Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
 * Apr 2013 - Jan 2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
-* Jul 2012 - Mar 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart)
+* Jul 2012 - Mar 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/departments/sgs/))
 
 --- 
 
@@ -36,10 +36,24 @@ hide: true
  * Period of Grant Award: June 25 -- Oct 31 2020
  * Role on project: Co-Pi
 
+---
+
+##### Allocation history
+
+###### Current Allocations  (chronological order; most recent one first)
+
+1. Porting Octo-Tiger, an astrophysics program simulating the evolu-tion of star systems based on the fast multipole method on adaptive Octrees
+  * Project PaDi032321F (Patrick Diehl)
+  * Type: Test-bed
+  * Amount awarded: 10k
+  * Cluster: Ookami @ Stonybrook
+  * Role on Project: PI
 
 Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 ---
+
+
 
 ##### Journal editor
 
@@ -75,9 +89,9 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization, (submitted), [Preprint](https://arxiv.org/abs/2101.08226)
-1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (submitted), [Preprint](https://arxiv.org/abs/2102.00223)
-1. Load balancing for distributed nonlocal models within asynchronous many-task systems, submitted, [Preprint](https://arxiv.org/abs/2102.03819)
+1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization, (accepted), [Preprint](https://arxiv.org/abs/2101.08226)
+1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (revision), [Preprint](https://arxiv.org/abs/2102.00223)
+1. Load balancing for distributed nonlocal models within asynchronous many-task systems, accepted, [Preprint](https://arxiv.org/abs/2102.03819)
 
 ###### Journal articles
 1. P. Diehl, P. K. Jha, H. Kaiser, R. Lipton, and M. Lévesque. An asynchronous and task-based implementation of peridynamics utilizing hpx—the C++ standard library for parallelism and concurrency. SN Applied Sciences, 2(12):2144, 2020, [10.1007/s42452-020-03784-x]({https://doi.org/10.1007/s42452-020-03784-x), [Preprint](https://arxiv.org/abs/1806.06917).
