@@ -83,9 +83,10 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 * Computational Mathematics
 
 1. An overview for coupling finite elements with peridynamics
-1. A comparative review of peridynamics and phase field models for engineering fracture mechanics
+1. A comparative review of peridynamics and phase field models for engineering fracture mechanics, (submitted), [Preprint](https://engrxiv.org/gty2b/)
 1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models, (submitted), [Review](https://github.com/openjournals/joss-reviews/issues/3020)
+1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method
 
 * Computer Science 
 
