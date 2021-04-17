@@ -90,11 +90,11 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Octo-Tiger: a fast, 3D hydrodynamic code for stellar mergers that uses HPX parallelization, (accepted), [Preprint](https://arxiv.org/abs/2101.08226)
 1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (revision), [Preprint](https://arxiv.org/abs/2102.00223)
 1. Load balancing for distributed nonlocal models within asynchronous many-task systems, accepted, [Preprint](https://arxiv.org/abs/2102.03819)
 
 ###### Journal articles
+1. D. C. Marcello, S. Shiber, O. De Marco, J. Frank, G. C. Clayton, P. M. Motl, P. Diehl, and H. Kaiser. Octo-Tiger: a new, 3D hydrodynamic code for stellar mergers that uses HPX parallelisation. Monthly Notices of the Royal Astronomical Society, 04 2021, [10.1093/mnras/stab937](https://doi.org/10.1093/mnras/stab937), [Preprint](https://arxiv.org/abs/2101.08226)
 1. P. Diehl, P. K. Jha, H. Kaiser, R. Lipton, and M. Lévesque. An asynchronous and task-based implementation of peridynamics utilizing hpx—the C++ standard library for parallelism and concurrency. SN Applied Sciences, 2(12):2144, 2020, [10.1007/s42452-020-03784-x]({https://doi.org/10.1007/s42452-020-03784-x), [Preprint](https://arxiv.org/abs/1806.06917).
 1. S. Prudhomme and P. Diehl. On the treatment of boundary conditions for bond-based peridynamic models. Computer Methods in Applied Mechanics and Engineering, 372:113391, 2020. [10.1016/j.cma.2020.113391](https://doi.org/10.1016/j.cma.2020.113391), [Preprint](https://arxiv.org/abs/2008.09725)
 1. Kaiser et al., (2020). HPX - The C++ Standard Library for Parallelism and Concurrency. Journal of Open Source Software, 5(53), 2352, [10.21105/joss.02352](https://doi.org/10.21105/joss.02352)
