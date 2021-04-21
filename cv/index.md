@@ -86,14 +86,14 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics, (submitted), [Preprint](https://engrxiv.org/gty2b/)
 1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models, (submitted), [Review](https://github.com/openjournals/joss-reviews/issues/3020)
-1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method
+1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I
 
 * Computer Science 
 
-1. Performance measurements within asynchronous task-based run time systems: A double white dwarf merger as an application, (revision), [Preprint](https://arxiv.org/abs/2102.00223)
 1. Load balancing for distributed nonlocal models within asynchronous many-task systems, accepted, [Preprint](https://arxiv.org/abs/2102.03819)
 
 ###### Journal articles
+1.  P. Diehl, D. Marcello, P. Armini, H. Kaiser, S. Shiber, G. C. Clayton, J. Frank, G. Daiss,D. Pflueger, D. C. Eder, A. Koniges, and K. Huck. Performance measurements withinasynchronous task-based runtime systems: Adoublewhite dwarfmergeras an application. Computing in Science & Engineering, 2021. [10.1109/MCSE.2021.3073626](https://doi.org/10.1109/MCSE.2021.3073626), [Preprint](https://arxiv.org/abs/2102.00223)
 1. D. C. Marcello, S. Shiber, O. De Marco, J. Frank, G. C. Clayton, P. M. Motl, P. Diehl, and H. Kaiser. Octo-Tiger: a new, 3D hydrodynamic code for stellar mergers that uses HPX parallelisation. Monthly Notices of the Royal Astronomical Society, 04 2021, [10.1093/mnras/stab937](https://doi.org/10.1093/mnras/stab937), [Preprint](https://arxiv.org/abs/2101.08226)
 1. P. Diehl, P. K. Jha, H. Kaiser, R. Lipton, and M. Lévesque. An asynchronous and task-based implementation of peridynamics utilizing hpx—the C++ standard library for parallelism and concurrency. SN Applied Sciences, 2(12):2144, 2020, [10.1007/s42452-020-03784-x]({https://doi.org/10.1007/s42452-020-03784-x), [Preprint](https://arxiv.org/abs/1806.06917).
 1. S. Prudhomme and P. Diehl. On the treatment of boundary conditions for bond-based peridynamic models. Computer Methods in Applied Mechanics and Engineering, 372:113391, 2020. [10.1016/j.cma.2020.113391](https://doi.org/10.1016/j.cma.2020.113391), [Preprint](https://arxiv.org/abs/2008.09725)
