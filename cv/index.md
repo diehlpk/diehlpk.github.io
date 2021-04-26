@@ -303,7 +303,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 #### Reviewer for
 
-* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing,International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Theoretical and Applied Fracture Mechanics, Mathematics and Mechanics of Solids.
+* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing,International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Theoretical and Applied Fracture Mechanics, Acta Mechanica, Mathematics and Mechanics of Solids.
 
 ---
 
@@ -316,6 +316,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 #### Presence in media
 
+* A breakthrough astrophysics code rapidly models stellar collisions, phys.org, April 24, 2020. [Post](https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-04-breakthrough-astrophysics-code-rapidly-stellar.amp) 
 * Björn Bohn. “Die jungen Wilden: Googles Summer of Code.” Heise Developer. March 2, 2018. [Post](https://www.heise.de/developer/artikel/Die-jungen-Wilden-Googles-Summer-of-Code-3979634.html)
 * European Structural Integrity Society (ESIS), "Discussion of fracture paper #21 - Only 6% of experimentalists want to disclose raw-data" August 22, 2018 [Post](http://imechanica.org/node/22590)
 
