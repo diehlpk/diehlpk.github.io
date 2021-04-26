@@ -12,3 +12,8 @@ This course will focus on the parallel implementation of computational mathemati
 * Courses: [Fall 2019](https://www.cct.lsu.edu/~pdiehl/teaching/2019/4977/), [Fall 2020](https://www.cct.lsu.edu/~pdiehl/teaching/2020/4997/), and
 [Fall 2021](https://www.cct.lsu.edu/~pdiehl/teaching/2021/4997/).
 * Materials: [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise), and [Lecture notes](https://github.com/diehlpkteaching/ParallelComputationMathScript)
+
+
+### References
+
+1. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, In Proceedings of Gateways 2020, Science Gateways Community Institute (SGCI), [Link](https://osf.io/qbtj3/)
