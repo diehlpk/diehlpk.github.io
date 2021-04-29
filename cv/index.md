@@ -87,6 +87,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models, (submitted), [Review](https://github.com/openjournals/joss-reviews/issues/3020)
 1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I
+1. PERIDYNAMICS FOR QUASISTATIC FRACTURE MODELING, (submitted)
 
 * Computer Science 
 
