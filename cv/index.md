@@ -263,6 +263,11 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 #### Academic-related Professional and Public Service
 
+##### Committee served
+
+1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
+
+
 ##### Mini-symposia organized
 
 1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402))
