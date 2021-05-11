@@ -296,6 +296,10 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. Colloquium on Artificial Intelligence Research and Optimization, Spring semester 2021, Louisiana State University, [Link](https://stellar-group.org/research/distributed-machine-learning/)
 
+##### Short course
+
+1. SC16-001 Advanced Parallel Programming in C++, 16th U.S. NationalCongress on Computational Mechanics
+
 ##### Mentor and Organizer of [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
 
 * GSoC <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018), and [2020]({{ site.url }}/blog/gsc-projects/#Domain-decomposition,-load-balancing,-and-massively-parallel-solvers-for-the-class-of-nonlocal-models-2020)
