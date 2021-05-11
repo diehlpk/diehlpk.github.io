@@ -53,8 +53,6 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 ---
 
-
-
 ##### Journal editor
 
 1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), The Journal of Open Source Software
@@ -252,6 +250,10 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 * Master thesis: M. Reeser
 * Honors project: J. Trepper
+
+##### Google Summer of Code
+
+* A. Nigam, M. Seshadri, G. Laberge, J. Golinowski, and P. Gadikar
 
 --- 
 
