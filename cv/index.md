@@ -257,6 +257,10 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 * A. Nigam, M. Seshadri, G. Laberge, J. Golinowski, and P. Gadikar
 
+##### NSF REU: Interdisciplinary Research Experience in Computational Sciences
+
+* A. Edwards
+
 --- 
 
 ##### Work-related projects
