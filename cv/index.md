@@ -89,6 +89,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
+1 Octo-Tiger's New Hydro Module and Performance Using HPX+CUDA on ORNL's Summit, submitted. 
 1. Load balancing for distributed nonlocal models within asynchronous many-task systems, accepted, [Preprint](https://arxiv.org/abs/2102.03819)
 
 ###### Journal articles
