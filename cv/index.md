@@ -211,6 +211,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 25. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, Gateways 2020, 12.10-23.10 2020, Virtual event
 26. P. Diehl, On the treatment of boundary conditions for bond-based peridynamic models, 3rd Annual Meeting of the SIAM Texas-Louisiana Section, 16.10-18.10 2020., Virtual event
 27. --, A comparative review of peridynamics and phase-field models for engineering fracture mechanics, 14th. World Congress on ComputationalMechanics (WCCM XIII), 1.01-15.01 2021, Virtual event.
+28. --, A comparative review of peridynamics and phase-field models for engineering fracture mechanics, Engineering Mechanics Institute Conference, 26.05-28.05 2021, Virtual event.
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
