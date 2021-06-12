@@ -17,4 +17,4 @@ and for more details see the colloquim's [webpage](https://stellar-group.org/res
 * Fast AI: Enabling Rapid Prototyping of AI Solutions, Dr. Vijay Gadepally, Massachusetts Institute of Technology, [Video](https://www.youtube.com/watch?v=_jhWoc1IE40)
 * The Groq Tensor Streaming Processor (TSP) and the Value of Deterministic Instruction Execution, Dr. Utham Kamath, Groq
 * Scaling Geospatial Artificial Intelligence: Opportunities and Challenges, Dr. Lexie Yang, ORNL
-* PiE Model: Integrating Ethical Puzzle-Solving into AI R&D and Deployment, Dr. Cansu Canca, AI Ethics Lab 
+* PiE Model: Integrating Ethical Puzzle-Solving into AI R&D and Deployment, Dr. Cansu Canca, AI Ethics Lab, [Video](https://t.co/udzwkECe9J?amp=1)
