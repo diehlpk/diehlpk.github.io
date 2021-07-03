@@ -1,3 +1,7 @@
+"dependencies": {
+  "grunt": ">=1.3.0"
+}
+
 'use strict';
 module.exports = function(grunt) {
 
