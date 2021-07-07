@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Patrick Diehl
+title: 
 locale: en_US
-description: Personal website 
+description: 
   #logo: site-logo.png
 search: true
 url: https://www.diehlpk.de
