@@ -30,4 +30,6 @@ A collection of books, which I used during my studies:
 * Gödel, Escher, Bach: An Eternal Golden Braid. D.R. Hofstadter. Basic Books. 1979. ISBN 978-0-465-02656-2
 * The Signal and the Noise: Why So Many Predictions Fail-but Some Don't. N. Silver, Penguin Press. 2012. ISBN 978-1594204111
 * Holt J. When Einstein walked with Gödel: excursions to the edge of thought, Holt J., Farrar, Straus and Giroux; 2018 May 15. ISBN 0374146705
-* Fracture and Life, Brian Cotterell, ICP, 2018. ISBN 978-1848162822 
+* Fracture and Life, Brian Cotterell, ICP, 2018. ISBN 978-1848162822
+* Chapman K. Superheavy: making and breaking the periodic table. Bloomsbury Publishing; 2019 Jun 13. ISBN 1472953894
+* Guillen M. Five equations that changed the world: the power and poetry of mathematics. Hachette Books; 2012 Jun 5. ISBN 0786861037
