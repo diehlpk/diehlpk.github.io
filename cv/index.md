@@ -91,7 +91,6 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 * Computer Science 
 
 1. Octo-Tiger's New Hydro Module and Performance Using HPX+CUDA on ORNL's Summit, accepted. 
-1. Load balancing for distributed nonlocal models within asynchronous many-task systems, accepted, [Preprint](https://arxiv.org/abs/2102.03819)
 
 ###### Journal articles
 1.  P. Diehl, D. Marcello, P. Armini, H. Kaiser, S. Shiber, G. C. Clayton, J. Frank, G. Daiss,D. Pflueger, D. C. Eder, A. Koniges, and K. Huck. Performance measurements within asynchronous task-based runtime systems: A double white dwarf merger as an application. Computing in Science & Engineering, 2021. [10.1109/MCSE.2021.3073626](https://doi.org/10.1109/MCSE.2021.3073626), [Preprint](https://arxiv.org/abs/2102.00223)
@@ -142,7 +141,7 @@ Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 37–
 Towards a scalable and distributed infrastructure for deep learning applications. In 2020 IEEE/ACM Fourth Workshop on Deep Learning on
 Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9297125), [Preprint](https://arxiv.org/abs/2010.03012) 
 11. N. Gupta et al., "Deploying a Task-based Runtime System on Raspberry Pi Clusters," 2020 IEEE/ACM 5th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2), GA, USA, 2020, pp. 11-20, doi: [10.1109/ESPM251964.2020.00007](https://ieeexplore.ieee.org/abstract/document/9307132), [Preprint](https://arxiv.org/abs/2010.04106)
-
+12. P. Gadikar, P. Diehl and P. Jha,"Load balancing for distributed nonlocal models within asynchronous many-task systems," in 2021 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Portland, OR, USA, 2021 pp. 669-678. [10.1109/IPDPSW52791.2021.00103](https://doi.ieeecomputersociety.org/10.1109/IPDPSW52791.2021.00103) , [Preprint](https://arxiv.org/abs/2102.03819)
 
 #### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
