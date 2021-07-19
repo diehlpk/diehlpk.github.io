@@ -271,6 +271,13 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 #### Academic-related Professional and Public Service
 
+1. ASSEP Labor relations officers for postdoctoral fellows, 10/17-09/18 
+1. Liaison for the Louisiana district of the SIAM Texas-Louisiana Section, 03/20-current
+1. Member-at-Large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-current
+
+
+#### Organization of Conferences, Workshops, and Symposia
+
 ##### Committee served
 
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
