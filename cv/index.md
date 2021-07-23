@@ -208,7 +208,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 (USNCCM15), 28.07-01.08 2019, Austin, USA.
 24. --, Long term availability of raw experimental data in experimental fracture mechanics, Scientific Computing Around Louisiana (SCALA), 07.02-08.02 2020, Baton Rouge, USA.
 25. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, Gateways 2020, 12.10-23.10 2020, Virtual event
-26. P. Diehl, On the treatment of boundary conditions for bond-based peridynamic models, 3rd Annual Meeting of the SIAM Texas-Louisiana Section, 16.10-18.10 2020., Virtual event
+26. P. Diehl, On the treatment of boundary conditions for bond-based peridynamic models, 3rd Annual Meeting of the SIAM Texas-Louisiana Section, 16.10-18.10 2020., Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/on-the-treatment-of-boundary-conditions-for-bondbased-peridynamic-models)
 27. --, A comparative review of peridynamics and phase-field models for engineering fracture mechanics, 14th. World Congress on ComputationalMechanics (WCCM XIII), 1.01-15.01 2021, Virtual event.
 28. --, A comparative review of peridynamics and phase-field models for engineering fracture mechanics, Engineering Mechanics Institute Conference, 26.05-28.05 2021, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/emi-2021-a-comparative-review-of-peridynamics-and-phasefield-models-for-engineering-fracture-mechanics)
 
