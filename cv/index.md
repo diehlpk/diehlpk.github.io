@@ -214,6 +214,8 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 27. P. Diehl, On the treatment of boundary conditions for bond-based peridynamic models, 3rd Annual Meeting of the SIAM Texas-Louisiana Section, 16.10-18.10 2020., Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/on-the-treatment-of-boundary-conditions-for-bondbased-peridynamic-models)
 28. --, A comparative review of peridynamics and phase-field models for engineering fracture mechanics, 14th. World Congress on ComputationalMechanics (WCCM XIII), 1.01-15.01 2021, Virtual event.
 29. --, A comparative review of peridynamics and phase-field models for engineering fracture mechanics, Engineering Mechanics Institute Conference, 26.05-28.05 2021, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/emi-2021-a-comparative-review-of-peridynamics-and-phasefield-models-for-engineering-fracture-mechanics)
+30. --, Quasistatic Fracture using Nonliner-Nonlocal Elastostatics with an Analytic Tangent Stiffness Matrix, 16th U.S. National Congress on Computational Mechanics (USNCCM16), 25.07-29.07 2021, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/quasistatic-fracture-using-nonlinernonlocal-elastostatics-with-an-analytic-tangent-stiffness-matrix)
+
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
