@@ -84,9 +84,9 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics, (submitted), [Preprint](https://engrxiv.org/gty2b/)
 1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models, (submitted), [Review](https://github.com/openjournals/joss-reviews/issues/3020)
-1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I
+1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I, (submitted), [Preprint](https://arxiv.org/abs/2108.02336)
 1. PERIDYNAMICS FOR QUASISTATIC FRACTURE MODELING, (accepted), [Preprint](https://arxiv.org/abs/2107.14665)
-1. Coupling approaches for classical linear elasticity and bond-based peridynamic models, submitted
+1. Coupling approaches for classical linear elasticity and bond-based peridynamic models, (submitted)
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 
 * Computer Science 
