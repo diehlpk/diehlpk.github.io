@@ -31,3 +31,11 @@ To compress the archive in parallel you can run
 where -p specifies the pthreads you want to use. In this case we will 12 pthreads to compress the archive. More options are available [here](https://zlib.net/pigz/pigz.pdf).
 
 
+To combine generating the archive using [tar](https://man7.org/linux/man-pages/man1/tar.1.html) and compression, the following code can be used
+
+{% highlight bash %}
+tar --use-compress-program="./pigz-2.6/pigz -p 2" -cvf test.tar.gz core.*
+{% endhighlight %}
+
+and the compression will use 2 phtreads.
+
