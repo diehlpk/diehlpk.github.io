@@ -242,7 +242,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Certificates
 
-* Baden--Württemberg Certificate: Certificate for successful completion of the program in higher educationpedagogy by the center for educational development of the state of Baden–Württemberg.
+* Baden--Württemberg Certificate: Certificate for successful completion of the program in higher education pedagogy by the center for educational development of the state of Baden–Württemberg.
 
 ---
 
@@ -279,7 +279,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 1. ASSEP Labor relations officers for postdoctoral fellows, 10/17-09/18 
 1. Liaison for the Louisiana district of the SIAM Texas-Louisiana Section, 03/20-current
-1. Member-at-Large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-current
+1. Member-at-large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-current
 
 
 #### Organization of Conferences, Workshops, and Symposia
@@ -287,7 +287,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 ##### Committee served
 
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
-
+1. Gateways Conference 2021, program committee member
 
 ##### Mini-symposia organized
 
