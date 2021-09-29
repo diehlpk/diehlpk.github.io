@@ -6,7 +6,7 @@ hide: true
  
 ##### C++
 
-* [NLMech](https://github.com/nonlocalmodels/NLMech) - Implementation of finite element and finite difference approximation of Nonlocal models 
+* [NLMech](https://github.com/nonlocalmodels/NLMech) - Implementation of finite element and finite difference approximation of Nonlocal models [![DOI](https://joss.theoj.org/papers/10.21105/joss.03020/status.svg)](https://doi.org/10.21105/joss.03020)
 * [HPX](https://github.com/STEllAR-GROUP/hpx) - C++ standard library for parallism and concurrency [![DOI](https://joss.theoj.org/papers/10.21105/joss.02352/status.svg)](https://doi.org/10.21105/joss.02352)[![GitHub contributors](https://img.shields.io/github/contributors/STEllAR-GROUP/hpx.svg)](https://GitHub.com/STEllAR-GROUP/hpx/graphs/contributors/) [![GitHub stars](https://img.shields.io/github/stars/STEllAR-GROUP/hpx.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/STEllAR-GROUP/hpx/stargazers/)
 * [HPX Compute Language](https://github.com/STEllAR-GROUP/hpxcl) - Components for supporting percolation via OpenCL and CUDA within [HPX](https://github.com/STEllAR-GROUP/hpx) [![DOI](https://zenodo.org/badge/13384046.svg)](https://zenodo.org/badge/latestdoi/13384046) [![GitHub contributors](https://img.shields.io/github/contributors/STEllAR-GROUP/hpxcl.svg)](https://GitHub.com/STEllAR-GROUP/hpx/graphs/contributors/) [![GitHub stars](https://img.shields.io/github/stars/STEllAR-GROUP/hpxcl.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/STEllAR-GROUP/hpxcl/stargazers/)
 * [PeriVis](https://github.com/PeriVIS) - Advance visualization of peridynamic simulations
