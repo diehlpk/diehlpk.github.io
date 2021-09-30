@@ -56,7 +56,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 ##### Journal editor
 
 1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), The Journal of Open Source Software
-
+2. Guest editor, Special issue: Peridynamics and its Current Progress, Computer Modeling in Engineering & Sciences (CMES)
 ---
 
 #### Research interests
