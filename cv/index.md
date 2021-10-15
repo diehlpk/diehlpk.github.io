@@ -258,8 +258,8 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Graduate Commitee Member
 
-* Master thesis: M. Reeser
-* Honors project: J. Trepper
+* Master thesis: M. Reeser (LSU, 2020)
+* Honors project: J. Trepper (LSU, 2020)
 
 ##### Google Summer of Code
 
