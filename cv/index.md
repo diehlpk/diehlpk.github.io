@@ -269,7 +269,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Google Deason of Docs
 
-Louisiana State University: R. Stobaugh (2019)
+* Louisiana State University: R. Stobaugh (2019)
 
 ##### NSF REU: Interdisciplinary Research Experience in Computational Sciences
 
