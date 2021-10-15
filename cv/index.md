@@ -57,6 +57,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), The Journal of Open Source Software
 2. Guest editor, Special issue: Peridynamics and its Current Progress, Computer Modeling in Engineering & Sciences (CMES)
+
 ---
 
 #### Research interests
@@ -251,8 +252,9 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Co-supervised theses
 
-* Pfander, David: Eine künstliche Intelligenz für das Kartenspiel Tichu, Studienarbeit Nr. 2398, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/STUD-2398/STUD-2398.pdf)
-* Kanis, Sebastian: GPU-based Numerical Integration in the Partition of Unity Method, Diplomarbeit Nr. 3405, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/DIP-3405/DIP-3405.pdf) 
+* University of Stuttgart:
+  * Pfander, David: Eine künstliche Intelligenz für das Kartenspiel Tichu, Studienarbeit Nr. 2398, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/STUD-2398/STUD-2398.pdf)
+  * Kanis, Sebastian: GPU-based Numerical Integration in the Partition of Unity Method, Diplomarbeit Nr. 3405, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/DIP-3405/DIP-3405.pdf) 
 
 ##### Graduate Commitee Member
 
@@ -261,11 +263,17 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Google Summer of Code
 
-* A. Nigam, M. Seshadri, G. Laberge, J. Golinowski, and P. Gadikar
+* University of Bonn: A. Nigam (2016)
+* Polytechnique Montreal: M. Seshadri (2017), G. Laberge and J. Golinowski (2018)
+* Louisiana State University: : P. Gadika (LSU 2020)
+
+##### Google Deason of Docs
+
+Louisiana State University: R. Stobaugh (2019)
 
 ##### NSF REU: Interdisciplinary Research Experience in Computational Sciences
 
-* A. Edwards
+* Louisiana State University: A. Edwards (2021)
 
 --- 
 
