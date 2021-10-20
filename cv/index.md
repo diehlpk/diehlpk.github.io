@@ -91,11 +91,12 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Octo-Tiger's New Hydro Module and Performance Using HPX+CUDA on ORNL's Summit, (accepted), [Preprint](https://arxiv.org/abs/2107.10987)
 1. Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, (submitted), [Prepint](https://edarxiv.org/5te23/)
 
 
 ###### Journal articles
+
+1. Diehl, Patrick, et al. "Octo-Tiger’s New Hydro Module and Performance Using HPX+ CUDA on ORNL’s Summit." 2021 IEEE International Conference on Cluster Computing (CLUSTER). IEEE, 2021. [10.1109/Cluster48925.2021.00059](https://doi.org/10.1109/Cluster48925.2021.00059)[Preprint](https://arxiv.org/abs/2107.10987)
 1. Jha et al., (2021). NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models. Journal of Open Source Software, 6(65), 3020, [10.21105/joss.03020](https://doi.org/10.21105/joss.03020)
 1.  P. Diehl, D. Marcello, P. Armini, H. Kaiser, S. Shiber, G. C. Clayton, J. Frank, G. Daiss,D. Pflueger, D. C. Eder, A. Koniges, and K. Huck. Performance measurements within asynchronous task-based runtime systems: A double white dwarf merger as an application. Computing in Science & Engineering, 2021. [10.1109/MCSE.2021.3073626](https://doi.org/10.1109/MCSE.2021.3073626), [Preprint](https://arxiv.org/abs/2102.00223)
 1. D. C. Marcello, S. Shiber, O. De Marco, J. Frank, G. C. Clayton, P. M. Motl, P. Diehl, and H. Kaiser. Octo-Tiger: a new, 3D hydrodynamic code for stellar mergers that uses HPX parallelisation. Monthly Notices of the Royal Astronomical Society, 04 2021, [10.1093/mnras/stab937](https://doi.org/10.1093/mnras/stab937), [Preprint](https://arxiv.org/abs/2101.08226)
