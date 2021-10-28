@@ -33,3 +33,4 @@ A collection of books, which I used during my studies:
 * Fracture and Life, Brian Cotterell, ICP, 2018. ISBN 978-1848162822
 * Chapman K. Superheavy: making and breaking the periodic table. Bloomsbury Publishing; 2019 Jun 13. ISBN 1472953894
 * Guillen M. Five equations that changed the world: the power and poetry of mathematics. Hachette Books; 2012 Jun 5. ISBN 0786861037
+* The man who knew too much, David Leavitt, W. W. Norton & Company, 17. November 2006, ISBN 0739471953
