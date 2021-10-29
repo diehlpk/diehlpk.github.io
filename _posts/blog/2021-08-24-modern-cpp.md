@@ -49,7 +49,7 @@ see Listing 3. In Line 3 a `std::vector` with the length `n` is generated. The f
 
 These two small examples only showed few functions of the C++ 17 standard, which are experimentally supported by the GNU compiler collection (gcc) $\geq$ 9 and the Microsoft Visual Studio compiler (MVSC). However, the C++ standard library for parallelism and concurrency (HPX) implements many more of the defined features in the C++ 17 standard. Note that you can replace the `std::` name space by `hpx::` name space, since HPX strictly enhance the C++ 17 standard. We will show two small examples with new features which are not yet implemented in the major implementations. First, HPX provides some easier way to iterate over a vector without generating a vector of indices using `std::for_each`, see Listing 2. Listing 6 shows the simplification for iterating over the vector. In the previous example, we had to generate the vector of indices, which increases the memory consumption of the program. In Line~\ref{lst:for:each:hpx:loop}, we use a `hpx::for_loop` which is more like the `for` loop where the start index is provided as the second argument and the end index as the third argument. In the lambda function, we can access the index, $i$ which will go from zero up to `v.size()`. 
 
-![Listing5!]({{ site.url }}/assets/2021-10-28-listing5.png "Example to compute the sum of all elements in the vector using the parallel algorithms provided by HPX.")
+![Listing5!]({{ site.url }}/assets/2021-10-28-listing5.svg "Example to compute the sum of all elements in the vector using the parallel algorithms provided by HPX.")
 
 
 ## Supplementary materials
