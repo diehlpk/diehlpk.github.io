@@ -34,7 +34,7 @@ In the latest C++ 17 standard~\cite{cxx17_standard}, the so-called parallel algo
 
 Now by specifying the execution policy in Line 21 the algorithm is easily parallized. Note that this happened using the C++ standard, and no external tool, like OpenMP, was needed.
 
-![Listing2!]({{ site.url }}/assets/2021-10-28-listing2.png "Example to compute the element-wise square root of a vector using C++.")
+![Listing2!]({{ site.url }}/assets/2021-10-28-listing2.svg "Example to compute the element-wise square root of a vector using C++.")
 
 Second, we will look into some small example to compute the sum $s$ of all elements in a vector $v$ with $n$ elements
 
