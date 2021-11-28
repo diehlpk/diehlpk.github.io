@@ -38,6 +38,11 @@ Since the C++20 standard for coroutines has emerged, HPX futures have become awa
 
 ## Parallel algorithms
 
+A common opportunity for shared-memory parallel programming in C++ is Open Multi-Processing (OpenMP) [1]. Let us look at the implementation of computing the square root of all elements in a vector $v$ of size $n$
+$$    v_i = \sqrt{v_i}, \; \forall i \in {1,\ldots,n} $$
+in a parallel fashion using OpenMP (see Listing 4). In Line 12, a \lstinline|std::vector| is generated with length $n=10000$ and in Line 15 the vector is filled with random numbers using the algorithms provided by the C++ standard library. In Line 18 a `for` loop is used to iterate over the elements of the vector. Now, the `#pragma`-based OpenMP API is used to parallelize the `for` loop. In Line 17 the  `#pragma` to execute the loop in parallel is added. However, an additional API is needed to achieve the shared-memory parallelism.
+
+![Listing4!]({{ site.url }}/assets/2021-10-28-listing4.svg "Parallel for loop using OpenMP.")
 
 ## Conclusion 
 
