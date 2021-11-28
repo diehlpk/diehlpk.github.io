@@ -71,6 +71,11 @@ These two small examples only showed few functions of the C++ 17 standard, which
 
 ![Listing7!]({{ site.url }}/assets/2021-10-28-listing7.svg "Example to compute the sum of all elements in the vector using the parallel algorithms provided by HPX.")
 
+## Conclusion 
+
+In this article we have shown that it is possible to write parallel C++ programs that take advantage of features in the C++17 and C++20 standards, both to provide task parallelism and loop parallelism (with the parallel algorithms). In addition, we've shown how to use more advanced parallel features only available in the HPX programming framework.
+
+Moreover, we have identified two science applications which base their parallelism on this functionality. First, PeriHPX [2,3] a non-local continuums mechanics code using all these features for its shared memory implementation. Second, Octo-Tiger [5] a multi-physics astrophysics code for simulating stellar mergers.  
 
 ## Supplementary materials
 
