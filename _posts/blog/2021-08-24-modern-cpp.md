@@ -15,7 +15,7 @@ author: diehlpk
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-Many applied mathematics codes are based on the C++ programming language. However, many of these codes do not utilize modern C++ features, especially the features from the recent C++ 17 standard for parallel computations. These features can significantly simplify parallel computations using multiple cores. This review briefly introduces asynchronous programming facilities introduced in the C++ 11 standard and the parallel algorithms introduced in the C++ 17 standard. With these two paradigms, C++ code can be accelerated using multiple cores using the C++ standard without any need for some external special purpose libraries, like \emph{e.g.} OpenMP. The C++20 standard made additional and valuable contributions to the C++ api for parallelism and concurrency. While these may still be unavailable in some compilers, they are already implemented in HPX~\cite{kaiser2020hpx}.
+Many applied mathematics codes are based on the C++ programming language. However, many of these codes do not utilize modern C++ features, especially the features from the recent C++ 17 standard for parallel computations. These features can significantly simplify parallel computations using multiple cores. This review briefly introduces asynchronous programming facilities introduced in the C++ 11 standard and the parallel algorithms introduced in the C++ 17 standard. With these two paradigms, C++ code can be accelerated using multiple cores using the C++ standard without any need for some external special purpose libraries, like e.g. OpenMP. The C++20 standard made additional and valuable contributions to the C++ api for parallelism and concurrency. While these may still be unavailable in some compilers, they are already implemented in HPX [4].
 
 ## Asynchronous programming
 
@@ -25,9 +25,10 @@ $$ \ln(x) = \sum\limits_{n=1}^N \frac{(-1)^{n+1}}{n}(x-1)^n \textbf{.} $$
 
 Listing 1  shows the asynchronous computation of the Taylor series. First, a function `taylor_part` that computes a part of the sum is defined in Line 5. In Line 20 the sum of length $n$ is separated into two partitions of $\frac{n}{2}$ and each of them is asynchronously launched, and a future is returned. Since these two function launches run concurrently on two cores, we need to synchronize their execution and collect the results. In Line 25 the `.get()}` function is called to access the result of each of the futures. Note that the code will introduce a barrier and waits until the first and second future are ready.
 
-![Listing1!]({{ site.url }}/assets/2021-10-28-listing1.svg "Example to compute the element-wise square root of a vector using OpenMP.")
+![Listing1!]({{ site.url }}/assets/2021-10-28-listing1.svg "Example to for asyncrhonous programming.")
 
 ## Parallel algorithms
+
 A common opportunity for shared-memory parallel programming in C++ is Open Multi-Processing (OpenMP) [1]. Let us look at the implementation of computing the square root of all elements in a vector $v$ of size $n$ 
 
 $$   v_i = \sqrt{v_i}, \; \forall i \in {1,\ldots,n} $$
