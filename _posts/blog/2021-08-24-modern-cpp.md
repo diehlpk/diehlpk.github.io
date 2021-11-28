@@ -25,7 +25,16 @@ $$ \ln(x) = \sum\limits_{n=1}^N \frac{(-1)^{n+1}}{n}(x-1)^n \textbf{.} $$
 
 Listing 1  shows the asynchronous computation of the Taylor series. First, a function `taylor_part` that computes a part of the sum is defined in Line 5. In Line 20 the sum of length $n$ is separated into two partitions of $\frac{n}{2}$ and each of them is asynchronously launched, and a future is returned. Since these two function launches run concurrently on two cores, we need to synchronize their execution and collect the results. In Line 25 the `.get()}` function is called to access the result of each of the futures. Note that the code will introduce a barrier and waits until the first and second future are ready.
 
-![Listing1!]({{ site.url }}/assets/2021-10-28-listing1.svg "Example to for asyncrhonous programming.")
+![Listing1!]({{ site.url }}/assets/2021-10-28-listing1.svg "Example to for asynchronous programming in C++.")
+
+
+The C++ standard library for parallelism and concurrency (HPX) [4] implements the same functionality as mandated by the C++ standard. However, additional, more advanced synchronization facilities are provided by HPX. The function `.then()` provides a function similar to `.get()`, however it takes a function that is only to be run after the future's value arrives. While slightly less intuitive to program, this method avoids blocking. Also, it is possible to use `.then_all()`, which waits for one or more futures. Once all futures are ready, `when_all()` returns a future that becomes ready only after all argument futures have become ready. Listing 2 uses these features.
+
+![Listing2!]({{ site.url }}/assets/2021-10-28-listing2.svg "Example to for asynchronous programming in HPX.")
+
+Since the C++20 standard for coroutines has emerged, HPX futures have become awaitable. That means that the less natural style of programming using `.then()` can be replaced by calls to `co_await`. Listing 3 illustrates how to use this style of programming with HPX. The call to `co_await` suspends execution of the current thread until the value in the future is ready. Therefore, `co_await` can return the value directly.
+
+![Listing3!]({{ site.url }}/assets/2021-10-28-listing3.svg "Example to co_await in HPX.")
 
 ## Parallel algorithms
 
