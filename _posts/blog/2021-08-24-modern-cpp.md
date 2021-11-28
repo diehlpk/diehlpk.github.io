@@ -62,6 +62,4 @@ I would like to acknowledge the students of the course ``Parallel Computational 
 5. Dominic C Marcello, Sagiv Shiber, Orsola De Marco, Juhan Frank, Geoffrey C Clayton, Patrick M Motl, Patrick Diehl, and Hartmut Kaiser. octo-tiger: a new, 3D hydrodynamic code for stellar mergers that uses hpx parallelization. Monthly Notices of the Royal Astronomical Society, 504(4):5345–5382, 04 2021.
 6. Chuck Pheatt. Intel® threading building blocks. J. Comput. Sci. Coll., 23(4):298, April 2008.
 7. The C++ Standards Committee. ISO International Standard ISO/IEC 14882:2011, Programming Language C++. Technical report, Geneva, Switzerland: International Organization for Standardization (ISO)., 2011. [http://www.open-std.org/jtc1/sc22/wg21](http://www.open-std.org/jtc1/sc22/wg21).
-8. The C++ Standards Committee. ISO International Standard ISO/IEC 14882:2017, Programming Language C++. Technical report, Geneva, Switzerland: International Organization for Standardization (ISO)., 2017. [http://www.open-std.org/jtc1/sc22/wg21](The C++ Standards Committee. ISO International Standard ISO/IEC 14882:2017, Programming Language
-C++. Technical report, Geneva, Switzerland: International Organization for Standardization (ISO)., 2017.
-http://www.open-std.org/jtc1/sc22/wg21]
+8. The C++ Standards Committee. ISO International Standard ISO/IEC 14882:2017, Programming Language C++. Technical report, Geneva, Switzerland: International Organization for Standardization (ISO)., 2017. [http://www.open-std.org/jtc1/sc22/wg21](http://www.open-std.org/jtc1/sc22/wg21)
