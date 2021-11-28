@@ -24,3 +24,4 @@ and for more details see the colloquim's [webpage](https://stellar-group.org/res
 ### Fall semester
 
 * Deep learning for the discovery of parsimonious physics models, Dr. J. Nathan Kutz, University of Washington in Seattle, [Video](https://youtu.be/ZkNAcTRRyuc)
+* Algorithmic Bias Control in Deep learning, Dr. Daniel Soudry, Simons Institute. [Video](https://www.youtube.com/watch?v=zM-wf-3Vo3U)
