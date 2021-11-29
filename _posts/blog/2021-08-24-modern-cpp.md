@@ -59,6 +59,15 @@ By specifying the execution policy in Line 21, the algorithm is easily paralleli
 
 ![Listing5!]({{ site.url }}/assets/2021-10-28-listing5.svg "Example: Compute the element-wise square root of a vector using C++.")
 
+Next, we will look at an example that computes the sum $s$ of all elements in a vector $v$ with $n$ elements
+
+$$  s = \sum\limits_{i=0}^n v_i \text{,}  $$
+
+see Listing 6. In Line 6 a `std::vector` with length $n$ is generated. The first algorithm of the C++ Standard Library `std::fill` is used to fill all elements with negative one, see Line 11. Finally, the second algorithm `std::accumulate` is used to compute the sum of all elements. Note that the naive approach would be to use a `for` loop to iterate over all the elements. In Line 17 the result is printed for validation. Again, one can use the execution policies to easily parrallelize this code by just adding the execution policy in Line 11 and Line 14, respectively. The corresponding code is shown in Listing 3.
+
+![Listing6!]({{ site.url }}/assets/2021-10-28-listing6.svg "Example to compute the sum of all elements in the vector using the C++ standard library.")
+
+
 ## Conclusion 
 
 In this article we have shown that it is possible to write parallel C++ programs that take advantage of features in the C++17 and C++20 standards, both to provide task parallelism and loop parallelism (with the parallel algorithms). In addition, we've shown how to use more advanced parallel features only available in the HPX programming framework.
