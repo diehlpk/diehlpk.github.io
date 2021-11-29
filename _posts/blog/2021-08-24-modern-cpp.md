@@ -51,10 +51,13 @@ In the C++ 17 standard [8], parallel algorithms were introduced. The shared-memo
 In this next listing, we will revise the previous example to use parallel algorithms. See Listing 5. Up to Line 14, the code is unchanged, except for the new header file `#include <execution>`, which is needed for the execution policies. In Line 16, a vector containing the indices of each vector element is generated. In Line 20 the OpenMP parallel `for` loop is replaced by `std::for_each` from the C++ standard library algorithms. Note that this was possible before. However, the first argument of this function, the execution policy, defines that this algorithm is to be executed in parallel. The C++ 17 standard introduced the following execution policies:
     * **Sequential execution**:
     By adding `std::execution::seq` the algorithm is executed sequentially using one thread as in the previous C++ standards.
+
     * **Parallel execution**:
     By adding `std::execution::par` the algorithm is executed in parallel using all available threads. 
+
     * **Vectorized parallel execution**
     By adding `std::execution::par\_unseq` the algorithm is executed in parallel but in addition vectorization is used.
+
 By specifying the execution policy in Line 21, the algorithm is easily parallelized. Note that this was implemented using only the C++ standard and not an external tool like OpenMP.
 
 ![Listing5!]({{ site.url }}/assets/2021-10-28-listing5.svg "Example: Compute the element-wise square root of a vector using C++.")
