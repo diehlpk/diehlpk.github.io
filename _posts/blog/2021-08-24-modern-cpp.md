@@ -48,7 +48,7 @@ in a parallel fashion using OpenMP (see Listing 4). In Line 12, a \lstinline|std
 
 In the C++ 17 standard [8], parallel algorithms were introduced. The shared-memory parallelism they provide is based on the Thread Building Blocks library (TBB) [6]. While it is possible to write parallel code directly using the C++ standard, and there is no need to use a second API, the C++ standard library contains $69$ algorithms which work on standard containers, e.g. `std::vector` or `std::list`. Some versions of C++ libraries may not implement all of them. Also in C++ 17, execution policies were introduced to these $69$ algorithms, allowing them to execute in parallel. Depending on the version of your C++ libraries, this feature may also be incomplete.
 
-In this next listing, we will revise the previous example to use parallel algorithms. See Listing 5. Up to Line 14, the code is unchanged, except for the new header file `#include <execution>`, which is needed for the execution policies. In Line 16, a vector containing the indices of each vector element is generated. In Line 20 the OpenMP parallel `for` loop is replaced by `~td::for_each` from the C++ standard library algorithms. Note that this was possible before. However, the first argument of this function, the execution policy, defines that this algorithm is to be executed in parallel. The C++ 17 standard introduced the following execution policies:
+In this next listing, we will revise the previous example to use parallel algorithms. See Listing 5. Up to Line 14, the code is unchanged, except for the new header file `#include <execution>`, which is needed for the execution policies. In Line 16, a vector containing the indices of each vector element is generated. In Line 20 the OpenMP parallel `for` loop is replaced by `std::for_each` from the C++ standard library algorithms. Note that this was possible before. However, the first argument of this function, the execution policy, defines that this algorithm is to be executed in parallel. The C++ 17 standard introduced the following execution policies:
     * **Sequential execution**:
     By adding `std::execution::seq` the algorithm is executed sequentially using one thread as in the previous C++ standards.
     * **Parallel execution**:
@@ -57,6 +57,7 @@ In this next listing, we will revise the previous example to use parallel algori
     By adding `std::execution::par\_unseq` the algorithm is executed in parallel but in addition vectorization is used.
 By specifying the execution policy in Line 21, the algorithm is easily parallelized. Note that this was implemented using only the C++ standard and not an external tool like OpenMP.
 
+![Listing5!]({{ site.url }}/assets/2021-10-28-listing5.svg "Example: Compute the element-wise square root of a vector using C++.")
 
 ## Conclusion 
 
