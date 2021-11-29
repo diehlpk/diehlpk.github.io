@@ -15,6 +15,8 @@ author: diehlpk
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+Co-Authors: Steven R. Brandt and Hartmut Kaiser
+
 Many applied mathematics codes are based on the C++ programming language. However, many of these codes do not utilize modern C++ features, especially the features from the recent C++ 17 standard for parallel computations. These features can significantly simplify parallel computations using multiple cores. This review briefly introduces asynchronous programming facilities introduced in the C++ 11 standard and the parallel algorithms introduced in the C++ 17 standard. With these two paradigms, C++ code can be accelerated using multiple cores using the C++ standard without any need for some external special purpose libraries, like e.g. OpenMP. The C++20 standard made additional and valuable contributions to the C++ api for parallelism and concurrency. While these may still be unavailable in some compilers, they are already implemented in HPX [4].
 
 ## Asynchronous programming
@@ -43,6 +45,18 @@ $$    v_i = \sqrt{v_i}, \; \forall i \in {1,\ldots,n} $$
 in a parallel fashion using OpenMP (see Listing 4). In Line 12, a \lstinline|std::vector| is generated with length $n=10000$ and in Line 15 the vector is filled with random numbers using the algorithms provided by the C++ standard library. In Line 18 a `for` loop is used to iterate over the elements of the vector. Now, the `#pragma`-based OpenMP API is used to parallelize the `for` loop. In Line 17 the  `#pragma` to execute the loop in parallel is added. However, an additional API is needed to achieve the shared-memory parallelism.
 
 ![Listing4!]({{ site.url }}/assets/2021-10-28-listing4.svg "Parallel for loop using OpenMP.")
+
+In the C++ 17 standard [8], parallel algorithms were introduced. The shared-memory parallelism they provide is based on the Thread Building Blocks library (TBB) [6]. While it is possible to write parallel code directly using the C++ standard, and there is no need to use a second API, the C++ standard library contains $69$ algorithms which work on standard containers, e.g. `std::vector` or `std::list`. Some versions of C++ libraries may not implement all of them. Also in C++ 17, execution policies were introduced to these $69$ algorithms, allowing them to execute in parallel. Depending on the version of your C++ libraries, this feature may also be incomplete.
+
+In this next listing, we will revise the previous example to use parallel algorithms. See Listing 5. Up to Line 14, the code is unchanged, except for the new header file `#include <execution>`, which is needed for the execution policies. In Line 16, a vector containing the indices of each vector element is generated. In Line 20 the OpenMP parallel `for` loop is replaced by `~td::for_each` from the C++ standard library algorithms. Note that this was possible before. However, the first argument of this function, the execution policy, defines that this algorithm is to be executed in parallel. The C++ 17 standard introduced the following execution policies:
+    * **Sequential execution**:
+    By adding `std::execution::seq` the algorithm is executed sequentially using one thread as in the previous C++ standards.
+    * **Parallel execution**:
+    By adding `std::execution::par` the algorithm is executed in parallel using all available threads. 
+    * **Vectorized parallel execution**
+    By adding `std::execution::par\_unseq` the algorithm is executed in parallel but in addition vectorization is used.
+By specifying the execution policy in Line 21, the algorithm is easily parallelized. Note that this was implemented using only the C++ standard and not an external tool like OpenMP.
+
 
 ## Conclusion 
 
