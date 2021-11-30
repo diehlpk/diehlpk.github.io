@@ -84,7 +84,7 @@ Moreover, we have identified two science applications which base their paralleli
 
 ## Supplementary materials
 
-The source code of all the examples is available on [GitHub](https://github.com/diehlpk/modern-cpp-examples) or Zenodo, respectively. The build system [CMake](https://cmake.org/) is used to compile all the examples. The LaTeX source of the blog post are availbe [here](https://github.com/diehlpk/-ModernC-Paper) and the PDF document is available [here]{{ site.url }}/assets/modern_cpp.pdf).
+The source code of all the examples is available on [GitHub](https://github.com/diehlpk/modern-cpp-examples) or Zenodo, respectively. The build system [CMake](https://cmake.org/) is used to compile all the examples. The LaTeX source of the blog post are availbe [here](https://github.com/diehlpk/-ModernC-Paper) and the PDF document is available [here]({{ site.url }}/assets/modern_cpp.pdf).
 
 ## Acknowledgments
 
