@@ -109,7 +109,7 @@ Lévesque. Extracting constitutive mechanical parameters in linear elasticity us
 1. I. Tabiai, G. Tkachev, P. Diehl, S. Frey, T. Ertl, D. Therrieault, and M. Lévesque, Hybrid image processing approach for autonomous crack area detection and tracking using
 local digital image correlation results applied to single-fiber interfacial debonding, Engineering Fracture Mechanics, 216 (2019). [10.1016/j.engfracmech.2019.106485](https://doi.org/10.1016/j.engfracmech.2019.106485)
 1. Patrick Diehl, Serge Prudhomme, and Martin Lévesque. A review of benchmark experiments for the validation of peridynamics models. Journal of Peridynamics and
-Nonlocal Modeling, 1(1):14–35, 2019 [10.1007/s42102-018-0004-x](https://doi.org/10.1007/s42102-018-0004-x)
+Nonlocal Modeling, 1(1):14–35, 2019 [10.1007/s42102-018-0004-x](https://doi.org/10.1007/s42102-018-0004-x), [Preprint](https://doi.org/10.31224/osf.io/k7jc2)
 1. P. Diehl, I. Tabiai, F. W. Baumann, D. Therriault, and M. Levesque, Long
 term availability of raw experimental data in experimental fracture mechanics, Engineering
 Fracture Mechanics, 197 (2018), pp. 21–26. [0.1016/j.engfracmech.2018.04.030](https://doi.org/10.1016/j.engfracmech.2018.04.030), [Preprint](https://arxiv.org/abs/1803.07622) 
