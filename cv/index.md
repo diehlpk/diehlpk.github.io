@@ -344,7 +344,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 #### Reviewer for
 
-* International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing, International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Theoretical and Applied Fracture Mechanics, Acta Mechanica, Mathematics and Mechanics of Solids, Computational Mechanics, Engineering with Computers, Computer Modeling in Engineering & Sciences (CMES), and Concurrency and Computation: Practice and Experience. 
+* Journal of Peridynamics and Nonlocal Modeling, International Journal of Mechanical Sciences, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing, International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Theoretical and Applied Fracture Mechanics, Acta Mechanica, Mathematics and Mechanics of Solids, Computational Mechanics, Engineering with Computers, Computer Modeling in Engineering & Sciences (CMES), and Concurrency and Computation: Practice and Experience. 
 
 ---
 
