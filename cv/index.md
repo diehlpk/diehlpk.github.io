@@ -297,6 +297,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
 1. Gateways Conference 2021, program committee member
+1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, Virtual logistics
 
 ##### Mini-symposia organized
 
@@ -312,18 +313,22 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
 prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
+2. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte2022.stellar-group.org/))
 
 ##### Meetings
 
-1. 3rd Annual Meeting of the SIAM Texas-Louisiana Section, October 16-18, 2020
+1. 3rd Annual Meeting of the SIAM Texas-Louisiana Section, October 16-18, 2020 [Link](https://www.math.tamu.edu/conferences/SIAMTXLA/)
+1. 4th Annual Meeting of the SIAM Texas-Louisiana Section, November, 5-7, 2022 [Link](https://faculty.utrgv.edu/eleftherios.gkioulekas/2021-siam-txla-meeting-spi/index.html)
 
 ##### Panels 
 
 1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Link](http://stellar-group.org/tbaa2020-scpanel/)
+2. AI Ethics/Algorithmic Justice, Organizer, Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University.
 
 ##### Colloquium
 
-1. Colloquium on Artificial Intelligence Research and Optimization, Spring semester 2021, Louisiana State University, [Link](https://stellar-group.org/research/distributed-machine-learning/)
+1. Colloquium on Artificial Intelligence Research and Optimization, Spring semester 2021, Louisiana State University, [Link](https://stellar-group.org/research/colloquium-on-artificial-intelligence-research-and-optimization/)
+1. Large-Scale TTA Early-Career Colloquium, USACM [Link](https://unsacm.memberclicks.net/tta--large-scale-structural-systems)
 
 ##### Short course
 
@@ -344,7 +349,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 #### Reviewer for
 
-* Journal of Peridynamics and Nonlocal Modeling, International Journal of Mechanical Sciences, Engineering Analysis with Boundary Elements,  Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing, International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Theoretical and Applied Fracture Mechanics, Acta Mechanica, Mathematics and Mechanics of Solids, Computational Mechanics, Engineering with Computers, Computer Modeling in Engineering & Sciences (CMES), and Concurrency and Computation: Practice and Experience. 
+* Journal of Peridynamics and Nonlocal Modeling, International Journal of Mechanical Sciences, Engineering Analysis with Boundary Elements, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing, International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Theoretical and Applied Fracture Mechanics, Acta Mechanica, Mathematics and Mechanics of Solids, Computational Mechanics, Engineering with Computers, Computer Modeling in Engineering & Sciences (CMES), and Concurrency and Computation: Practice and Experience. 
 
 ---
 
