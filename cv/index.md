@@ -82,7 +82,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 * Computational Mathematics
 
 1. An overview for coupling finite elements with peridynamics
-1. A comparative review of peridynamics and phase field models for engineering fracture mechanics, (submitted), [Preprint](https://engrxiv.org/gty2b/)
+1. A comparative review of peridynamics and phase field models for engineering fracture mechanics, (accepted), [Preprint](https://engrxiv.org/gty2b/)
 1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix, (submitted), [Preprint](https://engrxiv.org/3je6b/)
 1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I, (submitted), [Preprint](https://arxiv.org/abs/2108.02336)
 1. PERIDYNAMICS FOR QUASISTATIC FRACTURE MODELING, (accepted), [Preprint](https://arxiv.org/abs/2107.14665)
@@ -91,7 +91,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, (submitted), [Prepint](https://edarxiv.org/5te23/)
+1. Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, (accepted), [Prepint](https://edarxiv.org/5te23/)
 
 
 ###### Journal articles
