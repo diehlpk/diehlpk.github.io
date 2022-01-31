@@ -307,6 +307,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 4. Nonlocal Models in Mathematics and Computation, 3rd Annual Meetingof the SIAM Texas-Louisiana Section
 5. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 15th World Congress on Computational Mechanics (WCCM XV).
 6. Recent Developments in Peridynamics Modeling, 19th U.S. National Congress on Theoretical and Applied Mechanics
+7. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 9th GACM Colloquium on Computational Mechanics
 
 ##### Workshops organized
 
