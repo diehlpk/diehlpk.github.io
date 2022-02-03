@@ -85,7 +85,6 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. A comparative review of peridynamics and phase field models for engineering fracture mechanics, (accepted), [Preprint](https://engrxiv.org/gty2b/)
 1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix, (submitted), [Preprint](https://engrxiv.org/3je6b/)
 1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I, (submitted), [Preprint](https://arxiv.org/abs/2108.02336)
-1. PERIDYNAMICS FOR QUASISTATIC FRACTURE MODELING, (accepted), [Preprint](https://arxiv.org/abs/2107.14665)
 1. Coupling approaches for classical linear elasticity and bond-based peridynamic models, (submitted)
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 
@@ -152,6 +151,7 @@ Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/ab
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
 ,[Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), and [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw)
 2. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, In Proceedings of Gateways 2020, Science Gateways Community Institute (SGCI), [Link](https://osf.io/qbtj3/)
+3. Bhattacharya, D, Diehl, P, & Lipton, RP. "Peridynamics for Quasistatic Fracture Modeling." Proceedings of the ASME 2021 International Mechanical Engineering Congress and Exposition. Volume 12: Mechanics of Solids, Structures, and Fluids; Micro- and Nano- Systems Engineering and Packaging. Virtual, Online. November 1–5, 2021. V012T12A041. ASME. [10.1115/IMECE2021-70793](https://doi.org/10.1115/IMECE2021-70793) [Preprint](https://arxiv.org/abs/2107.14665)
 
 #### Technical reports
 1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [Link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
