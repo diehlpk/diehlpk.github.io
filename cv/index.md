@@ -219,6 +219,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 29. --, A comparative review of peridynamics and phase-field models for engineering fracture mechanics, Engineering Mechanics Institute Conference, 26.05-28.05 2021, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/emi-2021-a-comparative-review-of-peridynamics-and-phasefield-models-for-engineering-fracture-mechanics)
 30. --, Quasistatic Fracture using Nonliner-Nonlocal Elastostatics with an Analytic Tangent Stiffness Matrix, 16th U.S. National Congress on Computational Mechanics (USNCCM16), 25.07-29.07 2021, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/quasistatic-fracture-using-nonlinernonlocal-elastostatics-with-an-analytic-tangent-stiffness-matrix)
 31. --, Recent developments in HPX and Octo-Tiger,19th Annual Workshop on Charm++ and Its Applications, 18.10-19.10 2021, Virtual event. [Slides](https://t.co/5MNwSD9Qmw?amp=1)
+32. P. Diehl and G. Daiss, Porting our astrophysics application to Arm64FX and adding Arm64FX support using kokkos,  Ookami user group meeting, 10.02.22, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/porting-our-astrophysics-application-to-arm64fx-and-adding-arm64fx-support-using-kokkos)
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
