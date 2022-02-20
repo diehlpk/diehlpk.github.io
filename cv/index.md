@@ -82,8 +82,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 * Computational Mathematics
 
 1. An overview for coupling finite elements with peridynamics
-1. A comparative review of peridynamics and phase field models for engineering fracture mechanics, (accepted), [Preprint](https://engrxiv.org/gty2b/)
-1. Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix, (submitted), [Preprint](https://engrxiv.org/3je6b/)
+1. Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix, (submitted), [Preprint](https://engrxiv.org/3je6b/)
 1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I, (submitted), [Preprint](https://arxiv.org/abs/2108.02336)
 1. Coupling approaches for classical linear elasticity and bond-based peridynamic models, (submitted)
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
@@ -95,8 +94,8 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 ###### Journal articles
 
-
-1. Diehl, Patrick and Steven R. Brandt. "Interactive C++ code development using C++Explorer and GitHub classroom for educational purposes", Concurrency and Computation: Practice and Experience, 2022, [10.1002/cpe.6893](https://doi.org/10.1002/cpe.6893) , [Prepint](https://edarxiv.org/5te23/)
+1. P. Diehl, R. Lipton, T. Wick, and M. Tyagi. A comparative review of peridynamics and phase-field models for engineering fracture mechanics. Computational Mechanics, Feb 2022, [10.1007/s00466-022-02147-0](https://doi.org/10.1007/s00466-022-02147-0), [Preprint](https://engrxiv.org/gty2b/)
+1. Diehl, Patrick and Steven R. Brandt. "Interactive C++ code development using C++Explorer and GitHub classroom for educational purposes", Concurrency and Computation: Practice and Experience, 2022, [10.1002/cpe.6893](https://doi.org/10.1002/cpe.6893), [Prepint](https://edarxiv.org/5te23/)
 1. Diehl, Patrick, et al. "Octo-Tiger’s New Hydro Module and Performance Using HPX+ CUDA on ORNL’s Summit." 2021 IEEE International Conference on Cluster Computing (CLUSTER). IEEE, 2021,  [10.1109/Cluster48925.2021.00059](https://doi.org/10.1109/Cluster48925.2021.00059), [Preprint](https://arxiv.org/abs/2107.10987)
 1. Jha et al., (2021). NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models. Journal of Open Source Software, 6(65), 3020, [10.21105/joss.03020](https://doi.org/10.21105/joss.03020)
 1.  P. Diehl, D. Marcello, P. Armini, H. Kaiser, S. Shiber, G. C. Clayton, J. Frank, G. Daiss,D. Pflueger, D. C. Eder, A. Koniges, and K. Huck. Performance measurements within asynchronous task-based runtime systems: A double white dwarf merger as an application. Computing in Science & Engineering, 2021. [10.1109/MCSE.2021.3073626](https://doi.org/10.1109/MCSE.2021.3073626), [Preprint](https://arxiv.org/abs/2102.00223)
