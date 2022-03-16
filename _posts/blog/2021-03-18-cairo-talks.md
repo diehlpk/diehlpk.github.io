@@ -9,7 +9,7 @@ author: diehlpk
 The Colloquium on Artificial Intelligence Research and Optimization was held in the spring semester 2021 at LSU. Here, are the links to the recorded talk
 and for more details see the colloquim's [webpage](https://stellar-group.org/research/distributed-machine-learning/).
 
-### Spring semester
+### Spring semester 21
 
 * Inexact proximal stochastic gradient method for empirical risk minimization, Dr. Hongchao Zhang, Louisiana State University, [Video](https://www.youtube.com/watch?v=rG0LLGraFDE&feature=youtu.be)
 * Second order optimizations for scalable training of DNNs, Dr. Andrew Lumsdaine, [Video](https://www.youtube.com/watch?v=aAiDDINqTYw&feature=youtu.be)
@@ -21,7 +21,13 @@ and for more details see the colloquim's [webpage](https://stellar-group.org/res
 * Scaling Geospatial Artificial Intelligence: Opportunities and Challenges, Dr. Lexie Yang, ORNL
 * PiE Model: Integrating Ethical Puzzle-Solving into AI R&D and Deployment, Dr. Cansu Canca, AI Ethics Lab, [Video](https://t.co/udzwkECe9J?amp=1)
 
-### Fall semester
+### Fall semester 21
 
 * Deep learning for the discovery of parsimonious physics models, Dr. J. Nathan Kutz, University of Washington in Seattle, [Video](https://youtu.be/ZkNAcTRRyuc)
 * Algorithmic Bias Control in Deep learning, Dr. Daniel Soudry, Simons Institute. [Video](https://www.youtube.com/watch?v=zM-wf-3Vo3U)
+
+### Spring 22
+
+* Approximating functions, functionals and operators with neural networks for diverse applications, Dr. George Em Karniadakis, Brown University. [Video](https://youtu.be/U5yjfvo2_o8)
+* Physics-constrained data-driven physical simulations, using machine learning, Dr. Youngsoo Choi. [Video](https://www.youtube.com/watch?v=VpQX7d0-JHc)
+
