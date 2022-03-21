@@ -84,13 +84,14 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. An overview for coupling finite elements with peridynamics
 1. Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix, (submitted), [Preprint](https://engrxiv.org/3je6b/)
 1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I, (submitted), [Preprint](https://arxiv.org/abs/2108.02336)
-1. Coupling approaches for classical linear elasticity and bond-based peridynamic models, (submitted)
+1. Coupling approaches for classical linear elasticity and bond-based peridynamic models, (accepted), [Preprint](https://arxiv.org/abs/2203.09934)
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 
 * Computer Science 
 
-1. Quantifying Overheads in Charm++ and HPX using Task Bench
+1. Quantifying Overheads in Charm++ and HPX using Task Bench, (submitted)
 1. Distributed, combined CPU and GPU profiling within HPX using APEX
+1. Evaluating and Improving Shared Memory Performance of HPX and OpenMP using Task Bench
 
 ###### Journal articles
 
