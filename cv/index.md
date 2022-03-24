@@ -91,10 +91,11 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (submitted)
 1. Distributed, combined CPU and GPU profiling within HPX using APEX
-1. Evaluating and Improving Shared Memory Performance of HPX and OpenMP using Task Bench
+1. Evaluating and Improving Shared Memory Performance of HPX and OpenMP using Task Bench, (submitted)
 
 ###### Journal articles
 
+1. Diehl, P., Prudhomme, S. Coupling Approaches for Classical Linear Elasticity and Bond-Based Peridynamic Models. J Peridyn Nonlocal Model (2022), [10.1007/s42102-022-00083-4](https://link.springer.com/article/10.1007/s42102-022-00083-4), [Preprint](https://arxiv.org/abs/2203.09934)
 1. P. Diehl, R. Lipton, T. Wick, and M. Tyagi. A comparative review of peridynamics and phase-field models for engineering fracture mechanics. Computational Mechanics, Feb 2022, [10.1007/s00466-022-02147-0](https://doi.org/10.1007/s00466-022-02147-0), [Preprint](https://engrxiv.org/gty2b/)
 1. Diehl, Patrick and Steven R. Brandt. "Interactive C++ code development using C++Explorer and GitHub classroom for educational purposes", Concurrency and Computation: Practice and Experience, 2022, [10.1002/cpe.6893](https://doi.org/10.1002/cpe.6893), [Prepint](https://edarxiv.org/5te23/)
 1. Diehl, Patrick, et al. "Octo-Tiger’s New Hydro Module and Performance Using HPX+ CUDA on ORNL’s Summit." 2021 IEEE International Conference on Cluster Computing (CLUSTER). IEEE, 2021,  [10.1109/Cluster48925.2021.00059](https://doi.org/10.1109/Cluster48925.2021.00059), [Preprint](https://arxiv.org/abs/2107.10987)
