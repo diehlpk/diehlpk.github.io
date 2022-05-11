@@ -3,6 +3,30 @@ layout: page
 title: Courses
 ---
 
+### Medical & Health Physics
+
+#### MEDP-7098 Research Technologies and Methods @ [LSU](https://lsu.edu/)
+
+##### Course Objectives
+
+* To teach basic research methods of relevance to thesis and dissertation research projects
+conducted by graduate students.
+* To teach graduate students how to prepare a written research proposal suitable for an MS or
+PhD research project and general examination.
+
+##### Taught sessions
+
+* Session I - Introduction to Linux
+* Session 2 - Introduction to Python
+* Session 3 - Practical programming with Python
+* Session 6 - Introcution to C++
+* Session 7 - Practical programming with C++
+* Session 24 - Introduction to theory of high performance computing
+* Session 25 - Introdcution to high performance computing clusters
+* Session 26 - Introdcution to high performance programming approaches
+
+* Materials: [Slides](https://github.com/diehlpkteaching/MEDP-7098)
+
 ### Mathematics
 
 #### M4997 Parallel Computations Mathematics @ [LSU](https://lsu.edu/)
