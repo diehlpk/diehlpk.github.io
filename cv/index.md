@@ -235,10 +235,11 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 
 ---
 
-#### Courses
+#### Courses (Chronological order; most recent one first)
 
 ##### Instructor
 
+* MEDP 7098 Research Technologies and Methods. [Slides](https://github.com/diehlpkteaching/MEDP-7098)  
 * Math 4997 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise), and [Notes](https://github.com/diehlpkteaching/ParallelComputationMathScript)
 
 ##### Teaching assistant
