@@ -2,6 +2,7 @@
 layout: page
 title: Courses
 ---
+Chronological order; most recent one first
 
 ### Medical & Health Physics
 
