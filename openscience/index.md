@@ -5,6 +5,7 @@ title: Open Science
 
 Collection of artifacts, like source code, experimental data, and input files, from my published articles:
 
+* Diehl, Patrick, and Serge Prudhomme. "Coupling approaches for classical linear elasticity and bond-based peridynamic models." Journal of Peridynamics and Nonlocal Modeling (2022): 1-31. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5484312.svg)](https://doi.org/10.5281/zenodo.5484312)
 * Jha, Prashant K., and Patrick Diehl. "NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models." Journal of Open Source Software 6.65 (2021): 3020. [10.6084/m9.figshare.16688695.v1](https://doi.org/10.6084/m9.figshare.16688695.v1)
 * Diehl, Patrick, et al. "Octo-Tiger’s New Hydro Module and Performance Using HPX+ CUDA on ORNL’s Summit." 2021 IEEE International Conference on Cluster Computing (CLUSTER). IEEE, 2021. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4777149.svg)](https://doi.org/10.5281/zenodo.4777149)
 * D. C. Marcello, S. Shiber, O. De Marco, J. Frank, G. C. Clayton, P. M. Motl, P. Diehl, and H. Kaiser. Octo-Tiger: a new, 3D hydrodynamic code for stellar mergers that uses HPX parallelisation. Monthly Notices of the Royal Astronomical Society, 04 2021 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4432574.svg)](https://doi.org/10.5281/zenodo.4432574) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4393374.svg)](https://doi.org/10.5281/zenodo.4393374)
