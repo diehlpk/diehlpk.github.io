@@ -251,7 +251,7 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 
 Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
 
-##### Certificates
+#### Certificates
 
 * Baden--Württemberg Certificate: Certificate for successful completion of the program in higher education pedagogy by the center for educational development of the state of Baden–Württemberg.
 
@@ -323,7 +323,8 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
 prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
-2. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte2022.stellar-group.org/))
+3. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte2022.stellar-group.org/))
+4. Workshop on Asynchronous Many-Task Systems and Applications 2023, [Link](https://wamta23.stellar-group.org/) 
 
 ##### Meetings
 
@@ -337,7 +338,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ##### Colloquium
 
-1. Colloquium on Artificial Intelligence Research and Optimization, Spring semester 2021, Louisiana State University, [Link](https://stellar-group.org/research/colloquium-on-artificial-intelligence-research-and-optimization/)
+1. Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University, [Link](https://stellar-group.org/research/colloquium-on-artificial-intelligence-research-and-optimization/)
 1. Large-Scale TTA Early-Career Colloquium, USACM [Link](https://unsacm.memberclicks.net/tta--large-scale-structural-systems)
 
 ##### Short course
