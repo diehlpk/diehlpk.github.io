@@ -10,7 +10,7 @@ hide: true
 
 
 ##### Current Appointment
-* May 2022 - present Adjunct Faculty, Department of Physics & Astronomy, Louisiana State University ([Link](https://www.lsu.edu/physics/)
+* May 2022 - present Adjunct Faculty, Department of Physics & Astronomy, Louisiana State University ([Link](https://www.lsu.edu/physics/))
 * Oct 2018 - present Research scientist, Center for Computation & Technology, Louisiana State University ([link](https://www.cct.lsu.edu/))
 
 ##### Professional Experience
