@@ -83,7 +83,6 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 * Computational Mathematics
 
 1. An overview for coupling finite elements with peridynamics
-1. Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix, (accepted), [Preprint](https://engrxiv.org/3je6b/)
 1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I, (submitted), [Preprint](https://arxiv.org/abs/2108.02336)
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. The Peridigm Meshfree Peridynamics Code
@@ -94,11 +93,12 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (submitted)
 1. Distributed, combined CPU and GPU profiling within HPX using APEX
 1. Evaluating and Improving Shared Memory Performance of HPX and OpenMP using Task Bench, (submitted)
-1. Quantifying Overheads in HPX via Task Bench on AMD and A64FX CPUs
+1. Quantifying Overheads in HPX via Task Bench on AMD and A64FX CPUs, (submitted)
 
 
 ###### Journal articles
 
+1. Diehl, P, Lipton, R. Quasistatic fracture using nonlinear-nonlocal elastostatics with explicit tangent stiffness matrix. Int J Numer Methods Eng. 2022; 1- 26. [doi:10.1002/nme.7005](https://doi.org/10.1002/nme.7005), [Preprint](https://engrxiv.org/3je6b/)
 1. Diehl, P., Prudhomme, S. Coupling Approaches for Classical Linear Elasticity and Bond-Based Peridynamic Models. J Peridyn Nonlocal Model (2022), [10.1007/s42102-022-00083-4](https://link.springer.com/article/10.1007/s42102-022-00083-4), [Preprint](https://arxiv.org/abs/2203.09934)
 1. P. Diehl, R. Lipton, T. Wick, and M. Tyagi. A comparative review of peridynamics and phase-field models for engineering fracture mechanics. Computational Mechanics, Feb 2022, [10.1007/s00466-022-02147-0](https://doi.org/10.1007/s00466-022-02147-0), [Preprint](https://engrxiv.org/gty2b/)
 1. Diehl, Patrick and Steven R. Brandt. "Interactive C++ code development using C++Explorer and GitHub classroom for educational purposes", Concurrency and Computation: Practice and Experience, 2022, [10.1002/cpe.6893](https://doi.org/10.1002/cpe.6893), [Prepint](https://edarxiv.org/5te23/)
