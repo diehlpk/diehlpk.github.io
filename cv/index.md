@@ -228,6 +228,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 31. --, Recent developments in HPX and Octo-Tiger,19th Annual Workshop on Charm++ and Its Applications, 18.10-19.10 2021, Virtual event. [Slides](https://t.co/5MNwSD9Qmw?amp=1)
 32. P. Diehl and G. Daiss, Porting our astrophysics application to Arm64FX and adding Arm64FX support using kokkos,  Ookami user group meeting, 10.02.22, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/porting-our-astrophysics-application-to-arm64fx-and-adding-arm64fx-support-using-kokkos)
 33. P. Diehl and S. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes. emBO++ Embedded C++ and C conference, 25.03-23.03 2022, Virtual event. [Slides](https://de.slideshare.net/PatrickDiehl3/interactive-c-code-development-using-cexplorer-and-github-classroom-for-educational-purposes)
+34. P. Diehl. A Fracture Multiscale Model for Peridynamic enrichment within the Partition of Unity Method. Engineering Mechanics Institute Conference, 01.06-03.06 2022, Baltimore, USA.
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
