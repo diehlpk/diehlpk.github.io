@@ -39,7 +39,7 @@
 
 % bibliography with mutiple entries
 \usepackage{multibib}
-\newcites{book,journal,talk,thesis,reports,exp,pre,spapers}{{\underline{Series- and conference contributions}},{\underline{Journal articles}},{},{},{\underline{Technical reports}},{},{\underline{Preprints}},{\underline{Short papers}}}
+\newcites{proceedings,journal,talk,thesis,reports,exp,pre,spapers,booksedited}{{\underline{Series- and conference contributions}},{\underline{Journal articles}},{},{},{\underline{Technical reports}},{},{\underline{Preprints}},{\underline{Short papers}},{\underline{Edited books}}}
 
 \usepackage{enumitem}
 
@@ -316,14 +316,18 @@ prediction and experimental design, \href{http://wfm2020.usacm.org/}{Link}. Spon
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{../list/preprint}
 \bibliographystylepre{../list/habbrvyr}
-\bibliographypre{../list/publications}         
+\bibliographypre{../list/publications}     
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{../list/booksedited}
+\bibliographystylebooksedited{../list/habbrvyr}
+\bibliographybooksedited{../list/publications}     
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \input{../list/journal}
 \bibliographystylejournal{../list/habbrvyr}
 \bibliographyjournal{../list/publications}  
 \input{../list/proceedings}
-\bibliographystylebook{../list/habbrvyr}
-\bibliographybook{../list/publications} 
+\bibliographystyleproceedings{../list/habbrvyr}
+\bibliographyproceedings{../list/publications} 
 \input{../list/shortpapers} 
 \bibliographystylespapers{../list/habbrvyr}
 \bibliographyspapers{../list/publications} 
