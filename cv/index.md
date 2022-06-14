@@ -285,7 +285,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### NSF REU: Interdisciplinary Research Experience in Computational Sciences
 
-* Louisiana State University: A. Edwards (2021)
+* Louisiana State University: A. Edwards (2021) and E. Downing (2022)
 
 --- 
 
