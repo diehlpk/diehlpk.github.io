@@ -93,8 +93,10 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (submitted)
 1. Distributed, combined CPU and GPU profiling within HPX using APEX
 1. Evaluating and Improving Shared Memory Performance of HPX and OpenMP using Task Bench, (submitted)
-1. Quantifying Overheads in HPX via Task Bench on AMD and A64FX CPUs, (submitted)
 
+###### Books edited
+
+1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Dieh, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
 ###### Journal articles
 
