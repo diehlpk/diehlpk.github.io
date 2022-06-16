@@ -308,6 +308,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Committee served
 
+1. Gateways Conference 2022, Publication Chair
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
 1. Gateways Conference 2021, program committee member
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, Virtual logistics
