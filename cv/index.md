@@ -340,6 +340,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Link](http://stellar-group.org/tbaa2020-scpanel/)
 2. AI Ethics/Algorithmic Justice, Organizer, Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University.
+3. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Speaker Engineering Mechanics Institute Conference 2022
 
 ##### Colloquium
 
