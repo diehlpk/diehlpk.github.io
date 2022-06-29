@@ -85,14 +85,14 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 1. An overview for coupling finite elements with peridynamics
 1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I, (submitted), [Preprint](https://arxiv.org/abs/2108.02336)
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-1. The Peridigm Meshfree Peridynamics Code
+1. The Peridigm Meshfree Peridynamics Code, (submitted)
 1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes
 
 * Computer Science 
 
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (submitted)
 1. Distributed, combined CPU and GPU profiling within HPX using APEX
-1. Evaluating and Improving Shared Memory Performance of HPX and OpenMP using Task Bench, (submitted)
+1. From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels, (submitted)
 
 ###### Books edited
 
@@ -231,6 +231,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 32. P. Diehl and G. Daiss, Porting our astrophysics application to Arm64FX and adding Arm64FX support using kokkos,  Ookami user group meeting, 10.02.22, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/porting-our-astrophysics-application-to-arm64fx-and-adding-arm64fx-support-using-kokkos)
 33. P. Diehl and S. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes. emBO++ Embedded C++ and C conference, 25.03-23.03 2022, Virtual event. [Slides](https://de.slideshare.net/PatrickDiehl3/interactive-c-code-development-using-cexplorer-and-github-classroom-for-educational-purposes)
 34. P. Diehl. A Fracture Multiscale Model for Peridynamic enrichment within the Partition of Unity Method. Engineering Mechanics Institute Conference, 01.06-03.06 2022, Baltimore, USA.
+35. P. Diehl and S. Prudhomme, Coupling approaches for classical linear elasticity and bond-based peridynamic models, 19th U.S. National Congress on Theoretical and Applied Mechanics, 06/19-06/26 2022, Austin, USA.
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
