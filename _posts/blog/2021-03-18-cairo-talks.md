@@ -30,4 +30,5 @@ and for more details see the colloquim's [webpage](https://stellar-group.org/res
 
 * Approximating functions, functionals and operators with neural networks for diverse applications, Dr. George Em Karniadakis, Brown University. [Video](https://youtu.be/U5yjfvo2_o8)
 * Physics-constrained data-driven physical simulations, using machine learning, Dr. Youngsoo Choi. [Video](https://www.youtube.com/watch?v=VpQX7d0-JHc)
-
+* Data-driven learning of nonlocal models: bridging scales with nonlocality, Dr. Marta D’Elia. [Video](https://www.youtube.com/watch?v=11qKsvOY0F8)
+* Representative Individuals and Fair Machine Learning, Dr. Clinton Castro. [Video](http://Representative Individuals and Fair Machine Learning)
