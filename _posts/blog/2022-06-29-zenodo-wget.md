@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Download Zendo archives using wgets
+title: Download Zenodo archives using wget
 categories: blog
 tags: [HPC]
 author: diehlpk
 ---
 
-Sometimes downloading a archive from [Zendo](https://zenodo.org/) directly to a cluster comes in handy. However, Zenodo hides the direct download amd using `wget` does not work. One can use the Zenodo API to receive the downlaod URL for the archive by running  
+Sometimes downloading a archive from [Zendo](https://zenodo.org/) directly to a cluster comes in handy. However, Zenodo hides the direct download and using `wget` does not work. One can use the Zenodo API to receive the download URL for the archive by running  
 
 {% highlight bash %}
 curl  https://zenodo.org/api/records/5213015
