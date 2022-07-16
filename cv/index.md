@@ -90,7 +90,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 * Computer Science 
 
-1. Quantifying Overheads in Charm++ and HPX using Task Bench, (submitted)
+1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted)
 1. Distributed, combined CPU and GPU profiling within HPX using APEX
 1. From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels, (submitted)
 
@@ -232,6 +232,9 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 33. P. Diehl and S. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes. emBO++ Embedded C++ and C conference, 25.03-23.03 2022, Virtual event. [Slides](https://de.slideshare.net/PatrickDiehl3/interactive-c-code-development-using-cexplorer-and-github-classroom-for-educational-purposes)
 34. P. Diehl. A Fracture Multiscale Model for Peridynamic enrichment within the Partition of Unity Method. Engineering Mechanics Institute Conference, 01.06-03.06 2022, Baltimore, USA.
 35. P. Diehl and S. Prudhomme, Coupling approaches for classical linear elasticity and bond-based peridynamic models, 19th U.S. National Congress on Theoretical and Applied Mechanics, 06/19-06/26 2022, Austin, USA.
+36. P. Diehl, Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics with an Explicit Tangent Stiffness Matrix for arbitrary Poisson ratios. 15th. World Congress on Computational Mechanics (WCCM XV), 31.07-05.08 2022, Virtual event.
+37. --, A Fracture Multiscale Model for Peridynamic enrichment within the Partition of Unity Method. SIAM Annual Meeting (AN22), 11.07-15.07 2022, Pittsburgh, USA.
+38. --, Quantifying Overheads in Charm++ and HPX using Task Bench. Asynchronous Many-Task systems for Exascale (AMTE) 2022, 23.08 2022, Glasgow, UK. 
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
