@@ -195,7 +195,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ##### Short course
 
-1. SC16-001 Advanced Parallel Programming in C++, 16th U.S. NationalCongress on Computational Mechanics
+1. SC16-001 Advanced Parallel Programming in C++, 16th U.S. National Congress on Computational Mechanics
+1. Advanced Parallel Programming in C++, 15th World Congress on Computational Mechanics
 
 ##### Mentor and Organizer of [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
 
