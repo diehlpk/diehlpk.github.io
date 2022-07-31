@@ -20,7 +20,7 @@ hide: true
 
 --- 
 
-##### Awards
+##### Awards and Honnors
 
 1. IEEE SCIVIS Contest 2019, First Prize, Visual Analysis of Structure Formation in Cosmic Evolution. [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw), [Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg).
 
@@ -42,6 +42,15 @@ hide: true
 ##### Allocation history
 
 ###### Current Allocations  (chronological order; most recent one first)
+
+1. Porting Octo-Tiger, an astrophysics program simulating the evolu-tion of star systems based on the fast multipole method on adaptive Octrees
+  * Project hp210311 (Patrick Diehl)
+  * Type: Test-bed
+  * Amount awarded: 21k
+  * Cluster: Fugaku @ RIKEN Center for Computational Science, Japan
+  * Role on Project: PI
+
+###### Completed Research (chronological order; most recent one first)
 
 1. Porting Octo-Tiger, an astrophysics program simulating the evolu-tion of star systems based on the fast multipole method on adaptive Octrees
   * Project PaDi032321F (Patrick Diehl)
@@ -73,6 +82,131 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 * Open Science
   - Open Source Software for scientific applications
   - Open data for sharing raw experimental results
+
+---
+
+#### Courses (Chronological order; most recent one first)
+
+##### Instructor
+
+* MEDP 7098 Research Technologies and Methods. [Slides](https://github.com/diehlpkteaching/MEDP-7098)  
+* Math 4997 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise), and [Notes](https://github.com/diehlpkteaching/ParallelComputationMathScript)
+
+##### Teaching assistant
+
+* Einführung in die Numerische Mathematik (Introduction to numerical mathematics), University of Bonn, 2015
+* Algorithmische Mathematik (Mathematical algorithms), University of Bonn,2013/2014
+* Wissenschaftliches Rechnen 2 (Scientific Computing 2), University of Bonn, 2013
+* Computational Fluid Mechanics, University of Stuttgart, 2012
+
+Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
+
+#### Certificates
+
+* Baden--Württemberg Certificate: Certificate for successful completion of the program in higher education pedagogy by the center for educational development of the state of Baden–Württemberg.
+
+---
+
+#### Advising and related student services
+
+
+##### Co-supervised theses
+
+* University of Stuttgart:
+  * Pfander, David: Eine künstliche Intelligenz für das Kartenspiel Tichu, Studienarbeit Nr. 2398, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/STUD-2398/STUD-2398.pdf)
+  * Kanis, Sebastian: GPU-based Numerical Integration in the Partition of Unity Method, Diplomarbeit Nr. 3405, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/DIP-3405/DIP-3405.pdf) 
+
+##### Graduate Commitee Member
+
+* Master thesis: M. Reeser (LSU, 2020)
+* Honors project: J. Trepper (LSU, 2020)
+
+##### Google Summer of Code
+
+* University of Bonn: A. Nigam (2016)
+* Polytechnique Montreal: M. Seshadri (2017), G. Laberge and J. Golinowski (2018)
+* Louisiana State University: : P. Gadika (LSU 2020)
+
+##### Google Deason of Docs
+
+* Louisiana State University: R. Stobaugh (2019)
+
+##### NSF REU: Interdisciplinary Research Experience in Computational Sciences
+
+* Louisiana State University: A. Edwards (2021) and E. Downing (2022)
+
+--- 
+
+##### Work-related projects
+* [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/) -- Project to promote sharing of raw experimental data within the experimental mechanics community.
+* [FLOSS for Science](https://flossforscience.github.io/) -- Podcast aimed at promoting the usage of Free and Libre Open Source Software in research and academia.
+
+---
+
+#### Academic-related Professional and Public Service
+
+1. ASSEP Labor relations officers for postdoctoral fellows, 10/17-09/18 
+1. Liaison for the Louisiana district of the SIAM Texas-Louisiana Section, 03/20-current
+1. Member-at-large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-current
+
+
+#### Organization of Conferences, Workshops, and Symposia
+
+##### Committee served
+
+1. Gateways Conference 2022, Publication Chair
+1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
+1. Gateways Conference 2021, program committee member
+1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, Virtual logistics
+
+##### Mini-symposia organized
+
+1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402))
+2. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 14th World Congress on Computational Mechanics
+3. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 16th National Congress on Computational Mechanics
+4. Nonlocal Models in Mathematics and Computation, 3rd Annual Meetingof the SIAM Texas-Louisiana Section
+5. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 15th World Congress on Computational Mechanics (WCCM XV).
+6. Recent Developments in Peridynamics Modeling, 19th U.S. National Congress on Theoretical and Applied Mechanics
+7. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 9th GACM Colloquium on Computational Mechanics
+
+##### Workshops organized
+
+1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
+prediction and experimental design ([Link](http://wfm2020.usacm.org/))
+2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
+3. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte2022.stellar-group.org/))
+4. Workshop on Asynchronous Many-Task Systems and Applications 2023, [Link](https://wamta23.stellar-group.org/) 
+
+##### Meetings
+
+1. 3rd Annual Meeting of the SIAM Texas-Louisiana Section, October 16-18, 2020 [Link](https://www.math.tamu.edu/conferences/SIAMTXLA/)
+1. 4th Annual Meeting of the SIAM Texas-Louisiana Section, November, 5-7, 2022 [Link](https://faculty.utrgv.edu/eleftherios.gkioulekas/2021-siam-txla-meeting-spi/index.html)
+
+##### Panels 
+
+1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Link](http://stellar-group.org/tbaa2020-scpanel/)
+2. AI Ethics/Algorithmic Justice, Organizer, Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University.
+3. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Speaker, Engineering Mechanics Institute Conference 2022
+
+##### Colloquium
+
+1. Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University, [Link](https://stellar-group.org/research/colloquium-on-artificial-intelligence-research-and-optimization/)
+1. Large-Scale TTA Early-Career Colloquium, USACM [Link](https://unsacm.memberclicks.net/tta--large-scale-structural-systems)
+
+##### Short course
+
+1. SC16-001 Advanced Parallel Programming in C++, 16th U.S. NationalCongress on Computational Mechanics
+
+##### Mentor and Organizer of [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
+
+* GSoC <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018), and [2020]({{ site.url }}/blog/gsc-projects/#Domain-decomposition,-load-balancing,-and-massively-parallel-solvers-for-the-class-of-nonlocal-models-2020)
+* GSoD <a href="http://stellar-group.org/">Ste||ar Group</a>: [2019](https://developers.google.com/season-of-docs/docs/participants/)
+
+---
+
+##### Conferences/Workshop grants
+
+1. **AmeriMech**: Experimental and Computational Fracture Mechanics: Validating peridynamics and phase field models for fracture prediction and experimental design ($4000)
 
 ---
 
@@ -240,133 +374,6 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
 
 Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
-
----
-
-#### Courses (Chronological order; most recent one first)
-
-##### Instructor
-
-* MEDP 7098 Research Technologies and Methods. [Slides](https://github.com/diehlpkteaching/MEDP-7098)  
-* Math 4997 Parallel computational mathematics. [Slides](https://github.com/diehlpkteaching/ParallelComputationMath), [Exercises](https://github.com/diehlpkteaching/ParallelComputationMathExercise), and [Notes](https://github.com/diehlpkteaching/ParallelComputationMathScript)
-
-##### Teaching assistant
-
-* Einführung in die Numerische Mathematik (Introduction to numerical mathematics), University of Bonn, 2015
-* Algorithmische Mathematik (Mathematical algorithms), University of Bonn,2013/2014
-* Wissenschaftliches Rechnen 2 (Scientific Computing 2), University of Bonn, 2013
-* Computational Fluid Mechanics, University of Stuttgart, 2012
-
-Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more details.
-
-#### Certificates
-
-* Baden--Württemberg Certificate: Certificate for successful completion of the program in higher education pedagogy by the center for educational development of the state of Baden–Württemberg.
-
----
-
-#### Advising and related student services
-
-
-##### Co-supervised theses
-
-* University of Stuttgart:
-  * Pfander, David: Eine künstliche Intelligenz für das Kartenspiel Tichu, Studienarbeit Nr. 2398, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/STUD-2398/STUD-2398.pdf)
-  * Kanis, Sebastian: GPU-based Numerical Integration in the Partition of Unity Method, Diplomarbeit Nr. 3405, 2013. [Link](ftp://ftp.informatik.uni-stuttgart.de/pub/library/medoc.ustuttgart_fi/DIP-3405/DIP-3405.pdf) 
-
-##### Graduate Commitee Member
-
-* Master thesis: M. Reeser (LSU, 2020)
-* Honors project: J. Trepper (LSU, 2020)
-
-##### Google Summer of Code
-
-* University of Bonn: A. Nigam (2016)
-* Polytechnique Montreal: M. Seshadri (2017), G. Laberge and J. Golinowski (2018)
-* Louisiana State University: : P. Gadika (LSU 2020)
-
-##### Google Deason of Docs
-
-* Louisiana State University: R. Stobaugh (2019)
-
-##### NSF REU: Interdisciplinary Research Experience in Computational Sciences
-
-* Louisiana State University: A. Edwards (2021) and E. Downing (2022)
-
---- 
-
-##### Work-related projects
-* [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/) -- Project to promote sharing of raw experimental data within the experimental mechanics community.
-* [FLOSS for Science](https://flossforscience.github.io/) -- Podcast aimed at promoting the usage of Free and Libre Open Source Software in research and academia.
-
----
-
-#### Academic-related Professional and Public Service
-
-1. ASSEP Labor relations officers for postdoctoral fellows, 10/17-09/18 
-1. Liaison for the Louisiana district of the SIAM Texas-Louisiana Section, 03/20-current
-1. Member-at-large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-current
-
-
-#### Organization of Conferences, Workshops, and Symposia
-
-##### Committee served
-
-1. Gateways Conference 2022, Publication Chair
-1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
-1. Gateways Conference 2021, program committee member
-1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, Virtual logistics
-
-##### Mini-symposia organized
-
-1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402))
-2. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 14th World Congress on Computational Mechanics
-3. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 16th National Congress on Computational Mechanics
-4. Nonlocal Models in Mathematics and Computation, 3rd Annual Meetingof the SIAM Texas-Louisiana Section
-5. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 15th World Congress on Computational Mechanics (WCCM XV).
-6. Recent Developments in Peridynamics Modeling, 19th U.S. National Congress on Theoretical and Applied Mechanics
-7. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 9th GACM Colloquium on Computational Mechanics
-
-##### Workshops organized
-
-1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
-prediction and experimental design ([Link](http://wfm2020.usacm.org/))
-2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
-3. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte2022.stellar-group.org/))
-4. Workshop on Asynchronous Many-Task Systems and Applications 2023, [Link](https://wamta23.stellar-group.org/) 
-
-##### Meetings
-
-1. 3rd Annual Meeting of the SIAM Texas-Louisiana Section, October 16-18, 2020 [Link](https://www.math.tamu.edu/conferences/SIAMTXLA/)
-1. 4th Annual Meeting of the SIAM Texas-Louisiana Section, November, 5-7, 2022 [Link](https://faculty.utrgv.edu/eleftherios.gkioulekas/2021-siam-txla-meeting-spi/index.html)
-
-##### Panels 
-
-1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Link](http://stellar-group.org/tbaa2020-scpanel/)
-2. AI Ethics/Algorithmic Justice, Organizer, Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University.
-3. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Speaker, Engineering Mechanics Institute Conference 2022
-
-##### Colloquium
-
-1. Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University, [Link](https://stellar-group.org/research/colloquium-on-artificial-intelligence-research-and-optimization/)
-1. Large-Scale TTA Early-Career Colloquium, USACM [Link](https://unsacm.memberclicks.net/tta--large-scale-structural-systems)
-
-##### Short course
-
-1. SC16-001 Advanced Parallel Programming in C++, 16th U.S. NationalCongress on Computational Mechanics
-
-##### Mentor and Organizer of [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
-
-* GSoC <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018), and [2020]({{ site.url }}/blog/gsc-projects/#Domain-decomposition,-load-balancing,-and-massively-parallel-solvers-for-the-class-of-nonlocal-models-2020)
-* GSoD <a href="http://stellar-group.org/">Ste||ar Group</a>: [2019](https://developers.google.com/season-of-docs/docs/participants/)
-
----
-
-##### Conferences/Workshop grants
-
-1. **AmeriMech**: Experimental and Computational Fracture Mechanics: Validating peridynamics and phase field models for fracture prediction and experimental design ($4000)
-
----
 
 #### Reviewer for
 
