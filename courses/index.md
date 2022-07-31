@@ -41,4 +41,4 @@ This course will focus on the parallel implementation of computational mathemati
 
 ### References
 
-1. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, In Proceedings of Gateways 2020, Science Gateways Community Institute (SGCI), [Link](https://osf.io/qbtj3/)
+1. Diehl P, Brandt SR. Interactive C++ code development using C++ Explorer and GitHub Classroom for educational purposes. Concurrency and Computation: Practice and Experience. 2020 Oct 24:e6893.
