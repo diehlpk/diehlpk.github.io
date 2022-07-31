@@ -17,7 +17,7 @@ PhD research project and general examination.
 
 ##### Taught sessions
 
-Introduction to Linux, Introduction to Python, Introdution to C++, Introdcution to high performance computing clusters, and Introdcution to high performance programming approaches
+Introduction to Linux, Introduction to Python, Introdution to C++, Introdcution to high performance computing clusters, and Introdcution to high performance programming approaches.
 
 * Materials: [Slides](https://github.com/diehlpkteaching/MEDP-7098)
 
