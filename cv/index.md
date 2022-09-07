@@ -28,6 +28,15 @@ hide: true
 
 ##### Grant history
 
+###### Current Research (chronological order; most recent one first)
+
+1. POSE: Phase I: Constellation: A Pathway to Establish the STE||AR Open-Source Organization
+ * Grant #2229751 (Rod Tohid)
+ * Name of Funding Organization: National Science Foundation
+ * Amount Awarded: $300,000
+ * Period of Grant Award: Sept 15 2022 -- Oct 31 2023
+ * Role on project: Co-Pi
+
 ###### Completed Research (chronological order; most recent one first)
 
 1. High Performance Data Analytics (HDPA) Scalable Second Order Optimization (SSO)
