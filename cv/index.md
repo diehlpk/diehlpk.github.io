@@ -236,8 +236,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 * Computer Science 
 
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted), [Preprint](https://arxiv.org/abs/2207.12127)
-1. Distributed, combined CPU and GPU profiling within HPX using APEX
-1. From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels
+1. From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels, (accepted)
+1. From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types. (accepted) 
 
 ###### Books edited
 
