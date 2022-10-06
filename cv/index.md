@@ -49,8 +49,12 @@ hide: true
 ---
 
 ##### Allocation history
-
+<!---
 ###### Current Allocations  (chronological order; most recent one first)
+-->
+
+
+###### Completed Research (chronological order; most recent one first)
 
 1. Porting Octo-Tiger, an astrophysics program simulating the evolu-tion of star systems based on the fast multipole method on adaptive Octrees
   * Project hp210311 (Patrick Diehl)
@@ -58,9 +62,6 @@ hide: true
   * Amount awarded: 21k
   * Cluster: Fugaku @ RIKEN Center for Computational Science, Japan
   * Role on Project: PI
-
-###### Completed Research (chronological order; most recent one first)
-
 1. Porting Octo-Tiger, an astrophysics program simulating the evolu-tion of star systems based on the fast multipole method on adaptive Octrees
   * Project PaDi032321F (Patrick Diehl)
   * Type: Test-bed
