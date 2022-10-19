@@ -315,6 +315,7 @@ openmp 5.0 tasks in hpxmp – a study of an openmp implementation within task ba
 runtime systems, tech. rep., arXiv, 2020. [Link](https://arxiv.org/abs/2002.07970)
 3. P. Diehl, S. Prudhomme, and P. Seleson. Workshop on experimental and computational fracture mechanics 2020. Technical Report ORNL/TM-2020/1714, Oak Ridge National Laboratory. [Link](https://info.ornl.gov/sites/publications/Files/Pub146693.pdf)
 4. I. P. Demeshko, P. Diehl, B. Adelstein-Lelbach, R. Buch, H. Kaiser, L. S.Kale, Z. Khatami, A. Koniges, and S. Shirzad. TBAA20: Task-BasedAlgorithms and Applications. Technical Report LA-UR-21-20928, LosAlamos National Laboratory, 2021, [Link](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-21-20928)
+5. Diehl, Patrick, et al. "Distributed, combined CPU and GPU profiling within HPX using APEX." arXiv preprint [arXiv:2210.06437](https://arxiv.org/abs/2210.06437) (2022).
 
 #### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
