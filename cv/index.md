@@ -384,6 +384,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 37. --, A Fracture Multiscale Model for Peridynamic enrichment within the Partition of Unity Method. SIAM Annual Meeting (AN22), 11.07-15.07 2022, Pittsburgh, USA.
 38. --, Quantifying Overheads in Charm++ and HPX using Task Bench. Asynchronous Many-Task systems for Exascale (AMTE) 2022, 23.08 2022, Glasgow, UK. [Slides](https://www.slideshare.net/PatrickDiehl3/quantifying-overheads-in-charm-and-hpx-using-task-bench)
 39. --, Quantifying Overheads in Charm++ and HPX using Task Bench. The Charm++ Workshop 2022, 19.10-20.10 2022, College Park, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/quantifying-overheads-in-charm-and-hpx-using-task-bench) 
+40. P. Diehl and S. Prudhomme. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage. Society of Engineering Science Annual Technical Meeting (SES2022), 16.10-19.10 2022, College Station, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/challenges-for-coupling-approaches-for-classical-linear-elasticity-and-bondbased-peridynamic-models-for-nonuniform-meshes-and-damage)
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
