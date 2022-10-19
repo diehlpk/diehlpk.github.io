@@ -77,6 +77,7 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), The Journal of Open Source Software
 2. Guest editor, Special issue: Peridynamics and its Current Progress, Computer Modeling in Engineering & Sciences (CMES)
+3. Guest editor, Special issue: Science Gateways: Accelerating Research and Education, Computing in Science \& Engineering 
 
 ---
 
@@ -381,7 +382,8 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 35. P. Diehl and S. Prudhomme, Coupling approaches for classical linear elasticity and bond-based peridynamic models, 19th U.S. National Congress on Theoretical and Applied Mechanics, 06/19-06/26 2022, Austin, USA.
 36. P. Diehl, Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics with an Explicit Tangent Stiffness Matrix for arbitrary Poisson ratios. 15th. World Congress on Computational Mechanics (WCCM XV), 31.07-05.08 2022, Virtual event.
 37. --, A Fracture Multiscale Model for Peridynamic enrichment within the Partition of Unity Method. SIAM Annual Meeting (AN22), 11.07-15.07 2022, Pittsburgh, USA.
-38. --, Quantifying Overheads in Charm++ and HPX using Task Bench. Asynchronous Many-Task systems for Exascale (AMTE) 2022, 23.08 2022, Glasgow, UK. 
+38. --, Quantifying Overheads in Charm++ and HPX using Task Bench. Asynchronous Many-Task systems for Exascale (AMTE) 2022, 23.08 2022, Glasgow, UK. [Slides](https://www.slideshare.net/PatrickDiehl3/quantifying-overheads-in-charm-and-hpx-using-task-bench)
+39. --, Quantifying Overheads in Charm++ and HPX using Task Bench. The Charm++ Workshop 2022, 19.10-20.10 2022, College Park, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/quantifying-overheads-in-charm-and-hpx-using-task-bench) 
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
