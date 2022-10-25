@@ -180,6 +180,8 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 6. Recent Developments in Peridynamics Modeling, 19th U.S. National Congress on Theoretical and Applied Mechanics
 7. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 9th GACM Colloquium on Computational Mechanics
 8. Theoretical and Computational Aspects of Nonlocal Operator, 7th Annual Meeting of SIAM Central States Section
+9. Nonlocal Models in Mathematics and Computation, 5th Annual Meeting of the SIAM Texas-Louisiana Section, 2022
+10. Recent Developments in Peridynamics Modeling, 17th U.S. National Congress on Computational Mechanics.
 
 ##### Workshops organized
 
@@ -192,7 +194,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 ##### Meetings
 
 1. 3rd Annual Meeting of the SIAM Texas-Louisiana Section, October 16-18, 2020 [Link](https://www.math.tamu.edu/conferences/SIAMTXLA/)
-1. 4th Annual Meeting of the SIAM Texas-Louisiana Section, November, 5-7, 2022 [Link](https://faculty.utrgv.edu/eleftherios.gkioulekas/2021-siam-txla-meeting-spi/index.html)
+1. 4th Annual Meeting of the SIAM Texas-Louisiana Section, November, 5-7, 2021 [Link](https://faculty.utrgv.edu/eleftherios.gkioulekas/2021-siam-txla-meeting-spi/index.html)
+1. 5th Annual Meeting of the SIAM Texas-Louisiana Section, November, 4-6, 2022 [Link](https://www.math.uh.edu/siamtxla22/index.shtml)
 
 ##### Panels 
 
