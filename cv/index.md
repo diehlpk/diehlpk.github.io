@@ -233,7 +233,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 * Computational Mathematics
 
 1. An overview for coupling finite elements with peridynamics
-1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method: Part I, (submitted), [Preprint](https://arxiv.org/abs/2108.02336)
+1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method, (accepted), [Preprint](https://arxiv.org/abs/2108.02336)
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. The Peridigm Meshfree Peridynamics Code, (submitted)
 1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes
@@ -242,7 +242,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted), [Preprint](https://arxiv.org/abs/2207.12127)
 1. From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels, (accepted), [Preprint](https://arxiv.org/abs/2210.06438)
-1. From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types. (accepted), [Preorint](https://arxiv.org/abs/2210.06439) 
+1. From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types. (accepted), [Preprint](https://arxiv.org/abs/2210.06439) 
 
 ###### Books edited
 
@@ -318,8 +318,9 @@ Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/ab
 openmp 5.0 tasks in hpxmp – a study of an openmp implementation within task based
 runtime systems, tech. rep., arXiv, 2020. [Link](https://arxiv.org/abs/2002.07970)
 3. P. Diehl, S. Prudhomme, and P. Seleson. Workshop on experimental and computational fracture mechanics 2020. Technical Report ORNL/TM-2020/1714, Oak Ridge National Laboratory. [Link](https://info.ornl.gov/sites/publications/Files/Pub146693.pdf)
-4. I. P. Demeshko, P. Diehl, B. Adelstein-Lelbach, R. Buch, H. Kaiser, L. S.Kale, Z. Khatami, A. Koniges, and S. Shirzad. TBAA20: Task-BasedAlgorithms and Applications. Technical Report LA-UR-21-20928, LosAlamos National Laboratory, 2021, [Link](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-21-20928)
+4. I. P. Demeshko, P. Diehl, B. Adelstein-Lelbach, R. Buch, H. Kaiser, L. S.Kale, Z. Khatami, A. Koniges, and S. Shirzad. TBAA20: Task-BasedAlgorithms and Applications. Technical Report LA-UR-21-20928, Los Alamos National Laboratory, 2021, [Link](https://permalink.lanl.gov/object/tr?what=info:lanl-repo/lareport/LA-UR-21-20928)
 5. Diehl, Patrick, et al. "Distributed, combined CPU and GPU profiling within HPX using APEX." arXiv preprint [arXiv:2210.06437](https://arxiv.org/abs/2210.06437) (2022).
+5. P. Diehl, Porting Octo-Tiger, an astrophysics program simulating the evolution of star systems based on the fast multipole method on adaptive Octrees, HPCI User Report, [Link](https://www.hpci-office.jp/output/hp210311/outcome.pdf?1668567633)
 
 #### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
@@ -390,7 +391,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 40. P. Diehl and S. Prudhomme. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage. Society of Engineering Science Annual Technical Meeting (SES2022), 16.10-19.10 2022, College Station, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/challenges-for-coupling-approaches-for-classical-linear-elasticity-and-bondbased-peridynamic-models-for-nonuniform-meshes-and-damage)
 41. P. Diehl, Recent developments in HPX and Octi-Tiger. ISTI Seminar Series,
 1.11 2022, Los Alamos, USA. [Slides](https://de.slideshare.net/PatrickDiehl3/recent-developments-in-hpx-and-octotiger-254076663)
-
+42. P. Diehl, A tale of two approaches for coupling nonlocal and local models, Continuum Mechanics Seminar (CMS), 10.11 2022, [Slides](https://www.slideshare.net/PatrickDiehl3/a-tale-of-two-approaches-for-coupling-nonlocal-and-local-models)
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
