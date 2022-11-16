@@ -391,7 +391,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 40. P. Diehl and S. Prudhomme. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage. Society of Engineering Science Annual Technical Meeting (SES2022), 16.10-19.10 2022, College Station, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/challenges-for-coupling-approaches-for-classical-linear-elasticity-and-bondbased-peridynamic-models-for-nonuniform-meshes-and-damage)
 41. P. Diehl, Recent developments in HPX and Octi-Tiger. ISTI Seminar Series,
 1.11 2022, Los Alamos, USA. [Slides](https://de.slideshare.net/PatrickDiehl3/recent-developments-in-hpx-and-octotiger-254076663)
-42. P. Diehl, A tale of two approaches for coupling nonlocal and local models, Continuum Mechanics Seminar (CMS), 10.11 2022, [Slides](https://www.slideshare.net/PatrickDiehl3/a-tale-of-two-approaches-for-coupling-nonlocal-and-local-models)
+42. P. Diehl, A tale of two approaches for coupling nonlocal and local models, Continuum Mechanics Seminar (CMS), 10.11 2022, Lincoln, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/a-tale-of-two-approaches-for-coupling-nonlocal-and-local-models)
 
 #### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
