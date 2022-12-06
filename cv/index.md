@@ -56,13 +56,13 @@ hide: true
 
 ###### Completed Research (chronological order; most recent one first)
 
-1. Porting Octo-Tiger, an astrophysics program simulating the evolu-tion of star systems based on the fast multipole method on adaptive Octrees
+1. Porting Octo-Tiger, an astrophysics program simulating the evolution of star systems based on the fast multipole method on adaptive Octrees
   * Project hp210311 (Patrick Diehl)
   * Type: Test-bed
   * Amount awarded: 21k
   * Cluster: Fugaku @ RIKEN Center for Computational Science, Japan
   * Role on Project: PI
-1. Porting Octo-Tiger, an astrophysics program simulating the evolu-tion of star systems based on the fast multipole method on adaptive Octrees
+1. Porting Octo-Tiger, an astrophysics program simulating the evolution of star systems based on the fast multipole method on adaptive Octrees
   * Project PaDi032321F (Patrick Diehl)
   * Type: Test-bed
   * Amount awarded: 10k
@@ -172,16 +172,17 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Mini-symposia organized
 
-1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics ([link](http://14.usnccm.org/MS402))
+1. Modeling and Simulation for Complex Material Behavior, 14th U.S. National Congress on Computational Mechanics
 2. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 14th World Congress on Computational Mechanics
 3. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 16th National Congress on Computational Mechanics
 4. Nonlocal Models in Mathematics and Computation, 3rd Annual Meetingof the SIAM Texas-Louisiana Section
-5. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 15th World Congress on Computational Mechanics (WCCM XV).
+5. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 15th World Congress on Computational Mechanics (WCCM XV)
 6. Recent Developments in Peridynamics Modeling, 19th U.S. National Congress on Theoretical and Applied Mechanics
 7. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 9th GACM Colloquium on Computational Mechanics
 8. Theoretical and Computational Aspects of Nonlocal Operator, 7th Annual Meeting of SIAM Central States Section
-9. Nonlocal Models in Mathematics and Computation, 5th Annual Meeting of the SIAM Texas-Louisiana Section, 2022
-10. Recent Developments in Peridynamics Modeling, 17th U.S. National Congress on Computational Mechanics.
+9. Nonlocal Models in Mathematics and Computation, 5th Annual Meeting of the SIAM Texas-Louisiana Section
+10. Recent Developments in Peridynamics Modeling, 17th U.S. National Congress on Computational Mechanics
+11. Nonlocal Modeling, Analysis, and Computation, 10th International Congress on Industrial and Applied Mathematics
 
 ##### Workshops organized
 
@@ -190,6 +191,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
 3. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte2022.stellar-group.org/))
 4. Workshop on Asynchronous Many-Task Systems and Applications 2023, [Link](https://wamta23.stellar-group.org/) 
+5. Asynchronous Many-Task systems for Exascale 2023 held in conjunction with [Euro-Par 2023](https://2023.euro-par.org/) ([Link](https://amte2023.stellar-group.org/))
 
 ##### Meetings
 
@@ -217,6 +219,11 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 * GSoC <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018), and [2020]({{ site.url }}/blog/gsc-projects/#Domain-decomposition,-load-balancing,-and-massively-parallel-solvers-for-the-class-of-nonlocal-models-2020)
 * GSoD <a href="http://stellar-group.org/">Ste||ar Group</a>: [2019](https://developers.google.com/season-of-docs/docs/participants/)
+
+# Mentoring events
+
+1. 15th World Congress on Computational Mechanics, 2022
+2. 5th Annual Meeting of the SIAM Texas-Louisiana Section, 2022
 
 ---
 
