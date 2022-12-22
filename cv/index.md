@@ -49,10 +49,14 @@ hide: true
 ---
 
 ##### Allocation history
-<!---
-###### Current Allocations  (chronological order; most recent one first)
--->
 
+###### Current Allocations  (chronological order; most recent one first)
+
+1. HPX and OpenMP
+  * Project xpress (Alice Koniges)
+  * Amount awarded: CPU node hours 4300 and GPU node hours 1700
+  * Cluster: Perlmutter @ NERSC
+  * Role on Project: Senior Personal
 
 ###### Completed Research (chronological order; most recent one first)
 
