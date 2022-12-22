@@ -244,11 +244,10 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 * Computational Mathematics
 
 1. An overview for coupling finite elements with peridynamics
-1. A Fracture Multiscale Model for Peridyanmic enrichment within the partition of unity method, (accepted), [Preprint](https://arxiv.org/abs/2108.02336)
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. The Peridigm Meshfree Peridynamics Code, (submitted)
 1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes
-
+1. Quasistatic fracture evolution, (submitted), [Preprint](https://arxiv.org/abs/2212.08753)
 * Computer Science 
 
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted), [Preprint](https://arxiv.org/abs/2207.12127)
