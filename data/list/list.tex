@@ -10,7 +10,7 @@
 
 
 \usepackage[resetlabels]{multibib}
-\newcites{proceedings,talk,poster,thesis,journal,spapers,reports,pre,exp,booksedited,books}{{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Short papers},{Technical reports},{Preprints},{Raw experimental data},{Edited books},{Books}}
+\newcites{review,proceedings,talk,poster,thesis,journal,spapers,reports,pre,exp,booksedited,books}{{Reviews and Surveys},{Series- and conference contributions},{Invited talks and Presentations},{Posters},{Theses},{Journal Papers},{Short papers},{Technical reports},{Preprints},{Raw experimental data},{Edited books},{Books}}
 
 \usepackage{fancyhdr}
 \usepackage{color}
@@ -52,6 +52,13 @@
 \input{booksedited}
 \bibliographystylebooksedited{habbrvyr}
 \bibliographybooksedited{publications} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Reviews Papers
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{reviews}
+\bibliographystylereview{habbrvyr}
+\bibliographyreview{publications} 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Journal Papers
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
