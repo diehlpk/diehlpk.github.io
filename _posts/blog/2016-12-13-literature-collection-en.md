@@ -35,3 +35,5 @@ A collection of books, which I used during my studies:
 * Chapman K. Superheavy: making and breaking the periodic table. Bloomsbury Publishing; 2019 Jun 13. ISBN 1472953894
 * Guillen M. Five equations that changed the world: the power and poetry of mathematics. Hachette Books; 2012 Jun 5. ISBN 0786861037
 * The man who knew too much, David Leavitt, W. W. Norton & Company, 17. November 2006, ISBN 0739471953
+* Thinking Better: The Art of the Shortcut, Marcus du Sautoy, Fourth Estate, 19. August 2021, ISBN 0008393915
+* The Code Breaker, Walter Isaacson, Simon & Schuster Ltd, 12. Mai 2022, ISBN 1398518603
