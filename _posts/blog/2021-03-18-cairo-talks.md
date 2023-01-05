@@ -32,3 +32,8 @@ and for more details see the colloquim's [webpage](https://stellar-group.org/res
 * Physics-constrained data-driven physical simulations, using machine learning, Dr. Youngsoo Choi. [Video](https://www.youtube.com/watch?v=VpQX7d0-JHc)
 * Data-driven learning of nonlocal models: bridging scales with nonlocality, Dr. Marta D’Elia. [Video](https://www.youtube.com/watch?v=11qKsvOY0F8)
 * Representative Individuals and Fair Machine Learning, Dr. Clinton Castro. [Video](http://Representative Individuals and Fair Machine Learning)
+
+### Fall 22
+
+* Graph embedding for interpretable multiscale plasticity, Dr. Steve Sun, Columbia University. [Video](https://youtu.be/Gy8dizCjA_Q)
+* Machine learning techniques for simulation-driven design optimization, Dr. Ope Owoyele, LSU. [Video](https://youtu.be/GEMPJQk9jVo)
