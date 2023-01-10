@@ -224,10 +224,10 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 * GSoC <a href="http://stellar-group.org/">Ste||ar Group</a>: [2016]({{ site.url }}/blog/gsc-projects/#implement-a-mapreduce-framework-2016), [2017]({{ site.url }}/blog/gsc-projects/#hpxcl--asynchronous-integration-of-cuda-and-opencl-to-hpx-2017), [2018]({{ site.url }}/blog/gsc-projects/#hpx-backend-for-opencv-2018), and [2020]({{ site.url }}/blog/gsc-projects/#Domain-decomposition,-load-balancing,-and-massively-parallel-solvers-for-the-class-of-nonlocal-models-2020)
 * GSoD <a href="http://stellar-group.org/">Ste||ar Group</a>: [2019](https://developers.google.com/season-of-docs/docs/participants/)
 
-# Mentoring events
+##### Mentoring events
 
-1. 15th World Congress on Computational Mechanics, 2022
-2. 5th Annual Meeting of the SIAM Texas-Louisiana Section, 2022
+1. Virutal one-to-one meeting, 15th World Congress on Computational Mechanics, 2022
+2. Mentoring lunch, 5th Annual Meeting of the SIAM Texas-Louisiana Section, 2022
 
 ---
 
