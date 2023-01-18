@@ -77,14 +77,6 @@ Also available as [PDF document]({{ site.url }}/assets/grants.pdf).
 
 ---
 
-##### Journal editor
-
-1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), The Journal of Open Source Software
-2. Guest editor, Special issue: Peridynamics and its Current Progress, Computer Modeling in Engineering & Sciences (CMES)
-3. Guest editor, Special issue: Science Gateways: Accelerating Research and Education, Computing in Science \& Engineering 
-
----
-
 #### Research interests
 * Computational engineering
   - Peridynamic theory for the application in solids, like glassy or composite materials
@@ -165,7 +157,15 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 1. Member-at-large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-current
 
 
+
 #### Organization of Conferences, Workshops, and Symposia
+
+##### Journal editor
+
+1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), The Journal of Open Source Software
+2. Guest editor, Special issue: Peridynamics and its Current Progress, Computer Modeling in Engineering & Sciences (CMES)
+3. Guest editor, Special issue: Science Gateways: Accelerating Research and Education, Computing in Science & Engineering 
+
 
 ##### Committee served
 
@@ -208,6 +208,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Link](http://stellar-group.org/tbaa2020-scpanel/)
 2. AI Ethics/Algorithmic Justice, Organizer, Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University.
 3. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Speaker, Engineering Mechanics Institute Conference 2022
+4. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Organizer, Engineering Mechanics Institute Conference 2023
 
 ##### Colloquium
 
@@ -218,6 +219,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. SC16-001 Advanced Parallel Programming in C++, 16th U.S. National Congress on Computational Mechanics
 1. Advanced Parallel Programming in C++, 15th World Congress on Computational Mechanics
+1. SC17-002 Advanced Parallel Programming in C++, 17th U.S. National Congress on Computational Mechanics
 
 ##### Mentor and Organizer of [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
 
@@ -318,13 +320,13 @@ Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/ab
 11. N. Gupta et al., "Deploying a Task-based Runtime System on Raspberry Pi Clusters," 2020 IEEE/ACM 5th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2), GA, USA, 2020, pp. 11-20, doi: [10.1109/ESPM251964.2020.00007](https://ieeexplore.ieee.org/abstract/document/9307132), [Preprint](https://arxiv.org/abs/2010.04106)
 12. P. Gadikar, P. Diehl and P. Jha,"Load balancing for distributed nonlocal models within asynchronous many-task systems," in 2021 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Portland, OR, USA, 2021 pp. 669-678. [10.1109/IPDPSW52791.2021.00103](https://doi.ieeecomputersociety.org/10.1109/IPDPSW52791.2021.00103) , [Preprint](https://arxiv.org/abs/2102.03819)
 
-#### Short papers
+###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
 ,[Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), and [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw)
 2. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, In Proceedings of Gateways 2020, Science Gateways Community Institute (SGCI), [Link](https://osf.io/qbtj3/)
 3. Bhattacharya, D, Diehl, P, & Lipton, RP. "Peridynamics for Quasistatic Fracture Modeling." Proceedings of the ASME 2021 International Mechanical Engineering Congress and Exposition. Volume 12: Mechanics of Solids, Structures, and Fluids; Micro- and Nano- Systems Engineering and Packaging. Virtual, Online. November 1–5, 2021. V012T12A041. ASME. [10.1115/IMECE2021-70793](https://doi.org/10.1115/IMECE2021-70793) [Preprint](https://arxiv.org/abs/2107.14665)
 
-#### Technical reports
+###### Technical reports
 1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [Link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
 2. T. ZHANG, S. SHIRZAD, B. WAGLE, A. S. LEMOINE, P. DIEHL, AND H. KAISER, Supporting
 openmp 5.0 tasks in hpxmp – a study of an openmp implementation within task based
@@ -334,7 +336,7 @@ runtime systems, tech. rep., arXiv, 2020. [Link](https://arxiv.org/abs/2002.0797
 5. Diehl, Patrick, et al. "Distributed, combined CPU and GPU profiling within HPX using APEX." arXiv preprint [arXiv:2210.06437](https://arxiv.org/abs/2210.06437) (2022).
 5. P. Diehl, Porting Octo-Tiger, an astrophysics program simulating the evolution of star systems based on the fast multipole method on adaptive Octrees, HPCI User Report, [Link](https://www.hpci-office.jp/output/hp210311/outcome.pdf?1668567633)
 
-#### Invited talks and Presentations
+###### Invited talks and Presentations
 1. P. Diehl, Efficient k-nearest neighbor search on the GPU. Seventh International Workshop Meshfree Methods for Partial Differential Equations, 09.09-11.09 2013, Bonn, Germany.
 2. -- , Coupling CPU and GPU to simulate efficient dynamic cracks and fractures in solids.
 12th U.S. National Congress on Computational Mechanics (USNCCM12), 21.07-25.07
@@ -405,7 +407,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 1.11 2022, Los Alamos, USA. [Slides](https://de.slideshare.net/PatrickDiehl3/recent-developments-in-hpx-and-octotiger-254076663)
 42. P. Diehl, A tale of two approaches for coupling nonlocal and local models, Continuum Mechanics Seminar (CMS), 10.11 2022, Lincoln, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/a-tale-of-two-approaches-for-coupling-nonlocal-and-local-models)
 
-#### Raw experimental data
+###### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
 
 Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
