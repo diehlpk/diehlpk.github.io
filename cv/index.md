@@ -253,7 +253,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 * Computer Science 
 
-1. Shared memory parallelism in Modern C++ and HPX
+1. Shared memory parallelism in Modern C++ and HPX, (submitted), [Preprint](https://arxiv.org/abs/2302.07191)
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted), [Preprint](https://arxiv.org/abs/2207.12127)
 1. From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels, (accepted), [Preprint](https://arxiv.org/abs/2210.06438)
 1. From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types. (accepted), [Preprint](https://arxiv.org/abs/2210.06439) 
