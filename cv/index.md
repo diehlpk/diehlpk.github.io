@@ -253,10 +253,10 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 * Computer Science 
 
-1. Shared memory parallelism in Modern C++ and HPX, (submitted), [Preprint](https://arxiv.org/abs/2302.07191)
+1. Shared memory parallelism in Modern C++ and HPX, (accpeted), [Preprint](https://arxiv.org/abs/2302.07191)
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted), [Preprint](https://arxiv.org/abs/2207.12127)
-1. From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels, (accepted), [Preprint](https://arxiv.org/abs/2210.06438)
-1. From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types. (accepted), [Preprint](https://arxiv.org/abs/2210.06439) 
+1. Stellar Mergers with HPX-Kokkos and SYCL: Methods of using an Asynchronous Many-Task Runtime System with SYCL, (accepeted)
+1. Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku, (accepted)
 
 ###### Books edited
 
@@ -264,7 +264,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Journal articles
 
-1. Diehl, P, Lipton, R. Quasistatic fracture using nonlinear-nonlocal elastostatics with explicit tangent stiffness matrix. Int J Numer Methods Eng. 2022; 1- 26. [doi:10.1002/nme.7005](https://doi.org/10.1002/nme.7005), [Preprint](https://engrxiv.org/3je6b/)
+1. Diehl, P, Lipton, R. Quasistatic fracture using nonlinear-nonlocal elastostatics with explicit tangent stiffness matrix. Int J Numer Methods Eng. 2022; 1-26. [doi:10.1002/nme.7005](https://doi.org/10.1002/nme.7005), [Preprint](https://engrxiv.org/3je6b/)
 1. Diehl, P., Prudhomme, S. Coupling Approaches for Classical Linear Elasticity and Bond-Based Peridynamic Models. J Peridyn Nonlocal Model (2022), [10.1007/s42102-022-00083-4](https://link.springer.com/article/10.1007/s42102-022-00083-4), [Preprint](https://arxiv.org/abs/2203.09934)
 1. P. Diehl, R. Lipton, T. Wick, and M. Tyagi. A comparative review of peridynamics and phase-field models for engineering fracture mechanics. Computational Mechanics, Feb 2022, [10.1007/s00466-022-02147-0](https://doi.org/10.1007/s00466-022-02147-0), [Preprint](https://engrxiv.org/gty2b/)
 1. Diehl, Patrick and Steven R. Brandt. "Interactive C++ code development using C++Explorer and GitHub classroom for educational purposes", Concurrency and Computation: Practice and Experience, 2022, [10.1002/cpe.6893](https://doi.org/10.1002/cpe.6893), [Prepint](https://edarxiv.org/5te23/)
@@ -319,6 +319,9 @@ Towards a scalable and distributed infrastructure for deep learning applications
 Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/abstract/document/9297125), [Preprint](https://arxiv.org/abs/2010.03012) 
 11. N. Gupta et al., "Deploying a Task-based Runtime System on Raspberry Pi Clusters," 2020 IEEE/ACM 5th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2), GA, USA, 2020, pp. 11-20, doi: [10.1109/ESPM251964.2020.00007](https://ieeexplore.ieee.org/abstract/document/9307132), [Preprint](https://arxiv.org/abs/2010.04106)
 12. P. Gadikar, P. Diehl and P. Jha,"Load balancing for distributed nonlocal models within asynchronous many-task systems," in 2021 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Portland, OR, USA, 2021 pp. 669-678. [10.1109/IPDPSW52791.2021.00103](https://doi.ieeecomputersociety.org/10.1109/IPDPSW52791.2021.00103) , [Preprint](https://arxiv.org/abs/2102.03819)
+13. G. Dais, P. Diehl, D. Marcello, A. Kheirkhahan, H. Kaiser, and D. Pfluger. From task-based gpu work aggregation to stellar mergers: Turning fine-grained cpu tasks into portable gpu kernels. In 2022 IEEE/ACM International Workshop on Performance, Portability and Productivity in HPC (P3HPC), pages 89–99, Los Alamitos, CA, USA, Nov 2022. IEEE Computer Society. [10.1109/P3HPC56579.2022.00014](https://doi.ieeecomputersociety.org/10.1109/P3HPC56579.2022.00014), [Preprint](https://arxiv.org/abs/2210.06438)
+14. G. Dais, S. Singanaboina, P. Diehl, H. Kaiser, and D. Pfluger. From merging frameworks to merging stars: Experiences using hpx, kokkos and simd types. In 2022 IEEE/ACM 7th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 10–19, Los Alamitos, CA, USA, nov 2022. IEEE Computer Society. [10.1109/ESPM256814.2022.00007](https://doi.ieeecomputersociety.org/10.1109/ESPM256814.2022.00007), [Preprint](https://arxiv.org/abs/2210.06439)
+
 
 ###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
