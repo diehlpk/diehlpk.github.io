@@ -1171,3 +1171,37 @@ abstract = {Partition of unity methods are of domain decomposition type and prov
   year = {2023},
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
+
+@INPROCEEDINGS {10024622,
+author = {G. Dais and P. Diehl and D. Marcello and A. Kheirkhahan and H. Kaiser and D. Pfluger},
+booktitle = {2022 IEEE/ACM International Workshop on Performance, Portability and Productivity in HPC (P3HPC)},
+title = {From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels},
+year = {2022},
+volume = {},
+issn = {},
+pages = {89-99},
+abstract = {Meeting both scalability and performance portability requirements is a challenge for any HPC application, especially for adaptively refined ones. In Octo-Tiger, an astrophysics application for the simulation of stellar mergers, we approach this with existing solutions: We employ HPX to obtain fine-grained tasks to easily distribute work and finely overlap communication and computation. For the computations themselves, we use Kokkos to turn these tasks into compute kernels capable of running on hardware ranging from a few CPU cores to powerful accelerators. There is a missing link, however: while the fine-grained parallelism exposed by HPX is useful for scalability, it can hinder GPU performance when the tasks become too small to saturate the device, causing low resource utilization. To bridge this gap, we investigate multiple different GPU work aggregation strategies within Octo-Tiger, adding one new strategy, and evaluate the node-level performance impact on recent AMD and NVIDIA GPUs, achieving noticeable speedups.},
+keywords = {performance evaluation;productivity;scalability;graphics processing units;programming;parallel processing;turning},
+doi = {10.1109/P3HPC56579.2022.00014},
+url = {https://doi.ieeecomputersociety.org/10.1109/P3HPC56579.2022.00014},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {nov}
+}
+
+@INPROCEEDINGS {10029450,
+author = {G. Dais and S. Singanaboina and P. Diehl and H. Kaiser and D. Pfluger},
+booktitle = {2022 IEEE/ACM 7th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)},
+title = {From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types},
+year = {2022},
+volume = {},
+issn = {},
+pages = {10-19},
+abstract = {Octo-Tiger, a large-scale 3D AMR code for the merger of stars, uses a combination of HPX, Kokkos and explicit SIMD types, aiming to achieve performance-portability for a broad range of heterogeneous hardware. However, on A64FX CPUs, we encountered several missing pieces, hindering performance by causing problems with the SIMD vectorization. Therefore, we add std::experimental::simd as an option to use in Octo-Tiger&amp;#x2019;s Kokkos kernels alongside Kokkos SIMD, and further add a new SVE (Scalable Vector Extensions) SIMD backend. Additionally, we amend missing SIMD implementations in the Kokkos kernels within Octo-Tiger&amp;#x2019;s hydro solver. We test our changes by running Octo-Tiger on three different CPUs: An A64FX, an Intel Icelake and an AMD EPYC CPU, evaluating SIMD speedup and node-level performance. We get a good SIMD speedup on the A64FX CPU, as well as noticeable speedups on the other two CPU platforms. However, we also experience a scaling issue on the EPYC CPU.},
+keywords = {three-dimensional displays;codes;conferences;merging;stars;programming;hardware},
+doi = {10.1109/ESPM256814.2022.00007},
+url = {https://doi.ieeecomputersociety.org/10.1109/ESPM256814.2022.00007},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {nov}
+}
