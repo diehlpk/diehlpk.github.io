@@ -247,16 +247,16 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. An overview for coupling finite elements with peridynamics
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-1. The Peridigm Meshfree Peridynamics Code, (submitted)
-1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes
+1. The Peridigm Meshfree Peridynamics Code, (accepted)
+1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
 1. Quasistatic fracture evolution, (submitted), [Preprint](https://arxiv.org/abs/2212.08753)
 
 * Computer Science 
 
 1. Shared memory parallelism in Modern C++ and HPX, (accpeted), [Preprint](https://arxiv.org/abs/2302.07191)
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted), [Preprint](https://arxiv.org/abs/2207.12127)
-1. Stellar Mergers with HPX-Kokkos and SYCL: Methods of using an Asynchronous Many-Task Runtime System with SYCL, (accepeted)
 1. Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku, (accepted)
+1. Concurrency in Chapel, Charm++, HPX, Go, Julia, Python, Rust, and Swift 
 
 ###### Books edited
 
@@ -321,7 +321,7 @@ Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/ab
 12. P. Gadikar, P. Diehl and P. Jha,"Load balancing for distributed nonlocal models within asynchronous many-task systems," in 2021 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Portland, OR, USA, 2021 pp. 669-678. [10.1109/IPDPSW52791.2021.00103](https://doi.ieeecomputersociety.org/10.1109/IPDPSW52791.2021.00103) , [Preprint](https://arxiv.org/abs/2102.03819)
 13. G. Daiß, P. Diehl, D. Marcello, A. Kheirkhahan, H. Kaiser, and D. Pflüger. From task-based gpu work aggregation to stellar mergers: Turning fine-grained cpu tasks into portable gpu kernels. In 2022 IEEE/ACM International Workshop on Performance, Portability and Productivity in HPC (P3HPC), pages 89–99, Los Alamitos, CA, USA, Nov 2022. IEEE Computer Society. [10.1109/P3HPC56579.2022.00014](https://doi.ieeecomputersociety.org/10.1109/P3HPC56579.2022.00014), [Preprint](https://arxiv.org/abs/2210.06438)
 14. G. Daiß, S. Singanaboina, P. Diehl, H. Kaiser, and D. Pflüger. From merging frameworks to merging stars: Experiences using hpx, kokkos and simd types. In 2022 IEEE/ACM 7th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 10–19, Los Alamitos, CA, USA, nov 2022. IEEE Computer Society. [10.1109/ESPM256814.2022.00007](https://doi.ieeecomputersociety.org/10.1109/ESPM256814.2022.00007), [Preprint](https://arxiv.org/abs/2210.06439)
-
+15. G. Daiß, P. Diehl, H. Kaiser, and D. Pflüger. Stellar mergers with hpx- kokkos and sycl: Methods of using an asynchronous many-task runtime system with sycl. In Proceedings of the 2023 International Workshop on OpenCL, IWOCL ’23, New York, NY, USA, 2023. Association for Computing Machinery. [10.1145/3585341.3585354](https://doi.org/10.1145/3585341.3585354), [Preprint](https://arxiv.org/abs/2303.08058)
 
 ###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
