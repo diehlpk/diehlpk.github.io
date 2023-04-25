@@ -127,6 +127,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 * Master thesis: M. Reeser (LSU, 2020)
 * Honors project: J. Trepper (LSU, 2020)
+* PHD project: M. Cole (LSU, 2025)
 
 ##### Google Summer of Code
 
@@ -140,7 +141,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### NSF REU: Interdisciplinary Research Experience in Computational Sciences
 
-* Louisiana State University: A. Edwards (2021) and E. Downing (2022)
+* Louisiana State University: A. Edwards (2021), E. Downing (2022), and A. Davis (2023)
 
 --- 
 
@@ -255,7 +256,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. Shared memory parallelism in Modern C++ and HPX, (accpeted), [Preprint](https://arxiv.org/abs/2302.07191)
 1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted), [Preprint](https://arxiv.org/abs/2207.12127)
-1. Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku, (accepted)
+1. Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku, (accepted) [Preprint](https://arxiv.org/abs/2304.11002)
 1. Concurrency in Chapel, Charm++, HPX, Go, Julia, Python, Rust, and Swift 
 
 ###### Books edited
