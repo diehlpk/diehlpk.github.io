@@ -261,6 +261,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Books edited
 
+1. J. Singer, Y. Elkhatib, D. B. Heras, P. Diehl, N. Brown, and e. Aleksan- dar Ilic, editors. Euro-Par 2022 International Workshops, Glasgow, UK, August 22–26, 2022, Revised Selected Papers, volume 13835 of Lecture Notes in Computer Science (LNCS). Springer, 2022.
 1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Dieh, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
 ###### Journal articles
