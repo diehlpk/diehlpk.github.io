@@ -266,7 +266,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Journal articles
 
-1. Diehl, P, Lipton, R. Quasistatic fracture using nonlinear-nonlocal elastostatics with explicit tangent stiffness matrix. Int J Numer Methods Eng. 2022; 1-26. [doi:10.1002/nme.7005](https://doi.org/10.1002/nme.7005), [Preprint](https://engrxiv.org/3je6b/)
+1. Littlewood, David J., Parks, Michael L., Foster, John T., Mitchell, John A. and Diehl, Patrick. The Peridigm Meshfree Peridynamics Code. J Peridyn Nonlocal Model (2023). J Peridyn Nonlocal Mo    del (2022), [10.1007/s42102-023-00100-0](https://link.springer.com/article/10.1007/s42102-023-00100-0)
+1. Diehl, P, Lipton, R. Quasistatic fracture using nonlinear-nonlocal elastostatics with explicit tangent stiffness matrix. Int J Numer Methods Eng. 2022; 1-26. [10.1002/nme.7005](https://doi.org/10.1002/nme.7005), [Preprint](https://engrxiv.org/3je6b/)
 1. Diehl, P., Prudhomme, S. Coupling Approaches for Classical Linear Elasticity and Bond-Based Peridynamic Models. J Peridyn Nonlocal Model (2022), [10.1007/s42102-022-00083-4](https://link.springer.com/article/10.1007/s42102-022-00083-4), [Preprint](https://arxiv.org/abs/2203.09934)
 1. P. Diehl, R. Lipton, T. Wick, and M. Tyagi. A comparative review of peridynamics and phase-field models for engineering fracture mechanics. Computational Mechanics, Feb 2022, [10.1007/s00466-022-02147-0](https://doi.org/10.1007/s00466-022-02147-0), [Preprint](https://engrxiv.org/gty2b/)
 1. Diehl, Patrick and Steven R. Brandt. "Interactive C++ code development using C++Explorer and GitHub classroom for educational purposes", Concurrency and Computation: Practice and Experience, 2022, [10.1002/cpe.6893](https://doi.org/10.1002/cpe.6893), [Prepint](https://edarxiv.org/5te23/)
