@@ -248,29 +248,29 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. An overview for coupling finite elements with peridynamics
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-1. The Peridigm Meshfree Peridynamics Code, (accepted)
 1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
 1. Quasistatic fracture evolution, (submitted), [Preprint](https://arxiv.org/abs/2212.08753)
 
 * Computer Science 
 
-1. Shared memory parallelism in Modern C++ and HPX, (accpeted), [Preprint](https://arxiv.org/abs/2302.07191)
-1. Quantifying Overheads in Charm++ and HPX using Task Bench, (accepted), [Preprint](https://arxiv.org/abs/2207.12127)
 1. Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku, (accepted) [Preprint](https://arxiv.org/abs/2304.11002)
 1. Concurrency in Chapel, Charm++, HPX, Go, Julia, Python, Rust, and Swift 
 
 ###### Books edited
 
+1. P. Diehl, P. Thoman, H. Kaiser, and e. Laxmikant Kale, editors. Asyn- chronous Many-Task Systems and Applications, volume 13861 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. J. Singer, Y. Elkhatib, D. B. Heras, P. Diehl, N. Brown, and e. Aleksan- dar Ilic, editors. Euro-Par 2022 International Workshops, Glasgow, UK, August 22–26, 2022, Revised Selected Papers, volume 13835 of Lecture Notes in Computer Science (LNCS). Springer, 2022.
 1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Dieh, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
 ###### Journal articles
 
-1. Littlewood, David J., Parks, Michael L., Foster, John T., Mitchell, John A. and Diehl, Patrick. The Peridigm Meshfree Peridynamics Code. J Peridyn Nonlocal Model (2023). J Peridyn Nonlocal Mo    del (2022), [10.1007/s42102-023-00100-0](https://link.springer.com/article/10.1007/s42102-023-00100-0)
+1. Littlewood, David J., Parks, Michael L., Foster, John T., Mitchell, John A. and Diehl, Patrick. The Peridigm Meshfree Peridynamics Code. J Peridyn Nonlocal Model (2023). J Peridyn Nonlocal Model (2022), [10.1007/s42102-023-00100-0](https://link.springer.com/article/10.1007/s42102-023-00100-0)
+1. 
 1. Diehl, P, Lipton, R. Quasistatic fracture using nonlinear-nonlocal elastostatics with explicit tangent stiffness matrix. Int J Numer Methods Eng. 2022; 1-26. [10.1002/nme.7005](https://doi.org/10.1002/nme.7005), [Preprint](https://engrxiv.org/3je6b/)
 1. Diehl, P., Prudhomme, S. Coupling Approaches for Classical Linear Elasticity and Bond-Based Peridynamic Models. J Peridyn Nonlocal Model (2022), [10.1007/s42102-022-00083-4](https://link.springer.com/article/10.1007/s42102-022-00083-4), [Preprint](https://arxiv.org/abs/2203.09934)
 1. P. Diehl, R. Lipton, T. Wick, and M. Tyagi. A comparative review of peridynamics and phase-field models for engineering fracture mechanics. Computational Mechanics, Feb 2022, [10.1007/s00466-022-02147-0](https://doi.org/10.1007/s00466-022-02147-0), [Preprint](https://engrxiv.org/gty2b/)
 1. Diehl, Patrick and Steven R. Brandt. "Interactive C++ code development using C++Explorer and GitHub classroom for educational purposes", Concurrency and Computation: Practice and Experience, 2022, [10.1002/cpe.6893](https://doi.org/10.1002/cpe.6893), [Prepint](https://edarxiv.org/5te23/)
+1. M. Birner, P. Diehl, R. Lipton, and M. A. Schweitzer. A fracture multiscale model for peridynamic enrichment within the partition of unity method. Advances in Engineering Software, 176, Nov 2022. [10.1016/j.advengsoft.2022.103](https://doi.org/10.1016/j.advengsoft.2022.103360), [Preprint](https://arxiv.org/abs/2108.02336) 
 1. Diehl, Patrick, et al. "Octo-Tiger’s New Hydro Module and Performance Using HPX+ CUDA on ORNL’s Summit." 2021 IEEE International Conference on Cluster Computing (CLUSTER). IEEE, 2021,  [10.1109/Cluster48925.2021.00059](https://doi.org/10.1109/Cluster48925.2021.00059), [Preprint](https://arxiv.org/abs/2107.10987)
 1. Jha et al., (2021). NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models. Journal of Open Source Software, 6(65), 3020, [10.21105/joss.03020](https://doi.org/10.21105/joss.03020)
 1.  P. Diehl, D. Marcello, P. Armini, H. Kaiser, S. Shiber, G. C. Clayton, J. Frank, G. Daiss,D. Pflueger, D. C. Eder, A. Koniges, and K. Huck. Performance measurements within asynchronous task-based runtime systems: A double white dwarf merger as an application. Computing in Science & Engineering, 2021. [10.1109/MCSE.2021.3073626](https://doi.org/10.1109/MCSE.2021.3073626), [Preprint](https://arxiv.org/abs/2102.00223)
@@ -293,6 +293,7 @@ Fracture Mechanics, 197 (2018), pp. 21–26. [0.1016/j.engfracmech.2018.04.030](
 
 
 ###### Series- and conference contributions
+
 1. P. Diehl and M. A. Schweitzer, Efficient neighbor search for particle methods on
 GPUs, in Meshfree Methods for Partial Differential Equations VII, M. Griebel and M. A.
 Schweitzer, eds., vol. 100 of Lecture Notes in Computational Science and Engineering,
@@ -326,6 +327,8 @@ Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/ab
 14. G. Daiß, S. Singanaboina, P. Diehl, H. Kaiser, and D. Pflüger. From merging frameworks to merging stars: Experiences using hpx, kokkos and simd types. In 2022 IEEE/ACM 7th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2), pages 10–19, Los Alamitos, CA, USA, nov 2022. IEEE Computer Society. [10.1109/ESPM256814.2022.00007](https://doi.ieeecomputersociety.org/10.1109/ESPM256814.2022.00007), [Preprint](https://arxiv.org/abs/2210.06439)
 15. G. Daiß, P. Diehl, H. Kaiser, and D. Pflüger. Stellar mergers with hpx- kokkos and sycl: Methods of using an asynchronous many-task runtime system with sycl. In Proceedings of the 2023 International Workshop on OpenCL, IWOCL ’23, New York, NY, USA, 2023. Association for Computing Machinery. [10.1145/3585341.3585354](https://doi.org/10.1145/3585341.3585354), [Preprint](https://arxiv.org/abs/2303.08058)
 16. N. Wu, I. Gonidelis, S. Liu, Z. Fink, N. Gupta, K. Mohammadiporshokooh, P. Diehl, H. Kaiser, and L. V. Kale. Quantifying Overheads in Charm++ and HPX Using Task Bench. In J. Singer, Y. Elkhatib, D. Blanco Heras, P. Diehl, N. Brown, and A. Ilic, editors, Euro-Par 2022: Parallel Processing Workshops, pages 5–16, Cham, 2023. Springer Nature Switzerland. [10.1007/978-3-031-31209-0_1](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_1) [Preprint](https://arxiv.org/abs/2207.12127)
+17. P. Diehl, S. R. Brandt, and H. Kaiser. Shared memory parallelism in modern c++ and hpx. In P. Diehl, P. Thoman, H. Kaiser, and L. Kale, editors, Asynchronous Many-Task Systems and Applications, pages 27–38, Cham, 2023. Springer Nature Switzerland [10.1007/978-3-031-32316-4_3](https://link.springer.com/chapter/10.1007/978-3-031-32316-4_3), [Preprint](https://arxiv.org/abs/2302.07191)
+
 
 ###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
