@@ -416,6 +416,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 1.11 2022, Los Alamos, USA. [Slides](https://de.slideshare.net/PatrickDiehl3/recent-developments-in-hpx-and-octotiger-254076663)
 42. -- , A tale of two approaches for coupling nonlocal and local models, Continuum Mechanics Seminar (CMS), 10.11 2022, Lincoln, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/a-tale-of-two-approaches-for-coupling-nonlocal-and-local-models)
 43. --, Recent developments in HPX and Octo-Tiger, Physics & Astronomy Colloquium, 23.1 2023, Baton Rouge, USA.
+44. --, Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku. The 24th IEEE International Workshop on Parallel and Distributed Scientific and Engineering Computing (PDSEC 2023), 15.05-19.05 2023, St. Petersburg, USA. [Slides](https://www.slideshare.net/PatrickDiehl3/simulating-stellar-merger-using-hpxkokkos-on-a64fx-on-supercomputer-fugaku)
 
 ###### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
