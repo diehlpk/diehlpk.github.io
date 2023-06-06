@@ -5,6 +5,7 @@ title: Open Science
 
 Collection of artifacts, like source code, experimental data, and input files, from my published articles:
 
+* Diehl, Patrick, Steven R. Brandt, and Hartmut Kaiser. "Shared memory parallelism in Modern C++ and HPX." In Asynchronous Many-Task Systems and Applications: First International Workshop, WAMTA 2023, Baton Rouge, LA, USA, February 15–17, 2023, Proceedings 2023 May 11 (pp. 27-38). Cham: Springer Nature Switzerland. [![DOI](https://zenodo.org/badge/563582133.svg)](https://zenodo.org/badge/latestdoi/563582133)
 * Diehl P, Lipton R. Quasistatic Fracture using Nonlinear‐Nonlocal Elastostatics with Explicit Tangent Stiffness Matrix. International Journal for Numerical Methods in Engineering. 2021 Sep 28. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5484312.svg)](https://doi.org/10.5281/zenodo.5484312)
 * Diehl, Patrick, and Serge Prudhomme. "Coupling approaches for classical linear elasticity and bond-based peridynamic models." Journal of Peridynamics and Nonlocal Modeling (2022): 1-31. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5484312.svg)](https://doi.org/10.5281/zenodo.5484312)
 * Jha, Prashant K., and Patrick Diehl. "NLMech: Implementation of finite difference/meshfree discretization of nonlocal fracture models." Journal of Open Source Software 6.65 (2021): 3020. [10.6084/m9.figshare.16688695.v1](https://doi.org/10.6084/m9.figshare.16688695.v1)
