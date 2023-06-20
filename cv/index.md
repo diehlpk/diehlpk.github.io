@@ -249,7 +249,6 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. An overview for coupling finite elements with peridynamics
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
-1. Quasistatic fracture evolution, (submitted), [Preprint](https://arxiv.org/abs/2212.08753)
 
 * Computer Science 
 
@@ -264,6 +263,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Journal articles
 
+1. Bhattacharya, D., Lipton, R. and  Diehl, P. Quasistatic fracture evolution using a nonlocal cohesive model. Int J Fract (2023). [10.1007/s10704-023-00711-0](https://doi.org/10.1007/s10704-023-00711-0), [Preprint](https://arxiv.org/abs/2212.08753)
 1. Littlewood, David J., Parks, Michael L., Foster, John T., Mitchell, John A. and Diehl, Patrick. The Peridigm Meshfree Peridynamics Code. J Peridyn Nonlocal Model (2023). J Peridyn Nonlocal Model (2022), [10.1007/s42102-023-00100-0](https://link.springer.com/article/10.1007/s42102-023-00100-0)
 1. Diehl, P, Lipton, R. Quasistatic fracture using nonlinear-nonlocal elastostatics with explicit tangent stiffness matrix. Int J Numer Methods Eng. 2022; 1-26. [10.1002/nme.7005](https://doi.org/10.1002/nme.7005), [Preprint](https://engrxiv.org/3je6b/)
 1. Diehl, P., Prudhomme, S. Coupling Approaches for Classical Linear Elasticity and Bond-Based Peridynamic Models. J Peridyn Nonlocal Model (2022), [10.1007/s42102-022-00083-4](https://link.springer.com/article/10.1007/s42102-022-00083-4), [Preprint](https://arxiv.org/abs/2203.09934)
