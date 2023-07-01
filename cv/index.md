@@ -155,7 +155,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 1. ASSEP Labor relations officers for postdoctoral fellows, 10/17-09/18 
 1. Liaison for the Louisiana district of the SIAM Texas-Louisiana Section, 03/20-current
-1. Member-at-large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-current
+1. Member-at-large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-31/07
 1. Mentor for the USACM Student Chapter, 01/23-current
 
 
@@ -170,9 +170,10 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Committee served
 
+1. Gateways Conference 2023. Program committee member
 1. Gateways Conference 2022, Publication Chair
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
-1. Gateways Conference 2021, program committee member
+1. Gateways Conference 2021, Program committee member
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, Virtual logistics
 
 ##### Mini-symposia organized
@@ -231,6 +232,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. Virutal one-to-one meeting, 15th World Congress on Computational Mechanics, 2022
 2. Mentoring lunch, 5th Annual Meeting of the SIAM Texas-Louisiana Section, 2022
+3. Mentoring lunch, 6th Annual Meeting of the SIAM Texas-Louisiana Section, 2023
+4. mentoring lunch, 17th U. S. National Congress on Computational Mechanics, 2023
 
 ---
 
@@ -253,7 +256,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 * Computer Science 
 
 1. Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku, (accepted) [Preprint](https://arxiv.org/abs/2304.11002)
-1. Concurrency in Chapel, Charm++, HPX, Go, Julia, Python, Rust, and Swift 
+1. Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm\texttt{++}, C\texttt{++}, HPX, Go, Julia, Python, Rust, Swift, and Java, (accepted)
+1. Evaluating HPX and Kokkos on RISC-V using an astrophysics application Octo-Tiger
 
 ###### Books edited
 
@@ -433,7 +437,7 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 #### Professional Organizations
 * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
 * [Informatik-Forum Stuttgart e. V.](http://www.infos.informatik.uni-stuttgart.de/)
-
+* [Association for Computing Machinery](https://www.acm.org/)
 ---
 
 #### Presence in media
