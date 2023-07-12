@@ -170,6 +170,8 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Committee served
 
+1. 1st Annual Conference of the US Research Software Engineer Association, Special Issue Editor
+1. The First International Workshop on Democratizing High-Performance Computing (D-HPC 2023), Program committee member
 1. Gateways Conference 2023. Program committee member
 1. Gateways Conference 2022, Publication Chair
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
