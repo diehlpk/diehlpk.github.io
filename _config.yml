@@ -4,7 +4,7 @@ title: Patrick Diehl
 locale: en_US
 description: Peronal website 
   #logo: site-logo.png
-search: true
+search_full_content: truee
 url: https://www.diehlpk.de
 
 # Jekyll configuration
