@@ -254,12 +254,14 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. An overview for coupling finite elements with peridynamics
 1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
 1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
+1. AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches
+1. High-order integration rules for peridynamic modeling in one and two dimensions
 
 * Computer Science 
 
 1. Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku, (accepted) [Preprint](https://arxiv.org/abs/2304.11002)
 1. Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java, (accepted) [Preprint](https://arxiv.org/abs/2307.01117)
-1. Evaluating HPX and Kokkos on RISC-V using an astrophysics application Octo-Tiger
+1. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger
 
 ###### Books edited
 
