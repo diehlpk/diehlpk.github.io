@@ -157,7 +157,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 1. Liaison for the Louisiana district of the SIAM Texas-Louisiana Section, 03/20-current
 1. Member-at-large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-31/07
 1. Mentor for the USACM Student Chapter, 01/23-current
-
+1. Vice-Chair of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 08/23-current
 
 #### Organization of Conferences, Workshops, and Symposia
 
