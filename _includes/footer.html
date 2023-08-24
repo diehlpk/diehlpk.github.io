@@ -9,23 +9,16 @@
 
 <span>&copy; {{ site.time | date: '%Y' }} <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by-nc-nd.svg"></a> {{ site.owner.name }} | Using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
 <div class="social-icons">
-    {% if site.owner.cv %}<a href="{{site.owner.cv}}" title="{{ site.owner.name}}'s CV" target="_blank" rel="noopener noreferrer"><i class="ai ai-cv-square ai-2x"></i></a>{% endif %}
-	{% if site.owner.twitter %}<a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
-	{% if site.owner.facebook %}<a href="https://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
-	{% if site.owner.google.plus %}<a href="https://plus.google.com/+{{ site.owner.google.plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
-	{% if site.owner.linkedin %}<a href="https://linkedin.com/in/{{ site.owner.linkedin }}" title="{{ site.owner.name}} on LinkedIn" target="_blank"><i class="fa-brands fa-linkedin fa-2xs"></i></a>{% endif %}
-	{% if site.owner.instagram %}<a href="https://instagram.com/{{ site.owner.instagram }}" title="{{ site.owner.name}} on Instagram" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>{% endif %}
-	{% if site.owner.flickr %}<a href="https://www.flickr.com/photos/{{ site.owner.flickr }}" title="{{ site.owner.name}} on Flickr" target="_blank"><i class="fa fa-flickr fa-2x"></i></a>{% endif %}
-	{% if site.owner.github %}<a href="https://github.com/{{ site.owner.github }}" title="{{ site.owner.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
-  {% if site.owner.pinterest %}<a href="https://www.pinterest.com/{{ site.owner.pinterest }}/" title="{{ site.owner.name}} on Pinterest" target="_blank"><i class="fa fa-pinterest fa-2x"></i></a>{% endif %}
-	{% if site.owner.weibo %}<a href="https://www.weibo.com/u/{{ site.owner.weibo }}/" title="{{ site.owner.name}} on Weibo" target="_blank"><i class="fa fa-weibo fa-2x"></i></a>{% endif %}
-  <a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
-    {% if site.owner.email %}<a href="mailto:me@diehlpk.de?subject=[Blog]" title="Send mail to {{ site.owner.name}}"><i class="fa fa-envelope fa-2x"></i></a>{% endif %}
-    {% if site.owner.orcid %}<a href="{{site.owner.orcid}}" title="{{ site.owner.name}} on Orcid"><i class="ai ai-orcid-square ai-2x"></i></a>{% endif %}
-    {% if site.owner.gscholar %}<a href="{{ site.owner.gscholar }}" title="{{ site.owner.name}} on Google Scholar"><i class="ai ai-google-scholar-square ai-2x"></i></a>{% endif %}
-    {% if site.owner.arxiv %}<a href="{{ site.owner.arxiv }}" title="{{ site.owner.name}} on arxiv.org"><i class="ai ai-arxiv-square ai-2x"></i></a>{% endif %}
-    {% if site.owner.dblp %}<a href="{{ site.owner.dblp }}" title="{{ site.owner.name}} on dblp.org"><i class="ai ai-dblp-square ai-2x"></i></a>{% endif %}
-    {% if site.owner.calendar %}<a href="{{ site.owner.calendar }}" title="{{ site.owner.name}}'s calendar"><i class="fa fa-calendar fa-2x"></i></a>{% endif a}
-    {% if site.owner.mastodon %}<a href="{{ site.owner.mastodon }}" title="{{ site.owner.name}}'s Mostodon"><i class="fa-brands fa-mastodon fa-2x"></i></a>{% endif %}
-    {% if site.owner.youtube %}<a href="https://www.youtube.com/channel/{{ site.owner.youtube }}" title="{{ site.owner.name}}'s YouTube channel"><i class="fa-brands fa-youtube fa-2x"></i></a>{% endif %}
+<a href="{{site.owner.cv}}" title="{{ site.owner.name}}'s CV" target="_blank" rel="noopener noreferrer"><i class="ai ai-cv-square ai-2x"></i></a>
+<a href="https://linkedin.com/in/{{ site.owner.linkedin }}" title="{{ site.owner.name}} on LinkedIn" target="_blank"><i class="fa-brands fa-linkedin fa-2xs"></i></a>
+<a href="https://github.com/{{ site.owner.github }}" title="{{ site.owner.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+<a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
+<a href="mailto:me@diehlpk.de?subject=[Blog]" title="Send mail to {{ site.owner.name}}"><i class="fa fa-envelope fa-2x"></i></a>
+<a href="{{site.owner.orcid}}" title="{{ site.owner.name}} on Orcid"><i class="ai ai-orcid-square ai-2x"></i></a>
+<a href="{{ site.owner.gscholar }}" title="{{ site.owner.name}} on Google Scholar"><i class="ai ai-google-scholar-square ai-2x"></i></a>
+<a href="{{ site.owner.arxiv }}" title="{{ site.owner.name}} on arxiv.org"><i class="ai ai-arxiv-square ai-2x"></i></a>
+<a href="{{ site.owner.dblp }}" title="{{ site.owner.name}} on dblp.org"><i class="ai ai-dblp-square ai-2x"></i></a>
+<a href="{{ site.owner.calendar }}" title="{{ site.owner.name}}'s calendar"><i class="fa fa-calendar fa-2x"></i></a>
+<a href="{{ site.owner.mastodon }}" title="{{ site.owner.name}}'s Mostodon"><i class="fa-brands fa-mastodon fa-2x"></i></a>
+<a href="https://www.youtube.com/channel/{{ site.owner.youtube }}" title="{{ site.owner.name}}'s YouTube channel"><i class="fa-brands fa-youtube fa-2x"></i></a>
 </div><!-- /.social-icons -->
