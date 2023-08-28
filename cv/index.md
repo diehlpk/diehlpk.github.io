@@ -429,6 +429,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 45. --, JOSS and FLOSS for science: Examples for promoting open source software and science communication, SIGDIUS Seminars, 14.06 2023, Virtual event. [Slides](https://www.slideshare.net/PatrickDiehl3/joss-and-floss-for-science-examples-for-promoting-open-source-software-and-science-communication)
 46. --, AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches. 17th U. S. National Congress on Computational Mechanics (USNCCM), 23.07-27.07 2023, Albuquerque, US.
 47. --, AI-based identification of coupling regions for local and non- local one-dimensional coupling approaches. 10th International Congress on Industrial and Applied Mathematics (ICIAM), 20.08-25.08 2023, Tokyo, Japan.
+48. --, Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java. Asynchronous Many-Task systems for Exascale (AMTE). 28.09-01.09 2023, Limassol, Cyprus. [Slides](https://de.slideshare.net/PatrickDiehl3/benchmarking-the-parallel-1d-heat-equation-solver-in-chapel-charm-c-hpx-go-julia-python-rust-swift-and-java) 
 
 ###### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
