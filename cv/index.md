@@ -265,6 +265,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Books edited
 
+1. P. Diehl and R. F. da Silva, editors. Science Gateways: Accelerating Research and Education–Part II, volume 25 of Computing in Science & Engineering. IEEE, 2023.
 1. P. Diehl and R. F. da Silva, editors. Science Gateways: Accelerating Research and Education–Part I, volume 25 of Computing in Science & Engineering. IEEE, 2023.
 1. P. Diehl, P. Thoman, H. Kaiser, and e. Laxmikant Kale, editors. Asynchronous Many-Task Systems and Applications, Volume 13861 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. J. Singer, Y. Elkhatib, D. B. Heras, P. Diehl, N. Brown, and Aleksandar Ilic, editors. Euro-Par 2022 International Workshops, Glasgow, UK, August 22–26, 2022, Revised Selected Papers, volume 13835 of Lecture Notes in Computer Science (LNCS). Springer, 2022.
