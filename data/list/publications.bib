@@ -1175,7 +1175,7 @@ abstract = {Partition of unity methods are of domain decomposition type and prov
 @INPROCEEDINGS {10024622,
 author = {G. Daiß and P. Diehl and D. Marcello and A. Kheirkhahan and H. Kaiser and D. Pfl\"uger},
 booktitle = {2022 IEEE/ACM International Workshop on Performance, Portability and Productivity in HPC (P3HPC)},
-title = {From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels},
+title = {{From Task-Based GPU Work Aggregation to Stellar Mergers: Turning Fine-Grained CPU Tasks into Portable GPU Kernels}},
 year = {2022},
 volume = {},
 issn = {},
@@ -1192,7 +1192,7 @@ month = {nov}
 @INPROCEEDINGS {10029450,
 author = {G. Daiß and S. Singanaboina and P. Diehl and H. Kaiser and D. Pfl\"uger},
 booktitle = {2022 IEEE/ACM 7th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)},
-title = {From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types},
+title = {{From Merging Frameworks to Merging Stars: Experiences using HPX, Kokkos and SIMD Types}},
 year = {2022},
 volume = {},
 issn = {},
@@ -1219,7 +1219,7 @@ month = {nov}
 
 @inproceedings{10.1145/3585341.3585354,
 author = {Dai\ss{}, Gregor and Diehl, Patrick and Kaiser, Hartmut and Pfl\"{u}ger, Dirk},
-title = {Stellar Mergers with HPX-Kokkos and SYCL: Methods of Using an Asynchronous Many-Task Runtime System with SYCL},
+title = {{Stellar Mergers with HPX-Kokkos and SYCL: Methods of Using an Asynchronous Many-Task Runtime System with SYCL}},
 year = {2023},
 isbn = {9798400707452},
 publisher = {Association for Computing Machinery},
@@ -1293,7 +1293,7 @@ year = {2022}
 	id = {Littlewood2023},
 	isbn = {2522-8978},
 	journal = {Journal of Peridynamics and Nonlocal Modeling},
-	title = {The Peridigm Meshfree Peridynamics Code},
+	title = {{The Peridigm Meshfree Peridynamics Code}},
 	url = {https://doi.org/10.1007/s42102-023-00100-0},
 	year = {2023},
 	month = {May},
@@ -1307,7 +1307,7 @@ editor="Diehl, Patrick
 and Thoman, Peter
 and Kaiser, Hartmut
 and Kale, Laxmikant",
-title="Shared Memory Parallelism in Modern C\texttt{++} and HPX",
+title="{Shared Memory Parallelism in Modern C\texttt{++} and HPX}",
 booktitle="Asynchronous Many-Task Systems and Applications",
 year="2023",
 publisher="Springer Nature Switzerland",
@@ -1436,12 +1436,30 @@ address = {Los Alamitos, CA, USA}
 
 @article{diehl2023evaluating,
   url = {https://arxiv.org/abs/2309.06530},
-     title={Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger}, 
+     title={{Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger}}, 
       author={Parick Diehl and Gregor Daiss and Steven R. Brandt and Alireza Kheirkhahan and Hartmut Kaiser and Christopher Taylor and John Leidel},
   publisher = {arXiv},
   journal={arXiv preprint arXiv:2309.06530},
   year = {2023},
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
+
+@INPROCEEDINGS {10196612,
+author = {P. Diehl and G. Dais and K. Huck and D. Marcello and S. Shiber and H. Kaiser and D. Pfluger},
+booktitle = {2023 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)},
+title = {{Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer\ Fugaku}},
+year = {2023},
+volume = {},
+issn = {},
+pages = {682-691},
+abstract = {The increasing availability of machines relying on non-GPU architectures, such as ARM A64FX in high-performance computing, provides a set of interesting challenges to application developers. In addition to requiring code portability across different parallelization schemes, programs targeting these architectures have to be highly adaptable in terms of compute kernel sizes to accommodate different execution characteristics for various heterogeneous workloads. In this paper, we demonstrate an approach to code and performance portability that is based entirely on established standards in the industry. In addition to applying Kokkos as an abstraction over the execution of compute kernels on different heterogeneous execution environments, we show that the use of standard C++ constructs as exposed by the HPX runtime system enables superb portability in terms of code and performance based on the real-world Octo-Tiger astrophysics application. We report our experience with porting Octo-Tiger to the ARM A64FX architecture provided by Stony Brook’s Ookami and Riken’s Supercomputer Fugaku and compare the resulting performance with that achieved on well established GPU-oriented HPC machines such as ORNL’s Summit, NERSC’s Perlmutter and CSCS’s Piz Daint systems. Octo-Tiger scaled well on Supercomputer Fugaku without any major code changes due to the abstraction levels provided by HPX and Kokkos. Adding vectorization support for ARM’s SVE to Octo-Tiger was trivial thanks to using standard C++. interfaces.},
+keywords = {codes;runtime;computer architecture;c++ languages;production;supercomputers;resource management},
+doi = {10.1109/IPDPSW59300.2023.00116},
+url = {https://doi.ieeecomputersociety.org/10.1109/IPDPSW59300.2023.00116},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {may}
+}
+
 
 
