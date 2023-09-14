@@ -261,7 +261,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 1. Simulating Stellar Merger using HPX/Kokkos on A64FX on Supercomputer Fugaku, (accepted) [Preprint](https://arxiv.org/abs/2304.11002)
 1. Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java, (accepted) [Preprint](https://arxiv.org/abs/2307.01117)
-1. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger
+1. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tige, (accepted) [Preprint](https://arxiv.org/abs/2309.06530)
 
 ###### Books edited
 
