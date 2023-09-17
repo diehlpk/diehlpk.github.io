@@ -431,6 +431,8 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 46. --, AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches. 17th U. S. National Congress on Computational Mechanics (USNCCM), 23.07-27.07 2023, Albuquerque, US.
 47. --, AI-based identification of coupling regions for local and non- local one-dimensional coupling approaches. 10th International Congress on Industrial and Applied Mathematics (ICIAM), 20.08-25.08 2023, Tokyo, Japan.
 48. --, Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java. Asynchronous Many-Task systems for Exascale (AMTE). 28.09-01.09 2023, Limassol, Cyprus. [Slides](https://de.slideshare.net/PatrickDiehl3/benchmarking-the-parallel-1d-heat-equation-solver-in-chapel-charm-c-hpx-go-julia-python-rust-swift-and-java) 
+49. --, A Fracture Multiscale Model for Peridynamic enrichment within the Partition of Unity Method: Experimental validation. XVII International Conference on Computational Plasticity, Fundamentals, and Applications (COMPLAS 23), 05.09-07.09 2023, Barcelona, Spain.
+
 
 ###### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
