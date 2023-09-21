@@ -191,21 +191,25 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 9. Nonlocal Models in Mathematics and Computation, 5th Annual Meeting of the SIAM Texas-Louisiana Section
 10. Recent Developments in Peridynamics Modeling, 17th U.S. National Congress on Computational Mechanics
 11. Nonlocal Modeling, Analysis, and Computation, 10th International Congress on Industrial and Applied Mathematics
+12. Recent developments in peridynamics modeling, 16th World Congress on Computational Mechanics
+13. Computational and analytical advances in nonlocal modeling, 16th World Congress on Computational Mechanics
 
 ##### Workshops organized
 
-1. Workshop on Experimental and Computational Fracture Mechanics:  Validating peridynamics and phase field models for fracture
+1. Workshop on Experimental and Computational Fracture Mechanics 2020: Validating peridynamics and phase field models for fracture
 prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
 3. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte2022.stellar-group.org/))
 4. Workshop on Asynchronous Many-Task Systems and Applications 2023, [Link](https://wamta23.stellar-group.org/) 
 5. Asynchronous Many-Task systems for Exascale 2023 held in conjunction with [Euro-Par 2023](https://2023.euro-par.org/) ([Link](https://amte2023.stellar-group.org/))
+6. Workshop on Experimental and Computational Fracture Mechanics 2024 ([Link](https://wfm2024.usacm.org/)
 
 ##### Meetings
 
 1. 3rd Annual Meeting of the SIAM Texas-Louisiana Section, October 16-18, 2020 [Link](https://www.math.tamu.edu/conferences/SIAMTXLA/)
 1. 4th Annual Meeting of the SIAM Texas-Louisiana Section, November, 5-7, 2021 [Link](https://faculty.utrgv.edu/eleftherios.gkioulekas/2021-siam-txla-meeting-spi/index.html)
 1. 5th Annual Meeting of the SIAM Texas-Louisiana Section, November, 4-6, 2022 [Link](https://www.math.uh.edu/siamtxla22/index.shtml)
+1. 6th Annual Meeting of the SIAM Texas-Louisiana Section, November, 3-5, 2023 [Link](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/)
 
 ##### Panels 
 
