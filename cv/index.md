@@ -264,7 +264,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 * Computer Science 
 
 1. Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java, (accepted) [Preprint](https://arxiv.org/abs/2307.01117)
-1. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tige, (accepted) [Preprint](https://arxiv.org/abs/2309.06530)
+1. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger, (accepted) [Preprint](https://arxiv.org/abs/2309.06530)
 
 * Astrophysics
 
