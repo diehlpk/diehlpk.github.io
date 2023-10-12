@@ -247,6 +247,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 ##### Conferences/Workshop grants
 
 1. **AmeriMech**: Experimental and Computational Fracture Mechanics: Validating peridynamics and phase field models for fracture prediction and experimental design ($4000)
+1. **SIAM Travel Award**: 10th International Congress on Industrial and Applied Mathematics (ICIAM) ($1750) 
 
 ---
 
