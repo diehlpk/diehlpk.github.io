@@ -458,6 +458,7 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 * [Society for Industrial and Applied Mathematics](https://www.siam.org/)
 * [Informatik-Forum Stuttgart e. V.](http://www.infos.informatik.uni-stuttgart.de/)
 * [Association for Computing Machinery](https://www.acm.org/)
+
 ---
 
 #### Presence in media
