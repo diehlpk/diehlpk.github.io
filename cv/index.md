@@ -145,7 +145,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 --- 
 
-##### Work-related projects
+#### Work-related projects
 * [Open Data in Experimental Mechanics](https://opendataexpmechanics.github.io/) -- Project to promote sharing of raw experimental data within the experimental mechanics community.
 * [FLOSS for Science](https://flossforscience.github.io/) -- Podcast aimed at promoting the usage of Free and Libre Open Source Software in research and academia.
 
