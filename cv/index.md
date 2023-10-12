@@ -255,22 +255,19 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 ###### In preparation
 
 * Computational Mathematics
-
-1. An overview for coupling finite elements with peridynamics
-1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
-1. AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches
-1. High-order integration rules for peridynamic modeling in one and two dimensions
+    1. An overview for coupling finite elements with peridynamics
+    1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
+    1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
+    1. AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches
+    1. High-order integration rules for peridynamic modeling in one and two dimensions
 
 * Computer Science 
-
-1. Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java, (accepted) [Preprint](https://arxiv.org/abs/2307.01117)
-1. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger, (accepted) [Preprint](https://arxiv.org/abs/2309.06530)
+    1. Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java, (accepted) [Preprint](https://arxiv.org/abs/2307.01117)
+    1. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger, (accepted) [Preprint](https://arxiv.org/abs/2309.06530)
 
 * Astrophysics
-
-1. Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars. (submitted)
-2. Visualizing the mass-transfer flow in direct-impact accretion
+    1. Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars. (submitted)
+    2. Visualizing the mass-transfer flow in direct-impact accretion
 
 ###### Books edited
 
