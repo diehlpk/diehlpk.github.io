@@ -163,10 +163,11 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Journal editor
 
-1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), The Journal of Open Source Software
+1. Topic editor (Computational fracture mechanics, Applied mathematics, C++, asynchronous and task-based programming), [The Journal of Open Source Software](https://joss.theoj.org/)
 2. Guest editor, Special issue: Peridynamics and its Current Progress, Computer Modeling in Engineering & Sciences (CMES)
-3. Guest editor, Special issue: Science Gateways: Accelerating Research and Education, Computing in Science & Engineering 
-3. Topical issue editor, Applications and Frameworks using the Asynchronous Many Task Paradigm, SN Computer Science
+3. Guest editor, Special issue: Science Gateways: Accelerating Research and Education, [Computing in Science & Engineering](https://www.computer.org/csdl/magazine/cs) 
+4. Topical issue editor, Applications and Frameworks using the Asynchronous Many Task Paradigm, [SN Computer Science](https://www.springer.com/journal/42979)
+5. Research Software Engineering – Software-Enabled Discovery and Beyond, [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)
 
 ##### Committee served
 
