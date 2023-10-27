@@ -240,7 +240,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. Virutal one-to-one meeting, 15th World Congress on Computational Mechanics, 2022
 2. Mentoring lunch, 5th Annual Meeting of the SIAM Texas-Louisiana Section, 2022
 3. Mentoring lunch, 6th Annual Meeting of the SIAM Texas-Louisiana Section, 2023
-4. mentoring lunch, 17th U. S. National Congress on Computational Mechanics, 2023
+4. Mentoring lunch, 17th U. S. National Congress on Computational Mechanics, 2023
 
 ---
 
@@ -448,7 +448,7 @@ Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Sch
 
 #### Reviewer for
 
-* Journal of Peridynamics and Nonlocal Modeling, International Journal of Mechanical Sciences, Engineering Analysis with Boundary Elements, Fatigue & Fracture of Engineering Materials & Structures, Computer Physics Communications, International Journal of Fracture, Parallel Computing, International Journal of High Performance Computing Applications, Computer Methods in Applied Mechanics and Engineering, Theoretical and Applied Fracture Mechanics, Acta Mechanica, Mathematics and Mechanics of Solids, Computational Mechanics, Engineering with Computers, Computer Modeling in Engineering & Sciences (CMES), and Concurrency and Computation: Practice and Experience. 
+* [PLOS ONE](https://journals.plos.org/plosone/), [Journal of Peridynamics and Nonlocal Modeling](https://www.springer.com/journal/42102), [International Journal of Mechanical Sciences](https://www.sciencedirect.com/journal/international-journal-of-mechanical-sciences), [Engineering Analysis with Boundary Elements, Fatigue & Fracture of Engineering Materials & Structures](https://onlinelibrary.wiley.com/page/journal/14602695/homepage/forauthors.html), [Computer Physics Communications](https://www.sciencedirect.com/journal/computer-physics-communications), [International Journal of Fracture](https://www.springer.com/journal/10704), [Parallel Computing](https://www.sciencedirect.com/journal/parallel-computing), [International Journal of High Performance Computing Applications](https://journals.sagepub.com/home/hpc), [Computer Methods in Applied Mechanics and Engineering](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering), [Theoretical and Applied Fracture Mechanics](https://www.sciencedirect.com/journal/theoretical-and-applied-fracture-mechanics), Acta Mechanica, Mathematics and Mechanics of Solids, Computational Mechanics, Engineering with Computers, Computer Modeling in Engineering & Sciences (CMES), and Concurrency and Computation: Practice and Experience. 
 
 ---
 
