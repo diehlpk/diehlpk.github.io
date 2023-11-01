@@ -28,7 +28,11 @@ hide: true
 
 ##### Grant history
 
+<!---
 ###### Current Research (chronological order; most recent one first)
+-->
+
+###### Completed Research (chronological order; most recent one first)
 
 1. POSE: Phase I: Constellation: A Pathway to Establish the STE||AR Open-Source Organization
  * Grant #2229751 (Rod Tohid)
@@ -36,9 +40,6 @@ hide: true
  * Amount Awarded: $300,000
  * Period of Grant Award: Sept 15 2022 -- Oct 31 2023
  * Role on project: Co-Pi
-
-###### Completed Research (chronological order; most recent one first)
-
 1. High Performance Data Analytics (HDPA) Scalable Second Order Optimization (SSO)
  * Grant #524125 (Hartmut Kaiser)
  * Name of Funding Organization: Pacific Northwest National Laboratory
@@ -125,7 +126,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Graduate Commitee Member
 
-* Master thesis: M. Reeser (LSU, 2020)
+* Master thesis: M. Reeser (LSU, 2020) and C. Hue (2023)
 * Honors project: J. Trepper (LSU, 2020)
 * PHD project: M. Cole (LSU, 2025)
 
