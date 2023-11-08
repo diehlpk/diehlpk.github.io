@@ -272,6 +272,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Books edited
 
+1. D. Blanco Heras, G. Pallis, H. Herodotou, D. Balouek, P. Diehl, T. Cojean, K. Fürlinger, M. H. Kirbey, M. Nardelli, P. Di Sanzo, and e. Zeinalipour, Demetris, editors. Euro-Par 2023 International Workshops, Limassol, Cy- press, 28 August – 1 September, 2023 Revised Selected Papers, volume 14351 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
+1. D. Blanco Heras, G. Pallis, H. Herodotou, D. Balouek, P. Diehl, T. Cojean, K. Fürlinger, M. H. Kirbey, M. Nardelli, P. Di Sanzo, and e. Zeinalipour, Demetris, editors. Euro-Par 2023 International Workshops, Limassol, Cy- press, 28 August – 1 September, 2023 Revised Selected Papers, volume 14352 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. P. Diehl and R. F. da Silva, editors. Science Gateways: Accelerating Research and Education–Part II, volume 25 of Computing in Science & Engineering. IEEE, 2023.
 1. P. Diehl and R. F. da Silva, editors. Science Gateways: Accelerating Research and Education–Part I, volume 25 of Computing in Science & Engineering. IEEE, 2023.
 1. P. Diehl, P. Thoman, H. Kaiser, and e. Laxmikant Kale, editors. Asynchronous Many-Task Systems and Applications, Volume 13861 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
