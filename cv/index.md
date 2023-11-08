@@ -264,7 +264,6 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. High-order integration rules for peridynamic modeling in one and two dimensions
 
 * Computer Science 
-    1. Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java, (accepted) [Preprint](https://arxiv.org/abs/2307.01117)
     1. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger, (accepted) [Preprint](https://arxiv.org/abs/2309.06530)
 
 * Astrophysics
@@ -345,7 +344,7 @@ Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/ab
 15. G. Daiß, P. Diehl, H. Kaiser, and D. Pflüger. Stellar mergers with hpx- kokkos and sycl: Methods of using an asynchronous many-task runtime system with sycl. In Proceedings of the 2023 International Workshop on OpenCL, IWOCL ’23, New York, NY, USA, 2023. Association for Computing Machinery. [10.1145/3585341.3585354](https://doi.org/10.1145/3585341.3585354), [Preprint](https://arxiv.org/abs/2303.08058)
 16. N. Wu, I. Gonidelis, S. Liu, Z. Fink, N. Gupta, K. Mohammadiporshokooh, P. Diehl, H. Kaiser, and L. V. Kale. Quantifying Overheads in Charm++ and HPX Using Task Bench. In J. Singer, Y. Elkhatib, D. Blanco Heras, P. Diehl, N. Brown, and A. Ilic, editors, Euro-Par 2022: Parallel Processing Workshops, pages 5–16, Cham, 2023. Springer Nature Switzerland. [10.1007/978-3-031-31209-0_1](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_1) [Preprint](https://arxiv.org/abs/2207.12127)
 17. P. Diehl, S. R. Brandt, and H. Kaiser. Shared memory parallelism in modern C++ and HPX. In P. Diehl, P. Thoman, H. Kaiser, and L. Kale, editors, Asynchronous Many-Task Systems and Applications, pages 27–38, Cham, 2023. Springer Nature Switzerland [10.1007/978-3-031-32316-4_3](https://link.springer.com/chapter/10.1007/978-3-031-32316-4_3), [Preprint](https://arxiv.org/abs/2302.07191)
-
+18. P. Diehl, M. Morris, S. R. Brandt, N. Gupta, and H. Kaiser. Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm++, C++, HPX, Go, Julia, Python, Rust, Swift, and Java. In D. Blanco Heras, G. Pallis, H. Herodotou, D. Balouek, P. Diehl, T. Cojean, K. Fürlinger, M. H. Kirbey, M. Nardelli, P. Di Sanzo, and D. Zeinalipour, editors, Euro-Par 2023: Parallel Processing Workshops, volume 14352 of Lecture Notes in Computer Science (LNCS), pages 120–131, Cham, 2023. Springer Nature Switzerland.  [Preprint](https://arxiv.org/abs/2307.01117)
 
 ###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
