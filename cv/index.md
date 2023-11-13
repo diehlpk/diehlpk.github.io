@@ -219,6 +219,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 2. AI Ethics/Algorithmic Justice, Organizer, Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University.
 3. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Speaker, Engineering Mechanics Institute Conference 2022
 4. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Organizer, Engineering Mechanics Institute Conference 2023
+5. D-HPC Workshop Panel : S4PST: Stewardship of Programming Systems and Tools, Panelist, International Conference for High Performance Computing, Networking, Storagee and Analysis (SC)” 2023. [Slides](https://www.slideshare.net/PatrickDiehl3/dhpc-workshop-panel-s4pst-stewardship-of-programming-systems-and-tools)
 
 ##### Colloquium
 
