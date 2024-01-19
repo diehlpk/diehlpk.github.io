@@ -272,6 +272,10 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Books edited
 
+1. P. Diehl, S. R. Brandt, and H. Kaiser. Parallel C++ – Efficient and Scalable High-Performance Parallel Programming Using HPX, volume 1. Springer Cham, 2024. [Link](https://link.springer.com/book/9783031543685) and [Code](https://github.com/ModernCPPBook/Examples) 
+
+###### Books edited
+
 1. D. Blanco Heras, G. Pallis, H. Herodotou, D. Balouek, P. Diehl, T. Cojean, K. Fürlinger, M. H. Kirbey, M. Nardelli, P. Di Sanzo, and e. Zeinalipour, Demetris, editors. Euro-Par 2023 International Workshops, Limassol, Cy- press, 28 August – 1 September, 2023 Revised Selected Papers, volume 14351 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. D. Blanco Heras, G. Pallis, H. Herodotou, D. Balouek, P. Diehl, T. Cojean, K. Fürlinger, M. H. Kirbey, M. Nardelli, P. Di Sanzo, and e. Zeinalipour, Demetris, editors. Euro-Par 2023 International Workshops, Limassol, Cy- press, 28 August – 1 September, 2023 Revised Selected Papers, volume 14352 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. P. Diehl and R. F. da Silva, editors. Science Gateways: Accelerating Research and Education–Part II, volume 25 of Computing in Science & Engineering. IEEE, 2023.
