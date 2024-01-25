@@ -270,7 +270,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars. (submitted)
     2. Visualizing the mass-transfer flow in direct-impact accretion
 
-###### Books edited
+###### Books
 
 1. P. Diehl, S. R. Brandt, and H. Kaiser. Parallel C++ – Efficient and Scalable High-Performance Parallel Programming Using HPX, volume 1. Springer Cham, 2024. [Link](https://link.springer.com/book/9783031543685) and [Code](https://github.com/ModernCPPBook/Examples) 
 
