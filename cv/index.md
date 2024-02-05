@@ -194,8 +194,8 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 10. Recent Developments in Peridynamics Modeling, 17th U.S. National Congress on Computational Mechanics
 11. Nonlocal Modeling, Analysis, and Computation, 10th International Congress on Industrial and Applied Mathematics
 12. Recent developments in peridynamics modeling, 16th World Congress on Computational Mechanics
-13. Computational and analytical advances in nonlocal modeling, 16th World Congress on Computational Mechanics
-
+13. Computational and Analytical Advances in Nonlocal Modeling, 16th World Congress on Computational Mechanics
+14. Computational and Analytical Advances in Nonlocal Modeling, SIAM Conference on Mathematical Aspects of Materials Science, 2024 
 ##### Workshops organized
 
 1. Workshop on Experimental and Computational Fracture Mechanics 2020: Validating peridynamics and phase field models for fracture
