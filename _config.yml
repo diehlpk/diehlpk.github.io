@@ -9,7 +9,6 @@ url: https://www.diehlpk.de
 
 # Jekyll configuration
 incremental: true
-excerpt_separator: <!--more-->
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge

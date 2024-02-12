@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sample Articles
-excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
 
