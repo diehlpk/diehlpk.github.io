@@ -196,6 +196,7 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 12. Recent developments in peridynamics modeling, 16th World Congress on Computational Mechanics
 13. Computational and Analytical Advances in Nonlocal Modeling, 16th World Congress on Computational Mechanics
 14. Computational and Analytical Advances in Nonlocal Modeling, SIAM Conference on Mathematical Aspects of Materials Science, 2024 
+
 ##### Workshops organized
 
 1. Workshop on Experimental and Computational Fracture Mechanics 2020: Validating peridynamics and phase field models for fracture
@@ -263,7 +264,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
     1. AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches
     1. High-order integration rules for peridynamic modeling in one and two dimensions
-
+    1. Nodal finite element approximation of peridynamics [Preprint](https://arxiv.org/abs/2403.05501) 
 * Computer Science 
     1. HPX in the HPC Cloud: Evaluating Overheads of Cloud resources for HPX/Kokkos using an astrophysics application. (submitted)
 * Astrophysics
