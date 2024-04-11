@@ -264,11 +264,11 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
     1. AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches
     1. High-order integration rules for peridynamic modeling in one and two dimensions
-    1. Nodal finite element approximation of peridynamics [Preprint](https://arxiv.org/abs/2403.05501) 
+    1. Nodal finite element approximation of peridynamics (submitted) [Preprint](https://arxiv.org/abs/2403.05501) 
 * Computer Science 
     1. HPX in the HPC Cloud: Evaluating Overheads of Cloud resources for HPX/Kokkos using an astrophysics application. (submitted)
 * Astrophysics
-    1. Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars. (submitted)
+    1. Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars. (submitted) [Link](https://arxiv.org/abs/2404.06864)
     2. Visualizing the mass-transfer flow in direct-impact accretion
 
 ###### Books
