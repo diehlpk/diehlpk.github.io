@@ -287,6 +287,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Journal articles
 
+1. M. Birner, P. Diehl, R. Lipton, and M. A. Schweitzer. A multiscale fracture model using peridynamic enrichment of finite elements within an adaptive partition of unity: Experimental validation. Mechanics Research Communications, 2024. [10.1016/j.mechrescom.2024.104275](https://doi.org/10.1016/j.mechrescom.2024.104275)
 1. Bhattacharya, D., Lipton, R. and  Diehl, P. Quasistatic fracture evolution using a nonlocal cohesive model. Int J Fract (2023). [10.1007/s10704-023-00711-0](https://doi.org/10.1007/s10704-023-00711-0), [Preprint](https://arxiv.org/abs/2212.08753)
 1. Littlewood, David J., Parks, Michael L., Foster, John T., Mitchell, John A. and Diehl, Patrick. The Peridigm Meshfree Peridynamics Code. J Peridyn Nonlocal Model (2023). J Peridyn Nonlocal Model (2022), [10.1007/s42102-023-00100-0](https://link.springer.com/article/10.1007/s42102-023-00100-0)
 1. Diehl, P, Lipton, R. Quasistatic fracture using nonlinear-nonlocal elastostatics with explicit tangent stiffness matrix. Int J Numer Methods Eng. 2022; 1-26. [10.1002/nme.7005](https://doi.org/10.1002/nme.7005), [Preprint](https://engrxiv.org/3je6b/)
