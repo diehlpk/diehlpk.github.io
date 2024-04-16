@@ -1615,3 +1615,32 @@ author = {Matthias Birner and Patrick Diehl and Robert Lipton and Marc Alexander
 keywords = {Peridynamic, Partition of unity, Multiscale, Global-local method},
 abstract = {Partition of unity methods (PUM) are of domain decomposition type and provide the opportunity for multiscale and multiphysics numerical modeling. Here, we apply Peridynamic (PD) enrichment to propagate cracks in the PUM global-local enrichment scheme. We apply linear elasticity globally and PD over local zones where fractures occur. The elastic fields provide appropriate boundary data for local PD simulations on a subdomain containing the crack tip to grow the crack. Once the updated crack path is found the elastic field in the body and surrounding the crack is updated using the PUM basis with an elastic field enrichment near the crack. The subdomain for the PD simulation is chosen to include the current crack tip as well as features that influence crack growth. This paper is part II of this series and validates the combined PD/PUM simulator against the experimental results. The results of numerical simulation show that we attain good agreement between experiment and simulation with a local PD subdomain that is moving with the crack tip and adaptively chosen size.}
 }
+
+@InProceedings{10.1007/978-3-031-48803-0_11,
+author="Diehl, Patrick
+and Morris, Max
+and Brandt, Steven R.
+and Gupta, Nikunj
+and Kaiser, Hartmut",
+editor="Zeinalipour, Demetris
+and Blanco Heras, Dora
+and Pallis, George
+and Herodotou, Herodotos
+and Trihinas, Demetris
+and Balouek, Daniel
+and Diehl, Patrick
+and Cojean, Terry
+and F{\"u}rlinger, Karl
+and Kirkeby, Maja Hanne
+and Nardellli, Matteo
+and Di Sanzo, Pierangelo",
+title="{Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm\texttt{++}, C\texttt{++}, HPX, Go, Julia, Python, Rust, Swift, and Java}",
+booktitle="Euro-Par 2023: Parallel Processing Workshops",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="127--138",
+abstract="Many scientific high performance codes that simulate e.g. black holes, coastal waves, climate and weather, etc. rely on block-structured meshes and use finite differencing methods to solve the appropriate systems of differential equations iteratively. This paper investigates implementations of a straightforward simulation of this type using various programming systems and languages. We focus on a shared memory, parallelized algorithm that simulates a 1D heat diffusion using asynchronous queues for the ghost zone exchange. We discuss the advantages of the various platforms and explore the performance of this model code on different computing architectures: Intel, AMD, and ARM64FX. As a result, Python was the slowest of the set we compared. Java, Go, Swift, and Julia were the intermediate performers. The higher performing platforms were C++, Rust, Chapel, Charm++, and HPX.",
+isbn="978-3-031-48803-0"
+}
+
