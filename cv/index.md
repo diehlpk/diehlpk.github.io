@@ -287,6 +287,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Journal articles
 
+1. P. Diehl, G. Daiß, K. Huck, D. Marcello, S. Shiber, H. Kaiser, and D. Pflüger. Simulating stellar merger using HPX/Kokkos on A64FX on Supercomputer Fugaku. The Journal of Supercomputing, 2024 [10.1007/s11227-024-06113-w](https://doi.org/10.1007/s11227-024-06113-w)
 1. M. Birner, P. Diehl, R. Lipton, and M. A. Schweitzer. A multiscale fracture model using peridynamic enrichment of finite elements within an adaptive partition of unity: Experimental validation. Mechanics Research Communications, 2024. [10.1016/j.mechrescom.2024.104275](https://doi.org/10.1016/j.mechrescom.2024.104275)
 1. Bhattacharya, D., Lipton, R. and  Diehl, P. Quasistatic fracture evolution using a nonlocal cohesive model. Int J Fract (2023). [10.1007/s10704-023-00711-0](https://doi.org/10.1007/s10704-023-00711-0), [Preprint](https://arxiv.org/abs/2212.08753)
 1. Littlewood, David J., Parks, Michael L., Foster, John T., Mitchell, John A. and Diehl, Patrick. The Peridigm Meshfree Peridynamics Code. J Peridyn Nonlocal Model (2023). J Peridyn Nonlocal Model (2022), [10.1007/s42102-023-00100-0](https://link.springer.com/article/10.1007/s42102-023-00100-0)
