@@ -283,10 +283,11 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. P. Diehl and R. F. da Silva, editors. Science Gateways: Accelerating Research and Education–Part I, volume 25 of Computing in Science & Engineering. IEEE, 2023.
 1. P. Diehl, P. Thoman, H. Kaiser, and e. Laxmikant Kale, editors. Asynchronous Many-Task Systems and Applications, Volume 13861 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. J. Singer, Y. Elkhatib, D. B. Heras, P. Diehl, N. Brown, and Aleksandar Ilic, editors. Euro-Par 2022 International Workshops, Glasgow, UK, August 22–26, 2022, Revised Selected Papers, volume 13835 of Lecture Notes in Computer Science (LNCS). Springer, 2022.
-1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Dieh, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
+1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Diehl, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
 ###### Journal articles
 
+1. P. Diehl, S. R. Brandt, and H. Kaiser. Shared Memory Parallelism in Modern C++ and HPX. SN Computer Science, 5(5):459, April 2024 [10.1007/s42979-024-02769-6](https://link.springer.com/article/10.1007/s42979-024-02769-6)
 1. P. Diehl, G. Daiß, K. Huck, D. Marcello, S. Shiber, H. Kaiser, and D. Pflüger. Simulating stellar merger using HPX/Kokkos on A64FX on Supercomputer Fugaku. The Journal of Supercomputing, 2024 [10.1007/s11227-024-06113-w](https://doi.org/10.1007/s11227-024-06113-w)
 1. M. Birner, P. Diehl, R. Lipton, and M. A. Schweitzer. A multiscale fracture model using peridynamic enrichment of finite elements within an adaptive partition of unity: Experimental validation. Mechanics Research Communications, 2024. [10.1016/j.mechrescom.2024.104275](https://doi.org/10.1016/j.mechrescom.2024.104275)
 1. Bhattacharya, D., Lipton, R. and  Diehl, P. Quasistatic fracture evolution using a nonlocal cohesive model. Int J Fract (2023). [10.1007/s10704-023-00711-0](https://doi.org/10.1007/s10704-023-00711-0), [Preprint](https://arxiv.org/abs/2212.08753)
