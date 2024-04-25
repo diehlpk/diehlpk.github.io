@@ -454,7 +454,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 50. --, Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger. Second International workshop on RISC-V for HPC held in conjunction with the International Conference on High Performance Computing, Network, Storage, and Analysis 2023, 13.11 2023, Denver, US. [Slides](https://www.slideshare.net/PatrickDiehl3/evaluating-hpx-and-kokkos-on-riscv-using-an-astrophysics-application-octotiger)
 51. --, HPX with Spack and Singularity Containers: Evaluating Overheads for HPX/Kokkos using an astrophysics application. Workshop on Asynchronous Many-Task Systems and Applications 2024, 14.02-16.02 2024, Knoxville, US. [Slides](https://doi.org/10.5281/zenodo.10667429)
 52. --. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger. 21th Annual Workshop on Charm++ and Its Application, 25.04-26.04 2024, Champaign, USA.
-53. --, Is RISC-V ready for HPC workloads? (random access talk). Salishan Conference on High Speed Computing, 22.04-25.04 2024, Lincoln Beach, USA.
+53. --, Is RISC-V ready for HPC workloads? (random access talk). Salishan Conference on High Speed Computing, 22.04-25.04 2024, Lincoln Beach, USA. [Slides](https://www.slideshare.net/slideshow/is-riscv-ready-for-hpc-workload-maybe/267514160)
 
 ###### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
