@@ -206,6 +206,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 4. Workshop on Asynchronous Many-Task Systems and Applications 2023, [Link](https://wamta23.stellar-group.org/) 
 5. Asynchronous Many-Task systems for Exascale 2023 held in conjunction with [Euro-Par 2023](https://2023.euro-par.org/) ([Link](https://amte2023.stellar-group.org/))
 6. Workshop on Experimental and Computational Fracture Mechanics 2024 ([Link](https://wfm2024.usacm.org/)
+7. Asynchronous Many-Task systems for Exascale 2024 held in conjunction with [Euro-Par 2024](https://2024.euro-par.org/) ([Link]( https://www.lanl.gov/amte2024))
+8. Workshop on Asynchronous Many-Task Systems and Applications 2024, [Link](https://wamta24.icl.utk.edu/) 
 
 ##### Meetings
 
