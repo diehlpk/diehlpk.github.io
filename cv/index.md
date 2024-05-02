@@ -262,13 +262,14 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. An overview for coupling finite elements with peridynamics
     1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
     1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
-    1. AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches
+    1. AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches (submitted) 
     1. High-order integration rules for peridynamic modeling in one and two dimensions
     1. Nodal finite element approximation of peridynamics (submitted) [Preprint](https://arxiv.org/abs/2403.05501) 
 * Computer Science 
-    1. HPX in the HPC Cloud: Evaluating Overheads of Cloud resources for HPX/Kokkos using an astrophysics application. (submitted)
+    1. HPX in the HPC Cloud: Evaluating Overheads of Cloud resources for HPX/Kokkos using an astrophysics application. (accepted) [Preprint](https://arxiv.org/abs/2405.00016)
+    1. Experiences Porting Distributed Applications to Asynchronous Tasks: A Multidimensional FFT Case-study. (accepted) [Preprint](https://arxiv.org/abs/2405.00015)
 * Astrophysics
-    1. Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars. (submitted) [Link](https://arxiv.org/abs/2404.06864)
+    1. Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars. (submitted) [Preprint](https://arxiv.org/abs/2404.06864)
     2. Visualizing the mass-transfer flow in direct-impact accretion
 
 ###### Books
