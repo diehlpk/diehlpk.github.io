@@ -278,11 +278,12 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Books edited
 
-1. D. Blanco Heras, G. Pallis, H. Herodotou, D. Balouek, P. Diehl, T. Cojean, K. Fürlinger, M. H. Kirbey, M. Nardelli, P. Di Sanzo, and e. Zeinalipour, Demetris, editors. Euro-Par 2023 International Workshops, Limassol, Cypress, 28 August – 1 September, 2023 Revised Selected Papers, volume 14351 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
+1. P. Diehl, J. Schuchart, P. Valero-Lara, and G. Bosilca, editors. Asynchronous Many-Task Systems and Applications, Volume 14626  of Lecture Notes in Computer Science (LNCS). Springer, 2024.
+1. D. Blanco Heras, G. Pallis, H. Herodotou, D. Balouek, P. Diehl, T. Cojean, K. Fürlinger, M. H. Kirbey, M. Nardelli, P. Di Sanzo, and Zeinalipour, Demetris, editors. Euro-Par 2023 International Workshops, Limassol, Cypress, 28 August – 1 September, 2023 Revised Selected Papers, volume 14351 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. D. Blanco Heras, G. Pallis, H. Herodotou, D. Balouek, P. Diehl, T. Cojean, K. Fürlinger, M. H. Kirbey, M. Nardelli, P. Di Sanzo, and e. Zeinalipour, Demetris, editors. Euro-Par 2023 International Workshops, Limassol, Cypress, 28 August – 1 September, 2023 Revised Selected Papers, volume 14352 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. P. Diehl and R. F. da Silva, editors. Science Gateways: Accelerating Research and Education–Part II, volume 25 of Computing in Science & Engineering. IEEE, 2023.
 1. P. Diehl and R. F. da Silva, editors. Science Gateways: Accelerating Research and Education–Part I, volume 25 of Computing in Science & Engineering. IEEE, 2023.
-1. P. Diehl, P. Thoman, H. Kaiser, and e. Laxmikant Kale, editors. Asynchronous Many-Task Systems and Applications, Volume 13861 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
+1. P. Diehl, P. Thoman, H. Kaiser, and K. Laxmikant, editors. Asynchronous Many-Task Systems and Applications, Volume 13861 of Lecture Notes in Computer Science (LNCS). Springer, 2023.
 1. J. Singer, Y. Elkhatib, D. B. Heras, P. Diehl, N. Brown, and Aleksandar Ilic, editors. Euro-Par 2022 International Workshops, Glasgow, UK, August 22–26, 2022, Revised Selected Papers, volume 13835 of Lecture Notes in Computer Science (LNCS). Springer, 2022.
 1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Diehl, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
