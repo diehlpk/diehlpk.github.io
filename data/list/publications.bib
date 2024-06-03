@@ -1616,35 +1616,6 @@ keywords = {Peridynamic, Partition of unity, Multiscale, Global-local method},
 abstract = {Partition of unity methods (PUM) are of domain decomposition type and provide the opportunity for multiscale and multiphysics numerical modeling. Here, we apply Peridynamic (PD) enrichment to propagate cracks in the PUM global-local enrichment scheme. We apply linear elasticity globally and PD over local zones where fractures occur. The elastic fields provide appropriate boundary data for local PD simulations on a subdomain containing the crack tip to grow the crack. Once the updated crack path is found the elastic field in the body and surrounding the crack is updated using the PUM basis with an elastic field enrichment near the crack. The subdomain for the PD simulation is chosen to include the current crack tip as well as features that influence crack growth. This paper is part II of this series and validates the combined PD/PUM simulator against the experimental results. The results of numerical simulation show that we attain good agreement between experiment and simulation with a local PD subdomain that is moving with the crack tip and adaptively chosen size.}
 }
 
-@InProceedings{10.1007/978-3-031-48803-0_11,
-author="Diehl, Patrick
-and Morris, Max
-and Brandt, Steven R.
-and Gupta, Nikunj
-and Kaiser, Hartmut",
-editor="Zeinalipour, Demetris
-and Blanco Heras, Dora
-and Pallis, George
-and Herodotou, Herodotos
-and Trihinas, Demetris
-and Balouek, Daniel
-and Diehl, Patrick
-and Cojean, Terry
-and F{\"u}rlinger, Karl
-and Kirkeby, Maja Hanne
-and Nardellli, Matteo
-and Di Sanzo, Pierangelo",
-title="{Benchmarking the Parallel 1D Heat Equation Solver in Chapel, Charm\texttt{++}, C\texttt{++}, HPX, Go, Julia, Python, Rust, Swift, and Java}",
-booktitle="Euro-Par 2023: Parallel Processing Workshops",
-year="2024",
-publisher="Springer Nature Switzerland",
-address="Cham",
-pages="127--138",
-abstract="Many scientific high performance codes that simulate e.g. black holes, coastal waves, climate and weather, etc. rely on block-structured meshes and use finite differencing methods to solve the appropriate systems of differential equations iteratively. This paper investigates implementations of a straightforward simulation of this type using various programming systems and languages. We focus on a shared memory, parallelized algorithm that simulates a 1D heat diffusion using asynchronous queues for the ghost zone exchange. We discuss the advantages of the various platforms and explore the performance of this model code on different computing architectures: Intel, AMD, and ARM64FX. As a result, Python was the slowest of the set we compared. Java, Go, Swift, and Julia were the intermediate performers. The higher performing platforms were C++, Rust, Chapel, Charm++, and HPX.",
-isbn="978-3-031-48803-0"
-}
-
-
 @article{diehlfugaku:2024,
 	author = {Diehl, Patrick and Dai{\ss}, Gregor and Huck, Kevin and Marcello, Dominic and Shiber, Sagiv and Kaiser, Hartmut and Pfl{\"u}ger, Dirk},
 	journal = {The Journal of Supercomputing},
@@ -1734,3 +1705,43 @@ volume = {14626},
 publisher = {Springer},
 year = {2024}
 }
+
+@InProceedings{10.1007/978-3-031-61763-8_17,
+author="Diehl, Patrick
+and Brandt, Steven R.
+and Dai{\ss}, Gregor
+and Kaiser, Hartmut",
+editor="Diehl, Patrick
+and Schuchart, Joseph
+and Valero-Lara, Pedro
+and Bosilca, George",
+title="{HPX with Spack and Singularity Containers: Evaluating Overheads for HPX/Kokkos Using an Astrophysics Application}",
+booktitle="Asynchronous Many-Task Systems and Applications",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="173--184",
+abstract="Cloud computing for high performance computing resources is an emerging topic. This service is of interest to researchers who care about reproducible computing, for software packages with complex installations, and for companies or researchers who need the compute resources only occasionally or do not want to run and maintain a supercomputer on their own. The connection between HPC and containers is exemplified by the fact that Microsoft Azure's Eagle cloud service machine is number three on the November 23 Top 500 list. For cloud services, the HPC application and dependencies are installed in containers, e.g. Docker, Singularity, or something else, and these containers are executed on the physical hardware. Although containerization leverages the existing Linux kernel and should not impose overheads on the computation, there is the possibility that machine-specific optimizations might be lost, particularly machine-specific installs of commonly used packages. In this paper, we will use an astrophysics application using HPX-Kokkos and measure overheads on homogeneous resources, e.g. Supercomputer Fugaku, using CPUs only and on heterogenous resources, e.g. LSU's hybrid CPU and GPU system. We will report on challenges in compiling, running, and using the containers as well as performance differences.",
+isbn="978-3-031-61763-8"
+}
+
+@InProceedings{10.1007/978-3-031-61763-8_11,
+author="Strack, Alexander
+and Taylor, Christopher
+and Diehl, Patrick
+and Pfl{\"u}ger, Dirk",
+editor="Diehl, Patrick
+and Schuchart, Joseph
+and Valero-Lara, Pedro
+and Bosilca, George",
+title="{Experiences Porting Shared and Distributed Applications to Asynchronous Tasks: A Multidimensional FFT Case-Study}",
+booktitle="Asynchronous Many-Task Systems and Applications",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="111--122",
+abstract="Parallel algorithms relying on synchronous parallelization libraries often experience adverse performance due to global synchronization barriers. Asynchronous many-task runtimes offer task futurization capabilities that minimize or remove the need for global synchronization barriers. This paper conducts a case study of the multidimensional Fast Fourier Transform to identify which applications will benefit from the asynchronous many-task model. Our basis is the popular FFTW library [7]. We use the asynchronous many-task model HPX and a one-dimensional FFTW backend to implement multiple versions using different HPX features and highlight overheads and pitfalls during migration. Furthermore, we add an HPX threading backend to FFTW. The case study analyzes shared memory scaling properties between our HPX-based parallelization and FFTW with its pthreads, OpenMP, and HPX backends. The case study also compares FFTW's MPI+X backend to a purely HPX-based distributed implementation. The FFT application does not profit from asynchronous task execution. In contrast, enforcing task synchronization results in better cache performance and thus better runtime. Nonetheless, the HPX backend for FFTW is competitive with existing backends. Our distributed HPX implementation based on HPX collectives using MPI parcelport has similar performance to FFTW's MPI+OpenMP. However, the LCI parcelport of HPX accelerated communication up to factor 5.",
+isbn="978-3-031-61763-8"
+}
+
+
