@@ -10,13 +10,14 @@ hide: true
 
 
 ##### Current Appointment
+* Jun 2024 - present Research scientist, Applied Computer Science, Los Alamos National Laboratory ([Link](https://www.lanl.gov/)) 
 * May 2022 - present Adjunct Faculty, Department of Physics & Astronomy, Louisiana State University ([Link](https://www.lsu.edu/physics/))
-* Oct 2018 - present Research scientist, Center for Computation & Technology, Louisiana State University ([link](https://www.cct.lsu.edu/))
 
 ##### Professional Experience
+* Oct 2018 - Jun 2024 Research scientist, Center for Computation & Technology, Louisiana State University ([link](https://www.cct.lsu.edu/))
 * Feb 2017 - Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
-* Apr 2013 - Jan 2017 Research Assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
-* Jul 2012 - Mar 2013 Research Assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/departments/sgs/))
+* Apr 2013 - Jan 2017 Research assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
+* Jul 2012 - Mar 2013 Research assistant, Institute for Simulation of large Systems, University of Stuttgart ([link](https://www.ipvs.uni-stuttgart.de/departments/sgs/))
 
 --- 
 
