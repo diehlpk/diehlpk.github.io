@@ -173,6 +173,9 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Committee served
 
+
+1. 2nd Annual Conference of the US Research Software Engineer Association, Publication committee chair
+1. The First International Workshop on Democratizing High-Performance Computing (D-HPC 2023), Program committee member
 1. 1st Annual Conference of the US Research Software Engineer Association, Special Issue Editor
 1. The First International Workshop on Democratizing High-Performance Computing (D-HPC 2023), Program committee member
 1. Gateways Conference 2023. Program committee member
@@ -265,7 +268,6 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. An overview for coupling finite elements with peridynamics
     1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
     1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
-    1. AI-based identification of coupling regions for local and non-local one-dimensional coupling approaches (submitted) 
     1. High-order integration rules for peridynamic modeling in one and two dimensions
     1. Nodal finite element approximation of peridynamics (submitted) [Preprint](https://arxiv.org/abs/2403.05501) 
 * Computer Science 
@@ -291,6 +293,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Journal articles
 
+1. N. Nader, P. Diehl, M. D’Elia, C. Glusa, and S. Prudhomme. ML-based identification of the interface regions for coupling local and nonlocal models. Journal of Machine Learning for Modeling and Computing, 2024 [10.1615/JMachLearnModelComput.2024053706](https://doi.org/10.1615/JMachLearnModelComput.2024053706), [Preprint](https://arxiv.org/abs/2404.15388)
 1. P. Diehl, S. R. Brandt, and H. Kaiser. Shared Memory Parallelism in Modern C++ and HPX. SN Computer Science, 5(5):459, April 2024 [10.1007/s42979-024-02769-6](https://link.springer.com/article/10.1007/s42979-024-02769-6)
 1. P. Diehl, G. Daiß, K. Huck, D. Marcello, S. Shiber, H. Kaiser, and D. Pflüger. Simulating stellar merger using HPX/Kokkos on A64FX on Supercomputer Fugaku. The Journal of Supercomputing, 2024 [10.1007/s11227-024-06113-w](https://doi.org/10.1007/s11227-024-06113-w)
 1. M. Birner, P. Diehl, R. Lipton, and M. A. Schweitzer. A multiscale fracture model using peridynamic enrichment of finite elements within an adaptive partition of unity: Experimental validation. Mechanics Research Communications, 2024. [10.1016/j.mechrescom.2024.104275](https://doi.org/10.1016/j.mechrescom.2024.104275)
