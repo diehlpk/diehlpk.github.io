@@ -463,6 +463,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 51. --, HPX with Spack and Singularity Containers: Evaluating Overheads for HPX/Kokkos using an astrophysics application. Workshop on Asynchronous Many-Task Systems and Applications 2024, 14.02-16.02 2024, Knoxville, US. [Slides](https://doi.org/10.5281/zenodo.10667429)
 52. --. Evaluating HPX and Kokkos on RISC-V using an Astrophysics Application Octo-Tiger. 21th Annual Workshop on Charm++ and Its Application, 25.04-26.04 2024, Champaign, USA. [Slides](https://www.slideshare.net/slideshow/evaluating-hpx-and-kokkos-on-riscv-using-an-astrophysics-application-octotiger-b869/267541044)
 53. --, Is RISC-V ready for HPC workloads? (random access talk). Salishan Conference on High Speed Computing, 22.04-25.04 2024, Lincoln Beach, USA. [Slides](https://www.slideshare.net/slideshow/is-riscv-ready-for-hpc-workload-maybe/267514160)
+54. --, Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust, Asynchronous Many-Task systems for Exascale (AMTE). 26.08-30.08 2024, Madrid, Spain. [Slides](https://zenodo.org/records/13738680)
 
 ###### Raw experimental data
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
