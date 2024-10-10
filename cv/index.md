@@ -231,7 +231,9 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 ##### Colloquium
 
 1. Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University, [Link](https://stellar-group.org/research/colloquium-on-artificial-intelligence-research-and-optimization/)
-1. Large-Scale TTA Early-Career Colloquium, USACM [Link](https://unsacm.memberclicks.net/tta--large-scale-structural-systems)
+1. Large-Scale TTA Early-Career Colloquium, USACM [Link](https://www.usacm.org/site_page.cfm?pk_association_webpage_menu=11354&pk_association_webpage=25779)
+1. Large-Scale TTA Industrial Colloquium, USACM [Link](https://www.usacm.org/site_page.cfm?pk_association_webpage_menu=11354&pk_association_webpage=25779)
+1. Applied Computer Science Invited Speaker Series, LANL [Link](http://appliedcomputerscienceseries.lanl.gov/)
 
 ##### Short course
 
