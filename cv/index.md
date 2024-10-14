@@ -468,7 +468,14 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 54. --, Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust, Asynchronous Many-Task systems for Exascale (AMTE). 26.08-30.08 2024, Madrid, Spain. [Slides](https://zenodo.org/records/13738680)
 55. --, Kokkos Pitch, US-RSE Community Call, 12.09.2024, Virtual Event.
 
+###### Posters
+
+1. Patrick Diehl and Daniel S. Katz, JOSS – The Journal of Open Source Software. 2nd Annual Conference of the US Research Software Engineer Association, 15.10-17.10 2024, Albuquerque, US.
+1. Patrick Diehl, Numerical verification of the bond-based peridynamic softening model against classical theory. Nonlocal Models in Mathematics, Compution, Science, and Engineering, 26.11-28.11 2015, Oak Ridge, US.
+1. --, Applying Tools and Techniques from Software Engineering in Computational Mechanics. 12th U.S. National Congress on Computational Mechanics (USNCCM12), 21.07-25.07 2013, Raleigh, US.
+
 ###### Raw experimental data
+
 1. Ilyass Tabiai, Rolland Delorme, Patrick Diehl, Louis Laberge Lebel, & Martin Lévesque. (2018). PMMA 3 point bending test until failure loaded in displacement [Data set](http://doi.org/10.5281/zenodo.1172068). Zenodo
 
 Also available as [PDF document]({{ site.url }}/assets/list.pdf), on [Google Scholar](https://scholar.google.com/citations?user=TapM4vAAAAAJ&hl=en), and on [ORCID](https://orcid.org/0000-0003-3922-8419)
