@@ -471,7 +471,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 ###### Posters
 
 1. Patrick Diehl and Daniel S. Katz, JOSS – The Journal of Open Source Software. 2nd Annual Conference of the US Research Software Engineer Association, 15.10-17.10 2024, Albuquerque, US. [Poster](https://zenodo.org/records/13942443)
-1. Patrick Diehl, Numerical verification of the bond-based peridynamic softening model against classical theory. Nonlocal Models in Mathematics, Compution, Science, and Engineering, 26.11-28.11 2015, Oak Ridge, US.
+1. Patrick Diehl, Numerical verification of the bond-based peridynamic softening model against classical theory. Nonlocal Models in Mathematics, Compution, Science, and Engineering, 26.11-28.11 2015, Oak Ridge, US. [Poster](https://zenodo.org/records/13952008)
 1. --, Applying Tools and Techniques from Software Engineering in Computational Mechanics. 12th U.S. National Congress on Computational Mechanics (USNCCM12), 21.07-25.07 2013, Raleigh, US. [Poster](https://zenodo.org/records/13951946)
 
 ###### Raw experimental data
