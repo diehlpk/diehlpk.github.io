@@ -295,6 +295,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Journal articles
 
+1. Sagiv Shiber, Orsola De Marco, Patrick M Motl, Bradley Munson, Dominic C Marcello, Juhan Frank, Patrick Diehl, Geoffrey C Clayton, Bennett N Skinner, Hartmut Kaiser, Gregor Daiß, Dirk Pflüger, Jan E Staff, Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars, Monthly Notices of the Royal Astronomical Society, 2024;, stae2343, [10.1093/mnras/stae2343](https://doi.org/10.1093/mnras/stae2343)
 1. N. Nader, P. Diehl, M. D’Elia, C. Glusa, and S. Prudhomme. ML-based identification of the interface regions for coupling local and nonlocal models. Journal of Machine Learning for Modeling and Computing, 2024 [10.1615/JMachLearnModelComput.2024053706](https://doi.org/10.1615/JMachLearnModelComput.2024053706), [Preprint](https://arxiv.org/abs/2404.15388)
 1. P. Diehl, S. R. Brandt, and H. Kaiser. Shared Memory Parallelism in Modern C++ and HPX. SN Computer Science, 5(5):459, April 2024 [10.1007/s42979-024-02769-6](https://link.springer.com/article/10.1007/s42979-024-02769-6)
 1. P. Diehl, G. Daiß, K. Huck, D. Marcello, S. Shiber, H. Kaiser, and D. Pflüger. Simulating stellar merger using HPX/Kokkos on A64FX on Supercomputer Fugaku. The Journal of Supercomputing, 2024 [10.1007/s11227-024-06113-w](https://doi.org/10.1007/s11227-024-06113-w)
@@ -467,6 +468,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 53. --, Is RISC-V ready for HPC workloads? (random access talk). Salishan Conference on High Speed Computing, 22.04-25.04 2024, Lincoln Beach, USA. [Slides](https://www.slideshare.net/slideshow/is-riscv-ready-for-hpc-workload-maybe/267514160)
 54. --, Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust, Asynchronous Many-Task systems for Exascale (AMTE). 26.08-30.08 2024, Madrid, Spain. [Slides](https://zenodo.org/records/13738680)
 55. --, Kokkos Pitch, US-RSE Community Call, 12.09.2024, Virtual Event.
+56. --, The Journal of Open Source Software: Developing a Software Review Community, Computer Science Seminar Series at Argonne National Laboratory, 12.11 2024, Virtual event. 
 
 ###### Posters
 
