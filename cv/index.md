@@ -468,7 +468,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 53. --, Is RISC-V ready for HPC workloads? (random access talk). Salishan Conference on High Speed Computing, 22.04-25.04 2024, Lincoln Beach, USA. [Slides](https://www.slideshare.net/slideshow/is-riscv-ready-for-hpc-workload-maybe/267514160)
 54. --, Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust, Asynchronous Many-Task systems for Exascale (AMTE). 26.08-30.08 2024, Madrid, Spain. [Slides](https://zenodo.org/records/13738680)
 55. --, Kokkos Pitch, US-RSE Community Call, 12.09.2024, Virtual Event.
-56. --, The Journal of Open Source Software: Developing a Software Review Community, Computer Science Seminar Series at Argonne National Laboratory, 12.11 2024, Virtual event. 
+56. --, The Journal of Open Source Software: Developing a Software Review Community, Computer Science Seminar Series at Argonne National Laboratory, 12.11 2024, Virtual event. [Slides](https://zenodo.org/records/14102219) 
 
 ###### Posters
 
