@@ -469,7 +469,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 54. --, Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust, Asynchronous Many-Task systems for Exascale (AMTE). 26.08-30.08 2024, Madrid, Spain. [Slides](https://zenodo.org/records/13738680)
 55. --, Kokkos Pitch, US-RSE Community Call, 12.09.2024, Virtual Event.
 56. --, The Journal of Open Source Software: Developing a Software Review Community, Computer Science Seminar Series at Argonne National Laboratory, 12.11 2024, Virtual event. [Slides](https://zenodo.org/records/14102219) 
-57. --, Preparing for HPC on RISC-V: Examining Vectorization and Distributed Performance of an Astrophysics Application with HPX and Kokkos. International workshop on RISC-V for HPC held in conjunction with the International Conference on High Performance Computing, Network, Storage, and Analysis 2024, 18.11 2024, Atlanta, US.
+57. --, Preparing for HPC on RISC-V: Examining Vectorization and Distributed Performance of an Astrophysics Application with HPX and Kokkos. International workshop on RISC-V for HPC held in conjunction with the International Conference on High Performance Computing, Network, Storage, and Analysis 2024, 18.11 2024, Atlanta, US. [Slides](https://zenodo.org/records/14189335)
 
 ###### Posters
 
