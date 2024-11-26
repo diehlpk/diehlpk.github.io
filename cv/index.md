@@ -375,6 +375,7 @@ Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/ab
 ,[Poster](https://megamol.org/wp-content/uploads/2019/10/poster2-reduced.jpg), and [Video](https://www.youtube.com/watch?v=ykn3ewqWUcw)
 2. P. Diehl and S. R. Brandt, Interactive C++ code development using C++Explorer and GitHub Classroom for educational purposes, In Proceedings of Gateways 2020, Science Gateways Community Institute (SGCI), [Link](https://osf.io/qbtj3/)
 3. Bhattacharya, D, Diehl, P, & Lipton, RP. "Peridynamics for Quasistatic Fracture Modeling." Proceedings of the ASME 2021 International Mechanical Engineering Congress and Exposition. Volume 12: Mechanics of Solids, Structures, and Fluids; Micro- and Nano- Systems Engineering and Packaging. Virtual, Online. November 1–5, 2021. V012T12A041. ASME. [10.1115/IMECE2021-70793](https://doi.org/10.1115/IMECE2021-70793) [Preprint](https://arxiv.org/abs/2107.14665)
+4. S. R. Brandt and P. Diehl. Locking Down Science Gateways. In Proceedings of Gateways 2024. Science Gateways Community Institute (SGCI), 2024 [Link](https://zenodo.org/records/13868761)
 
 ###### Technical reports
 1. P. Diehl, R. Lipton, and M. A. Schweitzer, Numerical verification of a bond-based softening peridynamic model for small displacements: Deducing material parameters from classical linear theory, tech. rep., Institut für Numerische Simulation, 2016 [Link](http://schweitzer.ins.uni-bonn.de/publications/pdfs/diehl_siam_mulitscale2016.pdf).
