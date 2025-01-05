@@ -268,15 +268,14 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 * Computational Mathematics
     1. An overview for coupling finite elements with peridynamics
-    1. State-based Quasistatic Fracture using Nonliner-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-    1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage
+    1. State-based Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
+    1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage (submitted)
     1. High-order integration rules for peridynamic modeling in one and two dimensions
-    1. Nodal finite element approximation of peridynamics (submitted) [Preprint](https://arxiv.org/abs/2403.05501) 
 * Computer Science 
-    1. Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust (submitted) [Preprint](https://arxiv.org/abs/2405.13101)
+    1. Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust (accepted) [Preprint](https://arxiv.org/abs/2405.13101)
+    2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
 * Astrophysics
-    1. Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars. (submitted) [Preprint](https://arxiv.org/abs/2404.06864)
-    2. Visualizing the mass-transfer flow in direct-impact accretion
+    1. Visualizing the mass-transfer flow in direct-impact accretion
 
 ###### Books
 
@@ -295,8 +294,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ###### Journal articles
 
-1. Prashant K. Jha, Patrick Diehl, Robert Lipton, Nodal finite element approximation of peridynamics, Computer Methods in Applied Mechanics and Engineering, 2025[10.1016/j.cma.2024.117519](https://doi.org/10.1016/j.cma.2024.117519)
-1. Sagiv Shiber, Orsola De Marco, Patrick M Motl, Bradley Munson, Dominic C Marcello, Juhan Frank, Patrick Diehl, Geoffrey C Clayton, Bennett N Skinner, Hartmut Kaiser, Gregor Daiß, Dirk Pflüger, Jan E Staff, Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars, Monthly Notices of the Royal Astronomical Society, 2024 [10.1093/mnras/stae2343](https://doi.org/10.1093/mnras/stae2343)
+1. Prashant K. Jha, Patrick Diehl, Robert Lipton, Nodal finite element approximation of peridynamics, Computer Methods in Applied Mechanics and Engineering, 2025 [10.1016/j.cma.2024.117519](https://doi.org/10.1016/j.cma.2024.117519), [Preprint](https://arxiv.org/abs/2403.05501)
+1. Sagiv Shiber, Orsola De Marco, Patrick M Motl, Bradley Munson, Dominic C Marcello, Juhan Frank, Patrick Diehl, Geoffrey C Clayton, Bennett N Skinner, Hartmut Kaiser, Gregor Daiß, Dirk Pflüger, Jan E Staff, Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars, Monthly Notices of the Royal Astronomical Society, 2024 [10.1093/mnras/stae2343](https://doi.org/10.1093/mnras/stae2343), [Preprint](https://arxiv.org/abs/2405.13101)
 1. N. Nader, P. Diehl, M. D’Elia, C. Glusa, and S. Prudhomme. ML-based identification of the interface regions for coupling local and nonlocal models. Journal of Machine Learning for Modeling and Computing, 2024 [10.1615/JMachLearnModelComput.2024053706](https://doi.org/10.1615/JMachLearnModelComput.2024053706), [Preprint](https://arxiv.org/abs/2404.15388)
 1. P. Diehl, S. R. Brandt, and H. Kaiser. Shared Memory Parallelism in Modern C++ and HPX. SN Computer Science, 5(5):459, April 2024 [10.1007/s42979-024-02769-6](https://link.springer.com/article/10.1007/s42979-024-02769-6)
 1. P. Diehl, G. Daiß, K. Huck, D. Marcello, S. Shiber, H. Kaiser, and D. Pflüger. Simulating stellar merger using HPX/Kokkos on A64FX on Supercomputer Fugaku. The Journal of Supercomputing, 2024 [10.1007/s11227-024-06113-w](https://doi.org/10.1007/s11227-024-06113-w)
