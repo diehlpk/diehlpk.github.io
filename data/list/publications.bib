@@ -1856,3 +1856,21 @@ abstract = {This work considers the nodal finite element approximation of peridy
   author = {Steven R. Brandt and Patrick Diehl} 
 }
 
+@INPROCEEDINGS {10820750,
+author = { Diehl, Patrick and Syskakis, Panagiotis and Dais, Gregor and Brandt, Steven R. and Kheirkhahan, Alireza and Singanaboina, Srinivas Yadav and Marcello, Dominic and Taylor, Chris and Leidel, John and Kaiser, Hartmut },
+booktitle = { SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis },
+title = {{ Preparing for HPC on RISC-V: Examining Vectorization and Distributed Performance of an Astrophysics Application with HPX and Kokkos }},
+year = {2024},
+volume = {},
+ISSN = {},
+pages = {1656-1665},
+abstract = { In recent years, interest in RISC-V computing architectures has moved from academic to mainstream, especially in the field of High Performance Computing where energy limitations are increasingly a concern. As of this year, the first single board RISC-V CPUs implementing the finalized ratified vector specification are being released. The RISC-V vector specification follows in the tradition of vector processors found in the CDC STAR-100, the Cray-1, the Convex C-Series, and the NEC SX machines and accelerators. The family of vector processors offers support for variable-length array processing as opposed to the fixed-length processing functionality offered by SIMD. Vector processors offer opportunities to perform vector-chaining which allows temporary results to be used without the need to resolve memory references.In this work, we use the Octo-Tiger multi-physics, multi-scale, 3D adaptive mesh refinement astrophysics application to study these early RISC-V chips with vector machine support. We report on our experience in porting this modern C++ code (which is built upon several open-source libraries such as HPX and Kokkos) to RISC-V. In addition, we show the impact of the RISC-V Vector extension on a RISC-V single board computer by implementing the std :: experimental:simd interface and integrating it with our code. We also compare the application’s performance, scalability, and power consumption on desktop-grade RISC-V computer to an A64FX system.The results presented in this paper are part of a longer-term evaluation of RISC-V’s viability for HPC applications. },
+keywords = {Power demand;Astrophysics;High performance computing;Europe;Computer architecture;Hardware;Vectors;Supercomputers;Libraries;Vector processors},
+doi = {10.1109/SCW63240.2024.00207},
+url = {https://doi.ieeecomputersociety.org/10.1109/SCW63240.2024.00207},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month =Nov}
+
+
+
