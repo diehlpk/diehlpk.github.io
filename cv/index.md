@@ -173,7 +173,6 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Committee served
 
-
 1. 2nd Annual Conference of the US Research Software Engineer Association, Publication committee chair
 1. The First International Workshop on Democratizing High-Performance Computing (D-HPC 2023), Program committee member
 1. 1st Annual Conference of the US Research Software Engineer Association, Special Issue Editor
@@ -212,6 +211,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 6. Workshop on Experimental and Computational Fracture Mechanics 2024 ([Link](https://wfm2024.usacm.org/)
 7. Asynchronous Many-Task systems for Exascale 2024 held in conjunction with [Euro-Par 2024](https://2024.euro-par.org/) ([Link]( https://www.lanl.gov/amte2024))
 8. Workshop on Asynchronous Many-Task Systems and Applications 2024, [Link](https://wamta24.icl.utk.edu/) 
+9. Workshop on Asynchronous Many-Task Systems and Applications 2025, [Link](https://wamta25.github.io/) 
 
 ##### Meetings
 
@@ -273,6 +273,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. High-order integration rules for peridynamic modeling in one and two dimensions
 * Computer Science 
     1. Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust (accepted) [Preprint](https://arxiv.org/abs/2405.13101)
+    1. Closing a Source Complexity Gap between Chapel and HPX [Preprint](https://arxiv.org/abs/2502.07258)
     2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
 * Astrophysics
     1. Visualizing the mass-transfer flow in direct-impact accretion
