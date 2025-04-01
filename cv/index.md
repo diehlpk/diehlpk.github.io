@@ -273,8 +273,9 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. High-order integration rules for peridynamic modeling in one and two dimensions
 * Computer Science 
     1. Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust (accepted) [Preprint](https://arxiv.org/abs/2405.13101)
-    1. Closing a Source Complexity Gap between Chapel and HPX [Preprint](https://arxiv.org/abs/2502.07258)
+    1. Closing a Source Complexity Gap between Chapel and HPX (accepted) [Preprint](https://arxiv.org/abs/2502.07258)
     2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
+    3.  LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages (submitted) [Preprint](https://arxiv.org/abs/2503.19217)
 * Astrophysics
     1. Visualizing the mass-transfer flow in direct-impact accretion
 
