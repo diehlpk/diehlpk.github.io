@@ -169,12 +169,16 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 2. Guest editor, Special issue: Peridynamics and its Current Progress, Computer Modeling in Engineering & Sciences (CMES)
 3. Guest editor, Special issue: Science Gateways: Accelerating Research and Education, [Computing in Science & Engineering](https://www.computer.org/csdl/magazine/cs) 
 4. Topical issue editor, Applications and Frameworks using the Asynchronous Many Task Paradigm, [SN Computer Science](https://www.springer.com/journal/42979)
-5. Research Software Engineering – Software-Enabled Discovery and Beyond, [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+5. Research Software Engineering – Software-Enabled Discovery and Beyond, [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems), [Papers](https://www.sciencedirect.com/special-issue/10GXQ2MQKBW)
+6. Research Software Engineering – Code, Practices, and People, [Future Generation Computer Systems](https://www.sciencedir    ect.com/journal/future-generation-computer-systems)
+7. Recent advances in Asynchronous Many Task Runtime Systems, SN Computer Science, [SN Computer Science](https://www.spr    inger.com/journal/42979)
+
 
 ##### Committee served
 
+1. Program Committee for the AI track of 54th International Conference on Parallel Processing
+1. SC25 Reproducibility Challenge, Committee member
 1. 2nd Annual Conference of the US Research Software Engineer Association, Publication committee chair
-1. The First International Workshop on Democratizing High-Performance Computing (D-HPC 2023), Program committee member
 1. 1st Annual Conference of the US Research Software Engineer Association, Special Issue Editor
 1. The First International Workshop on Democratizing High-Performance Computing (D-HPC 2023), Program committee member
 1. Gateways Conference 2023. Program committee member
@@ -204,12 +208,12 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 1. Workshop on Experimental and Computational Fracture Mechanics 2020: Validating peridynamics and phase field models for fracture
 prediction and experimental design ([Link](http://wfm2020.usacm.org/))
-2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte2021.stellar-group.org/))
-3. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte2022.stellar-group.org/))
+2. Asynchronous Many-Task systems for Exascale 2021 held in conjunction with [Euro-Par 2021](https://2021.euro-par.org/) ([Link](https://amte-workshop.github.io/2021))
+3. Asynchronous Many-Task systems for Exascale 2022 held in conjunction with [Euro-Par 2022](https://2022.euro-par.org/) ([Link](https://amte-workshop.github.io/2022))
 4. Workshop on Asynchronous Many-Task Systems and Applications 2023, [Link](https://wamta23.stellar-group.org/) 
-5. Asynchronous Many-Task systems for Exascale 2023 held in conjunction with [Euro-Par 2023](https://2023.euro-par.org/) ([Link](https://amte2023.stellar-group.org/))
+5. Asynchronous Many-Task systems for Exascale 2023 held in conjunction with [Euro-Par 2023](https://2023.euro-par.org/) ([Link](https://amte-workshop.github.io/2023))
 6. Workshop on Experimental and Computational Fracture Mechanics 2024 ([Link](https://wfm2024.usacm.org/)
-7. Asynchronous Many-Task systems for Exascale 2024 held in conjunction with [Euro-Par 2024](https://2024.euro-par.org/) ([Link]( https://www.lanl.gov/amte2024))
+7. Asynchronous Many-Task systems for Exascale 2024 held in conjunction with [Euro-Par 2024](https://2024.euro-par.org/) ([Link](https://amte-workshop.github.io/2023))
 8. Workshop on Asynchronous Many-Task Systems and Applications 2024, [Link](https://wamta24.icl.utk.edu/) 
 9. Workshop on Asynchronous Many-Task Systems and Applications 2025, [Link](https://wamta25.github.io/) 
 
