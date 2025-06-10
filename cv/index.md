@@ -273,10 +273,9 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 * Computational Mathematics
     1. An overview for coupling finite elements with peridynamics
     1. State-based Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-    1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage (submitted)
+    1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage (accepted)
     1. High-order integration rules for peridynamic modeling in one and two dimensions
 * Computer Science 
-    1. Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust (accepted) [Preprint](https://arxiv.org/abs/2405.13101)
     1. Closing a Source Complexity Gap between Chapel and HPX (accepted) [Preprint](https://arxiv.org/abs/2502.07258)
     2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
     3.  LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages (submitted) [Preprint](https://arxiv.org/abs/2503.19217)
@@ -479,6 +478,9 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 55. --, Kokkos Pitch, US-RSE Community Call, 12.09.2024, Virtual Event.
 56. --, The Journal of Open Source Software: Developing a Software Review Community, Computer Science Seminar Series at Argonne National Laboratory, 12.11 2024, Virtual event. [Slides](https://zenodo.org/records/14102219) 
 57. --, Preparing for HPC on RISC-V: Examining Vectorization and Distributed Performance of an Astrophysics Application with HPX and Kokkos. International workshop on RISC-V for HPC held in conjunction with the International Conference on High Performance Computing, Network, Storage, and Analysis 2024, 18.11 2024, Atlanta, US. [Slides](https://zenodo.org/records/14189335)
+58. --, Asynchronous-Many-Task Systems: Challenges and Opportunities – Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX. Algorithms For Multiphysics Models In The Post-Moore’s Law Era, 02.06-13.06 2025, Los Alamos, USA.
+59. --, Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust, Workshop on Asynchronous Many-Task Systems and Applications 2025, 19.02-21.02 2025, St. Louis, USA
+60. --, Asynchronous-Many-Task Systems: Challenges and Opportunities – Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX, Salishan Conference on High Speed Computing, 22.04-25.04 2025, Lincoln Beach, USA.
 
 ###### Posters
 
