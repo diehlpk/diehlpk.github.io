@@ -176,7 +176,9 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Committee served
 
-1. Program Committee for the AI track of 54th International Conference on Parallel Processing
+1. Programming Frameworks, Technical Papers, Member 
+1. ChapelCon '25, Program Committee
+1. AI track of 54th International Conference on Parallel Processing, Program Committee
 1. SC25 Reproducibility Challenge, Committee member
 1. 2nd Annual Conference of the US Research Software Engineer Association, Publication committee chair
 1. 1st Annual Conference of the US Research Software Engineer Association, Special Issue Editor
@@ -202,7 +204,8 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 11. Nonlocal Modeling, Analysis, and Computation, 10th International Congress on Industrial and Applied Mathematics
 12. Recent developments in peridynamics modeling, 16th World Congress on Computational Mechanics
 13. Computational and Analytical Advances in Nonlocal Modeling, 16th World Congress on Computational Mechanics
-14. Computational and Analytical Advances in Nonlocal Modeling, SIAM Conference on Mathematical Aspects of Materials Science, 2024 
+14. Computational and Analytical Advances in Nonlocal Modeling, SIAM Conference on Mathematical Aspects of Materials Science, 2024
+15. Peridynamic Theory and Multiscale Methods for Complex Material Behavior, 18th National Congress on Computational Mechanics, 2025
 
 ##### Workshops organized
 
@@ -215,7 +218,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 6. Workshop on Experimental and Computational Fracture Mechanics 2024 ([Link](https://wfm2024.usacm.org/)
 7. Asynchronous Many-Task systems for Exascale 2024 held in conjunction with [Euro-Par 2024](https://2024.euro-par.org/) ([Link](https://amte-workshop.github.io/2023))
 8. Workshop on Asynchronous Many-Task Systems and Applications 2024, [Link](https://wamta24.icl.utk.edu/) 
-9. Workshop on Asynchronous Many-Task Systems and Applications 2025, [Link](https://wamta25.github.io/) 
+9. Workshop on Asynchronous Many-Task Systems and Applications 2025, [Link](https://wamta26.stellar-group.org/) 
 
 ##### Meetings
 
