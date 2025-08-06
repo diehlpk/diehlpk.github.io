@@ -159,7 +159,8 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 1. Liaison for the Louisiana district of the SIAM Texas-Louisiana Section, 03/20-current
 1. Member-at-large of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 07/21-31/07
 1. Mentor for the USACM Student Chapter, 01/23-current
-1. Vice-Chair of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 08/23-current
+1. Vice-Chair of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 08/23-07/25
+1. Chair of the USACM Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design (Large-Scale), 08/25-current
 
 #### Organization of Conferences, Workshops, and Symposia
 
@@ -259,6 +260,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 2. Mentoring lunch, 5th Annual Meeting of the SIAM Texas-Louisiana Section, 2022
 3. Mentoring lunch, 6th Annual Meeting of the SIAM Texas-Louisiana Section, 2023
 4. Mentoring lunch, 17th U. S. National Congress on Computational Mechanics, 2023
+4. Mentoring lunch, 18th U. S. National Congress on Computational Mechanics, 2025
 
 ---
 
@@ -282,7 +284,6 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. Closing a Source Complexity Gap between Chapel and HPX (accepted) [Preprint](https://arxiv.org/abs/2502.07258)
     2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
     3.  LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages (submitted) [Preprint](https://arxiv.org/abs/2503.19217)
-    4. LLM & HPC:Benchmarking DeepSeek's Performance in High-Performance Computing Tasks (accepted) [Preprint](https://arxiv.org/abs/2504.03665)
 * Astrophysics
     1. Visualizing the mass-transfer flow in direct-impact accretion
 
@@ -303,6 +304,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Diehl, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
 ###### Journal articles
+1. P. Diehl, N. Nader, M. Moraru, and S. R. Brandt. LLM BENCHMARKING WITH LLaMA2: EVALUATING CODE DEVELOPMENT PERFORMANCE ACROSS MULTIPLE PROGRAMMING LANGUAGES. Journal of Machine Learning for Modeling and Computing, 6(3):95–129, 2025. [10.1615/JMachLearnModelComput.2025058957](https://doi.org/10.1615/JMachLearnModelComput.2025058957) [Preprint](https://arxiv.org/abs/2504.03665)
 1. Diehl, P , Soneson, C , Kurchin, R , Mounce, R & Katz, D. The Journal of Open Source Software (JOSS): Bringing Open-Source Software Practices to the Scholarly Publishing Community for Authors, Reviewers, Editors, and Publishers. Journal of Librarianship and Scholarly Communication. 2025 2; 12(2) [10.31274/jlsc.18285](https://www.iastatedigitalpress.com/jlsc/article/id/18285/#)
 1. Prashant K. Jha, Patrick Diehl, Robert Lipton, Nodal finite element approximation of peridynamics, Computer Methods in Applied Mechanics and Engineering, 2025 [10.1016/j.cma.2024.117519](https://doi.org/10.1016/j.cma.2024.117519), [Preprint](https://arxiv.org/abs/2403.05501)
 1. Sagiv Shiber, Orsola De Marco, Patrick M Motl, Bradley Munson, Dominic C Marcello, Juhan Frank, Patrick Diehl, Geoffrey C Clayton, Bennett N Skinner, Hartmut Kaiser, Gregor Daiß, Dirk Pflüger, Jan E Staff, Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars, Monthly Notices of the Royal Astronomical Society, 2024 [10.1093/mnras/stae2343](https://doi.org/10.1093/mnras/stae2343), [Preprint](https://arxiv.org/abs/2405.13101)
