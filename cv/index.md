@@ -278,14 +278,13 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 * Computational Mathematics
     1. An overview for coupling finite elements with peridynamics
     1. State-based Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
-    1. Challenges for coupling approaches for classical linear elasticity and bond-based peridynamic models for non-uniform meshes and damage (accepted)
     1. High-order integration rules for peridynamic modeling in one and two dimensions
 * Computer Science 
     1. Closing a Source Complexity Gap between Chapel and HPX (accepted) [Preprint](https://arxiv.org/abs/2502.07258)
     2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
-    3.  LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages (submitted) [Preprint](https://arxiv.org/abs/2503.19217)
+    3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (submitted) [Preprint](https://arxiv.org/abs/2508.16419)
 * Astrophysics
-    1. Visualizing the mass-transfer flow in direct-impact accretion
+    1. Visualizing the mass-transfer flow in direct-impact accretion (submitted)
 
 ###### Books
 
@@ -304,7 +303,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Diehl, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
 ###### Journal articles
-1. P. Diehl, N. Nader, M. Moraru, and S. R. Brandt. LLM BENCHMARKING WITH LLaMA2: EVALUATING CODE DEVELOPMENT PERFORMANCE ACROSS MULTIPLE PROGRAMMING LANGUAGES. Journal of Machine Learning for Modeling and Computing, 6(3):95–129, 2025. [10.1615/JMachLearnModelComput.2025058957](https://doi.org/10.1615/JMachLearnModelComput.2025058957) [Preprint](https://arxiv.org/abs/2504.03665)
+1. P. Diehl, N. Nader, M. Moraru, and S. R. Brandt. LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages. Journal of Machine Learning for Modeling and Computing, 6(3):95–129, 2025. [10.1615/JMachLearnModelComput.2025058957](https://doi.org/10.1615/JMachLearnModelComput.2025058957) [Preprint](https://arxiv.org/abs/2504.03665)
 1. Diehl, P , Soneson, C , Kurchin, R , Mounce, R & Katz, D. The Journal of Open Source Software (JOSS): Bringing Open-Source Software Practices to the Scholarly Publishing Community for Authors, Reviewers, Editors, and Publishers. Journal of Librarianship and Scholarly Communication. 2025 2; 12(2) [10.31274/jlsc.18285](https://www.iastatedigitalpress.com/jlsc/article/id/18285/#)
 1. Prashant K. Jha, Patrick Diehl, Robert Lipton, Nodal finite element approximation of peridynamics, Computer Methods in Applied Mechanics and Engineering, 2025 [10.1016/j.cma.2024.117519](https://doi.org/10.1016/j.cma.2024.117519), [Preprint](https://arxiv.org/abs/2403.05501)
 1. Sagiv Shiber, Orsola De Marco, Patrick M Motl, Bradley Munson, Dominic C Marcello, Juhan Frank, Patrick Diehl, Geoffrey C Clayton, Bennett N Skinner, Hartmut Kaiser, Gregor Daiß, Dirk Pflüger, Jan E Staff, Hydrodynamic simulations of white dwarf-white dwarf mergers and the origin of R Coronae Borealis stars, Monthly Notices of the Royal Astronomical Society, 2024 [10.1093/mnras/stae2343](https://doi.org/10.1093/mnras/stae2343), [Preprint](https://arxiv.org/abs/2405.13101)
