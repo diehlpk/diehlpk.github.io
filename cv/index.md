@@ -279,12 +279,18 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. An overview for coupling finite elements with peridynamics
     1. State-based Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
     1. High-order integration rules for peridynamic modeling in one and two dimensions
+    1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science 
     1. Closing a Source Complexity Gap between Chapel and HPX (accepted) [Preprint](https://arxiv.org/abs/2502.07258)
     2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
     3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (submitted) [Preprint](https://arxiv.org/abs/2508.16419)
+    4. Bridging Simulation and Silicon: A Study of RISC-V Hardware and FireSim Simulation (accepted) [Preprint](https://arxiv.org/abs/2509.18472)
+    5. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
+    6. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
+    7. Toward a cardiovascular digital twin: A computational model
+scalable to 34 billion vessels (submitted)
 * Astrophysics
-    1. Visualizing the mass-transfer flow in direct-impact accretion (submitted)
+    1. Visualizing the mass-transfer flow in direct-impact accretion (accepted)
 
 ###### Books
 
