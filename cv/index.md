@@ -281,6 +281,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. High-order integration rules for peridynamic modeling in one and two dimensions
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science 
+    1. Shaping the future workforce: Challenges and lessons learned in HPC education from national labs and computing centers (accepted)
     1. Closing a Source Complexity Gap between Chapel and HPX (accepted) [Preprint](https://arxiv.org/abs/2502.07258)
     2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
     3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (submitted) [Preprint](https://arxiv.org/abs/2508.16419)
