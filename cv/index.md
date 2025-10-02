@@ -282,7 +282,6 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science 
     1. Shaping the future workforce: Challenges and lessons learned in HPC education from national labs and computing centers (accepted)
-    1. Closing a Source Complexity Gap between Chapel and HPX (accepted) [Preprint](https://arxiv.org/abs/2502.07258)
     2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
     3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (submitted) [Preprint](https://arxiv.org/abs/2508.16419)
     4. Bridging Simulation and Silicon: A Study of RISC-V Hardware and FireSim Simulation (accepted) [Preprint](https://arxiv.org/abs/2509.18472)
@@ -291,7 +290,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     7. Toward a cardiovascular digital twin: A computational model
 scalable to 34 billion vessels (submitted)
 * Astrophysics
-    1. Visualizing the mass-transfer flow in direct-impact accretion (accepted)
+    1. Visualizing the mass-transfer flow in direct-impact accretion (accepted) [Preprint](https://arxiv.org/abs/2509.21610)
 
 ###### Books
 
@@ -389,6 +388,7 @@ Supercomputers (DLS), pages 20–30, 2020. [Link](https://ieeexplore.ieee.org/ab
 22. Diehl, P. and et al., Preparing for HPC on RISC-V: Examining Vectorization and Distributed Performance of an Astrophysics Application with HPX and Kokkos. In Proceedings of the SC’24 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis, SC-W’24, New York, NY, USA, 2024. Association for Computing Machinery. [10.1109/SCW63240.2024.00207](https://doi.ieeecomputersociety.org/10.1109/SCW63240.2024.00207) [Preprint](https://arxiv.org/abs/2407.00026) 
 23. P. Diehl, N. Nader, S. Brandt, and H. Kaiser. Evaluating AI-generated code for C++, fortran, go, java, julia, matlab, python, R, and rust. In S. Caino-Lores, D. Zeinalipour, T. D. Doudali, D. E. Singh, G. E. M. Garzón,
 L. Sousa, D. Andrade, T. Cucinotta, D. D’Ambrosio, P. Diehl, M. F. Dolz, A. Jukan, R. Montella, M. Nardelli, M. Garcia-Gasulla, and S. Neuwirth, editors, Euro-Par 2024: Parallel Processing Workshops, pages 243–254, Cham, 2025. Springer Nature Switzerland. [10.1007/978-3-031-90200-0_20](https://doi.org/10.1007/978-3-031-90200-0_20) [Preprint](https://arxiv.org/abs/2405.13101)
+24. Atre, S., Taylor, C., Diehl, P., Kaiser, H. (2026). Closing a Source Complexity Gap Between Chapel and HPX. In: Diehl, P., Cao, Q., Herault, T., Bosilca, G. (eds) Asynchronous Many-Task Systems and Applications. WAMTA 2025. Lecture Notes in Computer Science, vol 15690. Springer, Cham. [10.1007/978-3-031-97196-9_3](https://doi.org/10.1007/978-3-031-97196-9_3) [Preprint](https://arxiv.org/abs/2502.07258)
 
 ###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
