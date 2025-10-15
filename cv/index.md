@@ -495,7 +495,7 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 58. --, Asynchronous-Many-Task Systems: Challenges and Opportunities – Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX. Algorithms For Multiphysics Models In The Post-Moore’s Law Era, 02.06-13.06 2025, Los Alamos, USA.
 59. --, Evaluating AI-generated code for C++, Fortran, Go, Java, Julia, Matlab, Python, R, and Rust, Workshop on Asynchronous Many-Task Systems and Applications 2025, 19.02-21.02 2025, St. Louis, USA
 60. --, Asynchronous-Many-Task Systems: Challenges and Opportunities – Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX, Salishan Conference on High Speed Computing, 22.04-25.04 2025, Lincoln Beach, USA. [Slides](https://doi.org/10.5281/zenodo.15271570)
-
+61. D. S. Katz, P. Diehl, and W. Gearty. Joss: A journal for open source software that is an open source software project. US Research Software Engineering Conference 2025 (USRSE’25), 6.10-08.10 2025, Philadelphia, USA. [Slides](https://zenodo.org/records/17288084)
 ###### Posters
 
 1. Patrick Diehl and Daniel S. Katz, JOSS – The Journal of Open Source Software. 2nd Annual Conference of the US Research Software Engineer Association, 15.10-17.10 2024, Albuquerque, US. [Poster](https://zenodo.org/records/13942443)
