@@ -282,15 +282,12 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science 
     1. Shaping the future workforce: Challenges and lessons learned in HPC education from national labs and computing centers (accepted)
-    2. Asynchronous-Many-Task Systems: Challenges and Opportunities -- Scaling an AMR Astrophysics Code on Exascale machines using Kokkos and HPX (submitted) [Preprint](https://arxiv.org/abs/2412.15518) 
     3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (submitted) [Preprint](https://arxiv.org/abs/2508.16419)
     4. Bridging Simulation and Silicon: A Study of RISC-V Hardware and FireSim Simulation (accepted) [Preprint](https://arxiv.org/abs/2509.18472)
     5. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
     6. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
     7. Toward a cardiovascular digital twin: A computational model
 scalable to 34 billion vessels (submitted)
-* Astrophysics
-    1. Visualizing the mass-transfer flow in direct-impact accretion (accepted) [Preprint](https://arxiv.org/abs/2509.21610)
 
 ###### Books
 
@@ -309,6 +306,7 @@ scalable to 34 billion vessels (submitted)
 1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Diehl, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
 ###### Journal articles
+1. J. Frank, A. Straub, S. Shiber, P. Amini, D. C. Marcello, P. Diehl, T. Ertl, F. Sadlo, and S. Frey. Visualizing the mass transfer flow in direct-impact accretion. Monthly Notices of the Royal Astronomical Society, 543(4):4003–4019, 10 2025. [10.1093/mnras/staf1694] (https://doi.org/10.1093/mnras/staf1694) [Preprint](https://arxiv.org/abs/2509.21610)
 1. P. Diehl, N. Nader, M. Moraru, and S. R. Brandt. LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages. Journal of Machine Learning for Modeling and Computing, 6(3):95–129, 2025. [10.1615/JMachLearnModelComput.2025058957](https://doi.org/10.1615/JMachLearnModelComput.2025058957) [Preprint](https://arxiv.org/abs/2504.03665)
 1. Diehl, P , Soneson, C , Kurchin, R , Mounce, R & Katz, D. The Journal of Open Source Software (JOSS): Bringing Open-Source Software Practices to the Scholarly Publishing Community for Authors, Reviewers, Editors, and Publishers. Journal of Librarianship and Scholarly Communication. 2025 2; 12(2) [10.31274/jlsc.18285](https://www.iastatedigitalpress.com/jlsc/article/id/18285/#)
 1. Prashant K. Jha, Patrick Diehl, Robert Lipton, Nodal finite element approximation of peridynamics, Computer Methods in Applied Mechanics and Engineering, 2025 [10.1016/j.cma.2024.117519](https://doi.org/10.1016/j.cma.2024.117519), [Preprint](https://arxiv.org/abs/2403.05501)
