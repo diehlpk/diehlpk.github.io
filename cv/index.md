@@ -281,9 +281,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. High-order integration rules for peridynamic modeling in one and two dimensions
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science 
-    1. Shaping the future workforce: Challenges and lessons learned in HPC education from national labs and computing centers (accepted)
+    1. Shaping the future workforce: Challenges and lessons learned in HPC education from national labs and computing centers (accepted) [Preprint](https://osf.io/preprints/edarxiv/sua4v_v1)
     3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (submitted) [Preprint](https://arxiv.org/abs/2508.16419)
-    4. Bridging Simulation and Silicon: A Study of RISC-V Hardware and FireSim Simulation (accepted) [Preprint](https://arxiv.org/abs/2509.18472)
     5. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
     6. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
     7. Toward a cardiovascular digital twin: A computational model
