@@ -10,7 +10,8 @@ hide: true
 
 
 ##### Current Appointment
-* Jun 2024 - present Research scientist, Applied Computer Science, Los Alamos National Laboratory ([Link](https://www.lanl.gov/)) 
+* Oct 2025 - present Research scientist, Computing and Artificial Intelligence, Los Alamos National Laboratory ([Link](https://www.lanl.gov/))
+* Jun 2024 - September 2025 Research scientist, Applied Computer Science, Los Alamos National Laboratory ([Link](https://www.lanl.gov/)) 
 * May 2022 - present Adjunct Faculty, Department of Physics & Astronomy, Louisiana State University ([Link](https://www.lsu.edu/physics/))
 
 ##### Professional Experience
