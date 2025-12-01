@@ -2150,7 +2150,7 @@ editor="Diehl, Patrick
 and Cao, Qinglei
 and Herault, Thomas
 and Bosilca, George",
-title="Closing a Source Complexity Gap Between Chapel and HPX",
+title="{Closing a Source Complexity Gap Between Chapel and HPX}",
 booktitle="Asynchronous Many-Task Systems and Applications",
 year="2026",
 publisher="Springer Nature Switzerland",
@@ -2225,4 +2225,42 @@ Galen Shipman},
   HowPublished             = {International Conference on High Performance Computing, Network, Storage, and Analysis 2025},
   Month                    = {16.11-21.11},
   Year                     = {2025, St. Louis US}
+}
+
+@inproceedings{10.1145/3731599.3767534,
+author = {Barai, Atanu and Kamalakkannan, Kamalavasan and Diehl, Patrick and Moraru, Maxim and Dominguez-Trujillo, Jered and Pritchard, Howard and Santhi, Nandakishore and Fatollahi-Fard, Farzad and Shipman, Galen},
+title = {{Bridging Simulation and Silicon: A Study of RISC-V Hardware and FireSim Simulation}},
+year = {2025},
+isbn = {9798400718717},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3731599.3767534},
+doi = {10.1145/3731599.3767534},
+abstract = {RISC-V ISA-based processors have recently emerged as both powerful and energy-efficient computing platforms. The release of the MILK-V Pioneer marked a significant milestone as the first desktop-grade RISC-V system. With increasing engagement from both academia and industry, such platforms exhibit strong potential for adoption in high-performance computing (HPC) environments. The open-source, FPGA-accelerated FireSim framework emerged as a flexible and scalable tool for architectural exploration, enabling simulation of various system configurations using RISC-V cores. Despite its capabilities, there remains a lack of systematic evaluation regarding the feasibility and performance prediction accuracy of FireSim when compared to physical hardware. In this study, we address this gap by modeling a commercially available single-board computer and a desktop-grade RISC-V CPU within FireSim. To ensure fidelity between simulation and real hardware, we first measure the performance of a series of benchmarks to compare runtime behavior under single-core and four-core configurations. Based on the closest matching simulation parameters, we subsequently evaluate performance using a representative mini-application and the LAMMPS molecular dynamics code. Our findings indicate that while FireSim provides valuable insights into architectural performance trends, discrepancies remain between simulated and measured runtimes. These deviations stem from both inherent limitations of the simulation environment and the restricted availability of detailed performance specifications from CPU manufacturers, which hinder precise configuration matching.},
+booktitle = {Proceedings of the SC '25 Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+pages = {1712–1722},
+numpages = {11},
+keywords = {RISC-V, FireSim, High Performance Computing.},
+location = {
+},
+series = {SC Workshops '25}
+}
+
+@InProceedings{10.1007/978-3-032-07612-0_48,
+author="Nader, Noujoud
+and Diehl, Patrick
+and Brandt, Steve
+and Kaiser, Hartmut",
+editor="Neuwirth, Sarah
+and Paul, Arnab Kumar
+and Weinzierl, Tobias
+and Carson, Erin Claire",
+title="{LLM {\&} HPC: Benchmarking DeepSeek's Performance in High-Performance Computing Tasks}",
+booktitle="High Performance Computing",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="626--638",
+abstract="Large Language Models (LLMs), such as GPT-4 and DeepSeek, have been applied to a wide range of domains in software engineering. However, their potential in the context of High-Performance Computing (HPC) much remains to be explored. This paper evaluates how well DeepSeek, a recent LLM, performs in generating a set of HPC benchmark codes: a conjugate gradient solver, the parallel heat equation, parallel matrix multiplication, DGEMM, and the STREAM triad operation. We analyze DeepSeek's code generation capabilities for traditional HPC languages like C++, Fortran, Julia and Python. The evaluation includes testing for code correctness, performance, and scaling across different configurations and matrix sizes. We also provide a detailed comparison between DeepSeek and another widely used tool: GPT-4. Our results demonstrate that while DeepSeek generates functional code for HPC tasks, it lags behind GPT-4, in terms of scalability and execution efficiency of the generated code.",
+isbn="978-3-032-07612-0"
 }
