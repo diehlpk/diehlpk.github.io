@@ -37,3 +37,7 @@ A collection of books, which I used during my studies:
 * The man who knew too much, David Leavitt, W. W. Norton & Company, 17. November 2006, ISBN 0739471953
 * Thinking Better: The Art of the Shortcut, Marcus du Sautoy, Fourth Estate, 19. August 2021, ISBN 0008393915
 * The Code Breaker, Walter Isaacson, Simon & Schuster Ltd, 12. Mai 2022, ISBN 1398518603
+
+## Biographies
+* Robert Oppenheimer: His Life and Mind, Ray Monk, Random House, August 14, 2012, ISBN 9780385504072
+
