@@ -220,7 +220,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 6. Workshop on Experimental and Computational Fracture Mechanics 2024 ([Link](https://wfm2024.usacm.org/)
 7. Asynchronous Many-Task systems for Exascale 2024 held in conjunction with [Euro-Par 2024](https://2024.euro-par.org/) ([Link](https://amte-workshop.github.io/2023))
 8. Workshop on Asynchronous Many-Task Systems and Applications 2024, [Link](https://wamta24.icl.utk.edu/) 
-9. Workshop on Asynchronous Many-Task Systems and Applications 2025, [Link](https://wamta26.stellar-group.org/) 
+9. Workshop on Asynchronous Many-Task Systems and Applications 2025, [Link](https://wamta25.github.io/) 
+10. Workshop on Asynchronous Many-Task Systems and Applications 2026, [Link](https://wamta26.stellar-group.org/) 
 
 ##### Meetings
 
@@ -281,7 +282,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. State-based Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
     1. High-order integration rules for peridynamic modeling in one and two dimensions
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
-* Computer Science 
+* Computer Science
+    1. Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI (submitted) [Preprint](https://arxiv.org/abs/2601.14608)
     1. Shaping the future workforce: Challenges and lessons learned in HPC education from national labs and computing centers (accepted) [Preprint](https://osf.io/preprints/edarxiv/sua4v_v1)
     3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (submitted) [Preprint](https://arxiv.org/abs/2508.16419)
     5. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
