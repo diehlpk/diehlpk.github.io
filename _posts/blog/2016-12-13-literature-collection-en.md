@@ -7,6 +7,10 @@ author: diehlpk
 ---
 A collection of books, which I used during my studies:
 
+## AI 
+
+* The Age of AI and Our Human Future, Henry Kissinger, Eric Schmidt, and Daniel Huttenlocher, November 2, 2021, Little, Brown and Company, ISBN 0316273804
+
 ## Continuum mechanics
 * Continuum mechanics and theory of materials. P. Haupt. Springer. 2001. ISBN 14392674 [link](http://www.springer.com/de/book/9783540431114)
 
