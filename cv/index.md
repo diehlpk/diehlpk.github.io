@@ -503,7 +503,14 @@ Congress for Theoretical and Applied Mechanics, 04.06-09.06 2018, Rosemont, US.
 62. A. Barai, K. Kamalakkannan, <u>Patrick Diehl</u>, M. Moraru, J. Dominguez-Trujillo, H. Pritchard, N. Santhi, F. Fatollahi-Fard, and G. Shipman. Bridging Simulation and Silicon:A Study of RISC-V Hardware and FireSim Simulation. Third International workshop on RISC-V for HPC held in conjunction with the International Conference on High Performance Computing, Network, Storage, and Analysis 2025, 17.11 2025, Denver, US. [Slides](https://zenodo.org/records/17603153)
 64. <u>Patrick Diehl</u>, Y. W. Li, C. Junghans, J. K. Holmen, E. MacCarthy, S. Parete-Koon, Y. H. He, R. Hartman-Baker, C. Lively, K. Gott, L. Gupta, K. Streu, Y. Ghadar, P. Kinsley, J. Herriman, E. W. Draeger, V. Eijkhout, and S. Mehringer. Shaping the future workforce: Challenges
 and lessons learned in HPC education from national labs and computing centers. 12th SC Workshop on best Practices for HPC Training and Education held in conjunction with the International Conference on High Performance Computing, Network, Storage, and Analysis 2025, 17.11 2025, Denver, US. [Slides](https://zenodo.org/records/17603228)
-
+65. D. S. Katz, W. H. Ball, P. Diehl, R. Littauer, K. E. Niemeyer, and A. M.
+Smith. The Journal of Open Source Software (JOSS): An open community
+and platform providing credit to software developers in the time of GenAI.
+The 6th Conference for Research Software Engineering, 03.03–05.03 2026,
+Stuttgart, Germany.
+66. <u>Patrick Diehl</u>, Y. W. Li, C. Junghans, J. K. Holmen, E. MacCarthy, S. Parete-Koon, Y. H. He, R. Hartman-Baker, C. Lively, K. Gott, L. Gupta, K. Streu, Y. Ghadar, P. Kinsley, J. Herriman, E. W. Draeger, V. Eijkhout, and S. Mehringer. Shaping the future workforce: Challenges
+and lessons learned in HPC education from national labs and computing centers. High
+Performance Software Foundation (HPSF) conference, 16.03--20.03 2026, Chicago, US. [Slides](https://zenodo.org/records/17603228)
 ###### Posters
 
 1. Patrick Diehl and Daniel S. Katz, JOSS – The Journal of Open Source Software. 2nd Annual Conference of the US Research Software Engineer Association, 15.10-17.10 2024, Albuquerque, US. [Poster](https://zenodo.org/records/13942443)
