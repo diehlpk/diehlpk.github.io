@@ -284,8 +284,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science
     1. Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI (submitted) [Preprint](https://arxiv.org/abs/2601.14608)
-    1. Shaping the future workforce: Challenges and lessons learned in HPC education from national labs and computing centers (accepted) [Preprint](https://osf.io/preprints/edarxiv/sua4v_v1)
-    3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (submitted) [Preprint](https://arxiv.org/abs/2508.16419)
+    3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (accepted) [Preprint](https://arxiv.org/abs/2508.16419)
     5. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
     6. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
     7. Toward a cardiovascular digital twin: A computational model
@@ -308,6 +307,7 @@ scalable to 34 billion vessels (submitted)
 1. R. Chaves, D. B. Heras, A. Ilic, D. Unat, R. M. Badia, A. Bracciali, P. Diehl, A. Dubey, O. Sangyoon, S. L. Scott, and L. Ricci, editors. Euro-Par 2021: Parallel Processing Workshops (Euro-Par 2021 International Workshops, Lisbon, Portugal, August 30-31, 2021, Revised Selected Papers), volume 13098 of Lecture Notes in Computer Science (LNCS). Springer, 2021s
 
 ###### Journal articles
+1. P. Diehl, Y. W. Li, C. Junghans, J. K. Holmen, E. MacCarthy, S. Parete-Koon, Y. H. He, R. Hartman-Baker, C. Lively, K. Gott, L. Gupta, K. Streu, Y. Ghadar, P. Kinsley, J. Herriman, E. W. Draeger, V. Eijkhout, and S. Mehringer. Shaping the futureworkforce: Challenges and lessons learned in hpc education from national labs and computing centers. The Journal of Computational Science Education, 17:19–27, Mar. 2026. [10.22369/issn.2153-4136/17/1/3](https://doi.org/10.22369/issn.2153-4136/17/1/3) [Preprint](https://osf.io/preprints/edarxiv/sua4v_v1)
 1. G. Daiß, P. Diehl, J. Yan, J. K. Holmen, R. Gayatri, C. Junghans, A. Straub, J. R. Hammond, D. Marcello, M. Tsuji, D. Pflüger, and H. Kaiser. Asynchronous-many-task systems: Challenges and opportunities - Scaling an AMR astrophysics code on exascale machines using Kokkos and HPX. The International Journal of High Performance Computing Applications, 2025. [10.1177/1094342025138650](https://doi.org/10.1177/109434202513865) [Preprint](https://arxiv.org/abs/2412.15518)
 1. J. Frank, A. Straub, S. Shiber, P. Amini, D. C. Marcello, P. Diehl, T. Ertl, F. Sadlo, and S. Frey. Visualizing the mass transfer flow in direct-impact accretion. Monthly Notices of the Royal Astronomical Society, 543(4):4003–4019, 10 2025. [10.1093/mnras/staf1694] (https://doi.org/10.1093/mnras/staf1694) [Preprint](https://arxiv.org/abs/2509.21610)
 1. P. Diehl, N. Nader, M. Moraru, and S. R. Brandt. LLM Benchmarking with LLaMA2: Evaluating Code Development Performance Across Multiple Programming Languages. Journal of Machine Learning for Modeling and Computing, 6(3):95–129, 2025. [10.1615/JMachLearnModelComput.2025058957](https://doi.org/10.1615/JMachLearnModelComput.2025058957) [Preprint](https://arxiv.org/abs/2504.03665)
