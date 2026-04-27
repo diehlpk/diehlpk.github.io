@@ -514,6 +514,8 @@ Stuttgart, Germany.
 66. <u>Patrick Diehl</u>, Y. W. Li, C. Junghans, J. K. Holmen, E. MacCarthy, S. Parete-Koon, Y. H. He, R. Hartman-Baker, C. Lively, K. Gott, L. Gupta, K. Streu, Y. Ghadar, P. Kinsley, J. Herriman, E. W. Draeger, V. Eijkhout, and S. Mehringer. Shaping the future workforce: Challenges
 and lessons learned in HPC education from national labs and computing centers. High
 Performance Software Foundation (HPSF) conference, 16.03--20.03 2026, Chicago, US. [Slides](https://zenodo.org/records/17603228)
+67. P. Diehl. Quantum Computing Explained: Shaping the Future—and Careers at Los Alamos. SuperComputing Challenge, 20.04 2026, Los Alamos US. [Slides](https://zenodo.org/records/19822528)
+
 ###### Posters
 
 1. Patrick Diehl and Daniel S. Katz, JOSS – The Journal of Open Source Software. 2nd Annual Conference of the US Research Software Engineer Association, 15.10-17.10 2024, Albuquerque, US. [Poster](https://zenodo.org/records/13942443)
