@@ -393,6 +393,9 @@ L. Sousa, D. Andrade, T. Cucinotta, D. D’Ambrosio, P. Diehl, M. F. Dolz, A. Ju
 25. N. Nader, P. Diehl, S. Brandt, and H. Kaiser. LLM & HPC: Benchmarking DeepSeek’s Performance in High-Performance Computing Tasks, In S. Neuwirth, A. K. Paul, T. Weinzierl, and E. C. Carson, editors, High
 Performance Computing, pages 626–638, Cham, 2026. Springer Nature
 Switzerland. [10.1007/978-3-032-07612-0_48](https://doi.org/10.1007/978-3-032-07612-0_48) [Preprint](https://arxiv.org/abs/2504.03665)
+26. A. Mhatre, N. Nader, P. Diehl, and D. Gupta. Can LLMs Find Bugs in
+Code? An Evaluation from Beginner Errors to Security Vulnerabilities in
+Python and C++. In SoutheastCon 2026, 2026. [10.1109/SoutheastCon63549.2026.11476483](https://doi.org/10.1109/SoutheastCon63549.2026.11476483) [Preprint](https://arxiv.org/abs/2508.16419)
 
 ###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
