@@ -2276,7 +2276,7 @@ isbn="978-3-032-07612-0"
 }
 
 @article{diehl2025Mandelbrot,
-      title={{LLM-HPC++: Evaluating LLM-Generated Modern C++ and
+      title={{LLM-HPC\texttt{++}: Evaluating LLM-Generated Modern C\texttt{++} and
 MPI+OpenMP Codes for Scalable Mandelbrot Set
 Computation}}, 
       author={Patrick Diehl and Noujoude Nader and Deepti Gupta},
@@ -2342,7 +2342,7 @@ Computation}},
   Title                    = {{Quantum Computing Explained: Shaping the Future—and Careers at Los Alamos}},
   Author                   = {Patrick Diehl},
   HowPublished             = {{SuperComputing Challenge}},
-  Month                    = {20.04-},
+  Month                    = {20.04},
   Year                     = {2026, Los Alamos US}
 }
 
@@ -2356,3 +2356,24 @@ Computation}},
   pages={1-8},
   keywords={Weapons;Military equipment;MIMICs;Millimeter wave integrated circuits;Monolithic integrated circuits;Protocols;Communication systems;Amplitude shift keying;HTTP;Amplitude modulation;Artificial Intelligence (AI);LLMs;Code;Software Development;Security},
  doi={10.1109/SoutheastCon63549.2026.11476483}}
+ 
+ 
+ @Misc{Diehl:2026*FOREST,
+  Title                    = {{A Survey of Distributed Asynchronous Many-Task Models and Their Applications}},
+  Author                   = {Patrick Diehl},
+  HowPublished             = {{Workshop on Fostering an Open-Source Runtime Eco-System for PaRSEC}},
+  Month                    = {06.05-07.05},
+  Year                     = {2026, Los Alamos US}
+}
+ 
+@article{
+doi:10.36227/techrxiv.176652588.81044275/v1,
+author = {Joseph Schuchart  and Michael Bauer  and Patrick Diehl  and Aurelien Bouteiller  and Gregor Daiss  and Engin Kayraklioglu  and Shreyas Khandekar  and Thomas Herault  and John K. Holmen  and Ritvik S. Rao  and Alexander Strack  and Elliott Schlaughter  and Jennifer C. Spinti  and Jeremy N. Thornock  and Alex Aiken  and Olivier Aumage  and Martin Berzins  and George Bosilca  and Bradford L. Chamberlain  and Hartmut Kaiser  and Laxmikant (Sanjay) Kale },
+title = {A Survey of Distributed Asynchronous Many-Task Models and Their Applications},
+journal = {TechRxiv},
+volume = {2025},
+number = {1223},
+pages = {},
+year = {2025},
+doi = {10.36227/techrxiv.176652588.81044275/v1},
+abstract = {Asynchronous many-task (AMT) runtime systems have become an important paradigm for expressing fine-grained parallelism and managing asynchrony in high-performance computing (HPC). Originating from early dataflow concepts, AMTs have evolved to enable dynamic task generation, explicit dependency management, and asynchronous execution, facilitating the overlap of computation and communication. These capabilities address the limitations of traditional bulk-synchronous models, such as those employed in MPI+X,  which can struggle with irregular, adaptive, or data-driven workloads. This survey provides a comprehensive overview of representative  distributed AMT systems—including Charm++, HPX, Legion, PaRSEC, Uintah, Chapel, and StarPU—focusing on their design principles,  execution models, and runtime mechanisms for scheduling, communication, and synchronization. We examine how these systems  tackle key challenges such as load imbalance, runtime overheads, programmability, and performance portability. In addition, the paper  discusses application domains where AMTs have demonstrated tangible benefits and highlights the conditions under which their use  is most advantageous. The goal of this survey is to equip researchers and practitioners with a clear understanding of distributed AMT  models and to provide guidance for selecting and applying the most suitable runtime system for specific computational objectives.}}
