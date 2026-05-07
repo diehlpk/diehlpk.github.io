@@ -516,6 +516,9 @@ Stuttgart, Germany.
 and lessons learned in HPC education from national labs and computing centers. High
 Performance Software Foundation (HPSF) conference, 16.03--20.03 2026, Chicago, US. [Slides](https://zenodo.org/records/17603228)
 67. P. Diehl. Quantum Computing Explained: Shaping the Future—and Careers at Los Alamos. SuperComputing Challenge, 20.04 2026, Los Alamos US. [Slides](https://zenodo.org/records/19822528)
+68. P. Diehl. A Survey of Distributed Asynchronous Many-Task Models and Their Applications.
+Workshop on Fostering an Open-Source Runtime Eco-System for PaRSEC,
+06.05-07.05 2026, Knoxville, US. [Slides](https://zenodo.org/records/20045425)
 
 ###### Posters
 
