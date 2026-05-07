@@ -283,7 +283,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. High-order integration rules for peridynamic modeling in one and two dimensions
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science
-    1. Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI (submitted) [Preprint](https://arxiv.org/abs/2601.14608)
+    1. A survey of distributed asynchronous many-task models and their applications (submitted) [Preprint](https://www.techrxiv.org/doi/10.36227/techrxiv.176652588.81044275)
+    1. Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI (accepted) [Preprint](https://arxiv.org/abs/2601.14608)
     3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (accepted) [Preprint](https://arxiv.org/abs/2508.16419)
     5. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
     6. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
