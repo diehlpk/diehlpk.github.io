@@ -178,14 +178,16 @@ Also available as [PDF document]({{ site.url }}/assets/courses.pdf) with more de
 
 ##### Committee served
 
-1. Programming Frameworks, Technical Papers, Member 
+1. The 1st International Workshop on Agentic AI for HPC, Program Committee
+1. 3rd Annual Conference of the US Research Software Engineer Association, Publication committee chair
+1. Programming Frameworks, Technical Papers, Program Committee
 1. ChapelCon '25, Program Committee
 1. AI track of 54th International Conference on Parallel Processing, Program Committee
 1. SC25 Reproducibility Challenge, Committee member
 1. 2nd Annual Conference of the US Research Software Engineer Association, Publication committee chair
 1. 1st Annual Conference of the US Research Software Engineer Association, Special Issue Editor
 1. The First International Workshop on Democratizing High-Performance Computing (D-HPC 2023), Program committee member
-1. Gateways Conference 2023. Program committee member
+1. Gateways Conference 2023. Program committee 
 1. Gateways Conference 2022, Publication Chair
 1. The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 21, AD/AE Appendices, Member
 1. Gateways Conference 2021, Program committee member
