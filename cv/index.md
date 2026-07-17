@@ -286,7 +286,6 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science
     1. A survey of distributed asynchronous many-task models and their applications (submitted) [Preprint](https://www.techrxiv.org/doi/10.36227/techrxiv.176652588.81044275)
-    1. Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI (accepted) [Preprint](https://arxiv.org/abs/2601.14608)
     3. LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python (accepted) [Preprint](https://arxiv.org/abs/2508.16419)
     5. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
     6. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
@@ -399,6 +398,8 @@ Switzerland. [10.1007/978-3-032-07612-0_48](https://doi.org/10.1007/978-3-032-07
 26. A. Mhatre, N. Nader, P. Diehl, and D. Gupta. Can LLMs Find Bugs in
 Code? An Evaluation from Beginner Errors to Security Vulnerabilities in
 Python and C++. In SoutheastCon 2026, 2026. [10.1109/SoutheastCon63549.2026.11476483](https://doi.org/10.1109/SoutheastCon63549.2026.11476483) [Preprint](https://arxiv.org/abs/2508.16419)
+27. T.R. Lahnor, M. Reitz, J. Posner, P. Diehl. Exploring Performance-Productivity Trade-Offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI. Asynchronous Many-Task Systems and Applications. WAMTA 2026. Lecture Notes in Computer Science, vol 16592. Springer [10.1007/978-3-032-27676-6_1](https://doi.org/10.1007/978-3-032-27676-6_1) [Preprint](https://arxiv.org/abs/2601.14608)
+
 
 ###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
