@@ -280,14 +280,16 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 ###### In preparation
 
 * Computational Mathematics
-    1. An overview for coupling finite elements with peridynamics
-    1. State-based Quasistatic Fracture using Nonlinear-Nonlocal Elastostatics and an Analytic Tangent Stiffness Matrix
+    1. Coupling of Local and Nonlocal Problems Using Local Boundary Conditions (submitted) [Preprint](https://arxiv.org/abs/2607.22672)
     1. High-order integration rules for peridynamic modeling in one and two dimensions
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science
-    1. A survey of distributed asynchronous many-task models and their applications (submitted) [Preprint](https://www.techrxiv.org/doi/10.36227/techrxiv.176652588.81044275)
-    5. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
-    6. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
+    1. A survey of distributed asynchronous many-task models and their applications (accepted) [Preprint](https://www.techrxiv.org/doi/10.36227/techrxiv.176652588.81044275)
+    1. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
+    1. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
+    1. Benchmarking the Chapel-Qthreads Runtime Stack Across Emerging RISC-V High-Performance Architectures
+    1.  LLM-HPC++: Evaluating LLM-Generated Modern C++ and MPI+OpenMP Codes for Scalable Mandelbrot Set Computation (accepted) [Preprint](https://arxiv.org/abs/2512.17023)
+    1.  GTBench: A Curriculum-Grounded Benchmark for Evaluating LLMs as Mathematical Research Assistants in Graph Theory (submitted) [Preprint](https://arxiv.org/abs/2606.03144)
 
 ###### Books
 
