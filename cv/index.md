@@ -234,11 +234,12 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 
 ##### Panels 
 
-1. TBAA: Task-Based Algorithms and Applications, Moderator, ”International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2020 [Link](http://stellar-group.org/tbaa2020-scpanel/)
+1. TBAA: Task-Based Algorithms and Applications, International Conference for High Performance Computing, Networking, Storage and Analysis (SC) 2020 [Link](http://stellar-group.org/tbaa2020-scpanel/)
 2. AI Ethics/Algorithmic Justice, Organizer, Colloquium on Artificial Intelligence Research and Optimization, Louisiana State University.
 3. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Speaker, Engineering Mechanics Institute Conference 2022
 4. Joint USACM Large-Scale TTA – EMI Computational Mechanics Committee Career Path Panel, Organizer, Engineering Mechanics Institute Conference 2023
 5. D-HPC Workshop Panel : S4PST: Stewardship of Programming Systems and Tools, Panelist, International Conference for High Performance Computing, Networking, Storage and Analysis (SC)” 2023. [Slides](https://www.slideshare.net/PatrickDiehl3/dhpc-workshop-panel-s4pst-stewardship-of-programming-systems-and-tools)
+6. The Future of the HPC Workforce: Skills, Scale, and Sustainability, International Conference for High Performance Computing, Networking, Storage and Analysis (SC) 2026
 
 ##### Colloquium
 
@@ -252,6 +253,11 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. SC16-001 Advanced Parallel Programming in C++, 16th U.S. National Congress on Computational Mechanics
 1. Advanced Parallel Programming in C++, 15th World Congress on Computational Mechanics
 1. SC17-002 Advanced Parallel Programming in C++, 17th U.S. National Congress on Computational Mechanics
+
+##### Tutorial
+
+1. A tutorial for Kokkos: Performance Portability for C++ Applications and Libraries,  International Conference for High Performance Computing, Networking, Storage and Analysis (SC) 2026
+1.  HPX Tutorial Session: Advanced Parallel Programming in C++ using HPX, High Performance Software Foundation (HPSF) 2026
 
 ##### Mentor and Organizer of [Google Summer of Code](https://summerofcode.withgoogle.com/) and [Season of Docs](https://developers.google.com/season-of-docs/)
 
