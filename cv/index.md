@@ -293,9 +293,9 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. A survey of distributed asynchronous many-task models and their applications (accepted) [Preprint](https://www.techrxiv.org/doi/10.36227/techrxiv.176652588.81044275)
     1. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
     1. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
-    1. Benchmarking the Chapel-Qthreads Runtime Stack Across Emerging RISC-V High-Performance Architectures
     1.  LLM-HPC++: Evaluating LLM-Generated Modern C++ and MPI+OpenMP Codes for Scalable Mandelbrot Set Computation (accepted) [Preprint](https://arxiv.org/abs/2512.17023)
     1.  GTBench: A Curriculum-Grounded Benchmark for Evaluating LLMs as Mathematical Research Assistants in Graph Theory (submitted) [Preprint](https://arxiv.org/abs/2606.03144)
+    1. Porting and Benchmarking Chapel on Emerging RISC-V Hardware: an HPC Viability Study (submitted) [Preprint](https://arxiv.org/abs/2608.14799)
 
 ###### Books
 
