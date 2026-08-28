@@ -293,7 +293,6 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. A survey of distributed asynchronous many-task models and their applications (accepted) [Preprint](https://www.techrxiv.org/doi/10.36227/techrxiv.176652588.81044275)
     1. Locking Down Science Gateways (submitted) [Preprint](https://arxiv.org/abs/2509.185480)
     1. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
-    1.  LLM-HPC++: Evaluating LLM-Generated Modern C++ and MPI+OpenMP Codes for Scalable Mandelbrot Set Computation (accepted) [Preprint](https://arxiv.org/abs/2512.17023)
     1.  GTBench: A Curriculum-Grounded Benchmark for Evaluating LLMs as Mathematical Research Assistants in Graph Theory (submitted) [Preprint](https://arxiv.org/abs/2606.03144)
     1. Porting and Benchmarking Chapel on Emerging RISC-V Hardware: an HPC Viability Study (submitted) [Preprint](https://arxiv.org/abs/2608.14799)
 
@@ -407,7 +406,7 @@ Switzerland. [10.1007/978-3-032-07612-0_48](https://doi.org/10.1007/978-3-032-07
 Code? An Evaluation from Beginner Errors to Security Vulnerabilities in
 Python and C++. In SoutheastCon 2026, 2026. [10.1109/SoutheastCon63549.2026.11476483](https://doi.org/10.1109/SoutheastCon63549.2026.11476483) [Preprint](https://arxiv.org/abs/2508.16419)
 27. T.R. Lahnor, M. Reitz, J. Posner, P. Diehl. Exploring Performance-Productivity Trade-Offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI. Asynchronous Many-Task Systems and Applications. WAMTA 2026. Lecture Notes in Computer Science, vol 16592. Springer [10.1007/978-3-032-27676-6_1](https://doi.org/10.1007/978-3-032-27676-6_1) [Preprint](https://arxiv.org/abs/2601.14608)
-
+28. P. Diehl, N. Nader and D. Gupta, LLM-HPC++: Evaluating LLM-Generated Modern C++ and MPI+OpenMP Codes for Scalable Mandelbrot Set Computation, 2026 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), New Orleans, LA, USA, 2026, pp. 421-430, [10.1109/IPDPSW71298.2026.00075](https://ieeexplore.ieee.org/document/11652001) [Preprint](https://arxiv.org/abs/2512.17023)
 
 ###### Short papers
 1. Schatz K, Müller C, Gralka P, Heinemann M, Straub A, Schulz C, Braun M, Rau T, Becher M, Diehl P, Marcello D. Visual Analysis of Structure Formation in Cosmic Evolution. In 2019 IEEE Scientific Visualization Conference (SciVis) 2019 Oct 20 (pp. 33-41). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/8968855), [Preprint](https://www.semanticscholar.org/paper/Visual-Analysis-of-Structure-Formation-in-Cosmic-Schatz-M%C3%BCller/2276478c287db900d99c443dfb95160dbd76a640) 
