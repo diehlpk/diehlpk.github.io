@@ -231,6 +231,7 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
 1. 4th Annual Meeting of the SIAM Texas-Louisiana Section, November, 5-7, 2021 [Link](https://faculty.utrgv.edu/eleftherios.gkioulekas/2021-siam-txla-meeting-spi/index.html)
 1. 5th Annual Meeting of the SIAM Texas-Louisiana Section, November, 4-6, 2022 [Link](https://www.math.uh.edu/siamtxla22/index.shtml)
 1. 6th Annual Meeting of the SIAM Texas-Louisiana Section, November, 3-5, 2023 [Link](https://userweb.ucs.louisiana.edu/~C00424602/SIAMTXLA2023/)
+1. QUANTUM FRONTIER 2027-New Mexico's Quantum Innovation Summit, February, 2-3, 2027 [Link](https://web.cvent.com/event/fa33071f-a748-44d0-8fc6-67c178406d63/summary)
 
 ##### Panels 
 
