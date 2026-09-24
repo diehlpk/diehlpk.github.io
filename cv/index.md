@@ -10,11 +10,13 @@ hide: true
 
 
 ##### Current Appointment
-* Oct 2025 - present Research scientist, Computing and Artificial Intelligence, Los Alamos National Laboratory ([Link](https://www.lanl.gov/))
-* Jun 2024 - September 2025 Research scientist, Applied Computer Science, Los Alamos National Laboratory ([Link](https://www.lanl.gov/)) 
-* May 2022 - present Adjunct Faculty, Department of Physics & Astronomy, Louisiana State University ([Link](https://www.lsu.edu/physics/))
 
 ##### Professional Experience
+
+* Oct 2025 –Sep 2026 Research scientist, Computing and Artificial Intelligence (CAI-1), Computing and Artificial Intelligence Division, Los Alamos National Laboratory,
+Los Alamos ([Link](https://w    ww.lanl.gov/engage/organizations/aldsct/computing-and-artificial-intelligence))
+* Jun 2024 – Sep 2025 Research scientist, Applied Computer Science (CCS-7), Computer, Computational, and Statistical Sciences Division, Los Alamos National Laboratory ([Link](https://www.lanl.gov/engage/organizations/aldsct/computing-and-artificial-intelligence))
+* May 2022 - Aug 2026 Adjunct Faculty, Department of Physics & Astronomy, Louisiana State University ([Link](https://www.lsu.edu/physics/))
 * Oct 2018 - Jun 2024 Research scientist, Center for Computation & Technology, Louisiana State University ([link](https://www.cct.lsu.edu/))
 * Feb 2017 - Sep 2018 Postdoctoral fellow, Laboratory for Multi scale Mechanics, Polytechnique Montreal ([link](http://www.polymtl.ca/lm2))
 * Apr 2013 - Jan 2017 Research assistant, Institute for Numerical Simulation, University of Bonn ([link](http://schweitzer.ins.uni-bonn.de/people/diehl.html))
