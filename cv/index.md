@@ -11,8 +11,8 @@ hide: true
 
 ##### Current Appointment
 
-Oct 2026 - current Research scientist, Quantum and Condensed Matter Physics Group (T-4), Theoretical Division, Los Alamos National Laboratory, Los Alamos
-Aprl 2026 -current  Research scientist, Center for Quantum Computing, Los Alamos National Laboratory
+* Oct 2026 - current Research scientist, Quantum and Condensed Matter Physics Group (T-4), Theoretical Division, Los Alamos National Laboratory, Los Alamos
+* Apr 2026 - current Research scientist, Center for Quantum Computing, Los Alamos National Laboratory
 
 ##### Professional Experience
 
