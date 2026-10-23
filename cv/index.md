@@ -533,6 +533,7 @@ Performance Software Foundation (HPSF) conference, 16.03--20.03 2026, Chicago, U
 68. P. Diehl. A Survey of Distributed Asynchronous Many-Task Models and Their Applications.
 Workshop on Fostering an Open-Source Runtime Eco-System for PaRSEC,
 06.05-07.05 2026, Knoxville, US. [Slides](https://zenodo.org/records/20045425)
+69. P. Diehl. From Stellar Mergers to Quantum Systems: Interdisciplinary Applied Computing at Scale. Mathematics in Computation Seminar. 22.10 2026, Oak Ridge, US. [Slides](https://zenodo.org/records/23583920)
 
 ###### Posters
 
