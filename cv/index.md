@@ -535,6 +535,8 @@ Performance Software Foundation (HPSF) conference, 16.03--20.03 2026, Chicago, U
 Workshop on Fostering an Open-Source Runtime Eco-System for PaRSEC,
 06.05-07.05 2026, Knoxville, US. [Slides](https://zenodo.org/records/20045425)
 69. P. Diehl. From Stellar Mergers to Quantum Systems: Interdisciplinary Applied Computing at Scale. Mathematics in Computation Seminar. 22.10 2026, Oak Ridge, US. [Slides](https://zenodo.org/records/23583920)
+70. P. Diehl. Porting and Benchmarking Chapel on Emerging RISC-V Hardware: An HPC Viability Study. International Workshop on RISC-V for HPC held in conjunction with the International Conference on High Performance Computing, Network, Storage, and Analysis 2026, 20.11 2026, Chicago,
+US. [Slides](https://zenodo.org/records/24121006)
 
 ###### Posters
 
