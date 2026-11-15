@@ -296,9 +296,8 @@ prediction and experimental design ([Link](http://wfm2020.usacm.org/))
     1. High-order integration rules for peridynamic modeling in one and two dimensions
     1. Physical model of deformation and rupture of blood vessels in the human cardiovascular system
 * Computer Science
-    1. From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow (submitted) [Preprint](https://arxiv.org/abs/2509.12443)
     1.  GTBench: A Curriculum-Grounded Benchmark for Evaluating LLMs as Mathematical Research Assistants in Graph Theory (submitted) [Preprint](https://arxiv.org/abs/2606.03144)
-    1. Porting and Benchmarking Chapel on Emerging RISC-V Hardware: an HPC Viability Study (submitted) [Preprint](https://arxiv.org/abs/2608.14799)
+    1. Porting and Benchmarking Chapel on Emerging RISC-V Hardware: an HPC Viability Study (accepted) [Preprint](https://arxiv.org/abs/2608.14799)
 
 ###### Books
 
